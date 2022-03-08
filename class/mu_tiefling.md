@@ -26,7 +26,7 @@ For every Tiefling template you have, you gain a **Devil Aspect.**
 1. [Transcendence](/2020/11/13/transcendence)
 </details>
 
-**A:** Devil Aspect, Infernal Tongue<br>
+**A:** Maleficence, Mark of Sin, Forked Tonguebr>
 **B:** Consume Soul<br>
 **C:** +1 Sin <br>
 **D:** Dark Reward <br>

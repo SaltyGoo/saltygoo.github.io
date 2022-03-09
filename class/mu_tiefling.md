@@ -39,7 +39,16 @@ Every time you roll doubles you gain 1 *Doom Point*. Every time you gain a _Doom
 Drawkcab kaeps nac uoy. When you do, celestial and infernal creatures can perfectly understand you, as well as people consumed by a sin.
 
 ## Sign of the Devil
-People who break the church's rules risk attracting the attention of a devil. The children of the worst of them become marked as spawns of the Devil. Each time you take a Tiefling template, your parent's wickedness become more apparent. Choose one of the sins. You gain the first of its marks. You can take the next mark or choose another sin the next time you gain this ability.
+Each time you take a Tiefling template, the truth about your parent's wickedness become more apparent. Choose one of the sins. You gain the first of its marks. You can take the next mark or choose another sin the next time you gain this ability.
+
+<details markdown="1">
+<summary>Wrath</summary>
+1. The two horns growing on your head are the mark of a violent murder commited by your parents. You can split the damage of Maleficence into as many targets in range as you like.
+2. Your hands are perpetually soaked the blood of the many victims of your parents. You learn the [Red Hands of Wrath](/2020/11/12/red-hands-of-wrath/) spell.
+3. Your eyes glow with the fiery hatred of your genocidal parents. You can see in a room which creature (including yourself and your friends) has the least amount of HP. You inflict maximum damage against them.
+4.  
+</details>
+
 
 ## Consume Soul
 Hearts are like cocaine to you. When you eat a fresh heart, you gain advantage on any roll as long as it is for a selfish, cocky and petty action for the next hour. For the following hour, you have disadvantage on all rolls that are not for  a selfish, cocky and petty action.

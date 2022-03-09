@@ -5,7 +5,7 @@ permalink: /class/magic-user/tiefling
 ---
 
 <ins>Starting Equipment</ins><br>
-An Edgy black Leather Armor, a Trident, a Quill that works only with blood.
+An edgy black Leather Armor, a Trident, a Cloak to hide your features.
 
 <ins>Starting Skills</ins><br>
 Your choice of Child of the Devil, Resourceful Urchin, or Dark Commander.

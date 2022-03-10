@@ -20,7 +20,7 @@ For every Tiefling template you have, you gain a **Spell Dice** and a **Sign of 
 **D:** Cambion<br>
 
 ## Maleficence
-Tieflings with the [Maleficence](/2020/11/13/maleficence/). It is stored in your Psyche and you spend Spell Dice to cast them.
+You start with the [Maleficence](/2020/11/13/maleficence/) spell. It is stored in your Psyche and you spend Spell Dice to cast them.
 
 <details markdown="1">
 <summary>How GLOG spells and doom work</summary>

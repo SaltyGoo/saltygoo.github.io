@@ -4,11 +4,13 @@ title: The Tiefling
 permalink: /class/magic-user/tiefling
 ---
 
+_Your parents were horrible people ..._
+
 <ins>Starting Equipment</ins><br>
 An edgy black Leather Armor, a Trident, a Cloak to hide your features.
 
 <ins>Starting Skills</ins><br>
-Your choice of Child of the Devil, Resourceful Urchin, or Dark Commander.
+Your choice of Child of the Devil, Resourceful Urchin, Weary World Wanderer or Dark Conqueror.
 
 For every Tiefling template you have, you gain a **Spell Dice** and a **Sign of the Devil**.
 
@@ -43,12 +45,16 @@ Each time you take a Tiefling template, the truth about your parent's wickedness
 
 <details markdown="1">
 <summary>Wrath</summary>
-1. The two horns growing on your head are the mark of a violent murder commited by your parents. You can split the damage of Maleficence into as many targets in range as you like.
-2. Your hands are perpetually soaked the blood of the many victims of your parents. You learn the [Red Hands of Wrath](/2020/11/12/red-hands-of-wrath/) spell.
-3. Your eyes glow with the fiery hatred of your genocidal parents. You can see in a room which creature (including yourself and your friends) has the least amount of HP. You inflict maximum damage against them.
-4.  
+1. _Your parents commited a violent murder. They felt no remorse._ You have two horns on your head. You can split the damage of Maleficence into as many targets in range as you like.
+2. _You were born after after your parents went on a rempage, killing dozens of innocents._ Blood constantly drips from your hands. You know the [Red Hands of Wrath](/2020/11/12/red-hands-of-wrath/) spell.
+3. _Your parents were genocidal conquerors and committed countless horrors._ Your eyes become pure flame. You know the [Detonate Corpse](/2020/11/13/detonate-corpse/) spell.
+4. _You are the spawn of an infernal general of the legions of Hell._ Your flesh shrinks over your face, revealing your skull. You can see in a room which creature (including yourself and your friends) has the least amount of HP. You inflict maximum damage against them.
 </details>
 
+<details markdown="1">
+<summary>Sloth</summary>
+1. _Your siblings all died of neglect before you were born._ Your skin is a weird color. You resist the damage type inflicted by your maleficence
+</details>
 
 ## Consume Soul
 Hearts are like cocaine to you. When you eat a fresh heart, you gain advantage on any roll as long as it is for a selfish, cocky and petty action for the next hour. For the following hour, you have disadvantage on all rolls that are not for  a selfish, cocky and petty action.

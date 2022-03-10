@@ -45,15 +45,15 @@ Each time you take a Tiefling template, the truth about your parent's wickedness
 
 <details markdown="1">
 <summary>Wrath</summary>
-1. _Your parents commited a violent murder. They felt no remorse._ You have two horns on your head. You can split the damage of Maleficence into as many targets in range as you like.
-2. _You were born after after your parents went on a rempage, killing dozens of innocents._ Blood constantly drips from your hands. You know the [Red Hands of Wrath](/2020/11/12/red-hands-of-wrath/) spell.
-3. _Your parents were genocidal conquerors and committed countless horrors._ Your eyes become pure flame. You know the [Detonate Corpse](/2020/11/13/detonate-corpse/) spell.
-4. _You are the spawn of an infernal general of the legions of Hell._ Your flesh shrinks over your face, revealing your skull. You can see in a room which creature (including yourself and your friends) has the least amount of HP. You inflict maximum damage against them.
+1. _Your parents commited a violent murder. They felt no remorse._ <br> You have two horns on your head. You can split the damage of Maleficence into as many targets in range as you like.
+2. _You were born after after your parents went on a rempage, killing dozens of innocents._ <br> Blood constantly drips from your hands. You know the [Red Hands of Wrath](/2020/11/12/red-hands-of-wrath/) spell.
+3. _Your parents were genocidal conquerors and committed countless horrors._ <br> Your eyes become pure flame. You know the [Detonate Corpse](/2020/11/13/detonate-corpse/) spell.
+4. _You are the spawn of an infernal general of the legions of Hell._ <br> Your flesh shrinks over your face, revealing your skull. You can see in a room which creature (including yourself and your friends) has the least amount of HP. You inflict maximum damage against them.
 </details>
 
 <details markdown="1">
 <summary>Sloth</summary>
-1. _Your siblings all died of neglect before you were born._ Your skin is a weird color. You resist the damage type inflicted by your maleficence
+1. _Your siblings all died of neglect before you were born._ <br> Your skin is a weird color. You resist the damage type inflicted by your maleficence
 </details>
 
 ## Consume Soul

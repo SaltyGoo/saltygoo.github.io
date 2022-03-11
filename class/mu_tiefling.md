@@ -38,22 +38,25 @@ Every time you roll doubles you gain 1 *Doom Point*. Every time you gain a _Doom
 </details>
 
 ## Eugnot
-Drawkcab kaeps nac uoy. When you do, celestial and infernal creatures can perfectly understand you, as well as people consumed by a sin.
+Drawkcab kaeps nac uoy. Celestial and infernal creatures can perfectly understand you, as well as people consumed by a one of the sins.
 
 ## Devil's Mark
-Each time you take a Tiefling template, the truth about your parent's wickedness become more apparent. Choose one of the sins. You gain the first of its marks. You can take the next mark or choose another sin the next time you gain this ability.
+Reveal the curse of your lineage. With each Tiefling level, choose a sin a get the ability that corresponds with your template.
 
 <details markdown="1">
-<summary>Wrath</summary>
-1. _<u>Born of a remorseless murderer</u>._ <br> Twisted goat horns grow from your forehead. You can split the damage of Maleficence into as many targets in range as you like.
-2. _<u>Baptised in the blood of 6 innocents</u>._ <br> Blood constantly drips from your clawed hands. You know the [Red Hands of Wrath](/2020/11/12/red-hands-of-wrath/) spell.
-3. _<u>Bastard of a genocidal conqueror</u>._ <br> Your eyes become pure flames of hatred. You know the [Detonate Corpse](/2020/11/13/detonate-corpse/) spell.
-4. _<u>Illigitimate spawn of the General of the thirteenth infernal legion</u>._ <br> Your flesh shrinks over your face, revealing your skull. You can see in a room which creature (including yourself and your friends) has the least amount of HP. You inflict maximum damage against them.
+<summary>**Wrath**</summary>
+A. _<u>Born of a remorseless murderer</u>._ <br> Twisted goat horns grow from your forehead. Your spell dice are D8s when you cast Maleficence.
+B. _<u>Baptised in the blood of 6 innocents</u>._ <br> Blood constantly drips from your clawed hands. You know the [Red Hands of Wrath](/2020/11/12/red-hands-of-wrath/) spell.
+C. _<u>Bastard of a genocidal conqueror</u>._ <br> Your eyes become pure flames of hatred. You know the [Detonate Corpse](/2020/11/13/detonate-corpse/) spell.
+D. _<u>Illigitimate spawn of the General of the thirteenth infernal legion</u>._ <br> Your flesh shrinks over your face, revealing your skull. You can see in a room which creature (including yourself and your friends) has the least amount of HP. You inflict maximum damage against it.
 </details>
 
 <details markdown="1">
-<summary>Sloth</summary>
-1. _Your siblings all died of neglect before you were born._ <br> Your skin is a weird color. You resist the damage type inflicted by your maleficence
+<summary>**Sloth**</summary>
+A. _<u>Lone survivor of neglected</u>._ <br> Your skin is blue. You know the [Indolence](/2020/11/13/indolence/) spell.
+B. _<u>Abandonned in a trash pile</u>._ <br> Your skin is blue. Whenever an ally dies within sight of you, you recover all HP and Spell Dice.
+C. _<u>Raised by the hundred resentful slaves of your parents</u>._ <br> Your skin is blue. Whenever an ally dies within sight of you, you recover all HP and Spell Dice.
+
 </details>
 
 ## Consume Soul

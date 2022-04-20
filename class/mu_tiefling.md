@@ -48,15 +48,15 @@ Reveal the curse of your lineage. With each Tiefling level, choose a sin, get th
 <b>A.</b> _<u>Born of a remorseless murderer</u>._ <br> Twisted goat horns grow from your forehead. Your spell dice are D8s when you cast Maleficence.<br>
 <b>B.</b> _<u>Baptised in the blood of 6 innocents</u>._ <br> Blood constantly drips from your clawed hands. You know the [Red Hands of Wrath](/2020/11/12/red-hands-of-wrath/) spell.<br>
 <b>C.</b> _<u>Destined for genocide</u>._ <br> Your eyes become pure flames of hatred. You know the [Detonate Corpse](/2020/11/13/detonate-corpse/) spell.<br>
-<b>D.</b> _<u>Scion of the General of Hell</u>._ <br> Your flesh shrinks over your face, revealing your skull. You can see in a room which creature (including yourself and your friends) has the least amount of HP. You inflict maximum damage against it.
+<b>D.</b> _<u>Scion of Satan</u>._ <br> Your flesh shrinks over your face, revealing your skull. You can see in a room which creature (including yourself and your friends) has the least amount of HP. You inflict maximum damage against it.
 </details>
 
 <details markdown="1">
 <summary><b>Sloth</b></summary>
 A. _<u>Survivor of neglect</u>._ <br> Your skin is blue. You know the [Indolence](/2020/11/13/indolence/) spell.<br>
-B. _<u>Salvaged from a trash pile</u>._ <br> Your skin is blue. Whenever an ally dies within sight of you, you recover all HP and Spell Dice.<br>
-C. _<u>Raised by the hundred resentful slaves of your parents</u>._ <br> Your skin is blue. Whenever an ally dies within sight of you, you recover all HP and Spell Dice.<br>
-
+B. _<u>Salvaged from a trash pile</u>._ <br> The dark circles of apathy radiate from your eyes like a rash. As long as you are naked and passive, you are invisible to all creatures with a language.<br>
+C. _<u>Raised by the hundred resentful slaves of your parents</u>._ <br> Half your inventory slots are filled wiht unremovable slime. You gain as many cowardly Manes follower who don't leave your vicinity.<br>
+<b>D.</b> _<u>Scion of Belphegor</u>._ <br> You lose half your ears, teeth, nostril, eyes, fingers. You know the [Nine Lives](/2020/11/12/nine-lives/) spell.
 </details>
 
 ## Consume Soul

@@ -45,10 +45,10 @@ Reveal the curse of your lineage. With each Tiefling level, choose a sin, get th
 
 <details markdown="1">
 <summary><b>Wrath</b></summary>
-A. _<u>Born of a remorseless murderer</u>._ <br> Twisted goat horns grow from your forehead. Your spell dice are D8s when you cast Maleficence.<br>
-B. _<u>Baptised in the blood of 6 innocents</u>._ <br> Blood constantly drips from your clawed hands. You know the [Red Hands of Wrath](/2020/11/12/red-hands-of-wrath/) spell.<br>
-C. _<u>Destined for genocide</u>._ <br> Your eyes become pure flames of hatred. You know the [Detonate Corpse](/2020/11/13/detonate-corpse/) spell.
-D. _<u>Scion of the General of Hell</u>._ <br> Your flesh shrinks over your face, revealing your skull. You can see in a room which creature (including yourself and your friends) has the least amount of HP. You inflict maximum damage against it.
+<b>A.</b> _<u>Born of a remorseless murderer</u>._ <br> Twisted goat horns grow from your forehead. Your spell dice are D8s when you cast Maleficence.<br>
+<b>B.</b> _<u>Baptised in the blood of 6 innocents</u>._ <br> Blood constantly drips from your clawed hands. You know the [Red Hands of Wrath](/2020/11/12/red-hands-of-wrath/) spell.<br>
+<b>C.</b> _<u>Destined for genocide</u>._ <br> Your eyes become pure flames of hatred. You know the [Detonate Corpse](/2020/11/13/detonate-corpse/) spell.<br>
+<b>D.</b> _<u>Scion of the General of Hell</u>._ <br> Your flesh shrinks over your face, revealing your skull. You can see in a room which creature (including yourself and your friends) has the least amount of HP. You inflict maximum damage against it.
 </details>
 
 <details markdown="1">

@@ -53,10 +53,18 @@ Reveal the curse of your lineage. With each Tiefling level, choose a sin, get th
 
 <details markdown="1">
 <summary><b>Sloth</b></summary>
-A. _<u>Survivor of neglect</u>._ <br> Your skin is blue. You know the [Indolence](/2020/11/13/indolence/) spell.<br>
-B. _<u>Salvaged from a trash pile</u>._ <br> The dark circles of apathy radiate from your eyes like a rash. As long as you are naked and passive, you are invisible to all creatures with a language.<br>
-C. _<u>Raised by the hundred resentful slaves of your parents</u>._ <br> Half your inventory slots are filled wiht unremovable slime. You gain as many cowardly Manes follower who don't leave your vicinity.<br>
-<b>D.</b> _<u>Scion of Belphegor</u>._ <br> You lose half your ears, teeth, nostril, eyes, fingers. You know the [Nine Lives](/2020/11/12/nine-lives/) spell.
+<b>A.</b> _<u>Survivor of neglect</u>._ <br> Your skin is blue. You know the [Indolence](/2020/11/13/indolence/) spell.<br>
+<b>B.</b> _<u>Salvaged from a trash pile</u>._ <br> The dark circles of apathy radiate from your eyes like a rash. As long as you are naked and passive, you are invisible to all creatures with a language.<br>
+<b>C.</b> _<u>Raised by a hundred resentful slaves</u>._ <br> Half your inventory slots are filled wiht unremovable slime. You gain as many cowardly Manes follower who don't leave your vicinity.<br>
+<b>D.</b> _<u>Scion of Belphegor</u>._ <br> You lose all facial features not given by this class. You know the [Nine Lives](/2020/11/12/nine-lives/) spell.
+</details>
+
+<details markdown="1">
+<summary><b>Pride</b></summary>
+<b>A.</b> _<u>Born through eugenics</u>._ Yo have snake eyes. You know the [Thaumaturgy](/2020/11/13/thaumaturgy/) spell.<br>
+<b>B.</b> _<u>Firstborn sold for your parent's popularity</u>._ <br>  The temperature around you is cold. When you are standing, you float 1 inch above the ground.<br>
+<b>C.</b> _<u>Discarded for being imperfect</u>._ <br> Your hair becomes black feathers. You know the [Zizanny](/2020/11/13/indolence/) spell and you are immune to it.<br>
+<b>D.</b> _<u>Scion of Lucifer</u>._ <br> You have a snake tail. You can reroll any of your rolls if a teammate agrees. Their next roll will be made with disadvantage. 
 </details>
 
 ## Consume Soul

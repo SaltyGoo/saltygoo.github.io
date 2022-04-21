@@ -41,7 +41,7 @@ Every time you roll doubles you gain 1 *Doom Point*. Every time you gain a _Doom
 Drawkcab kaeps nac uoy. Celestial and infernal creatures can perfectly understand you, as well as people consumed by a one of the sins.
 
 ## Devil's Mark
-Reveal the curse of your lineage. With each Tiefling level, choose a sin, get the ability that corresponds with the Tiefling level.
+Reveal the curse of your lineage. With each Tiefling level, choose a sin, get the ability that corresponds with the Tiefling level. You can mix and match!
 
 <details markdown="1">
 <summary><b>Wrath</b></summary>
@@ -62,9 +62,17 @@ Reveal the curse of your lineage. With each Tiefling level, choose a sin, get th
 <details markdown="1">
 <summary><b>Pride</b></summary>
 <b>A.</b> _<u>Born through eugenics</u>._ Yo have snake eyes. You know the [Thaumaturgy](/2020/11/13/thaumaturgy/) spell.<br>
-<b>B.</b> _<u>Firstborn sold for your parent's popularity</u>._ <br>  The temperature around you is cold. When you are standing, you float 1 inch above the ground.<br>
-<b>C.</b> _<u>Discarded for being imperfect</u>._ <br> Your hair becomes black feathers. You know the [Zizanny](/2020/11/13/indolence/) spell and you are immune to it.<br>
+<b>B.</b> _<u>Discarded for being imperfect</u>._ <br>  The temperature around you is cold. When you are standing, you float 1 inch above the ground.<br>
+<b>C.</b> _<u>Your weaker siblings were killed</u>._ <br> Your hair becomes black feathers. You know the [Zizanny](/2020/11/13/indolence/) spell and you are immune to it.<br>
 <b>D.</b> _<u>Scion of Lucifer</u>._ <br> You have a snake tail. You can reroll any of your rolls if a teammate agrees. Their next roll will be made with disadvantage. 
+</details>
+
+<details markdown="1">
+<summary><b>Lust</b></summary>
+<b>A.</b> _<u>Born out of wedlocks</u> (Gasp!)._ <br> You have rabbit ears. You know the [Fascinating Gaze](/2020/11/13/fascinating-gaze/) spell.<br>
+<b>B.</b> _<u>One of many sired by a sex cult leader</u>._ <br> You have an extra digit. You always get two true informations about anything you touch with it.<br>
+<b>C.</b> _<u>A hundread died during your conception</u>._ <br> You have goat legs. You can store sensations you feel in your Psyche slots and transmit them by touch at will.<br>
+<b>D.</b> _<u>Scion of Asmodeus</u>._ <br> Your tongue extends to your navel. You know the [Dominate](/2020/11/13/dominate/) spell.
 </details>
 
 ## Consume Soul

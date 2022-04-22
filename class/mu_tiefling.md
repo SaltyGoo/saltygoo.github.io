@@ -55,13 +55,13 @@ Reveal the curse of your lineage. With each Tiefling level, choose a sin, get th
 <summary><b>Sloth</b></summary>
 <b>A.</b> _<u>Salvaged from a trash pile</u>._ <br> Your skin is blue. You know the [Indolence](/2020/11/13/indolence/) spell.<br>
 <b>B.</b> _<u>Slavery built your parent's fortune</u>._ Half your inventory slots are filled wiht unremovable slime. You gain as many cowardly Manes follower who don't leave your vicinity.<br> 
-<b>C.</b> _<u>Countless died from their inaction</u>._ he dark circles of apathy radiate from your eyes like a rash. As long as you are naked and passive, you are invisible to all creatures with a language.<br>
+<b>C.</b> _<u>Countless died from their inaction</u>._ The dark circles of apathy radiate from your eyes like a rash. As long as you are naked and passive, you are invisible to all creatures with a language.<br>
 <b>D.</b> _<u>Scion of Belphegor</u>._ You lose your eyes, yet can see. You know the [Nine Lives](/2020/11/12/nine-lives/) spell.
 </details>
 
 <details markdown="1">
 <summary><b>Pride</b></summary>
-<b>A.</b> _<u>Born through eugenics</u>._ Yo have snake eyes. You know the [Thaumaturgy](/2020/11/13/thaumaturgy/) spell.<br>
+<b>A.</b> _<u>Born through eugenics</u>._ You have snake eyes. You know the [Thaumaturgy](/2020/11/13/thaumaturgy/) spell.<br>
 <b>B.</b> _<u>Hubris destroyed your parents</u>._ Your hair becomes black feathers. You know the [Zizanny](/2020/11/13/indolence/) spell and you are immune to it.<br>
 <b>C.</b> _<u>Countless died for their magnum opus</u>._ The temperature around you is cold. When you are standing, you float 1 inch above the ground.<br>
 <b>D.</b> _<u>Scion of Lucifer</u>._ You have a snake tail. You can reroll any of your rolls if a teammate agrees. Their next roll will be made with disadvantage. 
@@ -77,7 +77,7 @@ Reveal the curse of your lineage. With each Tiefling level, choose a sin, get th
 
 <details markdown="1">
 <summary><b>Greed</b></summary>
-<b>A.</b> _<u>Sold for gold</u>._ <br> Your nails are made of gold. <br>
+<b>A.</b> _<u>Sold for gold</u>._ Your teeth are made of gold.  <br>
 <b>B.</b> _<u>?</u>._ You have a magpie's beak.<br>
 <b>C.</b> _<u>?</u>._ You have bird talons on your feet.<br>
 <b>D.</b> _<u>Scion of Mammon</u>._

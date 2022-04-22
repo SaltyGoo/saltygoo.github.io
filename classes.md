@@ -30,11 +30,11 @@ The [Wizard](/class/wizard)
   - The [Priest](/class/priest)
   - The [Animorph](/class/magic-user/animorph)
   - The [Diabolist](/class/magic-user/diabolist)
-  - The [Cambion](/class/magic-user/tiefling)  
   - The [Elf](/class/magic-user/elf)
   - The [Goat](/class/magic-user/goat)
   - The [Necromancer](/class/magic-user/necromancer)
   - The [Nereid](/class/magic-user/nereid)
+  - The [Tiefling](/class/magic-user/tiefling)  
 </details>
 
 The [Specialist](/class/specialist)

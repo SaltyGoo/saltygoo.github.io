@@ -62,25 +62,25 @@ Reveal the curse of your lineage. With each Tiefling level, choose a sin, get th
 <details markdown="1">
 <summary><b>Pride</b></summary>
 <b>A.</b> _<u>Born through eugenics</u>._ You have snake eyes. You know the [Thaumaturgy](/2020/11/13/thaumaturgy/) spell.<br>
-<b>B.</b> _<u>Hubris destroyed your parents</u>._ Your hair becomes black feathers. You know the [Zizanny](/2020/11/13/indolence/) spell and you are immune to it.<br>
-<b>C.</b> _<u>Countless died for their magnum opus</u>._ The temperature around you is cold. When you are standing, you float 1 inch above the ground.<br>
+<b>B.</b> _<u>Hubris destroyed your parents</u>._ Your hair becomes feathers. You know the [Zizanny](/2020/11/13/indolence/) spell and you are immune to it.<br>
+<b>C.</b> _<u>Countless died for their magnum opus</u>._ Your breath is a cold mist. When you are standing, you float 1 inch above the ground.<br>
 <b>D.</b> _<u>Scion of Lucifer</u>._ You have a snake tail. You can reroll any of your rolls if a teammate agrees. Their next roll will be made with disadvantage. 
 </details>
 
 <details markdown="1">
 <summary><b>Lust</b></summary>
-<b>A.</b> _<u>Born out of wedlocks</u> (Gasp!)._ <br> You have rabbit ears. You know the [Fascinating Gaze](/2020/11/13/fascinating-gaze/) spell.<br>
-<b>B.</b> _<u>One of many sired by a sex cult leader</u>._ You have an extra digit. You learn two facts about anything you touch with it.<br>
+<b>A.</b> _<u>Born out of wedlocks</u> (Gasp!)._ <br> You have whiskers. You know the [Fascinating Gaze](/2020/11/13/fascinating-gaze/) spell.<br>
+<b>B.</b> _<u>One of many sired by a sex cult leader</u>._ You have an six digits. You always know what you are touching.<br>
 <b>C.</b> _<u>They killed just for the thrill of it</u>._ You have goat legs. You can store sensations you feel in your Psyche slots and transmit them by touch at will.<br>
 <b>D.</b> _<u>Scion of Asmodeus</u>._ Your tongue extends to your navel. You know the [Dominate](/2020/11/13/dominate/) spell.
 </details>
 
 <details markdown="1">
 <summary><b>Greed</b></summary>
-<b>A.</b> _<u>Sold for gold</u>._ Your teeth are made of gold.  <br>
-<b>B.</b> _<u>?</u>._ You have a magpie's beak.<br>
-<b>C.</b> _<u>?</u>._ You have bird talons on your feet.<br>
-<b>D.</b> _<u>Scion of Mammon</u>._
+<b>A.</b> _<u>Sold for gold</u>._ You have a crown of horns. You know the [Evil Gift](/2020/11/13/evil-gift/) spell. <br>
+<b>B.</b> _<u>Destroyed communities for their business</u>._ You have a magpie's beak. Stolen objects can be used as weapons inflicting 1D12 damage against their last owner.<br>
+<b>C.</b> _<u>They could have ended hunger, but didn't</u>._ You have bird talons on your feet. You know the [Turn to Art](/2020/11/13/turn-to-art/) spell. <br><br>
+<b>D.</b> _<u>Scion of Mammon</u>._ You have a bovine head. You can bend precious metals like it was clay.
 </details>
 
 ## Consume Soul

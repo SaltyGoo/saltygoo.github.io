@@ -12,7 +12,7 @@ An edgy black Leather Armor, a Trident, a Cloak to hide your features.
 <ins>Starting Skills</ins><br>
 Your choice of Child of the Devil, Resourceful Urchin, Weary World Wanderer or Dark Conqueror.
 
-For every Tiefling template you have, you gain a **Spell Dice** and a **Devil's Mark**.
+For every Tiefling template you have, you gain a **Spell Dice** and you reveal one of your **Parent's Sins**.
 
 **A:** Maleficence, Eugnot, Devil's Mark A<br>
 **B:** Consume Soul, Devil's Mark B<br>
@@ -38,15 +38,15 @@ Every time you roll doubles you gain 1 *Doom Point*. Every time you gain a _Doom
 </details>
 
 ## Eugnot
-Drawkcab kaeps nac uoy. Celestial and infernal creatures can perfectly understand you, as well as people consumed by a one of the sins.
+Drawkcab kaeps nac uoy. Celestial and infernal creatures can perfectly understand you, as well as people actively partaking in one of your parent's sins.
 
-## Devil's Mark
-Reveal the curse of your lineage. With each Tiefling level, choose a sin, get the ability that corresponds with the Tiefling level. You can mix and match!
+## Parent's Sins
+Reveal the curse of your lineage. With each Tiefling level, choose a sin and get the ability that corresponds with your Tiefling level. You can mix and match!
 
 <details markdown="1">
 <summary><b>Wrath</b></summary>
-<b>A.</b> _<u>Taken by force</u>._  <br> Twisted goat horns grow from your forehead. Your spell dice are D8s when you cast Maleficence.<br>
-<b>B.</b> _<u>Heir of a remorseless murderer</u>._  <br> Blood constantly drips from your clawed hands. You know the [Red Hands of Wrath](/2020/11/12/red-hands-of-wrath/) spell.<br>
+<b>A.</b> _<u>Baptised you in blood</u>._  <br> Twisted goat horns grow from your forehead. Your spell dice are D8s when you cast Maleficence.<br>
+<b>B.</b> _<u>Born of a remorseless murderer</u>._  <br> Blood constantly drips from your clawed hands. You know the [Red Hands of Wrath](/2020/11/12/red-hands-of-wrath/) spell.<br>
 <b>C.</b> _<u>Conceived in the flames of genocide</u>._  <br> Your eyes become pure flames of hatred. You know the [Detonate Corpse](/2020/11/13/detonate-corpse/) spell.<br>
 <b>D.</b> _<u>Scion of Satan</u>._  <br> Your flesh shrinks over your face, revealing your skull. You can see in a room which creature (including yourself and your friends) has the least amount of HP. You inflict maximum damage against it.
 </details>
@@ -84,7 +84,7 @@ Reveal the curse of your lineage. With each Tiefling level, choose a sin, get th
 </details>
 
 ## Consume Soul
-TWhen you kill a creature with a language, you can capture it's soul and keep it in your inventory. At any moment, you can convert a soul you own into a Spell Dice.
+When you kill a creature capable of speach, you can capture its soul and keep it in your inventory. At any moment, you can consume a soul you own to gain a temporary extra Spell Dice.
 
 ## Cambion
 You have truly become a scion of Hell. Mortals will cower before your power. You gain wings and can fly as fast as you would run.

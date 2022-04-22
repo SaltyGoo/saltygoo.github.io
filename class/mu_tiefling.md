@@ -12,12 +12,12 @@ An edgy black Leather Armor, a Trident, a Cloak to hide your features.
 <ins>Starting Skills</ins><br>
 Your choice of Child of the Devil, Resourceful Urchin, Weary World Wanderer or Dark Conqueror.
 
-For every Tiefling template you have, you gain a **Spell Dice** and you reveal one of your **Parent's Sins**.
+For every Tiefling template you have, you gain a **Spell Dice** and reveal one of your **Parent's Sins**.
 
-**A:** Maleficence, Eugnot, Devil's Mark A<br>
-**B:** Consume Soul, Devil's Mark B<br>
-**C:** Devil's Mark C<br>
-**D:** Cambion, Devil's Mark D<br>
+**A:** Maleficence, Eugnot, Parent's Sin A<br>
+**B:** Consume Soul, Parent's Sin B<br>
+**C:** Parent's Sin C<br>
+**D:** Cambion, Parent's Sin D<br>
 
 ## Maleficence
 You start with the [Maleficence](/2020/11/13/maleficence/) spell. It is stored in your Psyche and you spend Spell Dice to cast them.
@@ -41,13 +41,13 @@ Every time you roll doubles you gain 1 *Doom Point*. Every time you gain a _Doom
 Drawkcab kaeps nac uoy. Celestial and infernal creatures can perfectly understand you, as well as people actively partaking in one of your parent's sins.
 
 ## Parent's Sins
-Reveal the curse of your lineage. With each Tiefling level, choose a sin and get the ability that corresponds with your Tiefling level. You can mix and match!
+Reveal the curse of your lineage. Choose a sin and get the ability that corresponds with your Tiefling level. You can choose a different sin each time.
 
 <details markdown="1">
 <summary><b>Wrath</b></summary>
-<b>A.</b> _<u>Baptised you in blood</u>._  <br> Twisted goat horns grow from your forehead. Your spell dice are D8s when you cast Maleficence.<br>
-<b>B.</b> _<u>Born of a remorseless murderer</u>._  <br> Blood constantly drips from your clawed hands. You know the [Red Hands of Wrath](/2020/11/12/red-hands-of-wrath/) spell.<br>
-<b>C.</b> _<u>Conceived in the flames of genocide</u>._  <br> Your eyes become pure flames of hatred. You know the [Detonate Corpse](/2020/11/13/detonate-corpse/) spell.<br>
+<b>A.</b> _<u>They baptised you in the blood of their enemies</u>._  <br> Twisted goat horns grow from your forehead. Your spell dice are D8s when you cast Maleficence.<br>
+<b>B.</b> _<u></u>._  <br> Blood constantly drips from your clawed hands. You know the [Red Hands of Wrath](/2020/11/12/red-hands-of-wrath/) spell.<br>
+<b>C.</b> _<u>They gleefuly participated in genocide</u>._  <br> Your eyes become pure flames of hatred. You know the [Detonate Corpse](/2020/11/13/detonate-corpse/) spell.<br>
 <b>D.</b> _<u>Scion of Satan</u>._  <br> Your flesh shrinks over your face, revealing your skull. You can see in a room which creature (including yourself and your friends) has the least amount of HP. You inflict maximum damage against it.
 </details>
 

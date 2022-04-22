@@ -45,42 +45,42 @@ Reveal the curse of your lineage. Choose a sin and get the ability that correspo
 
 <details markdown="1">
 <summary><b>Wrath</b></summary>
-<b>A.</b> _<u>They baptised you in the blood of their enemies</u>._  <br> Twisted goat horns grow from your forehead. Your spell dice are D8s when you cast Maleficence.<br>
-<b>B.</b> _<u></u>._  <br> Blood constantly drips from your clawed hands. You know the [Red Hands of Wrath](/2020/11/12/red-hands-of-wrath/) spell.<br>
+<b>A.</b> _<u>Their violence ostracized them</u>._  <br> Twisted goat horns grow from your forehead. Your spell dice are D8s when you cast Maleficence.<br>
+<b>B.</b> _<u>They baptised you in the blood of their dead enemies</u>._  <br> Blood constantly drips from your clawed hands. You know the [Red Hands of Wrath](/2020/11/12/red-hands-of-wrath/) spell.<br>
 <b>C.</b> _<u>They gleefuly participated in genocide</u>._  <br> Your eyes become pure flames of hatred. You know the [Detonate Corpse](/2020/11/13/detonate-corpse/) spell.<br>
-<b>D.</b> _<u>Scion of Satan</u>._  <br> Your flesh shrinks over your face, revealing your skull. You can see in a room which creature (including yourself and your friends) has the least amount of HP. You inflict maximum damage against it.
+<b>D.</b> _<u>You are an actual scion of Satan</u>._  <br> Your flesh shrinks over your face, revealing your skull. You can see in a room which creature (including yourself and your friends) has the least amount of HP. You inflict maximum damage against it.
 </details>
 
 <details markdown="1">
 <summary><b>Sloth</b></summary>
-<b>A.</b> _<u>Salvaged from a trash pile</u>._ <br> Your skin is blue. You know the [Indolence](/2020/11/13/indolence/) spell.<br>
-<b>B.</b> _<u>Slavery built your parent's fortune</u>._  <br> Half your inventory slots are filled wiht unremovable slime. You gain as many cowardly Manes follower who don't leave your vicinity.<br> 
-<b>C.</b> _<u>Countless died from their inaction</u>._  <br> The dark circles of apathy radiate from your eyes like a rash. As long as you are naked and passive, you are invisible to all creatures with a language.<br>
-<b>D.</b> _<u>Scion of Belphegor</u>._  <br> You lose your eyes, yet can see. You know the [Nine Lives](/2020/11/12/nine-lives/) spell.
+<b>A.</b> _<u>They discarded you in a trash pile</u>._ <br> Your skin is blue. You know the [Fly Swarm](/2020/11/13/fly-swarm/) spell.<br>
+<b>B.</b> _<u>Slavery built your parent's fortune</u>._  <br> Half your inventory slots are filled wiht unremovable slime. You gain as many cowardly Manes followers.<br> 
+<b>C.</b> _<u>Countless died through their inaction</u>._  <br> The dark circles of apathy radiate from your eyes like a rash. As long as you are naked and passive, you are invisible to all creatures with a language.<br>
+<b>D.</b> _<u>You are an actual scion of Belphegor</u>._  <br> Your skin becomes semi-transparent. You know the [Nine Lives](/2020/11/12/nine-lives/) spell.
 </details>
 
 <details markdown="1">
 <summary><b>Pride</b></summary>
-<b>A.</b> _<u>Born through eugenics</u>._  <br> You have snake eyes. You know the [Thaumaturgy](/2020/11/13/thaumaturgy/) spell.<br>
-<b>B.</b> _<u>Hubris destroyed your parents</u>._  <br> Your hair becomes feathers. You know the [Zizanny](/2020/11/13/indolence/) spell and you are immune to it.<br>
-<b>C.</b> _<u>Countless died for their magnum opus</u>._  <br> Your breath is a cold mist. When you are standing, you float 1 inch above the ground.<br>
-<b>D.</b> _<u>Scion of Lucifer</u>._  <br> You have a snake tail. You can reroll any of your rolls if a teammate agrees. Their next roll will be made with disadvantage. 
+<b>A.</b> _<u>Eugenics was the purpose of your birth</u>._  <br> You have snake eyes. You know the [Thaumaturgy](/2020/11/13/thaumaturgy/) spell.<br>
+<b>B.</b> _<u>They doomed themselves and you in their hubris</u>._  <br> Your hair becomes feathers. When you are standing, you float 1 inch above the ground.<br>
+<b>C.</b> _<u>Countless died for your parent's magnum opus</u>._  <br> Your breath is a cold mist. You know the [Mirror Image](/2020/11/13/mirror-image/) spell.<br>
+<b>D.</b> _<u>You are an actual scion of Lucifer</u>._  <br> You have a snake tail. You can reroll any of your rolls if a teammate agrees. Their next roll will be made with disadvantage. 
 </details>
 
 <details markdown="1">
 <summary><b>Lust</b></summary>
-<b>A.</b> _<u>Born out of wedlocks</u> (Gasp!)._ <br> You have whiskers. You know the [Fascinating Gaze](/2020/11/13/fascinating-gaze/) spell.<br>
-<b>B.</b> _<u>One of many sired by a sex cult leader</u>._  <br> You have an six digits. You always know what you are touching.<br>
-<b>C.</b> _<u>They killed just for the thrill of it</u>._  <br> You have goat legs. You can store sensations you feel in your Psyche slots and transmit them by touch at will.<br>
-<b>D.</b> _<u>Scion of Asmodeus</u>._  <br> Your tongue extends to your navel. You know the [Dominate](/2020/11/13/dominate/) spell.
+<b>A.</b> _<u>You were born out of wedlocks</u> (Gasp!)._ <br> You have whiskers. You know the [Fascinating Gaze](/2020/11/13/fascinating-gaze/) spell.<br>
+<b>B.</b> _<u>You are one of the countless sired in their sex cult</u>._  <br> You have an six digits. You always know what you are touching.<br>
+<b>C.</b> _<u>They killed just for the thrill of it</u>._  <br> You have goat legs. You can store sensations you experience in your Psyche slots and transmit them by touch at will.<br>
+<b>D.</b> _<u>You are an actual scion of Asmodeus</u>._  <br> Your tongue extends to your navel. You know the [Dominate](/2020/11/13/dominate/) spell.
 </details>
 
 <details markdown="1">
 <summary><b>Greed</b></summary>
-<b>A.</b> _<u>Sold for gold</u>._  <br> You have a crown of horns. You know the [Evil Gift](/2020/11/13/evil-gift/) spell. <br>
-<b>B.</b> _<u>Destroyed communities for their business</u>._  <br> You have a magpie's beak. Stolen objects can be used as weapons inflicting 1D12 damage against their last owner.<br>
+<b>A.</b> _<u>They bought you, then sold you</u>._  <br> You have a crown of horns. You know the [Evil Gift](/2020/11/13/evil-gift/) spell. <br>
+<b>B.</b> _<u>They destroyed communities for their business' profit</u>._  <br> You have a magpie's beak. Stolen objects can be used as weapons inflicting 1D12 damage against their last owner.<br>
 <b>C.</b> _<u>They could have ended hunger, but didn't</u>._  <br> You have bird talons on your feet. You know the [Turn to Art](/2020/11/13/turn-to-art/) spell. <br><br>
-<b>D.</b> _<u>Scion of Mammon</u>._  <br> You have a bovine head. You can transform souls you own into bags of gold.
+<b>D.</b> _<u>You are an actual scion of Mammon</u>._  <br> You have a bovine head. You can transform souls you own into bags of gold.
 </details>
 
 ## Consume Soul

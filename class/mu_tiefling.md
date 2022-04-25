@@ -62,9 +62,9 @@ Reveal the curse of your lineage. Choose a sin and get the ability that correspo
 <details markdown="1">
 <summary><b>Pride</b></summary>
 <b>A.</b> _<u>Eugenics was the purpose of your birth</u>._  <br> You have snake eyes. You know the [Thaumaturgy](/2020/11/13/thaumaturgy/) spell.<br>
-<b>B.</b> _<u>They doomed themselves and you in their hubris</u>._  <br> Your hair becomes feathers. When you are standing, you float 1 inch above the ground.<br>
+<b>B.</b> _<u>They doomed themselves and you in their hubris</u>._  <br> Your hair becomes feathers. When you are standing or walking, you float 1 inch above the ground.<br>
 <b>C.</b> _<u>Countless died for your parent's magnum opus</u>._  <br> Your breath is a cold mist. You know the [Mirror Image](/2020/11/13/mirror-image/) spell.<br>
-<b>D.</b> _<u>You are an actual scion of Lucifer</u>._  <br> You have a snake tail. You can reroll any of your rolls if a teammate agrees. Their next roll will be made with disadvantage. 
+<b>D.</b> _<u>You are an actual scion of Lucifer</u>._  <br> You have a snake tail. You can destroy a soul  you own to reroll any dice with advantage. 
 </details>
 
 <details markdown="1">
@@ -77,11 +77,20 @@ Reveal the curse of your lineage. Choose a sin and get the ability that correspo
 
 <details markdown="1">
 <summary><b>Greed</b></summary>
-<b>A.</b> _<u>They bought you, then sold you</u>._  <br> You have a crown of horns. You know the [Evil Gift](/2020/11/13/evil-gift/) spell. <br>
+<b>A.</b> _<u>They bought you, then sold you with a markup</u>._  <br> You have a crown of horns. You know the [Evil Gift](/2020/11/13/evil-gift/) spell. <br>
 <b>B.</b> _<u>They destroyed communities for their business' profit</u>._  <br> You have a magpie's beak. Stolen objects can be used as weapons inflicting 1D12 damage against their last owner.<br>
-<b>C.</b> _<u>They could have ended hunger, but didn't</u>._  <br> You have bird talons on your feet. You know the [Turn to Art](/2020/11/13/turn-to-art/) spell. <br><br>
+<b>C.</b> _<u>They could have ended hunger, but didn't</u>._  <br> You have bird talons on your feet. You know the [Turn to Art](/2020/11/13/turn-to-art/) spell. <br>
 <b>D.</b> _<u>You are an actual scion of Mammon</u>._  <br> You have a bovine head. You can transform souls you own into bags of gold.
 </details>
+
+<details markdown="1">
+<summary><b>Gluttony</b></summary>
+<b>A.</b> _<u>They ate the forbidden fruit</u>._  <br> You have shark teeth (1D6). The inside of your stomach is made of the same element as your maleficence. <br>
+<b>B.</b> _<u>They were cannibals</u>._  <br> You have mouths in your palms. You know the [Devour Light](/2020/11/13/devour-light/) spell.<br>
+<b>C.</b> _<u>They caused famine by consuming all the ressources of the land</u>._  <br> You have a pig nose. You know the [Ravening](2020/11/13/ravening/) spell. <br>
+<b>D.</b> _<u>You are an actual scion of Beelzebub</u>._  <br> A huge maw crosses your protruding belly. You can consume a soul you own to heal you 1D6 hit points and a Wound.
+</details>
+
 
 ## Consume Soul
 When you kill a creature capable of speach, you can capture its soul and keep it in your inventory. At any moment, you can consume a soul you own to gain a temporary extra Spell Dice.

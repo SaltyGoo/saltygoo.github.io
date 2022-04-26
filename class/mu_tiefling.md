@@ -94,16 +94,16 @@ Reveal the curse of your lineage. Choose a sin and discover how deep it tainted 
 <details markdown="1">
 <summary><b>Envy</b></summary>
 <b>A.</b> _<u>They stole you</u>._  <br> You have an eye in your mouth. You can see the desires of people you speak to. <br>
-<b>B.</b> _<u>They killed someone and took over their life</u>._ <br> Smoke comes out of your pores. You know the [Illusion](https://saltygoo.github.io/2020/11/13/illusion/) spell.<br>
-<b>C.</b> _<u>Countless died during their conquests</u>._  <br> You have another face which can't lie in the back of your head. You know the [Death Mask](/2020/11/13/death-mask/) spell. <br>
-<b>D.</b> _<u>You are an actual scion of Leviathan</u>._  <br> You have an insectoid abdomen. You can consume a soul you own to create a perfect copy of an object you know. The copy lasts only one use.
+<b>B.</b> _<u>They killed someone and took their identity</u>._ <br> Smoke comes out of your pores. You know the [Illusion](https://saltygoo.github.io/2020/11/13/illusion/) spell.<br>
+<b>C.</b> _<u>Countless died during their conquests</u>._  <br> You have another face, which can't lie, in the back of your head. You know the [Death Mask](/2020/11/13/death-mask/) spell. <br>
+<b>D.</b> _<u>You are an actual scion of Leviathan</u>._  <br> You have an insectoid abdomen. You can consume a soul you own to create a perfect copy of an object you have seen. The copy lasts only one use.
 </details>
 
 ## Consume Soul
-When you kill a creature capable of speach, you can capture its soul and keep it in your inventory. At any moment, you can consume a soul you own to gain a temporary extra Spell Dice.
+When you kill a creature with a language, you can capture its soul and keep it in your inventory. At any moment, you can consume a soul you own to gain a temporary extra Spell Dice.
 
 ## Hellforged
-Melee weapons in your hands have their damage dice increased by one size and inflict the same damage as your Maleficence.
+Melee weapons in your hands have their damage dice increased by one size and inflict the same damage as your Maleficence if you want.
 
 ## Cambion
-You have truly become a scion of Hell. Mortals will cower before your power. You gain wings and can fly as fast as you would run.
+Your true heritage is finally revealed. Mortals will cower before your power. You gain wings and can fly as fast as you would run.

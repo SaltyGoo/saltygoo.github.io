@@ -87,7 +87,7 @@ Reveal the curse of your lineage. Choose a sin and discover how deep it tainted 
 <summary><b>Gluttony</b></summary>
 <b>A.</b> _<u>They ate the forbidden fruit</u>._  <br> You have shark teeth (1D6). The inside of your stomach is made of the same element as your maleficence. <br>
 <b>B.</b> _<u>They were cannibals</u>._  <br> You have mouths in your palms. You know the [Devour Light](/2020/11/13/devour-light/) spell.<br>
-<b>C.</b> _<u>They caused famine by consuming all the resources of the land</u>._  <br> You have a pig nose. You know the [Ravening](2020/11/13/ravening/) spell. <br>
+<b>C.</b> _<u>They caused famine by consuming all the resources of the land</u>._  <br> You have a pig nose. You know the [Ravening](/2020/11/13/ravening/) spell. <br>
 <b>D.</b> _<u>You are an actual scion of Beelzebub</u>._  <br> A huge maw crosses your protruding belly. You can consume a soul you own to recuperate 1D6 hit points and heal one of your Wounds.
 </details>
 

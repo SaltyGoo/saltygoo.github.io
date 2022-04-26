@@ -54,7 +54,7 @@ Reveal the curse of your lineage. Choose a sin and discover how deep it tainted 
 <details markdown="1">
 <summary><b>Sloth</b></summary>
 <b>A.</b> _<u>They discarded you in a trash pile</u>._ <br> Your skin is blue. You know the [Fly Swarm](/2020/11/13/fly-swarm/) spell.<br>
-<b>B.</b> _<u>Slavery built your parent's fortune</u>._  <br> Half your inventory slots are filled wiht unremovable slime. You gain as many cowardly Manes followers.<br> 
+<b>B.</b> _<u>Slavery built your parent's fortune</u>._  <br> Half your inventory slots are filled wiht unremovable slime. You gain as many cowardly [Lemure](https://static.wikia.nocookie.net/forgottenrealms/images/d/d4/Lemure3e.jpg/revision/latest?cb=20200904165323) followers.<br> 
 <b>C.</b> _<u>Countless died through their inaction</u>._  <br> The dark circles of apathy radiate from your eyes like a rash. As long as you are naked and passive, you are invisible to all creatures with a language.<br>
 <b>D.</b> _<u>You are an actual scion of Belphegor</u>._  <br> Your skin becomes semi-transparent. You know the [Nine Lives](/2020/11/12/nine-lives/) spell.
 </details>

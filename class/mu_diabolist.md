@@ -14,7 +14,7 @@ Your choice of Secret Cultist, Lazy Student, or Corrupted Courtesan.
 
 For every Diabolist template you have, you gain one extra **Spell Dice** and **[Diabolic Spell](/spells/#diabolism)**.
 
-**A:** Diabolic Spells, Doomed Pact, Signs of the Devil<br>
+**A:** Diabolic Magic, Doomed Pact, Signs of the Devil<br>
 **B:** Sinful <br>
 **C:** +1 Sin <br>
 **D:** Dark Reward <br>

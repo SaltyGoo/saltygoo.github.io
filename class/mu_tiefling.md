@@ -41,7 +41,7 @@ Every time you roll doubles you gain 1 *Doom Point*. Every time you gain a _Doom
 Drawkcab kaeps nac uoy. Celestial and infernal creatures can perfectly understand you, as well as people actively partaking in one of your parent's sins.
 
 ## Parent's Sins
-Reveal the curse of your lineage. Choose a sin and get the ability that corresponds with your Tiefling level. You can choose a different sin each time.
+Reveal the curse of your lineage. Choose a sin and discover how deep it tainted your parent's life. You get the ability that corresponds with your current Tiefling level template (A, B, C or D). You can choose a different sin each time.
 
 <details markdown="1">
 <summary><b>Wrath</b></summary>

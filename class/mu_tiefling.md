@@ -70,7 +70,7 @@ Reveal the curse of your lineage. Choose a sin and discover how deep it tainted 
 <details markdown="1">
 <summary><b>Lust</b></summary>
 <b>A.</b> _<u>You were born out of wedlocks</u> (Gasp!)._ <br> You have whiskers. You know the [Fascinating Gaze](/2020/11/13/fascinating-gaze/) spell.<br>
-<b>B.</b> _<u>You are one of the countless sired in their sex cult</u>._  <br> You have an six digits. You always know what you are touching.<br>
+<b>B.</b> _<u>You are one of the countless sired in their sex cult</u>._  <br> You have six digits. You always know what you are touching.<br>
 <b>C.</b> _<u>They killed just for the thrill of it</u>._  <br> You have goat legs. You can store sensations you experience in your Psyche slots and transmit them by touch at will.<br>
 <b>D.</b> _<u>You are an actual scion of Asmodeus</u>._  <br> Your tongue extends to your navel. You know the [Dominate](/2020/11/13/dominate/) spell.
 </details>
@@ -88,12 +88,12 @@ Reveal the curse of your lineage. Choose a sin and discover how deep it tainted 
 <b>A.</b> _<u>They ate the forbidden fruit</u>._  <br> You have shark teeth (1D6). The inside of your stomach is made of the same element as your maleficence. <br>
 <b>B.</b> _<u>They were cannibals</u>._  <br> You have mouths in your palms. You know the [Devour Light](/2020/11/13/devour-light/) spell.<br>
 <b>C.</b> _<u>They caused famine by consuming all the ressources of the land</u>._  <br> You have a pig nose. You know the [Ravening](2020/11/13/ravening/) spell. <br>
-<b>D.</b> _<u>You are an actual scion of Beelzebub</u>._  <br> A huge maw crosses your protruding belly. You can consume a soul you own to heal you 1D6 hit points and a Wound.
+<b>D.</b> _<u>You are an actual scion of Beelzebub</u>._  <br> A huge maw crosses your protruding belly. You can consume a soul you own to recuperate 1D6 hit points and heal one of your Wounds.
 </details>
 
 <details markdown="1">
 <summary><b>Envy</b></summary>
-<b>A.</b> _<u>They stole you/u>._  <br> You have an eye in your mouth. You can see the desires of people you speak to. <br>
+<b>A.</b> _<u>They stole you</u>._  <br> You have an eye in your mouth. You can see the desires of people you speak to. <br>
 <b>B.</b> _<u>They killed someone and took over their life</u>._ <br> Smoke comes out of your pores. You know the [Illusion](https://saltygoo.github.io/2020/11/13/illusion/) spell.<br>
 <b>C.</b> _<u>Countless died during their conquests</u>._  <br> You have another face which can't lie in the back of your head. You know the [Death Mask](/2020/11/13/death-mask/) spell. <br>
 <b>D.</b> _<u>You are an actual scion of Leviathan</u>._  <br> You have an insectoid abdomen. You can consume a soul you own to create a perfect copy of an object you know. The copy lasts only one use.

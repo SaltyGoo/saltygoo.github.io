@@ -3,7 +3,7 @@ layout: post
 tags: spell psychomancy
 title: Fascinating Gaze
 ---
-R: 15’ 		D: [sum] minutes
+**R**: 30’ 		**D**: [sum] minutes
 
 For the duration of this spell, anyone that meets your gaze must make a saving throw. Those that fail become fascinated and are unable to act as long as you maintain eye contact and do not do anything other than speaking. 
 

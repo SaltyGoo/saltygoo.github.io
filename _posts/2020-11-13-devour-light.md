@@ -11,7 +11,7 @@ You may also pick one of the following options for each [dice] invested:
 
 - You can see normally through the darkness.
 - Distances in the darkness are doubled.
-- Anything in the darkness takes half damage from non weapon attacks.
+- Anything in the darkness takes half damage from non-weapon attacks.
 - Anything in the darkness has disadvantage on their saves against your other spells.
 - The darkness moves with you.
 

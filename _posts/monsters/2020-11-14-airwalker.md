@@ -21,15 +21,10 @@ _Playfully wise, agile dancer, fickle friend._
 | **Hit it:** hard    | **Dodge it:** normal  |
 | **Move:** fly fast     |   | 
 
-It is immune to electricity. It **resists** mind attacks (because it's an aberration), and all martial weapons (because it eats the souls of warriors).
-It **can** smell strong warriors and see in the dark.
-It **can't** die unless it's would-be killer saves vs fear.
-**Also**, its immediate surroundings are always engulfed in darkness, making it hard to hit.
-Out of combat, it can cast shadow, metal and mind-themed **magic**.
-
-
-
-As elemental air, the airwalker *resists all damage* and is *immune to electricity*. It *recovers 1 HP* every round spent only flying and *takes 1D4 damage* each round spent not moving.
+It is **immune** to electricity. 
+It **resists** all other damage (because it's an elemental).
+**Also**, it recovers 1D6 HP every round spent only flying.
+**However**, it takes 1D6 damage each round spent not moving.
 
 **Attacks (1/round)**
 
@@ -37,7 +32,7 @@ As elemental air, the airwalker *resists all damage* and is *immune to electrici
 
 <ins>Punch</ins>. The airwalker makes one melee attack (1D4).
 
-<ins>Unshackle</ins>. The airwalker attempts to grapple an adjacent target. If it succeeds, the target is under the effect of [Levitation](/2020/11/13/levitation/).
+<ins>Unshackle</ins>. The airwalker attempts to [grapple](/2020/11/10/extra-rules/#conditions) an adjacent target. If it succeeds, the target is under the effect of [Levitation](/2020/11/13/levitation/).
 
 <ins>Whirl</ins>. The airwalker moves an adjacent thing somewhere nearby.
 

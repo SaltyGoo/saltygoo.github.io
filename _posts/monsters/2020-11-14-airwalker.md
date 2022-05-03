@@ -5,9 +5,27 @@ permalink: /monsters/airwalker
 title: Airwalker
 ---
 
-Elemental guide to the plane of air. An air elemental.
+Elemental guide to the plane of air. A small air elemental.
 
-Imagine a translucent and luminous humanoid dressed in scarves and dancing in the wind. It travels the winds and ensures the safe travels of truly free souls.
+_Imagine a translucent and luminous humanoid dressed in scarves and dancing in the wind. It travels the winds and ensures the safe travels of truly free souls._
+
+_Masterfully violent, eloquent taunter, eldritch bloodlust._
+
+<br>
+
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 6 | **Armor:** as chain  |
+| **Hit it:** hard    | **Dodge it:** hard  |
+| **Move:** normal     |   | 
+
+It **resists** mind attacks (because it's an aberration), and all martial weapons (because it eats the souls of warriors).
+It **can** smell strong warriors and see in the dark.
+It **can't** die unless it's would-be killer saves vs fear.
+**Also**, its immediate surroundings are always engulfed in darkness, making it hard to hit.
+Out of combat, it can cast shadow, metal and mind-themed **magic**.
 
 **HD:** 1  &nbsp; &nbsp;  **Armor:** none <br>
 **Size:** small <br>

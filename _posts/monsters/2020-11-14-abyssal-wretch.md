@@ -9,15 +9,23 @@ title: Abyssal Wretch
 
 Terminally mutated humanoid. An aberration.
 
-Imagine a humanoid so mutated and corrupted that it looks like it's constantly melting. It has no feelings, only maddening pain.
+_Imagine a humanoid so mutated and corrupted that it looks like it's constantly melting. It has no feelings, only maddening pain._
 
-**HD:** 1  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** medium <br>
-**Stats:** meek <br>
-**Movement:** slow <br>
-**Morale:** mindless <br>
+_Feral from pain, disgustingly resilient, hates life._
 
-As an aberration, the Abyssal Wretch *resists mind attacks* and *does not die* unless its killer succeeds a save vs fear. Additionally, its constant mutating allows it to *heal all its hit points* at the beginning of its turn if it is not dead.
+<br>
+
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 1 | **Armor:** none  |
+| **Hit it:** easy    | **Dodge it:** normal  |
+| **Move:** slow     |   | 
+
+It **resists** mind attacks (because it's an aberration).
+It **can't** die unless it's would-be killer saves vs fear.
+**Also**, its constant mutating allows it to *heal all its hit points* at the beginning of its turn if it is not dead.
 
 **Attacks (1/round)**
 
@@ -29,17 +37,19 @@ As an aberration, the Abyssal Wretch *resists mind attacks* and *does not die* u
 
 # Abyssal Hulk
 
-Walking exploding tumor
+Walking exploding tumor. A large aberration.
 
-Wretch that mutated so much it has become a hulk of regenerating flesh on wobbly legs.
+_Wretch that mutated so much it has become a hulk of regenerating flesh on wobbly legs._
 
-**HD:** 1 +15HP  &nbsp;  **Armor:** none <br>
-**Size:** large <br>
-**Stats:** meek <br>
-**Movement:** slow <br>
-**Morale:** mindless <br>
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 1 +15HP | **Armor:** none  |
+| **Hit it:** easy    | **Dodge it:** easy  |
+| **Move:** slow     |   | 
 
-As an aberration, the Abyssal Hulk *resists mind attacks* and *does not die* unless its killer succeeds a save vs fear. Additionally, its constant mutating allows it to *heal all its hit points* at the beginning of its turn if it is not dead.
+It **resists** mind attacks (because it's an aberration).
+It **can't** die unless it's would-be killer saves vs fear.
+**Also**, its constant mutating allows it to *heal all its hit points* at the beginning of its turn if it is not dead.
 
 **Attacks (1/round)**
 

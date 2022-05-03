@@ -7,17 +7,24 @@ title: Amber Prowler
 
 Mage-hunting apparatus. A construct.
 
-Imagine a stylized lion or tiger sculpted out of amber. Its semi translucent body casts an orange shadow.
+_Imagine a stylized lion or tiger sculpted out of amber. Its semi translucent body casts an orange shadow._
 
-**HD:** 4  &nbsp; &nbsp;  **Armor:** as plate <br>
-**Size:** large <br>
-**Stats:** strong, agile, and sturgy, but dumb and unemotive <br>
-**Movement:** fast <br>
-**Morale:** brave <br>
+_Gracefully stilted, prowling brute, mechanically obsessive._
 
-As a construct, the Amber Prowler can be considered an object. It is *immune to fatigue, fear, poison and diseases*. However, anti-magic zones and *dispel effects paralyze it*. Additionally, the Amber Prowler is *resistant to fire and magic* and, since it is designed like a big cat, it can easily *jump 30'* and *climb* most surfaces.
+<br>
 
-When it dies, it crumbles and leaves behind 1D6 [valuable](https://saltygoo.github.io/2020/11/10/extra-rules#treasures) chunks of amber.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 4 | **Armor:** as plate  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** fast    |   | 
+
+It is **immune** to immune to [fatigue](/2020/11/10/extra-rules/#conditions), [fear](/2020/11/10/extra-rules/#conditions), [poison](/2020/11/10/extra-rules/#conditions) and diseases (because it's an object). 
+It **resists** fire and magic.
+It **can** climb most surfaces like a cat and jump 30'.
+**However**, anti-magic zones and dispel effects paralyze it, and, when it dies, it crumbles and leaves behind 1D6 [valuable](/2020/11/09/base-rules) chunks of amber.
 
 **Attacks (1/round)**
 
@@ -25,7 +32,7 @@ When it dies, it crumbles and leaves behind 1D6 [valuable](https://saltygoo.gith
 
 <ins>Pounce.</ins>  The amber prowler makes a running jump on a target. If it fails to dodge, it takes damage (2D8) and is knocked prone.
 
-<ins>Capture</ins>. The amber prowler makes a grapple attempt, inflicting nonlethal damage (1D8) on a success. While grappled, the target cannot cast spells.
+<ins>Capture</ins>. The amber prowler makes a grapple attempt, inflicting nonlethal damage (1D8) on a success. While [grappled](/2020/11/10/extra-rules/#conditions), the target cannot cast spells.
 
 <ins>Detect Magic.</ins>  The amber prowler detects all sources of magic in sight.
 

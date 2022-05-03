@@ -57,7 +57,7 @@ It **can** climb most surfaces like a cat and jump 30'.
 <details markdown="1">
 <summary>Crafting Instructions</summary>
 
-Creating an amber prowler takes 4 Spell Dice and the equivalent of 4 [treasure](/2020/11/09/base-rules) in amber. Roll 1D6 to know the result. Add 1 to your roll for each additional Spell Die spent.
+Creating an amber prowler takes 4 Spell Dice and the equivalent of 4 [treasures](/2020/11/09/base-rules) in amber. Roll 1D6 to know the result. Add 1 to your roll for each additional Spell Die spent.
 
 1. Behaves like a domestic cat.
 1. Behaves like a feral tiger.

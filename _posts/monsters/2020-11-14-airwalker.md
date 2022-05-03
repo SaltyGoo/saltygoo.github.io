@@ -9,7 +9,7 @@ Elemental guide to the plane of air. A small air elemental.
 
 _Imagine a translucent and luminous humanoid dressed in scarves and dancing in the wind. It travels the winds and ensures the safe travels of truly free souls._
 
-_Masterfully violent, eloquent taunter, eldritch bloodlust._
+_Playfully wise, agile dancer, fickle friend._
 
 <br>
 
@@ -17,21 +17,17 @@ _Masterfully violent, eloquent taunter, eldritch bloodlust._
 
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
-| **HD:** 6 | **Armor:** as chain  |
-| **Hit it:** hard    | **Dodge it:** hard  |
-| **Move:** normal     |   | 
+| **HD:** 1 | **Armor:** none  |
+| **Hit it:** hard    | **Dodge it:** normal  |
+| **Move:** fly fast     |   | 
 
-It **resists** mind attacks (because it's an aberration), and all martial weapons (because it eats the souls of warriors).
+It is immune to electricity. It **resists** mind attacks (because it's an aberration), and all martial weapons (because it eats the souls of warriors).
 It **can** smell strong warriors and see in the dark.
 It **can't** die unless it's would-be killer saves vs fear.
 **Also**, its immediate surroundings are always engulfed in darkness, making it hard to hit.
 Out of combat, it can cast shadow, metal and mind-themed **magic**.
 
-**HD:** 1  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** small <br>
-**Stats:** agile and wise <br>
-**Movement:** fly fast <br>
-**Morale:** coward <br>
+
 
 As elemental air, the airwalker *resists all damage* and is *immune to electricity*. It *recovers 1 HP* every round spent only flying and *takes 1D4 damage* each round spent not moving.
 

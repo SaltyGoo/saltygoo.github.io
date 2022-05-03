@@ -6,6 +6,8 @@ permalink: /monsters/lexicon
 
 The monster stat blocks are written to be easily adaptable into many OSR-sphere systems. I wrote in *italic* the philosophy behind each stat so that GMs reverse engineer them into other systems.
 
+Note: the monster stat blocks are currently being updated! this will progressively become obsolete.
+
 **HD:** Hit Dice. Roll as many D6s for the monster's HP. <br>
 *note - The highest HD is 10 and the lowest is 0. Roll D8s for old school DnD. Multiply by 3 for 5e.*
 

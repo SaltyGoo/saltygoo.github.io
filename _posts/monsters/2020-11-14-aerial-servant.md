@@ -27,7 +27,7 @@ It is **immune** to electricity, mundane weapons, and being [grappled](/2020/11/
 It **resists** all other damage (because it's an elemental).
 It **can** know the location of any creature it knows the true name of, and fit into any small hole.
 **Also**, it recovers 1D6 HP every round spent only flying.
-**However**, it takes 1D6 damage* each round spent not moving, and wind can damage it.
+**However**, it takes 1D6 damage each round spent not moving, and wind can damage it.
 
 **Attacks (2/round)**
 

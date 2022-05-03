@@ -47,7 +47,7 @@ It is **immune** to immune to [fatigue](/2020/11/10/extra-rules/#conditions), [f
 <details markdown="1">
 <summary>Crafting Instructions</summary>
 
-Creating a rug of smothering takes 2 Spell Dice and a carpet worth 2 [treasures](https://saltygoo.github.io/2020/11/10/extra-rules#treasures). Roll 1D6 to know the result. Add 1 to your roll for each extra Spell Die spent.
+Creating a rug of smothering takes 2 Spell Dice and a carpet worth 2 [treasures](/2020/11/09/base-rules). Roll 1D6 to know the result. Add 1 to your roll for each extra Spell Die spent.
 
 1. It's a normal rug.
 1. It is hostile.

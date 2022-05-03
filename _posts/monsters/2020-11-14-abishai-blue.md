@@ -34,7 +34,7 @@ Out of combat, it can cast evokation, divination, conjuration and electric-theme
 
 <ins>Bite.</ins> The abishai makes one melee attack (1D6) which inflicts additional lightning damage (1D6).
 
-<ins>[Platinum](/2020/11/10/extra-rules/#rare-metals) Kris.</ins> The abishai makes one melee attack (1D6) and casts a spell.
+<ins>Platinum Kris.</ins> The abishai makes one melee attack (1D6) with its [platinum weapon](/2020/11/10/extra-rules/#rare-metals) and casts a spell.
 
 <ins>Spellcasting.</ins> *Teleport, Force Cage, Capture Spell, Chain Lightning, Disguise Self, Charm Person & Detect Magic.*
 

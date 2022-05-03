@@ -7,30 +7,36 @@ title: Abishai, Blue
 
 <img align="right" width=250px src="/images/abishaiblue.png">
 
-Archmage-hunting greater devil. A celestial.
+Archmage-hunting greater devil. A powerful divine servant.
 
-Imagine a humanoid covered in blue scales, with the head, wings and tail of a dragon. Electricity crackles and jolts around it and a lightning halo crowns its head.
+_Imagine a humanoid covered in blue scales, with the head, wings and tail of a dragon. Electricity crackles and jolts around it and a lightning halo crowns its head._
 
-When a magic user creates a spell that is too powerful, a blue abishai comes down to kill it and return the spell to the gods.
+_When a magic user creates a spell that is too powerful, a blue abishai comes down to kill it and return the spell to the gods._
 
-**HD:** 6  &nbsp; &nbsp;  **Armor:** as chain <br>
-**Size:** medium <br>
-**Stats:** elite,  <br>
-**Movement:** average, fly fast <br>
-**Morale:** brave <br>
+_Two steps ahead, drunk on power, hoarding knowledge._
 
-As a celestial being, the Abishai *resists everything* and is *immune to curses*. Additionally, the Blue Abishai is *immune to electricity*, can *see in the dark*, and communicates through *telepathy*.
+<br>
 
-**Non-Combat Magic** <br>
-Evokation, Divination, Conjuration, Electromancy
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 6 | **Armor:** as chain  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal, fly fast     |   | 
+
+It is **immune** to electricity. 
+It **resists** everything else (because it's a divine servant).
+It **can** see in the dark and speak telepathically.
+Out of combat, it can cast evokation, divination, conjuration and electric-themed **magic**.
 
 **Attacks (1/round)**
 
 <ins>Bite.</ins> The abishai makes one melee attack (1D6) which inflicts additional lightning damage (1D6).
 
-<ins>Platinum Kris.</ins> The abishai makes one melee attack (1D6) and casts a spell.
+<ins>[Platinum](/2020/11/10/extra-rules/#rare-metals) Kris.</ins> The abishai makes one melee attack (1D6) and casts a spell.
 
-<ins>Spellcasting (6).</ins> *Teleport, Force Cage, Capture Spell, Chain Lightning, Disguise Self, Charm Person & Detect Magic.*
+<ins>Spellcasting.</ins> *Teleport, Force Cage, Capture Spell, Chain Lightning, Disguise Self, Charm Person & Detect Magic.*
 
 <ins>Summon Divine Servants</ins> (recharge 2/6). The abishai summons 1D4 HD of [lesser divine servants](/list/monsters-celestial), which appear in 1D4 turns.
 

@@ -7,29 +7,37 @@ title: Aerial Servant
 
 <img align="right" width=200px src="/images/AerialServant.png">
 
-Sentient giant floating hands specialized in abductions. An air elemental.
+Sentient giant floating hands specialized in abductions. A large air elemental.
 
-Imagine a floating hand made of smoke and wind. Its movements are precise yet forceful. It is very expressive. They are most often bound to gods, wizards or fey princesses, and resentfully do their bidding.
+_Imagine a floating hand made of smoke and wind. Its movements are precise yet forceful. It is very expressive. They are most often bound to gods, wizards or fey princesses, and resentfully do their bidding._
 
-**HD:** 4  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** large <br>
-**Stats:** strong, agile, dumb and impersonal <br>
-**Movement:** fly fast <br>
-**Morale:** brave <br>
+_Impatient monomaniac, precise brute, resentful servant._
 
-As elemental air, the aerial servant *resists all damage* and is *immune to electricity*. It *recovers 4 HP* every round spent only flying and *takes 1D4 damage* each round spent not moving.
+<br>
 
-As a gaseous creature, the aerial servant cant be petrified or grappled, be hit by mundane weapons and can fit into any hole. However, winds can hurt it like a sword. Additionally, it always *knows the exact location of creatures* it knows the true name of.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 4 | **Armor:** none  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** fly fast    |   | 
+
+It is **immune** to electricity, mundane weapons, and being [grappled](/2020/11/10/extra-rules/#conditions) or [petrified](/2020/11/10/extra-rules/#conditions) (because it's gaseous). 
+It **resists** all other damage (because it's an elemental).
+It **can** know the location of any creature it knows the true name of, and fit into any small hole.
+**Also**, it recovers 1D6 HP every round spent only flying.
+**However**, it takes 1D6 damage* each round spent not moving, and wind can damage it.
 
 **Attacks (2/round)**
 
-<ins>Crush</ins>. The aerial servant makes a melee attack (1D8).
+<ins>Crush</ins>. The aerial servant makes a melee attack (1D6).
 
 <ins>Ethereal Shift</ins>. The servant shifts between the ethereal and physical worlds. It is visible in either, but can't affect or be affected by anything in the plane it isn’t.
 
-<ins>Smother</ins>. The servant attempts to grapple an adjacent target. If grappled, a creature cannot breathe. Only one creature can be grappled at a time.
+<ins>Smother</ins>. The servant attempts to [grapple](/2020/11/10/extra-rules/#conditions) an adjacent target. If grappled, a creature [cannot breathe](/2020/11/10/extra-rules/#conditions). Only one creature can be grappled at a time.
 
-<ins>Push</ins>. The servant pushes a creature. If the target fails a strength save, it is blown away nearby, falls prone, and takes damage (1D8) on impact.
+<ins>Push</ins>. The servant pushes a creature. If the target fails a strength save, it is blown away nearby, falls prone, and takes damage (1D6) on impact.
 
 <br>
 

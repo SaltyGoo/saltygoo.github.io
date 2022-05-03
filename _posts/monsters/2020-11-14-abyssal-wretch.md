@@ -44,7 +44,7 @@ _Wretch that mutated so much it has become a hulk of regenerating flesh on wobbl
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
 | **HD:** 1 +15HP | **Armor:** none  |
-| **Hit it:** easy    | **Dodge it:** easy  |
+| **Hit it:** easy    | **Dodge it:** normal  |
 | **Move:** slow     |   | 
 
 It **resists** mind attacks (because it's an aberration).

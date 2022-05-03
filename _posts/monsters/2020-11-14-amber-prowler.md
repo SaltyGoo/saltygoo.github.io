@@ -24,7 +24,7 @@ _Gracefully stilted, prowling brute, mechanically obsessive._
 It is **immune** to immune to [fatigue](/2020/11/10/extra-rules/#conditions), [fear](/2020/11/10/extra-rules/#conditions), [poison](/2020/11/10/extra-rules/#conditions) and diseases (because it's an object). 
 It **resists** fire and magic.
 It **can** climb most surfaces like a cat and jump 30'.
-**However**, anti-magic zones and dispel effects paralyze it, and, when it dies, it crumbles and leaves behind 1D6 [valuable](/2020/11/09/base-rules) chunks of amber.
+**However**, anti-magic zones and dispel effects paralyze it, and, when it dies, it crumbles and leaves behind 1D6 chunks of amber ([valuable treasure](/2020/11/09/base-rules)).
 
 **Attacks (1/round)**
 
@@ -57,7 +57,7 @@ It **can** climb most surfaces like a cat and jump 30'.
 <details markdown="1">
 <summary>Crafting Instructions</summary>
 
-Creating an amber prowler takes 4 Spell Dice and the equivalent of 4 [treasures](https://saltygoo.github.io/2020/11/10/extra-rules#treasures) in amber. Roll 1D6 to know the result. Add 1 to your roll for each additional Spell Die spent.
+Creating an amber prowler takes 4 Spell Dice and the equivalent of 4 [treasure](/2020/11/09/base-rules) in amber. Roll 1D6 to know the result. Add 1 to your roll for each additional Spell Die spent.
 
 1. Behaves like a domestic cat.
 1. Behaves like a feral tiger.

@@ -13,10 +13,6 @@ _Imagine a humanoid so mutated and corrupted that it looks like it's constantly 
 
 _Feral from pain, disgustingly resilient, hates life._
 
-<br>
-
----
-
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
 | **HD:** 1 | **Armor:** none  |
@@ -53,7 +49,7 @@ It **can't** die unless it's would-be killer saves vs fear.
 
 **Attacks (1/round)**
 
-<ins>Explode</ins>: The hulk falls prone. At the beginning of its next turn, it dies, inflicting (6D4) damage to all creatures and objects nearby, or half to those who manage to dodge.
+<ins>Explode</ins>: The hulk falls prone. At the beginning of its next turn, it dies, inflicting (3D8) damage to all creatures and objects nearby, or half to those who manage to dodge.
 
 <br>
 

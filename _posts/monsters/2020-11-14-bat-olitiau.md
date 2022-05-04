@@ -41,11 +41,11 @@ It **can** hear very well, allowing it to easily spot their preys in the dark, e
 
 It **can** hear very well, allowing it to easily spot their preys in the dark, even invisible ones. 
 
-In a swarm, creatures are immune to being grappled or attacked by single target spells, and resist mind and weapon damage. However, they take double damage from area of effect attacks.
+In a swarm, creatures are **immune** to being grappled or attacked by single target spells, and **resist** mind and weapon damage. **However**, they take double damage from area of effect attacks.
 
 **Attacks (1/round)**
 
-<ins>Rake</ins>. To dodge a swarm’s attack, the roll has to beat the its HP. On a hit the target takes damage (1D6) and must save vs poison or start [dying](/2020/11/10/extra-rules/#conditions).
+<ins>Rake</ins>. To dodge a swarm’s attack, the roll has to beat 10 + the swarm's HP. On a hit the target takes damage (1D6) and must save vs poison or start [dying](/2020/11/10/extra-rules/#conditions).
 <br>
 
 ---

@@ -5,23 +5,27 @@ permalink: /monsters/bat-olitiau
 title: Bat, Olitiau
 ---
 
-Poisonous clawed bat. A beast.
+Poisonous clawed bat. A small beast.
 
-The olitiau has dirty white fur and ochre, suede-like wings. It's a nocturnal predator.
+_The olitiau has dirty white fur and ochre, suede-like wings. It's a nocturnal predator._
 
-**HD:** 1  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** small <br>
-**Stats:** agile, weak and dumb<br>
-**Movement:** average, fly fast <br>
-**Morale:** coward <br>
+<br>
 
-Bats have a very keen hearing, allowing them to easily spot their prey and predators in the dark: as long as they can hear, they can detect invisible creatures.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 1 | **Armor:** none  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal, fly fast     |   | 
+
+It **can** hear very well, allowing it to easily spot their preys in the dark, even invisible ones. 
 
 **Attacks (1/round)**
 
-<ins>Rake</ins>. The olitiau makes a melee attack (1), on a hit the target must save vs poison or start dying.
+<ins>Rake</ins>. The olitiau makes a melee attack (1), on a hit the target must save vs poison or start [dying](/2020/11/10/extra-rules/#conditions).
 
-<span class="alchemy"> **Olitiau Venom**. Save or start dying. </span>
+<span class="alchemy"> **Olitiau Venom**. Save or start [dying](/2020/11/10/extra-rules/#conditions). </span>
 
 <br>
 
@@ -29,19 +33,19 @@ Bats have a very keen hearing, allowing them to easily spot their prey and preda
 
 # Olitiau Swarm
 
-**HD:** 0 +4D6HP  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** medium <br>
-**Stats:** agile and  feral<br>
-**Movement:** slow, fly fast <br>
-**Morale:** brave <br>
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 4 | **Armor:** none  |
+| **Hit it:** easy    | **Dodge it:** special  |
+| **Move:** normal, fly fast     |   | 
 
-Bats have a very keen hearing, allowing them to easily spot their prey and predators in the dark: as long as they can hear, they can detect invisible creatures.
+It **can** hear very well, allowing it to easily spot their preys in the dark, even invisible ones. 
 
-In a swarm, Olitiau Bats are immune to being grappled or attacked by single target spells, and resist mind and weapon damage. However, they take double damage from area of effect attacks.
+In a swarm, creatures are immune to being grappled or attacked by single target spells, and resist mind and weapon damage. However, they take double damage from area of effect attacks.
 
 **Attacks (1/round)**
 
-<ins>Rake</ins>. The Olitiau Swarm makes a melee attack (1D6) with reach using its HP as its attack stat. On a hit the target must save vs poison or start dying.
+<ins>Rake</ins>. To dodge a swarm’s attack, the roll has to beat the its HP. On a hit the target takes damage (1D6) and must save vs poison or start [dying](/2020/11/10/extra-rules/#conditions).
 <br>
 
 ---

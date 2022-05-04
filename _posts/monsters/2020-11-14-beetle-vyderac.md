@@ -7,19 +7,26 @@ title: Beetle, Vyderac
 
 Swarming acid-spitting blood-drinking beetles that live in colonies. Each form of vyderac has a specific role, with *Seekers* being usually encountered first. A beast.
 
-Imagine a grapefruit-sized scarab with a deep red shell and strong, oversized hind legs.
+<br>
 
-**HD:** 0  &nbsp; &nbsp;  **Armor:** as leather <br>
-**Size:** tiny <br>
-**Stats:** dumb, wild <br>
-**Movement:** slow<br>
-**Morale:** coward <br>
+---
 
-Vyderacs do not see well but can smell vyderac pheromones up to a mile away. They can easily walk on any surfaces, even upside down and can jump 10’ without momentum.
+# Vyderac
+
+_Imagine a grapefruit-sized scarab with a deep red shell and strong, oversized hind legs. Swarming predators._
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 | **Armor:** as leather  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** slow     |   | 
+
+It **can** detect vyderac pheromones up to a mile away, walk on any surface, even upside down and jump 10’ without momentum.
+It **can't** see well.
 
 **Attacks (1/round)**
 
-<ins>Attach.</ins> The Vyderac jumps on a target. Unless the target successfully dodges the beetle, it is attached to it. A creature can attempt to remove an attached Vyderac twice per round.
+<ins>Attach.</ins> The Vyderac jumps on a target. Unless the target successfully dodges the beetle, it is attached to it. A creature can attempt to remove an attached Vyderac twice per round. Until detached, attack rolls below 10 hit the attached target instead of the beetle.
 
 <ins>Probe.</ins> The Vyderac injects acid inside its victim with its probe (1D4).
 
@@ -29,21 +36,23 @@ Vyderacs do not see well but can smell vyderac pheromones up to a mile away. The
 
 # Vyderac Swarm
 
-**HD:** 0 +4D4HP  &nbsp; &nbsp;  **Armor:** as leather <br>
-**Size:** medium <br>
-**Stats:** dumb, wild <br>
-**Movement:** slow<br>
-**Morale:** coward <br>
 
-Vyderacs do not see well but can smell vyderac pheromones up to a mile away. They can easily walk on any surface, even upside down and can jump 10’ without momentum.
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 +4D4HP | **Armor:** as leather  |
+| **Hit it:** easy    | **Dodge it:** special  |
+| **Move:** slow     |   | 
 
-In a swarm, Vyderacs are immune to being grappled or attacked by single target spells, and resist mind and weapon damage. However, they take double damage from area of effect attacks.
+It **can** detect vyderac pheromones up to a mile away, walk on any surface, even upside down and jump 10’ without momentum.
+It **can't** see well.
 
-When there are Vyderac Swarms, there's a Vyderac Feeder 1D4 rounds away.
+In a swarm, creatures are **immune** to being grappled or attacked by single target spells, and **resist** mind and weapon damage. **However**, they take double damage from area of effect attacks.
+
+When there is a Vyderac Swarm, there is a Vyderac Feeder 1D4 rounds away.
 
 **Attacks (1/round)**
 
-<ins>Swarm.</ins> The Vyderac swarm makes a melee attack with reach using its HP as its attack stat (1D4). The damage inflicted is the number of Vyderacs attached to the victim (see above); the swarm loses as much HP.
+<ins>Swarm.</ins> To dodge a swarm’s attack, the roll has to beat twice the swarm HP. On a hit the target takes damage (1D6) and the same amount of Vyderac is attached to the victim (see vyderac above).
 
 <br>
 

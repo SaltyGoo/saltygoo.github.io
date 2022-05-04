@@ -5,21 +5,25 @@ permalink: /monsters/bat-arctic
 title: Bat, Arctic
 ---
 
-Fluffy white bats with freezing venom. A beast.
+Fluffy white bats with freezing venom. A tiny beast.
 
-Arctic bats are white and fluffy, which gives them excellent camouflage in snow. They are carnivores.
+_Arctic bats are white and fluffy, which gives them excellent camouflage in snow. They are swarming carnivores._
 
-**HD:** 0  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** tiny <br>
-**Stats:** agile and alert but weak and feral<br>
-**Movement:** slow, fly fast <br>
-**Morale:** coward <br>
+<br>
 
-Bats have a very keen hearing, allowing them to easily spot their prey and predators in the dark: as long as they can hear, they can detect invisible creatures. Additionally, Arctic Bats resist cold and look like snowflakes, making them hard to hit during snowstorms.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 | **Armor:** none  |
+| **Hit it:** hard    | **Dodge it:** normal  |
+| **Move:** slow, fly fast     |   | 
+
+It **resists** cold. It **can** hear very well, allowing it to easily spot their preys in the dark, even invisible ones. It also looks like a big snowflake while moving, making attacks against it disadvantageous during snowstorms.
 
 **Attacks (1/round)**
 
-<ins>Bite</ins>. The arctic bat makes a melee attack. On a hit, the target must save vs poison or slowly freeze and be restrained. The target can save again at the end of its next turn to cure the effect. On a second failure, the target is frozen for 24h. This effect only happens in subzero temperatures.
+<ins>Bite</ins>. The arctic bat makes a melee attack. On a hit, the target must save vs poison or slowly freeze and be [dazed](/2020/11/10/extra-rules/#conditions). The target can save again at the end of its next turn to cure the effect. On a second failure, the target is frozen for 24h. This effect only happens in subzero temperatures.
 
 <br>
 
@@ -27,19 +31,19 @@ Bats have a very keen hearing, allowing them to easily spot their prey and preda
 
 # Arctic Bat Swarm
 
-**HD:** 0 +3D4HP  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** medium <br>
-**Stats:** agile and alert but weak and feral<br>
-**Movement:** slow, fly fast <br>
-**Morale:** coward <br>
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 +3D4HP | **Armor:** none  |
+| **Hit it:** normal    | **Dodge it:** special  |
+| **Move:** slow, fly fast     |   | 
 
-Bats have a very keen hearing, allowing them to easily spot their prey and predators in the dark: as long as they can hear, they can detect invisible creatures. Additionally, Arctic Bats resist cold and look like snowflakes, making them hard to hit during snowstorms.
+It **resists** cold. It **can** hear very well, allowing it to easily spot their preys in the dark, even invisible ones. It also looks like a big snowflake while moving, making attacks against it disadvantageous during snowstorms.
 
 In a swarm, Arctic Bats are immune to being grappled or attacked by single target spells, and resist mind and weapon damage. However, they take double damage from area of effect attacks.
 
 **Attacks (1/round)**
 
-<ins>Bites.</ins> The Arctic Bat Swarm makes a melee attack (1) with reach using its HP as its attack stat. On a hit, the target must save vs poison or slowly freeze and be restrained. The target can save again at the end of its next turn to cure the effect. On a second failure, the target is frozen for 24h. This effect only happens in subzero temperatures.
+<ins>Bites.</ins> To dodge a swarm's attack, the roll has to beat the its HP. On a hit, the target must save vs poison or slowly freeze and be [dazed](/2020/11/10/extra-rules/#conditions). The target can save again at the end of its next turn to cure the effect. On a second failure, the target is frozen for 24h. This effect only happens in subzero temperatures.
 <br>
 
 ---

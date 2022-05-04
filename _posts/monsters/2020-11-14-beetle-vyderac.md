@@ -36,7 +36,6 @@ It **can't** see well.
 
 # Vyderac Swarm
 
-
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
 | **HD:** 0 +4D4HP | **Armor:** as leather  |
@@ -60,55 +59,57 @@ When there is a Vyderac Swarm, there is a Vyderac Feeder 1D4 rounds away.
 
 # Vyderac Seeker
 
-Imagine a cat-sized deep red scarab with atrophied elytra and protruding, oversized abdomen and eyes. It zips quickly and loudly across the sky.
+_Imagine a cat-sized deep red scarab with atrophied elytra and protruding, oversized abdomen and eyes. It zips quickly and loudly across the sky._
 
-**HD:** 1  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** small <br>
-**Stats:** agile, but weak otherwise <br>
-**Movement:** slow, fly fast<br>
-**Morale:** coward <br>
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 1 | **Armor:** none  |
+| **Hit it:** hard    | **Dodge it:** normal  |
+| **Move:** slow, fly fast     |   | 
 
-Vyderac Seekers detect heat, and are attracted to mammal body temperature.
+It **can** detect heat, especially mammal body temperature.
 
 **Attacks (1/round)**
 
 <ins>Pheromone Spray.</ins> The Vyderac sprays a cone of fine yellow powder on one or two adjacent targets. If they fail to dodge, they are covered in Vyderac pheromones which cause urticaria. 1D4 Vyderac swarms will arrive in 1D6 hours.
 
-<span class="alchemy"> **Vyderac Pheromones**. Contact poison. So itchy, a sprayed target must save each round until they succeed three times or are washed, during which time they cannot focus on any task that extends beyond 1 turn. If they fail three times, they have scratched themselves until they bleed and the poison has entered their body. In 10 minutes, they will be completely paralyzed until they are cured.</span>
+<span class="alchemy"> **Vyderac Pheromones**. Contact poison. So itchy, a sprayed target must save each round until they succeed three times or are washed, during which time they cannot focus on any task that extends beyond 1 turn. If they fail three times, they have scratched themselves until they bleed and the poison has entered their body. In 10 minutes, they will be completely [paralyzed](/2020/11/10/extra-rules/#conditions) until they are cured.</span>
 
 ---
 
 # Vyderac Feeder
 
-Imagine a cat-sized deep red scarab with two hooked forelegs and a huge protruding, oversized abdomen dangling like an empty balloon. It flies and hops slowly across the forest.
+_Imagine a cat-sized deep red scarab with two hooked forelegs and a huge protruding, oversized abdomen dangling like an empty balloon. It flies and hops slowly across the forest._
 
-**HD:** 1  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** small <br>
-**Stats:** weak, dumb <br>
-**Movement:** slow, fly slow<br>
-**Morale:** coward <br>
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 1 | **Armor:** none  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** slow, fly slow     |   | 
 
-Vyderac Feeders detect heat, and are attracted to mammal body temperature. They can smell Vyderac pheromones from a mile away.
+It **can** detect heat, especially mammal body temperature, and vyderac pheromones up to a mile away.
 
 **Attacks (1/round)**
 
-<ins>Hook.</ins> The Vyderac makes a grapple attempt, extending its hooked claws and attaching itself to a creature and pierces it with its proboscis (1).
+<ins>Hook.</ins> The Vyderac makes a grapple attempt, extending its hooked claws and attaching itself to a creature and pierces it with its proboscis (1 damage). Until detached, attack rolls below 10 hit the attached target instead of the beetle.
 
-<ins>Drain Blood.</ins> The Vydrac inflicts constitution damage (1) to a creature it is attached to and has pierced with its proboscis. If the target's constitution is 0, the target dies.
+<ins>Drain Blood.</ins> The Vydrac inflicts strength damage (1) to a creature it is attached to and has pierced with its proboscis. If the target's strength is 0, the target dies.
 
 ---
 
 # Vyderac Maggot
 
-Imagine a semi-translucent, foot-long lumpy worm with sharp teeth all around its circular mouth and sphincter.
+_Imagine a semi-translucent, foot-long lumpy worm with sharp teeth all around its circular mouth and sphincter._
 
-**HD:** 0  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** tiny <br>
-**Stats:** weak, dumb <br>
-**Movement:** slow <br>
-**Morale:** mindless <br>
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 | **Armor:** none  |
+| **Hit it:** easy    | **Dodge it:** easy  |
+| **Move:** slow    |   | 
 
-Vyderac Maggots are immune to acid, detect heat, and are attracted to mammal body temperature.
+It is **immune** to acid.
+It **can** detect heat, especially mammal body temperature.
+It **can't** see well.
 
 **Attacks (1/round)**
 
@@ -120,33 +121,37 @@ Vyderac Maggots are immune to acid, detect heat, and are attracted to mammal bod
 
 # Vyderac Maggot Swarm
 
-**HD:** 0 +3D4HP  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** medium <br>
-**Stats:** dumb, wild <br>
-**Movement:** slow<br>
-**Morale:** mindless <br>
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 +3D4HP | **Armor:** none  |
+| **Hit it:** easy    | **Dodge it:** special  |
+| **Move:** slow    |   | 
 
-Vyderac Maggots are immune to acid, detect heat, and are attracted to mammal body temperature.
+It is **immune** to acid.
+It **can** detect heat, especially mammal body temperature.
+It **can't** see well.
 
-In a swarm, Vyderacs are immune to being grappled or attacked by single target spells, and resist mind and weapon damage. However, they take double damage from area of effect attacks.
+In a swarm, creatures are **immune** to being grappled or attacked by single target spells, and **resist** mind and weapon damage. **However**, they take double damage from area of effect attacks.
 
 **Attacks (1/round)**
 
-<ins>Acidic Bites.</ins> The Vyderac Swarm makes a melee attack with reach using its HP as its attack stat (1D4). The target can choose to lose a non-magical item to the acid instead of taking damage.
+<ins>Acidic Bites.</ins> To dodge a swarm’s attack, the roll has to beat 10 + the swarm's HP. On a hit the target takes damage (1D4). The target can choose to lose a non-magical item to the acid instead of taking damage.
 
 ---
 
 # Vyderac Queen
 
-Imagine a humongous scarab with a bloated abdomen anchored to a tree with pulsing red veins. It's heavily armored with chitinous plates except in the bulging egg sacks that dangle from it. Every unprotected bit of her body is writhing with big maggots.
+_Imagine a humongous scarab with a bloated abdomen anchored to a tree with pulsing red veins. It's heavily armored with chitinous plates except in the bulging egg sacks that dangle from it. Every unprotected bit of her body is writhing with big maggots._
 
-**HD:** 6  &nbsp; &nbsp;  **Armor:** as plate <br>
-**Size:** huge <br>
-**Stats:** strong, static, sturdy, and primal <br>
-**Movement:** static<br>
-**Morale:** reckless <br>
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 6 | **Armor:** as plate* |
+| **Hit it:** easy    | **Dodge it:** normal  |
+| **Move:** static    |   | 
 
-The Vyderac Queen is immune to acid. At the beginning of each combat round, a swarm of Vyderac Maggots crawls out of its abdomen-nest. This abdomen-nest is not as armored as the rest of the Queen, but, for each point of damage it takes, a maggot comes out.
+It is **immune** to acid.
+
+**Also**, at the beginning of each combat round, a swarm of Vyderac Maggots crawls out of its abdomen-nest. This abdomen-nest is not as armored as the rest of the Queen, but, for each point of damage it takes, a maggot comes out.
 
 **Attacks (1/round)**
 

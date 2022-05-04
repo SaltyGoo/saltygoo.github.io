@@ -5,17 +5,21 @@ permalink: /monsters/bat-kongamato
 title: Bat, Kongamato
 ---
 
-Amphibious, diseased death bats. A beast.
+Amphibious, diseased death bats. A tiny beast.
 
-Dark red and with thick leathery wings, the kongamato smells of swamp water. Its amphibious nature explains its name, which means “boat toppler” in the local tongue.
+_Dark red and with thick leathery wings, the kongamato smells of swamp water. Its amphibious nature explains its name, which means “boat toppler” in the local tongue. It is a nocturnal predator._
 
-**HD:** 2  &nbsp; &nbsp;  **Armor:** medium <br>
-**Size:** medium <br>
-**Stats:** agile and dumb<br>
-**Movement:** average, fly fast, swim average <br>
-**Morale:** coward <br>
+<br>
 
-Bats have a very keen hearing, allowing them to easily spot their prey and predators in the dark: as long as they can hear, they can detect invisible creatures.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 2 | **Armor:** none  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal, fly fast, swim normal    |   | 
+
+It **can** hear very well, allowing it to easily spot their preys in the dark, even invisible ones. 
 
 **Attacks (2/round)**
 
@@ -23,7 +27,7 @@ Bats have a very keen hearing, allowing them to easily spot their prey and preda
 
 <ins>Claws</ins>.  The kongamato makes a melee attack (1D4). On a hit, the target must save against disease or catch eye rot.
 
-<span class="alchemy"> **Eye Rot**: Disease. You have a maximum vision of 50'. Save every night to add or remove a cumulative symptom. Symptom: -10’ max vision. </span>
+<span class="alchemy"> **Eye Rot**: Disease. You have a maximum vision of 60'. Save every night to add or remove a cumulative symptom. Symptom: -10’ max vision. </span>
 <br>
 
 ---

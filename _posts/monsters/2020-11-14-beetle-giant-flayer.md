@@ -19,7 +19,7 @@ _Imagine a cat-sized flea with a green iridescent exoskeleton. A long probe coil
 | **Hit it:** normal    | **Dodge it:** normal  |
 | **Move:** slow     |   | 
 
-It **can** deteck nearby movement, walk on any surface, even upside down and jump 20’ without momentum.
+It **can** detect nearby movement, walk on any surface, even upside down and jump 20’ without momentum.
 It **can't** see well.
 
 

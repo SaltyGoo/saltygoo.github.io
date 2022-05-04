@@ -39,11 +39,11 @@ It **resists** cold. It **can** hear very well, allowing it to easily spot their
 
 It **resists** cold. It **can** hear very well, allowing it to easily spot their preys in the dark, even invisible ones. It also looks like a big snowflake while moving, making attacks against it disadvantageous during snowstorms.
 
-In a swarm, creatures are immune to being grappled or attacked by single target spells, and resist mind and weapon damage. However, they take double damage from area of effect attacks.
+In a swarm, creatures are **immune** to being grappled or attacked by single target spells, and **resist** mind and weapon damage. **However**, they take double damage from area of effect attacks.
 
 **Attacks (1/round)**
 
-<ins>Bites.</ins> To dodge a swarm's attack, the roll has to beat its HP. On a hit, the target must save vs poison or slowly freeze and be [dazed](/2020/11/10/extra-rules/#conditions). The target can save again at the end of its next turn to cure the effect. On a second failure, the target is frozen for 24h. This effect only happens in subzero temperatures.
+<ins>Bites.</ins> To dodge a swarm’s attack, the roll has to beat 10 + the swarm's HP. On a hit, the target must save vs poison or slowly freeze and be [dazed](/2020/11/10/extra-rules/#conditions). The target can save again at the end of its next turn to cure the effect. On a second failure, the target is frozen for 24h. This effect only happens in subzero temperatures.
 <br>
 
 ---

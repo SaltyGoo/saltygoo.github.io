@@ -5,21 +5,25 @@ permalink: /monsters/bear-polar
 title: Bear, Polar
 ---
 
-Bigger bear adapted to cold climates. A beast.
+Bigger bear adapted to cold climates. Opportunistic carnivore. A large beast.
 
-**HD:** 4  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** large <br>
-**Stats:** strong, sturdy and feral<br>
-**Movement:** average, swim average <br>
-**Morale:** brave <br>
+<br>
 
-The Polar Bear has a very good sense of smell and resists cold.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 4 | **Armor:** none  |
+| **Hit it:** easy    | **Dodge it:** normal  |
+| **Move:** normal, swim normal     |   | 
+
+It **resists** cold. It **can** smell as good as we can see.
 
 **Attacks (1/round)**
 
 <ins>Bite and Claws</ins>. The bear makes two melee attacks (1D8).
 
-<ins>Bear Hug</ins>. The bear attempts to grapple the target. While grappled, the target takes damage on each of the bear’s turns (1D8).
+<ins>Bear Hug</ins>. The bear attempts to [grapple](/2020/11/10/extra-rules/#conditions) the target. While grappled, the target takes damage on each of the bear’s turns (1D8).
 <br>
 
 ---

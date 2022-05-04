@@ -39,7 +39,7 @@ It **resists** cold. It **can** hear very well, allowing it to easily spot their
 
 It **resists** cold. It **can** hear very well, allowing it to easily spot their preys in the dark, even invisible ones. It also looks like a big snowflake while moving, making attacks against it disadvantageous during snowstorms.
 
-In a swarm, Arctic Bats are immune to being grappled or attacked by single target spells, and resist mind and weapon damage. However, they take double damage from area of effect attacks.
+In a swarm, creatures are immune to being grappled or attacked by single target spells, and resist mind and weapon damage. However, they take double damage from area of effect attacks.
 
 **Attacks (1/round)**
 

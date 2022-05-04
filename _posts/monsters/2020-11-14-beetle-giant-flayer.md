@@ -5,23 +5,29 @@ permalink: /monsters/beetle-giant-flayer
 title: Beetle, Giant Flayer
 ---
 
-Brain sucking giant flea. A beast.
+Brain sucking giant flea. A small beast.
 
-Imagine a cat-sized flea with a green iridescent exoskeleton. A long probe coils from its mouth.
+_Imagine a cat-sized flea with a green iridescent exoskeleton. A long probe coils from its mouth. An opportunistic predator._
 
-**HD:** 0  &nbsp; &nbsp;  **Armor:** as leather <br>
-**Size:** small <br>
-**Stats:** weak and feral<br>
-**Movement:** slow <br>
-**Morale:** coward <br>
+<br>
 
-Giant flayers do not see well but can detect movement nearby. They can easily walk on any surface, even upside down and can jump 20’ without momentum.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 | **Armor:** as leather  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** slow     |   | 
+
+It **can** deteck nearby movement, walk on any surface, even upside down and jump 20’ without momentum.
+It **can't** see well.
+
 
 **Attacks (1/round)**
 
-<ins>Attach.</ins> The giant flayer jumps on a target’s head. Unless the target successfully dodges the beetle, it is attached to it.
+<ins>Attach.</ins> The giant flayer jumps on a target’s head. Unless the target successfully dodges the beetle, it is attached to it. Until detached, attack rolls below 10 hit the attached target instead of the beetle.
 
-<ins>Probe.</ins> The giant flayer inflicts both physical and intelligence damage (1D2) to a target it is attached to as it starts extracting its brain.
+<ins>Probe.</ins> The giant flayer inflicts both physical and willpower damage (1D2) to a target it is attached to as it starts extracting its brain.
 <br>
 
 ---

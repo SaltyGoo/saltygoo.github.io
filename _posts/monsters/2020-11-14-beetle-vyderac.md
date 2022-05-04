@@ -52,7 +52,7 @@ When there is a Vyderac Swarm, there is a Vyderac Feeder 1D4 rounds away.
 
 **Attacks (1/round)**
 
-<ins>Swarm.</ins> To dodge a swarm’s attack, the roll has to beat twice the swarm HP. On a hit the target takes damage (1D6) and the same amount of Vyderac is attached to the victim (see vyderac above).
+<ins>Swarm.</ins> To dodge a swarm’s attack, the roll has to beat 10 + the swarm's HP. On a hit the target takes damage (1D6) and the same amount of Vyderac is attached to the victim (see vyderac above).
 
 <br>
 

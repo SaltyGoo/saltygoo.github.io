@@ -150,7 +150,6 @@ _Imagine a humongous scarab with a bloated abdomen anchored to a tree with pulsi
 | **Move:** static    |   | 
 
 It is **immune** to acid.
-
 **Also**, at the beginning of each combat round, a swarm of Vyderac Maggots crawls out of its abdomen-nest. This abdomen-nest is not as armored as the rest of the Queen, but, for each point of damage it takes, a maggot comes out.
 
 **Attacks (1/round)**

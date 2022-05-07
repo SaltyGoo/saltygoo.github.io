@@ -5,17 +5,21 @@ permalink: /monsters/pelican
 title: Bird, Giant Pelican
 ---
 
-Sea birds that swallow whole. A beast.
+Sea birds that swallow whole. A large beast.
 
-Imagine a cart-sized seabird with a long pouch-beak.
+_Imagine a cart-sized seabird with a long pouch-beak._
 
-**HD:** 4  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** large <br>
-**Stats:** strong and dumb<br>
-**Movement:** average, fly fast <br>
-**Morale:** coward <br>
+<br>
 
-Pelicans have a very good sense of sight.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 4 | **Armor:** none |
+| **Hit it:** easy    | **Dodge it:** normal  |
+| **Move:** average, fly fast     |   | 
+
+It **can** see very well.
 
 **Attacks (1/round)**
 
@@ -23,9 +27,9 @@ Pelicans have a very good sense of sight.
 
 <ins>Subdue</ins>. The pelican squishes its beak pouch on its chest to crush whatever is inside (1D4).
 
-<ins>Gulp</ins>. The pelican skims a water pond and fills its pouch with water. As long as it is filled, creatures inside can't breath or speak.
+<ins>Gulp</ins>. The pelican skims a water pond and fills its pouch with water. As long as it is filled, creatures inside [can't breathe](**url**) or speak.
 
-<ins>Shake</ins>. The pelican violently shakes its head. A creature in its pouch must save or be stunned for a round.
+<ins>Shake</ins>. The pelican violently shakes its head. A creature in its pouch must save or be [stunned](/2020/11/10/extra-rules/#conditions) for a round.
 <br>
 
 ---

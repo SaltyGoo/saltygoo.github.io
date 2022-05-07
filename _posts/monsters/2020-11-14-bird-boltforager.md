@@ -7,7 +7,7 @@ title: Bird, Boltforager
 
 A disease-carrying red carrion bird. A beast.
 
-Imagine a big eagle-sized bird with brick-colored plumage. It has a big beak and a bony ridge that protects its head when feeding. It seems covered in dirty orange dust.
+_Imagine a big eagle-sized bird with brick-colored plumage. It has a big beak and a bony ridge that protects its head when feeding. It seems covered in dirty orange dust._
 
 <br>
 

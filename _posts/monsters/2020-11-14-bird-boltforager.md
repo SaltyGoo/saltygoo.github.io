@@ -9,21 +9,25 @@ A disease-carrying red carrion bird. A beast.
 
 Imagine a big eagle-sized bird with brick-colored plumage. It has a big beak and a bony ridge that protects its head when feeding. It seems covered in dirty orange dust.
 
-**HD:** 1  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** small <br>
-**Stats:** dumb, wild <br>
-**Movement:** slow, fly fast <br>
-**Morale:** coward <br>
+<br>
 
-The Boltforager can smell rotting corpses from a mile away.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 1 | **Armor:** none |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** slow, fly fast     |   | 
+
+It **can** can smell rotting corpses from a mile away.
 
 **Attacks (1/round)**
 
 <ins>Dive Bomb</ins>. If the Boltforager is flying high, it dives down and makes a melee attack (1D6) to try to impale a victim on its ridge.
 
-<ins>Wing Assault</ins>. The Boltforager makes a melee attack as it flaps its wings frantically and scratches its target (1D4). If the target is Wounded, it must save or be infected with parasites.
+<ins>Wing Assault</ins>. The Boltforager makes a melee attack as it flaps its wings frantically and scratches its target (1D4). If the target is [Wounded](/2020/11/09/base-rules/), it must save or be infected with parasites.
 
-<span class="alchemy">**Boneforager**. Disease. Symptom: gain 1 wound as the parasite eats your bones. Save every night to avoid adding a cumulative symptom. The wounds cannot be recovered until the disease is removed.</span>
+<span class="alchemy">**Boneforager**. Disease. Symptom: gain 1 [wound](/2020/11/09/base-rules/) as the parasite eats your bones. Save every night to avoid adding a cumulative symptom. The wounds cannot be recovered until the disease is removed.</span>
 <br>
 
 ---

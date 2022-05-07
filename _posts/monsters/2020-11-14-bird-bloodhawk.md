@@ -5,23 +5,28 @@ permalink: /monsters/bird-bloodhawk
 title: Bird, Bloodhawk
 ---
 
-Pack-hunting hawk. A beast.
+Pack-hunting hawk. A small beast.
 
-This hawk is much larger than normal and gets its name from its burgundy cap and tail feathers. 
+_This hawk is much larger than normal and gets its name from its burgundy cap and tail feathers._
 
-**HD:** 0  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** small <br>
-**Stats:** agile, alert and feral<br>  
-**Movement:** slow, fly fast <br>
-**Morale:** brave <br>
+<br>
 
-Bloodhawks have a very good sight. They also have advantage on their attacks if another bloodhawk attacked the same target this turn. Additionally, they hate humans and will not retreat from battle when fighting them.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 | **Armor:** none |
+| **Hit it:** hard    | **Dodge it:** hard  |
+| **Move:** slow, fly fast     |   | 
+
+It **can** see very well.
+It **can't** retreat or be frightened when fighting humans.
 
 **Attacks (2/round)**
 
 <ins>Fly-By</ins>. The bloodhawk makes a melee attack (1 damage) and flies away. Attacks against it on its turn have disadvantage.
 
-<ins>Razor Talons</ins>. The bloodhawk makes a melee attack (1 damage) against one target. The target must save or start bleeding. They'll lose 1 HP per turn unless somebody uses an action to stop the bleeding.
+<ins>Razor Talons</ins>. The bloodhawk makes a melee attack (1 damage) against one target. The target must save or start bleeding. They'll lose 1 HP per turn unless somebody uses an action to stop the bleeding. Hit or miss, until the bloodhawks next turn, all other bloodhawks have advantage on their attacks against the target.
 
 <br>
 
@@ -31,19 +36,22 @@ Bloodhawks have a very good sight. They also have advantage on their attacks if 
 
 # Flock of Bloodhawks 
 
-**HD:** 0 +3D6HP  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** medium <br>
-**Stats:** agile, alert and feral<br>  
-**Movement:** slow, fly fast <br>
-**Morale:** brave <br>
 
-Bloodhawks have a very good sight. They also hate humans and will not retreat from battle when fighting them.
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 +3D6Hp | **Armor:** none |
+| **Hit it:** normal    | **Dodge it:** hard  |
+| **Move:** slow, fly fast     |   | 
 
-In a flock, bloodhawks are immune to being grappled or attacked by single target spells, and resist mind and weapon damage. However, they take double damage from area of effect attacks.
+
+It **can** see very well.
+It **can't** retreat or be frightened when fighting humans.
+
+In a swarm, creatures are **immune** to being grappled or attacked by single target spells, and **resist** mind and weapon damage. **However**, they take double damage from area of effect attacks.
 
 **Attacks (1/round)**
 
-<ins>Coordinated Razor Pecks.</ins> The Flock of Bloodhawk makes a melee attack (1D6) with reach using its HP as its attack stat. The target then starts bleeding. They'll lose 1 HP per turn unless somebody uses an action to stop the bleeding.
+<ins>Coordinated Razor Pecks.</ins> To dodge a swarm’s attack, the roll has to beat 10 + the swarm’s HP. It inflicts 1D6 damage. The target then starts bleeding. They'll lose 1 HP per turn unless somebody uses an action to stop the bleeding.
 <br>
 
 <br>

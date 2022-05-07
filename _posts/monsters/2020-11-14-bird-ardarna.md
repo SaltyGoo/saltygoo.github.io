@@ -5,25 +5,30 @@ permalink: /monsters/bird-adarna
 title: Bird, Adarna
 ---
 
-Elusive magical bird of beauty. A fey.
+Elusive magical bird of beauty. A small fey.
 
-Imagine an iridescent bird of unreal beauty. Seeing it makes you want to cry. In fact, most of you are crying right now.
+_Imagine an iridescent bird of unreal beauty. Seeing it makes you want to cry. In fact, most of you are crying right now._
 
-**HD:** 0  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** small <br>
-**Stats:** alert and charismatic <br>
-**Movement:** slow, fly fast <br>
-**Morale:** coward <br>
+_Impossibly beautiful, elusive perfection, nervous melancholy._
 
-As a fairy, the adarna bird *resists mundane weapons and spells* and WIS must be used for attack rolls against it. However, if it touches cold iron, it loses all these abilities and spells for a round.
+<br>
 
-Additionally, the adarna bird is so heartbreakingly beautiful that creatures must pass an INT check to see it and all plants and objects near it when it dies are changed as if they had spent a year in a dusty, sunless attic.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 | **Armor:** none |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** slow, fly fast     |   | 
+
+It **resists** mundane weapons and spells (because it's a fairy).
+**Also**, as a imaginary creature, willpower must be used for attack rolls against it instead of dexterity. When it dies, all plants and objects near it when it dies are changed as if they had spent a year in a dusty, sunless attic.
 
 Adarna bird guano petrifies sleeping creatures upon contact.
 
 **Attacks (1/round)**
 
-<ins>Soothing Song</ins>. Anybody hearing the adarna bird sing must save or fall asleep until the song ends (1D4+1 minutes), after which, the adarna bird changes color and all must make a new intelligence check to see it.
+<ins>Soothing Song</ins>. Anybody hearing the adarna bird sing must save or fall asleep until the song ends (1D4+1 minutes), after which, the adarna bird changes color and it becomes [invisible](/2020/11/10/extra-rules/#conditions) to all who fail a willpower check. They simply cannot deal being faced with such beauty.
 
 <br>
 
@@ -62,7 +67,7 @@ A quill made of an adarna bird feather is prized by wizards who can use it to sc
 
 Collecting adarna bird guano is hard, but the substance is also powerful and precious. Fresh adarna bird’s guano petrifies sleeping creatures upon contact.
 
-<span class="alchemy">**Adarna Guano.** Petrifies a sleeping creature upon contact with their bare skin.</span>
+<span class="alchemy">**Adarna Guano.** [Petrifies](/2020/11/10/extra-rules/#conditions) a sleeping creature upon contact with their bare skin.</span>
 
 </details>
 

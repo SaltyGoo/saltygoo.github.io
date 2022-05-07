@@ -5,25 +5,32 @@ permalink: /monsters/bestial-terror
 title: Bestial Terror
 ---
 
-Centaur ghost of doom. An undead.
+Centaur ghost of doom. A large undead.
 
-Imagine the ghost of a centaur wearing a terrifying faceless spiked helm. Whenever its hooves hit the floor, it echoes like thunder and black smoke rises from the ground.
+_Imagine the ghost of a centaur wearing a terrifying faceless spiked helm. Whenever its hooves hit the floor, it echoes like thunder and black smoke rises from the ground._
 
-**HD:** 3  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** large <br>
-**Stats:** strong and sturdy <br>
-**Movement:** fast <br>
-**Morale:** reckless <br>
+_Warmongering bully, overconfident raider, brutish murderer  ._
 
-As an undead creature, the bestial terror does not starve to death, breathe, sleep or tire and cant be poisoned. As an ethereal creature, the bestial terror is immune to damage from a nonmagical source, as well as grapples and petrification. However, direct sunlight makes it lose all resistances and immunities.
+<br>
 
-Additionally, it can see in the dark and its hooves make a terrible noise when it gallops. Each creature who hears must save or be frightened. A creature is immune to this effect for 24h after a successful save.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 3 | **Armor:** none  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** fast    |   | 
+
+It is **immune** to nonmagical damage, being [grappled](/2020/11/10/extra-rules/#conditions) or [petrified](/2020/11/10/extra-rules/#conditions) (because it is ethereal), as well as [poison](/2020/11/10/extra-rules/#conditions) and [exhaustion](/2020/11/10/extra-rules/#conditions) (because it is undead). It doesn't need to eat, breathe, sleep.  
+It **can** see in the dark.
+**Also**, its hooves make a terrible noise when it gallops. Each creature who hears must save or be [frightened](/2020/11/10/extra-rules/#conditions). A creature is immune to this effect for 24h after a successful save.
+**However**, direct sunlight makes it lose all resistances and immunities.
 
 **Attacks (1/round)**
 
-<ins>Charge</ins>. If it has the space to maneuver, the bestial terror charges a target with its hooves and pike. If the target doesn’t dodge, it takes (2D6) damage and is knocked prone.
+<ins>Charge</ins>. If it has the space to maneuver, the bestial terror charges a target with its hooves and pike. If the target doesn’t dodge, it takes (1D10) damage and is knocked [prone](/2020/11/10/extra-rules/#conditions).
 
-<ins>Pike Drag</ins>. The bestial terror makes one melee attack (1D8) and may move nearby with the target.
+<ins>Pike Drag</ins>. The bestial terror makes one melee attack (1D8) and may drag the target nearby.
 
 <ins>Trample</ins>. The bestial terror makes two melee attacks (1D6) against different targets.
 

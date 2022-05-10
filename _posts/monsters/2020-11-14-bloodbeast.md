@@ -5,25 +5,30 @@ permalink: /monsters/bloodbeast
 title: Bloodbeast
 ---
 
-Giant spider leech. A beast.
+Giant spider leech. A large beast.
 
-Imagine a sand-colored leech as long as a horse. It stands high on six long insectoid legs. Its head is framed by vestigial gills.
+_Imagine a sand-colored leech as long as a horse. It stands high on six long insectoid legs. Its head is framed by vestigial gills._
 
-Always hungry, it is an ambush predator.
+_Always hungry, it is an ambush predator._
 
-**HD:** 3  &nbsp; &nbsp;  **Armor:** as leather <br>
-**Size:** large <br>
-**Stats:** sturdy and feral<br>
-**Movement:** fast <br>
-**Morale:** brave <br>
+<br>
 
-Bloodbeasts camouflage very well in rocky landscapes. They can jump 30’ without momentum. They don't see much, but sensors on their skin allow them to operate without sight.
+---
 
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 3 | **Armor:** as leather  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** fast     |   | 
+
+It **can** can hide very well in rocky landscapes, jump 30’ without momentum, and detect nearby movement.
+However, it **can't** see.
+  
 **Attacks (1/round)**
 
-<ins>Bite.</ins> The bloodbeast makes a melee attack with reach (2D4) and grapples the target. As long as a target is grappled, it cannot use its bite attack.
+<ins>Bite.</ins> The bloodbeast makes a melee attack with reach (2D4) and [grapples](/2020/11/10/extra-rules/conditions) the target. As long as a target is grappled, it cannot use its bite attack.
 
-<ins>Drain Blood.</ins> The bloodbeast inflicts constitution damage (1D4) to a grappled target as it drains its blood.
+<ins>Drain Blood.</ins> The bloodbeast inflicts strength damage (1D4) to a grappled target as it drains its blood.
 
 <br>
 
@@ -31,23 +36,24 @@ Bloodbeasts camouflage very well in rocky landscapes. They can jump 30’ withou
 
 # Bloodgill
 
-Bloodsucking bipedal tadpoles.
+_Bloodsucking bipedal tadpoles._
 
-Bloodgills are the larval stage of the blood beast. Imagine a rotund spotted leech standing upright on two chubby legs and with fin-like gills sprouting from its flanks.
+_Bloodgills are the larval stage of the blood beast. Imagine a rotund spotted leech standing upright on two chubby legs and with fin-like gills sprouting from its flanks._
 
-**HD:** 0  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** tiny <br>
-**Stats:** weak and feral <br>
-**Movement:** slow, swim average <br>
-**Morale:** coward <br>
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 | **Armor:** none  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** slow, swim normal     |   | 
 
-Bloodgills are amphibious and can breathe as well in water as outside. They can jump 10’ without momentum. They don't see much, but sensors on their skin allow them to operate without sight.
+It **can** can breathe in water, jump 10’ without momentum, and detect nearby movement.
+However, it **can't** see very well.
 
 **Attacks (1/round)**
 
 <ins>Bite.</ins> The bloodgill makes a melee attack and attaches itself to the target. As long as it is attached, it cannot use its bite attack.
 
-<ins>Drain Blood.</ins> The bloodgill inflicts 1 constitution damage to a target it is attached to as it drains its blood.
+<ins>Drain Blood.</ins> The bloodgill inflicts 1 strength damage to a target it is attached to as it drains its blood.
 
 <br>
 
@@ -55,19 +61,20 @@ Bloodgills are amphibious and can breathe as well in water as outside. They can 
 
 # Bloodgill Swarm
 
-**HD:** 0 +3D4HP  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** medium <br>
-**Stats:**  feral<br>
-**Movement:** slow, swim average <br>
-**Morale:** coward <br>
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 +3D4HP | **Armor:** none  |
+| **Hit it:** easy    | **Dodge it:** special  |
+| **Move:** slow, swim normal     |   | 
 
-Bloodgills are amphibious and can breathe as well in water as outside. They can jump 10’ without momentum. They don't see much, but sensors on their skin allow them to operate without sight.
+It **can** can breathe in water, jump 10’ without momentum, and detect nearby movement.
+However, it **can't** see very well.
 
-In a swarm, bloodgills are immune to being grappled or attacked by single target spells, and resist mind and weapon damage. However, they take double damage from area of effect attacks.
+In a swarm, creatures are **immune** to being grappled or attacked by single target spells, and **resist** mind and weapon damage. **However**, they take double damage from area of effect attacks.
 
 **Attacks (1/round)**
 
-<ins>Bites.</ins> The Bat Swarm makes a melee attack with reach using its HP as its attack stat. On a hit, the target has 1D4 bloodgills (see above) attached to it and the swarm loses as many hit points.
+<ins>Bites.</ins> To dodge a swarm’s attack, the roll has to beat 10 + the swarm’s HP.  On a hit, the target has 1D4 bloodgills (see above) attached to it and the swarm loses as many hit points.
 <br>
 
 ---

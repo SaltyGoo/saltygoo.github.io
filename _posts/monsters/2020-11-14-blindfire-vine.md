@@ -32,6 +32,7 @@ However, it **can't** see or hear.
 ---
 
 <br>
+
 # Blindfire Carpet
 
 

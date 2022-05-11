@@ -2206,7 +2206,7 @@ gen_data['swampadjective'] = [
     'are from the nearby town',
     'are controlled by HOBGOBLINS',
     'pepper the land',
-    'protecting a dungeon',
+    'protect a dungeon',
       
   ];
   gen_data['swampmonster'] = [

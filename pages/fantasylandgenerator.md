@@ -4344,12 +4344,12 @@ gen_data['arcticadjective'] = [
     'has food to share',
   ];  
    gen_data['DONESTREdo'] = [
-    'eating people alive',
-    'beating strangers to a pulp',
-    'collecting decapitated heads',
-    'poisoning people',
-    'drowning people',
-    'killing people in their sleep',
+    'eats people alive',
+    'beats strangers to a pulp',
+    'collects decapitated heads',
+    'poisons people',
+    'drowns people',
+    'kills people in their sleep',
   ];  
    gen_data['reddragontotem'] = [
     'treasure-hoarding',

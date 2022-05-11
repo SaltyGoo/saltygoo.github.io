@@ -1456,8 +1456,8 @@ gen_data['tunnelfeature'] = [
     'tunnels with a doomed human camp',
     'tunnels',
     'laboratory tunnels',
-    'WURM carcass',
-    'mud river',
+    'WURM carcasses',
+    'mud rivers',
   ];
 gen_data['tunnelhazard'] = [
     'sharp, cutting',

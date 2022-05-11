@@ -26,7 +26,7 @@ However, it **can't** see.
   
 **Attacks (1/round)**
 
-<ins>Bite.</ins> The bloodbeast makes a melee attack with reach (2D4) and [grapples](/2020/11/10/extra-rules/conditions) the target. As long as a target is grappled, it cannot use its bite attack.
+<ins>Bite.</ins> The bloodbeast makes a melee attack with reach (2D4) and [grapples](/2020/11/10/extra-rules/#conditions) the target. As long as a target is grappled, it cannot use its bite attack.
 
 <ins>Drain Blood.</ins> The bloodbeast inflicts strength damage (1D4) to a grappled target as it drains its blood.
 

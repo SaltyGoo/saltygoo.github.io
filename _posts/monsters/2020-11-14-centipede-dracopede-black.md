@@ -5,17 +5,22 @@ permalink: /monsters/centipede-dracopede-black
 title: Centipede, Dracopede, Black
 ---
 
-Armored centipede with a poison breath attack. A beast.
+Armored centipede with a poison breath attack. A small beast.
 
-Imagine a spiked, armored centipede as long as a dog, and as black as ebony. It eats organic matter.
+_Imagine a spiked, armored centipede as long as a dog, and as black as ebony. It eats organic matter._
 
-**HD:** 1  &nbsp; &nbsp;  **Armor:** as chain <br>
-**Size:** small <br>
-**Stats:** agile and sturdy but weak and feral<br>
-**Movement:** average, climb average <br>
-**Morale:** brave <br>
+<br>
 
-Dracopedes can climb on any surface, including upside down, with little difficulty. They can't see well but detects nearby movement.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 1 | **Armor:** as chain  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal, climb normal     |   | 
+
+It **can** detect nearby movement and walk on any surface, even upside down..
+It **can't** see well.
 
 **Attacks (1/round)**
 
@@ -23,7 +28,7 @@ Dracopedes can climb on any surface, including upside down, with little difficul
 
 <ins>Defensive Curl.</ins> The dracopede curls into a ball. As long as it stays in this position, it cannot move or attack, nor be damaged by missile weapons and one-handed melee weapons.
 
-<ins>Poison Spray (recharge 2/6).</ins> The dracopede spits poison in a short cone. Those who fail to dodge take poison damage (1D4) and are poisoned for 1 minute.
+<ins>Poison Spray (recharge 2/6).</ins> The dracopede spits poison in a short cone. Those who fail to dodge take poison damage (1D4) and are [poisoned](/2020/11/10/extra-rules/#conditions) for 10 minutes.
 
 <br>
 

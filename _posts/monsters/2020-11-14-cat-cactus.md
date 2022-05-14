@@ -5,17 +5,22 @@ permalink: /monsters/cat-cactus
 title: Cat, Cactus
 ---
 
-Desert cat with hallucinogenic quills. A beast.
+Desert cat with hallucinogenic quills. A small beast.
 
-Imagine a greenish gray bobcat with quills on its back. It stares at you in a drunken torpor.
+_Imagine a greenish gray bobcat with quills on its back. It stares at you in a drunken torpor._
 
-**HD:** 0  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** small <br>
-**Stats:** agile but weak and feral<br>
-**Movement:** fast, climb average <br>
-**Morale:** brave <br>
+<br>
 
-Cats are stealthy and have a very keen sense of sight and smell allowing them to operate in the dark. Additionally, cactus cats can unsurprisingly easily hide within cacti. The cactus cat is immune to cactus fever.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 | **Armor:** none  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** fast, climb normal     |   | 
+
+It is **immune** to cactus fever. 
+It **can** smell and see very well, allowing it to operate in the dark without troubles. It is also very sneaky, especially among cacti.
 
 **Attacks (1/round)**
 
@@ -23,7 +28,7 @@ Cats are stealthy and have a very keen sense of sight and smell allowing them to
 
 <ins>Quill Spray.</ins> The cactus cat sprays a short cone with quills. Creatures who fail to dodge take damage (1) and must make a save vs poison or be poisoned with cactus fever.
 
-<span class="alchemy"> **Cactus Fever.** Save or be poisoned, save again every 10 minutes to cure. While poisoned, you are a drunken mess: each player names a different emotion and rolls a D20, the referee alters your actions in a dramatic way according to the emotion with the highest roll. Roll a new emotion every 10 minutes.</span>
+<span class="alchemy"> **Cactus Fever.** Save or be [poisoned](/2020/11/10/extra-rules/#conditions), save again every 10 minutes to cure. While poisoned, you are a drunken mess: each player names a different emotion and rolls a D20, the referee alters your actions in a dramatic way according to the emotion with the highest roll. Roll a new emotion every 10 minutes.</span>
 <br>
 
 ---

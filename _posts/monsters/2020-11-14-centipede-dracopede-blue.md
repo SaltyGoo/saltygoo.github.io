@@ -5,17 +5,23 @@ permalink: /monsters/centipede-dracopede-blue
 title: Centipede, Dracopede, Blue
 ---
 
-Armored centipede with a chilling breath attack. A beast.
+Armored centipede with a chilling breath attack. A small beast.
 
-Imagine a centipede as long as a dog, with stone gray legs and a snow covered blue shell with spikes that look like icicles. It eats frozen organic matter.
+_Imagine a centipede as long as a dog, with stone gray legs and a snow covered blue shell with spikes that look like icicles. It eats frozen organic matter._
 
-**HD:** 1  &nbsp; &nbsp;  **Armor:** as chain <br>
-**Size:** small <br>
-**Stats:** agile but weak and feral<br>
-**Movement:** average, climb average<br>
-**Morale:** brave <br>
+<br>
 
-Dracopedes can climb on any surface, including upside down, with little difficulty. They can't see well but detects nearby movement. Blue dracopedes resist cold and can easily camouflage as icicles.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 1 | **Armor:** as chain  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal, climb normal     |   | 
+
+It **resists** cold.
+It **can** detect nearby movement, walk on any surface, even upside down, and camouflage as an icicle.
+It **can't** see well.
 
 **Attacks (1/round)**
 

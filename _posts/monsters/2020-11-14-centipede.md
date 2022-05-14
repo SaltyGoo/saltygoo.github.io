@@ -5,19 +5,24 @@ permalink: /monsters/centipede
 title: Centipede
 ---
 
-Centipedes are venomous worm-like arachnids withs a lot of legs. A beast.
+Centipedes are venomous worm-like arachnids withs a lot of legs. A tiny beast.
 
-**HD:** 0  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** tiny <br>
-**Stats:** weak, feral and vicious<br>
-**Movement:** average, climb average<br>
-**Morale:** coward <br>
+<br>
 
-Centipedes can climb on any surface, including upside down, with little difficulty. They can't see well but detect adjacent movement.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 | **Armor:** none  |
+| **Hit it:** normal    | **Dodge it:** easy  |
+| **Move:** normal, climb normal     |   | 
+
+It **can** detect nearby movement and walk on any surface, even upside down..
+It **can't** see well.
 
 **Attacks (1/round)**
 
-<ins>Bite</ins>. The centipede makes a melee attack. On a hit, the target must save against poison or be poisoned and take 1 point of CON damage.
+<ins>Bite</ins>. The centipede makes a melee attack. On a hit, the target must save against poison or be [poisoned](/2020/11/10/extra-rules/#conditions) and take 1 point of Strength damage.
 
 <br>
 
@@ -25,21 +30,22 @@ Centipedes can climb on any surface, including upside down, with little difficul
 
 # Centipede Swarm
 
-**HD:** 0 +3D4HP  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** medium <br>
-**Stats:** weak <br>
-**Movement:** average, climb average <br>
-**Morale:** brave <br>
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 +3D4HP | **Armor:** none  |
+| **Hit it:** easy    | **Dodge it:** normal  |
+| **Move:** normal, climb normal     |   | 
 
-Centipedes can climb on any surface, including upside down, with little difficulty. They can't see well but detect adjacent movement.
+It **can** detect nearby movement and walk on any surface, even upside down..
+It **can't** see well.
 
-In a swarm, Centipedes are immune to being grappled or attacked by single target spells, and resist mind and weapon damage. However, they take double damage from area of effect attacks.
+In a swarm, creatures are **immune** to being grappled or attacked by single target spells, and **resist** mind and weapon damage. **However**, they take double damage from area of effect attacks.
 
 **Attacks (1/round)**
 
-<ins>Bites.</ins> The Centipede Swarm makes a melee attack (1) using its HP as its attack stat. On a hit, the target must save or be poisoned.
+<ins>Bites.</ins> To dodge a swarm’s attack, the roll has to beat 10 + the swarm’s HP. On a hit, the target takes 1 damage and must save or be [poisoned](/2020/11/10/extra-rules/#conditions).
 
-<span class="alchemy">**Centipede Venom.** Save or be poisoned, save again each day to cure. Lose 1D4 points of constitution.</span>
+<span class="alchemy">**Centipede Venom.** Save or be [poisoned](/2020/11/10/extra-rules/#conditions), save again each day to cure. Lose 1D4 points of Strength.</span>
 
 <br>
 
@@ -47,13 +53,14 @@ In a swarm, Centipedes are immune to being grappled or attacked by single target
 
 # Giant Centipede
 
-**HD:** 1  &nbsp; &nbsp;  **Armor:** as leather <br>
-**Size:** small <br>
-**Stats:** weak, nervous, sneaky<br>
-**Movement:** average, climb average<br>
-**Morale:** coward <br>
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 1 | **Armor:** as leather  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal, climb normal     |   | 
 
-Centipedes can climb on any surface, including upside down, with little difficulty. They can't see well but detect nearby movement.
+It **can** detect nearby movement and walk on any surface, even upside down..
+It **can't** see well.
 
 <ins>Bite</ins>. The centipede makes a melee attack (1D4). On a hit, the target must save or be poisoned with centipede venom (see above).
 

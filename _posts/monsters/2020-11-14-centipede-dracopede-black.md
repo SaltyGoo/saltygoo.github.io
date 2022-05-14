@@ -19,7 +19,7 @@ _Imagine a spiked, armored centipede as long as a dog, and as black as ebony. It
 | **Hit it:** normal    | **Dodge it:** normal  |
 | **Move:** normal, climb normal     |   | 
 
-It **can** detect nearby movement and walk on any surface, even upside down..
+It **can** detect nearby movement and walk on any surface, even upside down.
 It **can't** see well.
 
 **Attacks (1/round)**

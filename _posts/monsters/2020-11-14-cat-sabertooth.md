@@ -5,23 +5,27 @@ permalink: /monsters/cat-sabertooth
 title: Cat, Sabertooth
 ---
 
-Giant cats with a deadly bite. A beast.
+Giant cats with a deadly bite. A large beast.
 
-Imagine a stocky, muscular lioness with two enormous scimitar-like canines sprouting out of its top jaw.
+_Imagine a stocky, muscular lioness with two enormous scimitar-like canines sprouting out of its top jaw._
 
-**HD:** 3  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** large <br>
-**Stats:** strong but feral<br>
-**Movement:** fast <br>
-**Morale:** brave <br>
+<br>
 
-Cats are stealthy and have a very keen sense of sight and smell allowing them to operate in the dark.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 3 | **Armor:** none  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** fast    |   | 
+
+It **can** smell and see very well, allowing it to operate in the dark without troubles. It is also very stealthy.
 
 **Attacks (1/round)**
 
 <ins>Claws.</ins> The sabertooth cat makes a melee attack (1D8).
 
-<ins>Pounce.</ins> The sabertooth cat makes a running jump and lands on a target, which is allowed a save to avoid damage. On a hit, the target takes damage (2D6), is prone and grappled.
+<ins>Pounce.</ins> The sabertooth cat makes a running jump and lands on a target, which is allowed a save to avoid damage. On a hit, the target takes damage (2D6), is prone and [grappled](/2020/11/10/extra-rules/#conditions).
 
 <ins>Tear Throat.</ins> The sabertooth makes a melee attack against a prone target. On a hit, it gains a [Wound](https://saltygoo.github.io/2020/11/09/base-rules/#dying--healing).
 <br>

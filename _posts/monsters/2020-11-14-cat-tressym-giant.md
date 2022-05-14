@@ -7,19 +7,23 @@ title: Cat, Tressym, Giant
 
 A puma with wings, with the fur diversity of a house cat. A beast.
 
-**HD:** 1  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** medium <br>
-**Stats:** wise but feral<br>
-**Movement:** fast, climb average, fly fast <br>
-**Morale:** coward <br>
+<br>
 
-Cats are stealthy and have a very keen sense of sight and smell allowing them to operate in the dark. Additionally giant tressyms can smell illusions and poisons as well as speak the language of sphinxes.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 1 | **Armor:** none  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** fast, climb and fly fast    |   | 
+
+It **can** smell and see very well, allowing it to operate stealthily in the dark without troubles. It can even smell illusions and poisons, and speak the language of sphinxes.
 
 **Attacks (1/round)**
 
 <ins>Claws.</ins> The giant tressym makes a melee attack (1D4).
 
-<ins>Rake.</ins> The giant tressym flies its full movement and lands on a target, which is allowed a save to avoid damage. On a hit, the target takes damage (2D4) and is prone.
+<ins>Rake.</ins> The giant tressym flies its full movement and lands on a target, which is allowed a save to avoid damage. On a hit, the target takes damage (2D4) and is [prone](/2020/11/10/extra-rules/#conditions).
 <br>
 
 ---

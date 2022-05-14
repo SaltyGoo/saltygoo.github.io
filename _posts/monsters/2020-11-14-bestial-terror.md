@@ -2,7 +2,7 @@
 layout: post
 tags: monster undead arctic desert plains chaos cursed holy
 permalink: /monsters/bestial-terror
-title: Bestial Terror
+title: Centaur, Bestial Terror
 ---
 
 Centaur ghost of doom. A large undead.

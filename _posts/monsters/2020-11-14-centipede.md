@@ -17,7 +17,7 @@ Centipedes are venomous worm-like arachnids withs a lot of legs. A tiny beast.
 | **Hit it:** normal    | **Dodge it:** easy  |
 | **Move:** normal, climb normal     |   | 
 
-It **can** detect nearby movement and walk on any surface, even upside down..
+It **can** detect nearby movement and walk on any surface, even upside down.
 It **can't** see well.
 
 **Attacks (1/round)**

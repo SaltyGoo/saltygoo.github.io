@@ -5,17 +5,21 @@ permalink: /monsters/cat-tressym
 title: Cat, Tressym
 ---
 
-A flying wizard pet cat. A beast.
+A flying wizard pet cat. A tiny beast.
 
-A housecat with wings.
+_A housecat with wings._
 
-**HD:** 0  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** tiny <br>
-**Stats:** agile but weak, dumb but wise<br>
-**Movement:** fast, climb average, fly fast <br>
-**Morale:** coward <br>
+<br>
 
-Cats are stealthy and have a very keen sense of sight and smell allowing them to operate in the dark. Additionally tressym can smell illusions and poison.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 | **Armor:** none  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** fast, climb and fly fast    |   | 
+
+It **can** smell and see very well, allowing it to operate stealthily in the dark without troubles. It can even smell illusions and poisons.
 
 **Attacks (1/round)**
 

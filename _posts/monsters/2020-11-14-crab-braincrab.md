@@ -19,7 +19,7 @@ _Imagine a skull, something moves in its eye sockets and eyestalks probe the are
 | **Hit it:** easy    | **Dodge it:** normal  |
 | **Move:** slow, swim slow     |   | 
 
-It **can** detect nearby movement, walk on any surface, even upside down and also jump up to 10’ without a running start. 
+It **can** detect nearby movement, breathe underwater, walk on any surface, even upside down and also jump up to 10’ without a running start. 
 It **can’t** see well.
 **Also**, it is indistinguishable from a normal skull when not moving.
 

@@ -25,7 +25,7 @@ It **can’t** see well.
 
 **Attacks (1/round)**
 
-<ins>Pinch.</ins> The braincrab makes a melee attack. If the target is [stunned](/2020/11/10/extra-rules/#conditions) and [grappled](/2020/11/10/extra-rules/#conditions), it also does damage your Willpower (1D4).
+<ins>Pinch.</ins> The braincrab makes a melee attack. If the target is [stunned](/2020/11/10/extra-rules/#conditions) and [grappled](/2020/11/10/extra-rules/#conditions), it inflicts Willpower damage (1D4).
 
 <ins>Skullclamp.</ins> The braincrab jumps and attempts to [grapple](/2020/11/10/extra-rules/#conditions) a target. On success the target is [blinded](/2020/11/10/extra-rules/#conditions). A missed attack on a grappling braincrab has 1/2 chance to hit the grappled creature.
 
@@ -51,7 +51,7 @@ In a swarm, creatures are **immune** to being grappled or attacked by single tar
 
 **Attacks (1/round)**
 
-<ins>Swarm.</ins> To dodge a swarm’s attack, the roll has to beat 10 + the swarm's HP. On a hit the target takes damage (1D6) and the same amount of Braincrabs is attached to the victim (see Braincrab above).
+<ins>Swarm.</ins> To dodge a swarm’s attack, the roll has to beat 10 + the swarm's HP. On a hit the target takes 1 damageand the same amount of Braincrabs is attached to the victim (see Braincrab above).
 
 <br>
 

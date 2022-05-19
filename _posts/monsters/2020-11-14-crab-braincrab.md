@@ -35,6 +35,28 @@ It **can’t** see well.
 
 ---
 
+# Braincrab Swarm
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 +4D4HP | **Armor:** as leather  |
+| **Hit it:** easy    | **Dodge it:** special  |
+| **Move:** slow     |   | 
+
+It **can** detect nearby movement, breathe underwater, walk on any surface, even upside down and also jump up to 10’ without a running start. 
+It **can’t** see well.
+**Also**, it is indistinguishable from a skull pile when not moving.
+
+In a swarm, creatures are **immune** to being grappled or attacked by single target spells, and **resist** mind and weapon damage. **However**, they take double damage from area of effect attacks.
+
+**Attacks (1/round)**
+
+<ins>Swarm.</ins> To dodge a swarm’s attack, the roll has to beat 10 + the swarm's HP. On a hit the target takes damage (1D6) and the same amount of Braincrabs is attached to the victim (see Braincrab above).
+
+<br>
+
+---
+
 <br>
 
 <details markdown="1">

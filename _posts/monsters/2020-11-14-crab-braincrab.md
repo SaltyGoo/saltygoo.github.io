@@ -5,25 +5,31 @@ permalink: /monsters/crab-braincrab
 title: Crab, Braincrab
 ---
 
-Braincrabs are hermit crabs that live in skulls. A beast.
+Braincrabs are hermit crabs that live in skulls. A tiny beast.
 
-Imagine a skull, something moves in its eye sockets and eyestalks probe the area. As it sees you, multiple sharp legs unfold under it.
+_Imagine a skull, something moves in its eye sockets and eyestalks probe the area. As it sees you, multiple sharp legs unfold under it._
 
-**HD:** 0  &nbsp; &nbsp;  **Armor:** as leather <br>
-**Size:** tiny <br>
-**Stats:** weak, feral and stubborn<br>
-**Movement:** slow, swim slow<br>
-**Morale:** coward <br>
+<br>
 
-Crabs can climb on any surface, including upside down, and can breathe underwater. They can't see well, but detect adjacent movement. Brancrabs are indistinguishable from a normal skull when not moving. They can also jump up to 10’ without a running start.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 | **Armor:** as leather  |
+| **Hit it:** easy    | **Dodge it:** normal  |
+| **Move:** slow, swim slow     |   | 
+
+It **can** detect nearby movement, walk on any surface, even upside down and also jump up to 10’ without a running start. 
+It **can’t** see well.
+**Also**, it is indistinguishable from a normal skull when not moving.
 
 **Attacks (1/round)**
 
-<ins>Pinch.</ins> The braincrab makes a melee attack. If the target is stunned and grappled, it also does intelligence damage (1D4).
+<ins>Pinch.</ins> The braincrab makes a melee attack. If the target is [stunned](/2020/11/10/extra-rules/#conditions) and [grappled](/2020/11/10/extra-rules/#conditions), it also does damage your Willpower (1D4).
 
-<ins>Skullclamp.</ins> The braincrab jumps and attempts to grapple a target. On success the target is blinded. A missed attack on a grappling braincrab has 1/2 chance to hit the grappled creature.
+<ins>Skullclamp.</ins> The braincrab jumps and attempts to [grapple](/2020/11/10/extra-rules/#conditions) a target. On success the target is [blinded](/2020/11/10/extra-rules/#conditions). A missed attack on a grappling braincrab has 1/2 chance to hit the grappled creature.
 
-<ins>Numbing Saliva.</ins> One grappled target must make a save vs poison or be stunned for 1 minute.
+<ins>Numbing Saliva.</ins> One grappled target must make a save vs poison or be [stunned](/2020/11/10/extra-rules/#conditions) for 1 minute.
 
 <br>
 

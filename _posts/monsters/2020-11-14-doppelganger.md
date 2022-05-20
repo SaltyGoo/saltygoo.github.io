@@ -7,27 +7,35 @@ title: Doppelganger
 
 Ultimate shapeshifter. An aberration.
 
-Imagine a humanoid with no definite features, not even a face. As you look, its fingers stretch into needle-like claws.
+_Imagine a humanoid with no definite features, not even a face. As you look, its fingers stretch into needle-like claws._
 
-**HD:** 2  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** medium <br>
-**Stats:** weirdly agile, professionally charismatic, wickedly intelligent <br>
-**Movement:** average <br>
-**Morale:** coward <br>
+_Weirdly agile, professionally charismatic, wickedly intelligent._
 
-As an aberration, the doppelganger *resists mind attacks* and *does not die* unless its killer succeeds a save vs fear. Additionally, they can read nearby surface thoughts not behind tinfoil, making them very hard to hit or surprise. It sees in the dark and is extremely good at lying.
+<br>
+
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 2 | **Armor:** none  |
+| **Hit it:** hard    | **Dodge it:** normal  |
+| **Move:** normal     |   | 
+
+It **resists** mind attacks (because it's an aberration).
+It **can** see in the dark, lie extremely well and read nearby surface thoughts not behind tinfoil, making them very hard to hit or surprise.
+It **can't** die unless it's would-be killer saves vs fear.  
 
 The definitive trait of the doppelganger is its ability to change appearance at will instantaneously.
 
 **Attacks (1/round)**
 
-<ins>Murder.</ins> The doppelganger makes a melee attack (1D6) with advantage against a target who doesn’t expect it. On a hit, the target takes a wound.
+<ins>Murder.</ins> The doppelganger makes a melee attack (1D6) with advantage against a target who doesn’t expect it. On a hit, the target takes a [wound](/2020/11/09/base-rules/).
 
-<ins>Knife Fingers.</ins> The doppelganger makes two melee attacks (1D6).
+<ins>Knife Fingers.</ins> The doppelganger makes two melee attacks (1D4).
 
-<ins>Whip Arm.</ins> The doppelganger makes a melee attack with reach (1D6). On a hit the target is grappled and can't breath.
+<ins>Whip Arm.</ins> The doppelganger makes a melee attack with reach (1D6). On a hit the target is [grappled](/2020/11/10/extra-rules/#conditions) and [can't breathe](/2020/11/10/extra-rules/#conditions).
 
-<ins>Stretch.</ins> The doppelganger attaches itself to a large or bigger surface nearby and is dragged to its location. This movement does not provoke attacks of opportunity.
+<ins>Stretch.</ins> The doppelganger attaches itself to a large or bigger surface nearby and is dragged to its location.
 
 <br>
 

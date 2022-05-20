@@ -9,7 +9,7 @@ One-eyed humanoids that look like bigger, lankier orcs. A humanoid.
 
 _Imagine a humanoid with one stupid eye. Cyclopskins are more often than not orcs with cyclops blood._
 
-_Gang Mentality, Doomsday Fear, Athletic 
+_Gang Mentality, Doomsday Fear, Athletic_
 
 ---
 

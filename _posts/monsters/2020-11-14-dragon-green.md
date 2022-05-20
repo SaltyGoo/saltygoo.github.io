@@ -5,32 +5,37 @@ permalink: /monsters/dragon-green
 title: Dragon, Green
 ---
 
-Means and poisonous forest dragon. A beast.
+Means and poisonous forest dragon. A huge beast.
 
-Imagine a sleek western dragon with a particularly long neck and yellow frills. It loves to lie and manipulate, and it wants as many living humanoids as it can in its hoard.
+_Imagine a sleek western dragon with a particularly long neck and yellow frills. It loves to lie and manipulate, and it wants as many living humanoids as it can in its hoard._
+
+_titanic strength, vicious intelligence, overconfident charisma._
+
+<br>
+
+---
 
 # Green Dragon
 
-**HD:** 10 + 10HP  &nbsp; &nbsp;  **Armor:** as plate <br>
-**Size:** huge <br>
-**Stats:** titanic strength and vitality, vicious intelligence, overconfident charisma<br>
-**Movement:** average, fly fast, swim average <br>
-**Morale:** brave <br>
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 10 +10HP | **Armor:** as plate  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal, fly fast, swim normal    |   | 
 
-Dragons have advantage on all their saving throws. Green dragons are immune to poison and can hold their breath for 1 hour, while plants are immune to their breath attack.
-
-At the beginning of the dragon’s turn, each creature within sight of it must save vs fear or be frightened until the dragon’s next turn.
-
-**Noncombat Magic**
-Divination, Druidcraft, Alchemy.
+It is **immune** to poison.
+It **resists** all effects that require a saving throw.
+It **can** hold its breath for 1 hour.
+**Also**, at the beginning of its turn, each creature within sight of it must save vs fear or be [frightened](/2020/11/10/extra-rules/#conditions) until the dragon’s next turn.
+Out of combat, it can cast Divination, Druidic, and Alchemy-themed **magic**.
 
 **Attacks (3/round)**
 
-<ins>Bite.</ins> The dragon makes a melee attack, inflicting physical (1D8) and poison (1D8) damage and grappling the target.
+<ins>Bite.</ins> The dragon makes a melee attack, inflicting physical (1D8) and poison (1D8) damage and [grappling](/2020/11/10/extra-rules/#conditions) the target.
 
 <ins>Rake.</ins> The dragon makes two melee attacks (1D8) against one adjacent target.
 
-<ins>Tail Sweep.</ins> Everybody directly behind the dragon must dodge or be pushed back, knocked prone and take damage (1D8).
+<ins>Tail Sweep.</ins> Everybody directly behind the dragon must dodge or be pushed back, knocked [prone](/2020/11/10/extra-rules/#conditions) and take damage (1D8).
 
 <ins>Smell.</ins> The dragon detects all creatures near it.
 
@@ -38,7 +43,7 @@ Divination, Druidcraft, Alchemy.
 
 <ins>Poison Breath (recharge 2/6).</ins> The dragon inhales. At the beginning of its next turn, it exhales a long cone of poisonous gas instead of making attacks.
 
-Each creature in the area or ending their turn in the area must make a saving throw vs poison or take poison damage (4D8) and be poisoned until the end of their next turn, or half as much on a success. The cloud has a 1/4 chance of dissipating each turn. It provides light cover.
+Each creature in the area or ending their turn in the area must make a saving throw vs poison or take poison damage (4D8) and be [poisoned](/2020/11/10/extra-rules/#conditions) until the end of their next turn, or half as much on a success. The cloud has a 1/4 chance of dissipating each turn. It provides light cover. Plants are immune to this attack.
 
 <br>
 
@@ -47,17 +52,20 @@ Each creature in the area or ending their turn in the area must make a saving th
 # Wyrmling
 <details markdown="1">
 <summary>Stats</summary>
-**HD:** 3 + 3HP  &nbsp; &nbsp;  **Armor:** as mail <br>
-**Size:** medium <br>
-**Stats:** strong and sly<br>
-**Movement:** average, fly fast, swim average <br>
-**Morale:** brave <br>
 
-Dragons have advantage on all their saving throws. Green dragons are immune to poison and can hold their breath for 1 hour, while plants are immune to their breath attack.
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 3 +3HP | **Armor:** as chain  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal, fly fast, swim normal    |   | 
+
+It is **immune** to poison.
+It **resists** all effects that require a saving throw.
+It **can** hold its breath for 1 hour.
 
 **Attacks (1/round)**
 
-<ins>Bite.</ins> The dragon makes a melee attack, inflicting physical (1D6) and poison (1D4) damage and grappling the target.
+<ins>Bite.</ins> The dragon makes a melee attack, inflicting physical (1D6) and poison (1D4) damage and [grappling](/2020/11/10/extra-rules/#conditions) the target.
 
 <ins>Rake.</ins> The dragon makes two melee attacks (1D6) against one adjacent target.
 
@@ -65,7 +73,7 @@ Dragons have advantage on all their saving throws. Green dragons are immune to p
 
 <ins>Poison Breath (recharge 2/6).</ins> The dragon inhales. At the beginning of its next turn, it exhales a small cone of poisonous gas instead of making attacks.
 
-Each creature in the area or ending their turn in the area must make a saving throw vs poison or take poison damage (4D4) and be poisoned until the end of their next turn, or half as much on a success. The cloud has a 1/4 chance of dissipating each turn. It provides light cover.
+Each creature in the area or ending their turn in the area must make a saving throw vs poison or take poison damage (4D4) and be [poisoned](/2020/11/10/extra-rules/#conditions) until the end of their next turn, or half as much on a success. The cloud has a 1/4 chance of dissipating each turn. It provides light cover. Plants are immune to this attack.
 </details>
 
 ---
@@ -73,21 +81,25 @@ Each creature in the area or ending their turn in the area must make a saving th
 # Young
 <details markdown="1">
 <summary>Stats</summary>
-**HD:** 6 + 6HP  &nbsp; &nbsp;  **Armor:** as plate <br>
-**Size:** large <br>
-**Stats:** strong, sly, sturdy and charismatic<br>
-**Movement:** average, fly fast, swim average <br>
-**Morale:** brave <br>
 
-Dragons have advantage on all their saving throws. Green dragons are immune to poison and can hold their breath for 1 hour, while plants are immune to their breath attack.
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 6 +6HP | **Armor:** as plate  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal, fly fast, swim normal    |   | 
+
+It is **immune** to poison.
+It **resists** all effects that require a saving throw.
+It **can** hold its breath for 1 hour.
+Out of combat, it can cast Divination, Druidic, and Alchemy-themed **magic**.
 
 **Attacks (2/round)**
 
-<ins>Bite.</ins> The dragon makes a melee attack, inflicting physical (1D6) and poison (1D6) damage and grappling the target.
+<ins>Bite.</ins> The dragon makes a melee attack, inflicting physical (1D6) and poison (1D6) damage and [grappling](/2020/11/10/extra-rules/#conditions) the target.
 
 <ins>Rake.</ins> The dragon makes two melee attacks (1D6) against one adjacent target.
 
-<ins>Tail Sweep.</ins> Everybody directly behind the dragon must dodge or be pushed back, knocked prone and take damage (1D6).
+<ins>Tail Sweep.</ins> Everybody directly behind the dragon must dodge or be pushed back, knocked [prone](/2020/11/10/extra-rules/#conditions) and take damage (1D6).
 
 <ins>Smell.</ins> The dragon detects all creatures near it.
 
@@ -95,7 +107,7 @@ Dragons have advantage on all their saving throws. Green dragons are immune to p
 
 <ins>Poison Breath (recharge 2/6).</ins> The dragon inhales. At the beginning of its next turn, it exhales a short cone of poisonous gas instead of making attacks.
 
-Each creature in the area or ending their turn in the area must make a saving throw vs poison or take poison damage (4D6) and be poisoned until the end of their next turn, or half as much on a success. The cloud has a 1/4 chance of dissipating each turn. It provides light cover.
+Each creature in the area or ending their turn in the area must make a saving throw vs poison or take poison damage (4D6) and be [poisoned](/2020/11/10/extra-rules/#conditions) until the end of their next turn, or half as much on a success. The cloud has a 1/4 chance of dissipating each turn. It provides light cover. Plants are immune to this attack.
 </details>
 
  ---
@@ -103,27 +115,31 @@ Each creature in the area or ending their turn in the area must make a saving th
 # Ancient
 <details markdown="1">
 <summary>Stats</summary>
-**HD:** 10 + 30HP  &nbsp; &nbsp;  **Armor:** as plate <br>
-**Size:** gargantuan <br>
-**Stats:** epic<br>
-**Movement:** average, fly fast, swim average <br>
-**Morale:** brave <br>
 
-Dragons have advantage on all their saving throws. Green dragons are immune to poison and can hold their breath for 1 hour, while plants are immune to their breath attack.
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 10 +30HP | **Armor:** as plate  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal, fly fast, swim normal    |   | 
 
-At the beginning of the dragon’s turn, each creature within sight of it must save vs fear or be frightened until the dragon’s next turn.
+It is **immune** to poison.
+It **resists** all effects that require a saving throw.
+It **can** hold its breath for 1 hour.
+**Also**, at the beginning of its turn, each creature within sight of it must save vs fear or be [frightened](/2020/11/10/extra-rules/#conditions) until the dragon’s next turn.
+Out of combat, it can cast Divination, Druidic, and Alchemy-themed **magic**.
 
-The dragon’s wings spread poisonous gas as it moves, leaving a trail of gas. Each creature chasing the dragon or ending their turn close to it must make a saving throw vs poison or take poison damage (1D10) and be poisoned until the end of their next turn. The cloud has a 1/4 chance of dissipating each turn. It provides light cover.
+
+The dragon’s wings spread poisonous gas as it moves, leaving a trail of gas. Each creature chasing the dragon or ending their turn close to it must make a saving throw vs poison or take poison damage (1D10) and be [poisoned](/2020/11/10/extra-rules/#conditions) until the end of their next turn. The cloud has a 1/4 chance of dissipating each turn. It provides light cover.
 
 **Attacks (3/round)**
 
-<ins>Bite.</ins> The dragon makes a melee attack, inflicting physical (1D10) and poison (1D10) damage and grappling the target.
+<ins>Bite.</ins> The dragon makes a melee attack, inflicting physical (1D10) and poison (1D10) damage and [grappling](/2020/11/10/extra-rules/#conditions) the target.
 
 <ins>Stomp.</ins> The dragon stomps two targets adjacent to each other. They take damage (1D10) if they fail to dodge. This attack does double damage to objects.
 
-<ins>Tail Sweep.</ins> Everybody directly behind the dragon must dodge or be pushed back, knocked prone and take damage (1D10).
+<ins>Tail Sweep.</ins> Everybody directly behind the dragon must dodge or be pushed back, knocked [prone](/2020/11/10/extra-rules/#conditions) and take damage (1D10).
 
-<ins>Swallow.</ins> The dragon throws one grappled target into the air and swallows it if it fails to dodge it. The swallowed creature is blinded, can't breathe and takes poison damage (1D10) at the beginning of each of its turns.
+<ins>Swallow.</ins> The dragon throws one grappled target into the air and swallows it if it fails to dodge it. The swallowed creature is [blinded](/2020/11/10/extra-rules/#conditions), [can't breathe](/2020/11/10/extra-rules/#conditions) and takes poison damage (1D10) at the beginning of each of its turns.
 
 <ins>Smell.</ins> The dragon detects all creatures near it.
 
@@ -131,7 +147,7 @@ The dragon’s wings spread poisonous gas as it moves, leaving a trail of gas. E
 
 <ins>Poison Breath (recharge 2/6).</ins> The dragon inhales. At the beginning of its next turn, it exhales a short cone of poisonous gas instead of making attacks.
 
-Each creature in the area or ending their turn in the area must make a saving throw vs poison or take poison damage (4D10) and be poisoned until the end of their next turn, or half as much on a success. The cloud has a 1/4 chance of dissipating each turn. It provides light cover.
+Each creature in the area or ending their turn in the area must make a saving throw vs poison or take poison damage (4D10) and be [poisoned](/2020/11/10/extra-rules/#conditions) until the end of their next turn, or half as much on a success. The cloud has a 1/4 chance of dissipating each turn. It provides light cover. Plants are immune to this attack.
 </details>
 
  ---
@@ -140,7 +156,7 @@ Each creature in the area or ending their turn in the area must make a saving th
 
 Non-wyrmlings dragons have the following additional attack options when in their lair (using the same dice as their rake/stomp attack):
 
-<ins>Grasping Roots.</ins> Surfaces near a point the dragon can see erupt with grasping plants that attempt to grapple creatures within them. The area becomes difficult terrain after that.
+<ins>Grasping Roots.</ins> Surfaces near a point the dragon can see erupt with grasping plants that attempt to [grapple](/2020/11/10/extra-rules/#conditions) creatures within them. The area becomes difficult terrain after that.
 
 <ins>Thorn Wall.</ins> A 10’-high wall of thorns bursts from the ground between two points. Pushing creatures to the side of the dragon’s choice. Walking through the wall requires a strength check and inflicts damage (1Dx). Each segment of the wall has 10 hit points.
 

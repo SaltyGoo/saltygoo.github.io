@@ -7,21 +7,25 @@ title: Cyclopskin
 
 One-eyed humanoids that look like bigger, lankier orcs. A humanoid.
 
-Imagine a humanoid with one stupid eye. Cyclopskins are more often than not orcs with cyclops blood.
+_Imagine a humanoid with one stupid eye. Cyclopskins are more often than not orcs with cyclops blood._
 
-**HD:** 2 +2HP  &nbsp; &nbsp;  **Armor:** leather <br>
-**Size:** medium <br>
-**Stats:** strong, sturdy and a bit dumb. <br>
-**Movement:** average <br>
-**Morale:** brave <br>
+_Gang Mentality, Doomsday Fear, Athletic 
+
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 2 +2HP | **Armor:** leather  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal     |   | 
 
 **Attacks (1/round)**
 
-<ins>Clumsy Maul Bash.</ins> The cyclopskin makes one melee attack (1D10) with disadvantage.
+<ins>Clumsy Maul Bash.</ins> The cyclopskin makes one melee attack (1D8) with disadvantage.
 
 <ins>Javelin</ins>. The cyclopskin makes one ranged attack (1D6).
 
-<ins>Aggressive Rush.</ins> If it has the space, the cyclopskin moves its full movement towards a target and makes a melee attack (1D10). The cyclopskin is blinded for the rest of the round.
+<ins>Aggressive Rush.</ins> If it has the space, the cyclopskin moves its full movement towards a target and makes a melee attack (1D8). The cyclopskin is [blinded](/2020/11/10/extra-rules/#conditions) for the rest of the round.
 <br>
 
 ---

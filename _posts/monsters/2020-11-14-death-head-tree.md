@@ -7,21 +7,27 @@ title: Death's Head Tree
 
 Parasitic tree with face-shaped fruits. A plant.
 
-Imagine a weeping willow but with much thicker branches. It bears head sized fruits that smell like rotting flesh and sporadically have gas leaks that sound like cries. Even more disturbingly, from afar, each fruit looks like the severed head of a humanoid and floats if detached.
+_Imagine a weeping willow but with much thicker branches. It bears head sized fruits that smell like rotting flesh and sporadically have gas leaks that sound like cries. Even more disturbingly, from afar, each fruit looks like the severed head of a humanoid and floats if detached._
 
-**HD:** 6  &nbsp; &nbsp;  **Armor:** as plate <br>
-**Size:** huge <br>
-**Stats:** very strong and sturdy, but static and barely conscious<br>
-**Movement:** static<br>
-**Morale:** mindless <br>
+<br>
 
-As a plant, the death's head tree can't see, hear, or be stunned or dazed. However it detects movement in its vicinity. It's tree compact, moist wood makes it resistant to bludgeoning, piercing and fire damage.
+---
 
-Additionally, the death’s head tree has <ins>4D4 heads</ins>. While it has more than one head, it has advantage on saving throws. Whenever the death’s head tree takes 4 or more damage in a single turn, one of its heads detaches.
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 6 | **Armor:** as plate  |
+| **Hit it:** easy    | **Dodge it:** easy  |
+| **Move:** no     |   | 
+
+It is **immune** to being stunned.
+It **resists** to bludgeoning, piercing and fire damage (because of its moist wood). 
+It **can** detect movement in its vicinity.
+It **can't** see or hear.
+**Additionally**, the death’s head tree has <ins>4D4 heads</ins>. While it has more than one head, it has advantage on saving throws. Whenever the death’s head tree takes 4 or more damage in a single turn, one of its heads detaches.
 
 **Attacks (# of heads/round)**
 
-<ins>Kiss.</ins> The death’s head tree makes one melee attack (1). On a hit, the target makes a save vs poison or catches the death’s head parasite.
+<ins>Fruit Kiss.</ins> The death’s head tree makes one melee attack (1). On a hit, the target makes a save vs poison or catches the death’s head parasite.
 
 <ins>Needle.</ins> The death’s head tree makes one ranged attack (1). On a hit, the target makes a save vs poison or catches the death’s head parasite.
 
@@ -36,13 +42,15 @@ Additionally, the death’s head tree has <ins>4D4 heads</ins>. While it has mor
 
 Imagine very rotten squash with folds that make it look like a pretty convincing wrinkly face. It floats.
 
-**HD:** 0  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** tiny <br>
-**Stats:** weak, slow and barely conscious<br>
-**Movement:** fly slow<br>
-**Morale:** mindless <br>
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 | **Armor:** none  |
+| **Hit it:** easy    | **Dodge it:** easy  |
+| **Move:** fly slow     |   | 
  
-As a plant, the death's head tree can't see, hear, or be stunned or dazed. However it detects movement in its vicinity.
+It is **immune** to being stunned.
+It **can** detect movement in its vicinity.
+It **can't** see or hear.
 
 **Attacks (1/round)**
 

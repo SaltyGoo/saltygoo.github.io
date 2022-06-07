@@ -5,40 +5,44 @@ permalink: /monsters/dragon-red
 title: Dragon, Red
 ---
 
-Fire-breathing mountain dragon. A beast.
+Fire-breathing mountain dragon. A huge beast.
 
-Imagine a strong looking dragon, with crimson scales, yellow belly and fearsome horns. It loves to display its superiority in everything.
+_Imagine a strong looking dragon, with crimson scales, yellow belly and fearsome horns. It loves to display its superiority in everything._
+
+_Titanic strength, arrogant intelligence, overconfident charisma._
+
+<br>
+
+---
 
 # Red Dragon
 
-**HD:** 10 + 15HP  &nbsp; &nbsp;  **Armor:** as plate <br>
-**Size:** huge <br>
-**Stats:** titanic strength and vitality, arrogant intelligence, confident charisma<br>
-**Movement:** average, fly fast<br>
-**Morale:** reckless <br>
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 10 +15HP | **Armor:** as plate  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal, fly fast   |   | 
 
-Dragons have advantage on all their saving throws. Red dragons are immune to fire.
-
-At the beginning of the dragon’s turn, each creature within sight of it must save vs fear or be frightened until the dragon’s next turn.
-
-**Noncombat Magic**
-Pyromancy, Geomancy, Binding.
+It is **immune** to fire.
+It **resists** all effects that require a saving throw.
+**Also**, at the beginning of its turn, each creature within sight of it must save vs fear or be [frightened](/2020/11/10/extra-rules/#conditions) until the dragon’s next turn.
+Out of combat, it can cast Pyroclastic, Geomantic, and Binding **magic**.
 
 **Attacks (3/round)**
 
-<ins>Bite.</ins> The dragon makes a melee attack, inflicting physical (1D8) and fire (1D8) damage and grappling the target.
+<ins>Bite.</ins> The dragon makes a melee attack, inflicting physical (1D8) and fire (1D8) damage and [grappling](/2020/11/10/extra-rules/#conditions) the target.
 
 <ins>Rake.</ins> The dragon makes two melee attacks (1D8) against one adjacent target.
 
-<ins>Tail Sweep.</ins> Everybody directly behind the dragon must dodge or be pushed back, knocked prone and take damage (1D8).
+<ins>Tail Sweep.</ins> Everybody directly behind the dragon must dodge or be pushed back, knocked [prone](/2020/11/10/extra-rules/#conditions) and take damage (1D8).
 
 <ins>Smell.</ins> The dragon detects all creatures near it.
 
-<ins>Spellcasting (5).</ins> *Conjure Fire Elemental, Fire Bane, Geas, Staggering Smite, Wall of Fire.*
+<ins>Spellcasting.</ins> *Conjure Fire Elemental, Fire Bane, Geas, Staggering Smite, Wall of Fire.*
 
-<ins>Fire Breath (recharge 2/6).</ins> The dragon inhales. At the beginning of its next turn, it exhales a short cone of fire instead of making attacks.
+<ins>Fire Breath (recharge 2/6).</ins> The dragon inhales. At the beginning of its next turn, it exhales a long cone of fire instead of making attacks.
 
-Each creature in the area must dodge or take fire damage (5D8), halved on a success. Also on a failure, one non-magical weapon or armor of the target is burned.
+Each creature in the area must dodge or take fire damage (5D8), halved on a success. Also on a failure, one non-magical weapon or armor of the target is destroyed, their choice.
 
 <br>
 
@@ -47,17 +51,19 @@ Each creature in the area must dodge or take fire damage (5D8), halved on a succ
 # Wyrmling
 <details markdown="1">
 <summary>Stats</summary>
-**HD:** 4  &nbsp; &nbsp;  **Armor:** as mail <br>
-**Size:** medium <br>
-**Stats:** strong and driven<br>
-**Movement:** average, fly fast<br>
-**Morale:** brave <br>
 
-Dragons have advantage on all their saving throws. Red dragons are immune to fire.
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 4 | **Armor:** as mail  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal, fly fast   |   | 
+
+It is **immune** to fire.
+It **resists** all effects that require a saving throw.
 
 **Attacks (1/round)**
 
-<ins>Bite.</ins> The dragon makes a melee attack, inflicting physical (1D6) and fire (1D4) damage and grappling the target.
+<ins>Bite.</ins> The dragon makes a melee attack, inflicting physical (1D6) and fire (1D4) damage and [grappling](/2020/11/10/extra-rules/#conditions) the target.
 
 <ins>Rake.</ins> The dragon makes two melee attacks (1D6) against one adjacent target.
 
@@ -65,7 +71,7 @@ Dragons have advantage on all their saving throws. Red dragons are immune to fir
 
 <ins>Fire Breath (recharge 2/6).</ins> The dragon inhales. At the beginning of its next turn, it exhales a short cone of fire instead of making attacks.
 
-Each creature in the area must dodge or take fire damage (5D4), halved on a success. Also on a failure, one non-magical weapon or armor of the target is burned.
+Each creature in the area must dodge or take fire damage (5D4), halved on a success. Also on a failure, one non-magical weapon or armor of the target is destroyed, their choice.
 </details>
 
 ---
@@ -73,29 +79,31 @@ Each creature in the area must dodge or take fire damage (5D4), halved on a succ
 # Young
 <details markdown="1">
 <summary>Stats</summary>
-**HD:** 7 + 7HP  &nbsp; &nbsp;  **Armor:** as plate <br>
-**Size:** large <br>
-**Stats:** strong, sly, sturdy and charismatic<br>
-**Movement:** average, fly fast<br>
-**Morale:** reckless <br>
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 7 +7HP | **Armor:** as plate  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal, fly fast   |   | 
 
-Dragons have advantage on all their saving throws. Red dragons are immune to fire.
+It is **immune** to fire.
+It **resists** all effects that require a saving throw.
+Out of combat, it can cast Pyroclastic, Geomantic, and Binding **magic**.
 
 **Attacks (2/round)**
 
-<ins>Bite.</ins> The dragon makes a melee attack, inflicting physical (1D6) and fire (1D6) damage and grappling the target.
+<ins>Bite.</ins> The dragon makes a melee attack, inflicting physical (1D6) and fire (1D6) damage and [grappling](/2020/11/10/extra-rules/#conditions) the target.
 
 <ins>Rake.</ins> The dragon makes two melee attacks (1D6) against one adjacent target.
 
-<ins>Tail Sweep.</ins> Everybody directly behind the dragon must dodge or be pushed back, knocked prone and take damage (1D6).
+<ins>Tail Sweep.</ins> Everybody directly behind the dragon must dodge or be pushed back, knocked [prone](/2020/11/10/extra-rules/#conditions) and take damage (1D6).
 
 <ins>Smell.</ins> The dragon detects all creatures near it.
 
-<ins>Spellcasting (4).</ins> *Conjure Fire Elemental, Fire Bane, Staggering Smite, Wall of Fire.*
+<ins>Spellcasting.</ins> *Conjure Fire Elemental, Fire Bane, Staggering Smite, Wall of Fire.*
 
-<ins>Fire Breath (recharge 2/6).</ins> The dragon inhales. At the beginning of its next turn, it exhales a short cone of fire instead of making attacks.
+<ins>Fire Breath (recharge 2/6).</ins> The dragon inhales. At the beginning of its next turn, it exhales a cone of fire instead of making attacks.
 
-Each creature in the area must dodge or take fire damage (5D6), halved on a success. Also on a failure, one non-magical weapon or armor of the target is burned.
+Each creature in the area must dodge or take fire damage (5D6), halved on a success. Also on a failure, one non-magical weapon or armor of the target is destroyed, their choice.
 </details>
 
  ---
@@ -103,35 +111,36 @@ Each creature in the area must dodge or take fire damage (5D6), halved on a succ
 # Ancient
 <details markdown="1">
 <summary>Stats</summary>
-**HD:** 10 + 45HP  &nbsp; &nbsp;  **Armor:** as plate <br>
-**Size:** gargantuan <br>
-**Stats:** epic<br>
-**Movement:** average, fly fast<br>
-**Morale:** reckless <br>
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 10 +45HP | **Armor:** as plate  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal, fly fast   |   | 
 
-Dragons have advantage on all their saving throws. Red dragons are immune to fire.
-
-At the beginning of the dragon’s turn, each creature within sight of it must save vs fear or be frightened until the dragon’s next turn.
+It is **immune** to fire.
+It **resists** all effects that require a saving throw.
+**Also**, at the beginning of its turn, each creature within sight of it must save vs fear or be [frightened](/2020/11/10/extra-rules/#conditions) until the dragon’s next turn.
+Out of combat, it can cast Pyroclastic, Geomantic, and Binding **magic**.
 
 The dragon’s wings leave a trail of scalding volcanic ash as it moves. When the dragon moves, three creatures on or under its path must dodge or take fire damage (2D10).
 
 **Attacks (3/round)**
 
-<ins>Bite.</ins> The dragon makes a melee attack, inflicting physical (1D10) and fire (1D10) damage and grappling the target.
+<ins>Bite.</ins> The dragon makes a melee attack, inflicting physical (1D10) and fire (1D10) damage and [grappling](/2020/11/10/extra-rules/#conditions) the target.
 
 <ins>Stomp.</ins> The dragon stomps two targets adjacent to each other. They take damage (1D10) if they fail to dodge. This attack does double damage to objects.
 
-<ins>Tail Sweep.</ins> Everybody directly behind the dragon must dodge or be pushed back, knocked prone and take damage (1D10).
+<ins>Tail Sweep.</ins> Everybody directly behind the dragon must dodge or be pushed back, knocked [prone](/2020/11/10/extra-rules/#conditions) and take damage (1D10).
 
-<ins>Swallow.</ins> The dragon throws one grappled target into the air and swallows it if it fails to dodge it. The swallowed creature is blinded, can't breathe and takes fire damage (1D10) at the beginning of each of its turns.
+<ins>Swallow.</ins> The dragon throws one grappled target into the air and swallows it if it fails to dodge it. The swallowed creature is [blinded](/2020/11/10/extra-rules/#conditions), can't breathe and takes fire damage (1D10) at the beginning of each of its turns.
 
 <ins>Smell.</ins> The dragon detects all creatures near it.
 
-<ins>Spellcasting (6).</ins> *Conjure Fire Elemental, Fire Bane, Forbiddance, Geas, Staggering Smite, Wall of Fire.*
+<ins>Spellcasting.</ins> *Conjure Fire Elemental, Fire Bane, Forbiddance, Geas, Staggering Smite, Wall of Fire.*
 
-<ins>Fire Breath (recharge 2/6).</ins> The dragon inhales. At the beginning of its next turn, it exhales a short cone of fire instead of making attacks.
+<ins>Fire Breath (recharge 2/6).</ins> The dragon inhales. At the beginning of its next turn, it exhales a huge cone of fire instead of making attacks.
 
-Each creature in the area must dodge or take fire damage (5D10), halved on a success. Also on a failure, one non-magical weapon or armor of the target is burned.
+Each creature in the area must dodge or take fire damage (5D10), halved on a success. Also on a failure, one non-magical weapon or armor of the target is destroyed, their choice.
 </details>
 
  ---
@@ -142,9 +151,9 @@ Non-wyrmlings dragons have the following additional attack options when in their
 
 <ins>Lava Eruption:</ins> The earth cracks at one point the dragon can see, creating a 20’ high, 10’ wide geyser of magma. Creatures in the area must dodge or take fire damage (2Dx).
 
-<ins>Earthquake:</ins> Each creature on the ground within sight of the dragon must make a save or be knocked prone.
+<ins>Earthquake:</ins> Each creature on the ground within sight of the dragon must make a save or be knocked [prone](/2020/11/10/extra-rules/#conditions).
 
-<ins>Volcanic Fissures:</ins> A fissure opens between two points and bursts with toxic volcanic gas. Creatures over the vent must save vs. poison or be poisoned until the end of their next turn. The vents have 1/4 chance to be exhausted each turn.
+<ins>Volcanic Fissures:</ins> A fissure opens between two points and bursts with toxic volcanic gas. Creatures over the vent must save or be [poisoned](/2020/11/10/extra-rules/#conditions) until the end of their next turn. The vents have 1/4 chance to be exhausted each turn.
 
 
  ---

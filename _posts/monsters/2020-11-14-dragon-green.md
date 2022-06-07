@@ -9,7 +9,7 @@ Means and poisonous forest dragon. A huge beast.
 
 _Imagine a sleek western dragon with a particularly long neck and yellow frills. It loves to lie and manipulate, and it wants as many living humanoids as it can in its hoard._
 
-_titanic strength, vicious intelligence, overconfident charisma._
+_Titanic strength, vicious intelligence, overconfident charisma._
 
 <br>
 
@@ -39,7 +39,7 @@ Out of combat, it can cast Divination, Druidic, and Alchemy-themed **magic**.
 
 <ins>Smell.</ins> The dragon detects all creatures near it.
 
-<ins>Spellcasting (3).</ins> *Dominate Person, Suggestion, Shape Change.*
+<ins>Spellcasting.</ins> *Dominate Person, Suggestion, Shape Change.*
 
 <ins>Poison Breath (recharge 2/6).</ins> The dragon inhales. At the beginning of its next turn, it exhales a long cone of poisonous gas instead of making attacks.
 

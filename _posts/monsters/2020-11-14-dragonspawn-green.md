@@ -5,29 +5,36 @@ permalink: /monsters/dragonspawn-green
 title: Dragonspawn, Green
 ---
 
-The horrible result of splicing dragon genes into a humanoid. A humanoid.
+The horrible result of splicing dragon genes into a humanoid. A large humanoid.
 
-Imagine a humanoid spliced with green dragon genes. A hulk of muscles and green scales, with bony wings sprouting from its uneven arms. Oh, and with sharp long teeth.
+_Imagine a humanoid spliced with green dragon genes. A hulk of muscles and green scales, with bony wings sprouting from its uneven arms. Oh, and with sharp long teeth._
 
-It lives in constant anguish of its unnatural state, hunting humanoids to feel better.
+_It lives in constant anguish of its unnatural state, hunting humanoids to feel better._
 
-**HD:** 4  &nbsp; &nbsp;  **Armor:** as leather <br>
-**Size:** large <br>
-**Stats:** strong, sturdy, surprisingly agile, but its mind is clouded by pain <br>
-**Movement:** fast <br>
-**Morale:** reckless <br>
+_Strong, surprisingly agile, but its mind is clouded by pain_
 
-Greenspawns are immune to poison, can hold their breath for 1 hour and have a great sense of smell.
+<br>
+
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 4 | **Armor:** as leather  |
+| **Hit it:** normal    | **Dodge it:** hard  |
+| **Move:** fast     |   | 
+
+It is **immune** to poison.
+It **can** smell very well and hold its breath for 1 hour.
 
 **Attacks (1/round)**
 
-<ins>Charge.</ins> The greenspawn bullrushes its full movement. If the target fails to dodge, it takes damage (2D6), is pushed back and is knocked prone.
+<ins>Charge.</ins> If it has the space for it, the greenspawn bullrushes a target. If it fails to dodge, it takes damage (1D10), is pushed back and is [knocked](/2020/11/10/extra-rules/#conditions) prone.
 
 <ins>Rake.</ins> The greenspawn makes two melee attacks (1D6) with its blade-like wings and then jumps back nearby.
 
-<ins>Throw.</ins> The greenspawn attempts to grapple a creature and bite it. On a success, it inflicts bite (1D6) and poison (1D6) damage. The target is then thrown nearby, taking damage (1D6) on impact and falling prone.
+<ins>Throw.</ins> The greenspawn attempts to [grapple](/2020/11/10/extra-rules/#conditions) a creature and bite it. On a success, it inflicts slashing and poison (1D8) damage. The target is then thrown nearby, taking damage (1D6) on impact and falling [prone](/2020/11/10/extra-rules/#conditions).
 
-<ins>Poison Cloud (recharge 2/6).</ins> The greenspawn exhales poison gas around it, providing total cover. Each creature in the area or ending their turn in the area must make a saving throw vs poison or take poison damage (3D6) and be poisoned until the end of their next turn. The cloud has a 1/4 chance of dissipating each turn.
+<ins>Poison Cloud (recharge 2/6).</ins> The greenspawn exhales poison gas around it, obscuring the area. Each creature near it or ending their turn there must save or take poison damage (2D6) and be [poisoned](/2020/11/10/extra-rules/#conditions) until the end of their next turn. The cloud has a 1/4 chance of dissipating each turn.
 
 <br>
 

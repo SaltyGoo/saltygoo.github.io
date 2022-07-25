@@ -7,20 +7,24 @@ title: Eladrin, Bralani
 
 A wrathful and sad greater ur-elf. A fey.
 
-Imagine a humanoid of towering beauty, its skin in hues of frost and its eyes darkened by deep sadness. One crystalline tear slides on its left cheek. Its lean, muscular arm tenses as it readies an arrow.
+_Imagine a humanoid of towering beauty, its skin in hues of frost and its eyes darkened by deep sadness. One crystalline tear slides on its left cheek. Its lean, muscular arm tenses as it readies an arrow._
 
-**HD:** 3  &nbsp; &nbsp;  **Armor:** leather <br>
-**Size:** medium <br>
-**Stats:** better than you in any way, but exceptionally strong and supernaturally agile <br>
-**Movement:** fast <br>
-**Morale:** brave <br>
+_Depressed drama-queen, resolute warrior, supernatural grace._
 
-As a fairy, the eladrin *resists mundane weapons and spells* and WIS must be used for attack rolls against it. However, if it touches cold iron, it loses all these abilities and spells for a round. Additionally, the eldrin can teleport to any location in sight.
+<br>
 
-Bralanis specifically embody the roughness of creeping winter: they are immune to cold and are expert hunters. They can see clearly kilometres away.
+---
 
-**Non-Combat Magic** <br>
-Divination, Cryomancy, Tempestomancy
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 3 | **Armor:** leather |
+| **Hit it:** hard    | **Dodge it:** hard  |
+| **Move:** fast     |   | 
+
+It is **immune** to cold.
+It **resists** mundane weapons and spells (because it's a fairy).
+It **can** teleport to any location in sight, and see clearly kilometers away.
+Out of combat, it can cast divination, cryomancy and storm-themed **magic**. If slain, it becomes an ice statue.
 
 **Attacks (1/round) (fey)**
 
@@ -28,7 +32,7 @@ Divination, Cryomancy, Tempestomancy
 
 <ins>Triple Ice Arrows</ins>. The eladrin makes three ranged bow attacks (1D6), then teleports nearby. One hit target is frozen to the ground unless it saves.
 
-<ins>Spellcasting (3).</ins> *Wind Wall, Mirror Image, Control Weather.*
+<ins>Spellcasting.</ins> *Wind Wall, Mirror Image, Control Weather.*
 
 <ins>Elemental Form.</ins> The eladrin turns into a whirling wind, allowing it to fly. As a gaseous creature, the eladrin cant be petrified or grappled, be hit by mundane weapons and can fit into any hole. However, winds can hurt it like a sword.
 

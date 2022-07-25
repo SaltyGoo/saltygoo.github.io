@@ -7,15 +7,20 @@ title: Dwarf, Hill
 
 Prospector frontier dwarves. An humanoid.
 
-Imagine a 4’ short hairy humanoid with earthy skin and thick hair the color of clay. It dresses in stripes and work garb and has a voice that carries much farther than it should. It is soaked in alcohol and its heart is made of coal.
+_Imagine a 4’ short hairy humanoid with earthy skin and thick hair the color of clay. It dresses in stripes and work-garb and has a voice that carries much farther than it should. It is soaked in alcohol and its heart is made of coal._
 
-**HD:** 1 + 2HP  &nbsp; &nbsp;  **Armor:** as equipped <br>
-**Size:** medium <br>
-**Stats:** sturdy, grumpy or exuberant<br>
-**Movement:** average <br>
-**Morale:** brave <br>
+_Fascist stuckup, Cruel militarist, utilitarian opportunist_
 
-Their alcohol-soaked coal heart makes them resistant to poisons.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 1 +2HP | **Armor:** leather  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal     |   | 
+
+It **resists** poison because of its coal heart.
+It **can** see in the dark and smell nearby crafted or carved objects.
 
 **Attacks (1/round)**
 

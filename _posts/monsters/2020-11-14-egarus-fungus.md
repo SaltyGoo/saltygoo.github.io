@@ -5,28 +5,32 @@ permalink: /monsters/egarus-fungus
 title: Egarus Fungus
 ---
 
-Antimatter mould. A plant.
+Antimatter mould. A tiny plant.
 
-Imagine a spongy white shapeless mould that floats mid air. Everything around it is gone, disintegrated.
+_Imagine a spongy white shapeless mould that floats mid-air. Everything around it is gone, disintegrated._
 
-**HD:** 0  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** tiny <br>
-**Stats:** sturdy, sticky and barely conscious<br>
-**Movement:** static<br>
-**Morale:** mindless <br>
+<br>
 
-Because it consumes everything it touches, the fungus is immune to physical damage. As a plant, the egarus fungus can't see, hear, or be stunned or dazed. However it detects matter in its vicinity.
+---
 
-The fungus is entirely sticky. It gets stuck to anything it touches and a strength roll is required to remove it (It will be stuck to the thing that removed it). Any damage it takes while stuck on a creature is also taken by the creature.
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 | **Armor:** none  |
+| **Hit it:** easy    | **Dodge it:** hard  |
+| **Move:** no     |   | 
+
+It is **immune** to physical damage (it eats it) and being stunned.
+It **can** detect physical matter in its vicinity.
+It **can't** see or hear.
+**Additionally**, the fungus is entirely sticky. It gets stuck to anything it touches and a fortitude roll is required to remove it (It will then be stuck to the thing that removed it). Any damage it takes while stuck on a creature is also taken by the creature.
 
 **Attacks (1/round)**
 
 <ins>Process</ins>. The fungus does the first action in this list it has a valid target for, in this order:
 - *Absorb Magic*. The fungus ends one magical effect or property on its attachment. It has a 1/6 chance to duplicate.
 - *Consume Object*. The fungus consumes 1 object (max 5’) it is attached to. It has a 1/6 chance to duplicate.
-- *Consume Organism*. The fungus inflicts (5D6) acid damage to the creature it is attached to. 1/6 chance to duplicate.
+- *Consume Organism*. The fungus inflicts (3D6) acid damage to the creature it is attached to. 1/6 chance to duplicate.
 - *Attraction*. The fungus sticks itself to the closest object it can perceive.
-
 
 <br>
 

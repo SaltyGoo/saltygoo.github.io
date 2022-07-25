@@ -7,15 +7,20 @@ title: Dwarf, Dvergr
 
 Deep earth fascist dwarves. An humanoid.
 
-Imagine a 4’ short humanoid with rocky gray skin, dark eyes and hair that seem made of steel wool. It dresses in drab work clothes that are often studded. Its heart is made of dark crystal.
+_Imagine a 4’ short humanoid with rocky gray skin, dark eyes and hair that seem made of steel wool. It dresses in drab work clothes that are often studded. Its heart is made of dark crystal._
 
-**HD:** 1 + 2HP  &nbsp; &nbsp;  **Armor:** as equipped <br>
-**Size:** medium <br>
-**Stats:** sturdy, emotionally stunted <br>
-**Movement:** average <br>
-**Morale:** brave <br>
+_Fascist stuckup, Cruel militarist, utilitarian opportunist_
 
-Dvergrs do not need light in the dark, as they smell everything that is crafted or carved. Their dark crystal hearts make them resistant to mind attacks.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 1 +2HP | **Armor:** leather  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal     |   | 
+
+It **resists** mind attacks because of if dark crystal heart.
+It **can** see in the dark and smell nearby crafted or carved objects.
 
 **Attacks (1/round)**
 

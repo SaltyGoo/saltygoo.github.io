@@ -9,7 +9,7 @@ Prospector frontier dwarves. An humanoid.
 
 _Imagine a 4’ short hairy humanoid with earthy skin and thick hair the color of clay. It dresses in stripes and work-garb and has a voice that carries much farther than it should. It is soaked in alcohol and its heart is made of coal._
 
-_Fascist stuckup, Cruel militarist, utilitarian opportunist_
+_Moody Drunk, Proud craftsperson, Curious utilitarian_
 
 ---
 

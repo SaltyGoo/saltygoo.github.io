@@ -7,21 +7,29 @@ title: Elemental, Air
 
 Sentient wind. An air elemental.
 
-Imagine wind moving and shaping itself as if it had its own will. Communicates in hisses and temperature changes.
+_Imagine wind moving and shaping itself as if it had its own will. Communicates in hisses and temperature changes._
 
-**HD:** X  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** any <br>
-**Stats:** agile, strong and indecisive <br>
-**Movement:** fly fast<br>
-**Morale:** brave <br>
+_Fickle, emotional, LOUD and quiet._
 
-As elemental air, the air elemental *resists all damage* and is immune to electricity. It *recovers X HP* every round spent only flying and *takes 1D4* damage each round spent not moving.
+<br>
 
-As a gaseous creature, the air elemental can't be petrified or grappled, hit by mundane weapons and can fit into any hole. However, winds can hurt it like a sword. Additionally, the air elemental can shape air at will.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** X | **Armor:** none  |
+| **Hit it:** hard    | **Dodge it:** normal  |
+| **Move:** fly fast    |   | 
+
+It is **immune** to electricity, mundane weapons, and being [grappled](/2020/11/10/extra-rules/#conditions) or [petrified](/2020/11/10/extra-rules/#conditions) (because it's gaseous). 
+It **resists** all other damage (because it's an elemental).
+It **can** shape air at will, and move through any small hole.
+**Also**, it recovers 1D6 HP every round spent only flying.
+**However**, it takes 1D6 damage each round spent not moving, and wind can damage it.
 
 **Attacks (1/round)**
 
-<ins>Gust</ins>. The elemental pushes an adjacent creature. If it fails a save, it is blown away nearby, falls prone, and takes damage (XD4) on impact.
+<ins>Gust</ins>. The elemental pushes an adjacent creature. If it fails a save, it is blown away nearby, falls [prone](/2020/11/10/extra-rules/#conditions), and takes damage (XD4) on impact.
 
 <ins>Vortex</ins>. The elemental sucks all surrounding objects in. If they fail a save, each adjacent creature has the first 1D4 objects of their inventory stolen.
 

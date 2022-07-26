@@ -9,13 +9,23 @@ Sentient earth. An earth elemental.
 
 Imagine earth moving and shaping itself as if it had its own will. Communicates in tremors and groans.
 
-**HD:** X  &nbsp; &nbsp;  **Armor:** as plate <br>
-**Size:** any <br>
-**Stats:** strong & sturdy, dumb & clumsy <br>
-**Movement:** average <br>
-**Morale:** brave <br>
+_Straightforward, slow, conservative._
 
-As elemental earth, the earth elemental *resists all damage*. It *recovers X HP* every round spent on the ground and *takes 1D4 damage* each round spent not touching it. In general, it has the same properties as earth.
+<br>
+
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** X | **Armor:** as plate  |
+| **Hit it:** easy    | **Dodge it:** normal  |
+| **Move:** normal    |   | 
+
+It is **immune** to being [petrified](/2020/11/10/extra-rules/#conditions). 
+It **resists** all damage (because it's an elemental).
+It **can** shape earth at will.
+**Also**, it recovers 1D6 HP every round spent on ground.
+**However**, it takes 1D6 damage each round spent not touching the ground. In general, it has the same properties as earth.
 
 **Attacks (1/round)**
 

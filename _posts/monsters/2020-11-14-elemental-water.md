@@ -7,21 +7,31 @@ title: Elemental, Water
 
 Sentient water. A water elemental.
 
-Imagine water moving and shaping itself as if it had its own will. Communicates in gargles and swirls.
+_Imagine water moving and shaping itself as if it had its own will. Communicates in gargles and swirls._
 
-**HD:** X  &nbsp; &nbsp;  **Armor:** as leather <br>
-**Size:** any <br>
-**Stats:** strong & sturdy, dumb <br>
-**Movement:** average, swim fast <br>
-**Morale:** brave <br>
+_Calm until it's not, relativist, curious._
 
-As elemental water, the water elemental *resists all damage*. It *recovers X HP* every round spent in water and *takes 1D4 damage* each round spent out of water. In general, it has the same properties as water. Additionally, the elemental is liquid and can move through 1’’ holes, envelop smaller things and shape water at will.
+<br>
+
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** X | **Armor:** as leather  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal, swim fast    |   | 
+
+It is **immune** being [grappled](/2020/11/10/extra-rules/#conditions) or [petrified](/2020/11/10/extra-rules/#conditions) (because it's liquid). 
+It **resists** all damage (because it's an elemental).
+It **can** shape water at will, and move through any small hole.
+**Also**, it recovers 1D6 HP every round spent submerged.
+**However**, it takes 1D6 damage each round spent out of water. In general, it has the same properties as water.
 
 **Attacks (1/round)**
 
 <ins>Slam</ins>. The elemental makes a melee attack (XD4 damage).
 
-<ins>Drown</ins>. The elemental makes a grapple attempt. On success, it pours itself into the target’s mouth, inflicting 1D4 constitution damage. As long as it is grappled, the target can't breathe or talk.
+<ins>Drown</ins>. The elemental makes a grapple attempt. On success, it pours itself into the target’s mouth, inflicting 1D4 constitution damage. As long as it is grappled, the target [can't breathe](/2020/11/10/extra-rules/#conditions) or talk.
 
 <ins>Create Water</ins> (X/day). The elemental creates the equivalent of a 5' cube of water.
 

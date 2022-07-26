@@ -7,17 +7,25 @@ title: Elemental, Fire
 
 Sentient fire. A fire elemental.
 
-Imagine fire moving and shaping itself as if it had its own will. Communicates in sizzles and flickers.
+_Imagine fire moving and shaping itself as if it had its own will. Communicates in sizzles and flickers._
 
-**HD:** X  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** any <br>
-**Stats:** agile, dumb and impulsive <br>
-**Movement:** fast <br>
-**Morale:** brave <br>
+_Hungry, envious, simmering rage._
 
-As elemental fire, the fire elemental *resists all damage* and is *immune to fire*. It *recovers X HP* every round spent in water and *takes 1D4 damage* each round spent without fuel. In general, it has the same properties as fire such as shedding light and being snuffed by water.
+<br>
 
-As a gaseous creature, the fire elemental can't be petrified or grappled, hit by mundane weapons and can fit into any hole. However, winds can hurt it like a sword. Additionally, the fire elemental can shape flames at will.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** X | **Armor:** none  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** fast    |   | 
+
+It is **immune** to fire, mundane weapons, and being [grappled](/2020/11/10/extra-rules/#conditions) or [petrified](/2020/11/10/extra-rules/#conditions) (because it's gaseous). 
+It **resists** all other damage (because it's an elemental).
+It **can** shape flames at will, and move through any small hole.
+**Also**, it recovers 1D6 HP every round it touches something flammable.
+**However**, it takes 1D6 damage each round spent without fuel. In general, it has the same properties as fire such as shedding light and being snuffed by water.
 
 **Attacks (1/round)**
 

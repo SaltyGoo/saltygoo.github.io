@@ -7,17 +7,25 @@ title: Elemental, Steam
 
 Sentient steam. A water elemental.
 
-Imagine vapour moving and shaping itself as if it had its own will. Communicates in hisses and temperature changes.
+_Imagine vapour moving and shaping itself as if it had its own will. Communicates in hisses and temperature changes._
 
-**HD:** X  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** any <br>
-**Stats:** average <br>
-**Movement:** fly average, swim fast <br>
-**Morale:** brave <br>
+_Sassy, Sweaty, explosive._
 
-As elemental water, the steam elemental *resists all damage* except electricity. It *recovers X HP* every round spent in steam and *takes 1D4 damage* each round spent in arid places. In general, it has the same properties as water.
+<br>
 
-As a gaseous creature, the steam elemental can't be petrified or grappled, hit by mundane weapons and can fit into any hole. However, winds can hurt it like a sword. Additionally, the steam elemental can shape steam at will.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** X | **Armor:** none  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal, swim normal    |   | 
+
+It is **immune** to mundane weapons, and being [grappled](/2020/11/10/extra-rules/#conditions) or [petrified](/2020/11/10/extra-rules/#conditions) (because it's gaseous). 
+It **resists** all other damage (because it's an elemental), except electricity.
+It **can** shape steam at will, and move through any small hole.
+**Also**, it recovers 1D6 HP every round spent in contact with water.
+**However**, it takes 1D6 damage each round spent in arid locations, and wind can damage it. In general, it has the same properties as water.
 
 **Attacks (1/round)**
 

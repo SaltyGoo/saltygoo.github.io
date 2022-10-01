@@ -29,7 +29,7 @@ Out of combat, it can cast divination and illusion-themed **magic**, and it know
 
 **Attacks (1/round)**
 
-<ins>Ram.</ins> If it has the space for it, the audreena charges with its horns (1D8). On a hit, targets with less than 7 strength fall prone.
+<ins>Ram.</ins> If it has the space for it, the audreena charges with its horns (1D8). On a hit, targets with less than 7 Fortitude fall prone.
 
 <ins>Kicks.</ins> The audreena makes two melee attacks (1D6).
 

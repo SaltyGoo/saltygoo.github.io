@@ -5,19 +5,27 @@ permalink: /monsters/golem-stone
 title: Golem, Stone
 ---
 
-Animated stone statue. A construct.
+Animated stone statue. A large construct.
 
-A statue made of solid stone. When it moves, it's in simplistic, straightforward gestures.
+_A statue made of solid stone. When it moves, it's in simplistic, straightforward gestures._
 
-**HD:** 5  &nbsp; &nbsp;  **Armor:** as plate <br>
-**Size:** large <br>
-**Stats:** strong, clumsy, and sturdy, but robotic <br>
-**Movement:** average <br>
-**Morale:** reckless <br>
+_Limited genius, Unnerving power, Wet weight._
 
-As a construct, the Stone Golem can be considered an object. It is *immune to fatigue, fear, poison and diseases*. However, anti-magic zones and *dispel effects paralyze it*. Additionally, the Stone Golem is *resistant to fire and magic*.
+<br>
 
-The golem’s activation glyph is hidden on some stone carvings. If destroyed, the golem is deactivated. It can be altered to change its order. Roll a D12 for its location:
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 5 | **Armor:** as plate  |
+| **Hit it:** easy    | **Dodge it:** normal  |
+| **Move:** normal    |   | 
+
+It is **immune** to [fatigue](/2020/11/10/extra-rules/#conditions), [fear](/2020/11/10/extra-rules/#conditions), poison and diseases (because it's an object). 
+It **resists** fire and magic.
+**However**, anti-magic zones and dispel effects paralyze it.
+
+If the golem’s activation glyph isspecifically destroyed, the golem is deactivated. It can be altered to change its order. Roll a D12 for its location:
 <details markdown="1">
 <summary>D12 glyph location</summary>
 1. Left Palm
@@ -36,13 +44,13 @@ The golem’s activation glyph is hidden on some stone carvings. If destroyed, t
 
 <ins>Slam.</ins> The Golem makes a melee attack with disadvantage (1D12). It inflicts double damage to objects.
 
-<ins>Grab.</ins> The golem makes a grapple attempt on a target, roll 1D4:
+<ins>Grab.</ins> The golem makes a [grapple](/2020/11/10/extra-rules/#conditions) attempt on a target, roll 1D4:
 1. Crush. The target takes 1D10 damage.
-1. Throw. The target is thrown at another target, on a hit, both take 1D8 damage and fall prone.
-1. Rip. The target takes 1D6 damage and an additional 1D6 damage unless they sacrifice one item they are wearing.
+1. Throw. The target is thrown at another target, on a hit, both take 1D8 damage and fall [prone](/2020/11/10/extra-rules/#conditions).
+1. Rip. The target takes 1D6 damage and an additional 1D6 damage unless they destroy one item they are wearing.
 1. Freeze. The golem blanks for a few seconds, nothing happens this turn.
 
-<ins>Shockwave.</ins> Every grounded creature and object near the golem must save or fall prone.
+<ins>Shockwave.</ins> Every grounded creature and object near the golem must save or fall [prone](/2020/11/10/extra-rules/#conditions).
 
 <br>
 

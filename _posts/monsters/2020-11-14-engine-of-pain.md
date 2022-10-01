@@ -30,13 +30,13 @@ Each engine of pain is outfitted with a tool on each of its arms, roll 1D4 twice
 
 <ins>Claw.</ins> The engine makes one melee attack (1D6) and grapples on a hit.
 
-<ins>Hammer.</ins> The engine makes one melee attack (1D6) and a target with less than 5 Strength is pushed nearby and falls prone. The damage is doubled against objects.
+<ins>Hammer.</ins> The engine makes one melee attack (1D6) and a target with less than 5 Fortitude is pushed nearby and falls prone. The damage is doubled against objects.
 
 <ins>Drill.</ins> The engine makes one melee attack (2D4). Doubled against objects.
 
 <ins>Sonic Blasters.</ins> Each adjacent creature and object immediately in front of the engine take (1D4). They take half damage on a successful save. The damage is doubled against objects.
 
-<span class="alchemy">**Weapon of Pain**. Each of the engine of pain’s weapons can be used by anybody but arming them inflicts 1D6 intelligence damage. </span>
+<span class="alchemy">**Weapon of Pain**. Each of the engine of pain’s weapons can be used by anybody but arming them inflicts 1D6 Willpower damage. </span>
 
 <br>
 

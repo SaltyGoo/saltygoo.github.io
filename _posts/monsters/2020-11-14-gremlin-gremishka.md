@@ -43,15 +43,17 @@ Gremishkas are notably allergic to magic. If a spell is cast within 30' of one o
 
 # Gremishka Swarm
 
-**HD:** 0 +3D4HP  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** medium <br>
-**Stats:** agile and alert but weak and hyperactive<br>
-**Movement:** fast <br>
-**Morale:** coward <br>
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 + 3D4HP| **Armor:** none  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** fast     |   | 
 
-As fairies, gremishkas *resist mundane weapons and spells* and WIS must be used for attack rolls against it. However, if they touch cold iron, they lose all these abilities and spells for a round. Additionally, they can see in the dark and are very stealthy.
+It **resists** mundane weapons and spells (because it's a fairy).
+It **can** see in the dark, and be very sneaky.
+**Also**, as a imaginary creature, willpower must be used for attack rolls against it instead of dexterity.
 
-In a swarm, gremishkas are immune to being grappled or attacked by single target spells, and resist mind damage. However, they take double damage from area of effect attacks.
+In a swarm, creatures are **immune** to being grappled or attacked by single target spells, and **resist** mind and weapon damage. **However**, they take double damage from area of effect attacks.
 
 Gremishkas are notably allergic to magic. If a spell is cast within 30' of one of them, roll a D3 on this table once:
 
@@ -61,7 +63,8 @@ Gremishkas are notably allergic to magic. If a spell is cast within 30' of one o
 
 **Attacks (1/round)**
 
-<ins>Bites and Scratches.</ins> The Gremishka Swarm makes a melee attack (1D4) with reach using its HP as its attack stat. If it inflicts 4 damage or more in a single attack, it steals an object from the target.
+<ins>Bites.</ins> To dodge a swarm’s attack, the roll has to beat 10 + the swarm's HP. It inflicts 1D4 damage. If it inflicts 4 damage or more in a single attack, it steals an object from the target.
+
 <br>
 
 ---

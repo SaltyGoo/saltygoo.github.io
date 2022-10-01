@@ -9,18 +9,21 @@ title: Githyanki
 
 Monkey-folk psychic sky pirates. A humanoid.
 
-Imagine a lanky yet muscular humanoid with green skin, wild hair and the face of a chimp. It wears intricate accoutrement of beaded and studded leathers and fringes.
+_Imagine a lanky yet muscular humanoid with green skin, wild hair and the face of a chimp. It wears intricate accoutrement of beaded and studded leathers and fringes._
 
-**HD:** 2  &nbsp; &nbsp;  **Armor:** chainmail <br>
-**Size:** medium <br>
-**Stats:** like an agile human<br>
-**Movement:** normal, climb normal <br>
-**Morale:** brave <br>
+_Simian agility, Disciplined ruthlessness, Buccaneer bravado._
 
-*A githyanki veteran would have 4HD and have their damage increased by one dice size*
+<br>
 
-**Non-Combat Magic** <br>
-Telekinesis
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 2 | **Armor:** chainmail |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal, climb normal     |   | 
+
+Out of combat, it can cast telekinetic-themed **magic**.
 
 **Attacks (1/round)**
 

@@ -7,25 +7,31 @@ title: Insectare
 
 Space-faring cricket-folk disguised as elves. An aberration.
 
-Imagine a beautiful elf, skin like porcelain. If you could get close, you’d see its eyes are compounded. If you could see under its elaborate scarves and cloak, you’d discover a chitinous insectoid body with joints like a puppet’s. If unmasked, it uncoils two cricket-like body-length antennae.
+_Imagine a beautiful elf, skin like porcelain. If you could get close, you’d see its eyes are compounded. If you could see under its elaborate scarves and cloak, you’d discover a chitinous insectoid body with joints like a puppet’s. If unmasked, it uncoils two cricket-like body-length antennae._
 
-**HD:** 1  &nbsp; &nbsp;  **Armor:** as chain <br>
-**Size:** medium <br>
-**Stats:** talented, careful, quick<br>
-**Movement:** average<br>
-**Morale:** coward <br>
+_Spy on a mission, Cold elegance, Insectoid twitches._
 
-_An insectare veteran would have 3HD and have increased damage die size_
+<br>
 
-As an aberration, the insectare *resists mind attacks* and *does not die* unless its killer succeeds a save vs fear. Additionally, they can see in the dark and jump 60'.
+---
 
-It is impossible to distinguish a disguised insectare from an elf when not adjacent to it. They are master manipulators.
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 1 | **Armor:** as chain  |
+| **Hit it:** hard    | **Dodge it:** normal  |
+| **Move:** normal     |   | 
+
+It is impossible to distinguish a disguised insectare from an elf when not adjacent to it.
+
+It **resists** mind attacks (because it's an aberration).
+It **can** jump 60', lie extremely well and see in the dark.
+It **can't** die unless it's would-be killer saves vs fear.
 
 **Attacks (1/round)**
 
 <ins>Saber Jump.</ins> The insectare makes a melee attack (1D6) and jumps 60' away.
 
-<ins>Antennae Whips.</ins> The insectare makes two melee attacks with reach (1D4). On a hit, a target must save or drop its weapon.
+<ins>Antennae Whips.</ins> The insectare makes two melee attacks with reach (1D2). On a hit, a target must save or drop its weapon.
 
 <br>
 

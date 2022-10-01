@@ -7,28 +7,36 @@ title: Genie, Djinn
 
 Wish-granting lords of the plane of air. An air elemental.
 
-Imagine a blue-skinned tall human. Instead of legs, a whirl of blue smoke cracks with magic. Its eyes glow with energy and its voice booms like thunder.
+_Imagine a blue-skinned tall human. Instead of legs, a whirl of blue smoke cracks with magic. Its eyes glow with energy and its voice booms like thunder._
 
-**HD:** 7  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** medium <br>
-**Stats:** extremely strong, healthy and charismatic, good at everything <br>
-**Movement:** fly fast <br>
-**Morale:** brave <br>
+_Universally talented, Deferential arrogance, Tempestuous strength._
 
-As elemental air, the djinn *resists all damage* and is *immune to electricity*. It *recovers 7 HP* every round spent only flying and *takes 1D4 damage* each round spent not moving. It also has very keen eyesight.
+<br>
 
-**Non-Combat Magic**
-Translocation, Aeromancy, Divination, Reality-Warping
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 7 | **Armor:** none  |
+| **Hit it:** hard    | **Dodge it:** hard  |
+| **Move:** fly fast    |   | 
+
+It is **immune** to electricity. 
+It **resists** all other damage (because it's an elemental).
+It **can** see extremely well.
+**Also**, it recovers 1D6 HP every round spent only flying.
+**However**, it takes 1D6 damage each round spent not moving.
+Out of combat, it can cast wind, translocation, reality-shaping and divination-themed **magic**.
 
 **Attacks (1/round)**
 
-<ins>Scimitar Whirl</ins>. The djinni makes a melee attack against three targets (1D8).
+<ins>Scimitar Whirl</ins>. The djinn makes a melee attack against three targets (1D8).
 
-<ins>Forked Lightning</ins>. The djinni makes a short ranged attack against three targets (1D8).
+<ins>Forked Lightning</ins>. The djinn makes a short ranged attack against three targets (1D8).
 
-<ins>Spellcasting (7)</ins>. *Major Illusion, Plane Shift, Polymorph, Summon Air Elemental, Karmic Wish.*
+<ins>Spellcasting</ins>. *Major Illusion, Plane Shift, Polymorph, Summon Air Elemental, Karmic Wish.*
 
-<ins>Tornado</ins>. The djinni creates a tornado anywhere it can see and moves it at a running pace in one direction. Any creature in its path must save or be sucked in, grappled and stunned. As long as the djinn holds concentration and sees the tornado, it can move it every turn with every creature inside.
+<ins>Tornado</ins>. The djinn creates a tornado anywhere it can see and moves it at a fast pace in one direction. Any creature in its path must save or be sucked in, [grappled](/2020/11/10/extra-rules/#conditions) and [stunned](/2020/11/10/extra-rules/#conditions). As long as the djinn holds concentration and sees the tornado, it can move it every turn with every creature inside.
 
 <br>
 

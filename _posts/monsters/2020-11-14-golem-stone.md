@@ -9,8 +9,6 @@ Animated stone statue. A large construct.
 
 _A statue made of solid stone. When it moves, it's in simplistic, straightforward gestures._
 
-_Limited genius, Unnerving power, Wet weight._
-
 <br>
 
 ---

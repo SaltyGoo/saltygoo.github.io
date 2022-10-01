@@ -21,7 +21,7 @@ _Gracefully stilted, prowling brute, mechanically obsessive._
 | **Hit it:** normal    | **Dodge it:** normal  |
 | **Move:** fast    |   | 
 
-It is **immune** to immune to [fatigue](/2020/11/10/extra-rules/#conditions), [fear](/2020/11/10/extra-rules/#conditions), [poison](/2020/11/10/extra-rules/#conditions) and diseases (because it's an object). 
+It is **immune** to [fatigue](/2020/11/10/extra-rules/#conditions), [fear](/2020/11/10/extra-rules/#conditions), [poison](/2020/11/10/extra-rules/#conditions) and diseases (because it's an object). 
 It **resists** fire and magic.
 It **can** climb most surfaces like a cat and jump 30'.
 **However**, anti-magic zones and dispel effects paralyze it, and, when it dies, it crumbles and leaves behind 1D6 chunks of amber ([valuable treasure](/2020/11/09/base-rules)).

@@ -5,25 +5,30 @@ permalink: /monsters/giant-desert
 title: Giant, Desert
 ---
 
-Nomadic giant that slowly turns into stone. An humanoid.
+Nomadic giant that slowly turns into stone. A huge humanoid.
 
-Imagine a huge humanoid, covered in sand-colored scarves and tunics. It’s bald with a skin the texture of sandpaper and has piercing blue eyes.
+_Imagine a huge humanoid, covered in sand-colored scarves and tunics. It’s bald with a skin the texture of sandpaper and has piercing blue eyes._
 
-**HD:** 6 +6HP  &nbsp; &nbsp;  **Armor:** as leather <br>
-**Size:** huge <br>
-**Stats:** very strong and sturdy, surprisingly agile, resigned. <br>
-**Movement:** fast <br>
-**Morale:** brave <br>
+_Fatalistically suspicious, Calm grace, Weathered endurance._
 
-Desert giant outfits meld naturally with the desert landscape, allowing them to easily hide in their environment. They are herders and beast riders, they are expert in handling beasts and surviving the desert.
+<br>
 
-Desert giants are cursed to become sandstone before they die. If one gets below 12 HP, it gains resistance to non-magical damage but its movement speed becomes slow.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 6 +6HP | **Armor:** as leather  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** fast     |   | 
+
+It **can** meld naturally with desert landscapes, expertly herd beasts and survive arid climates.
+**Also**, if it gets below 12 HP, it gains resistance to non-magical damage but its movement speed becomes slow.
 
 **Attacks (1/round)**
 
 <ins>Giant Scimitar.</ins> The giant makes two melee attacks (1D10).
 
-<ins>Spear Throw.</ins> The giant makes one ranged attack (1D10). On a hit, the target is knocked prone.
+<ins>Spear Throw.</ins> The giant makes one ranged attack (1D10). On a hit, the target is knocked [prone](/2020/11/10/extra-rules/#conditions).
 
 <ins>Sand-Raider’s Ululation.</ins> One beast allied to the giant moves and makes a melee attack with advantage.
 <br>

@@ -5,32 +5,35 @@ permalink: /monsters/garradalaigh-audreena
 title: Garradalaigh, Audreena
 ---
 
-Weird chimera that trades magical good deeds for the gift of mammal friendship.. A fey.
+Weird chimera that trades magical good deeds for the gift of mammal friendship. A large fey.
 
-Imagine for a moment a winged unicorn, except this one seems way off upon closer inspection: six legs, four goat eyes, a horn more akin to a rhinoceros’s, fleshy wings, and a neck that is actually a caterpillar’s body.
+_Imagine for a moment a winged unicorn, except this one seems way off upon closer inspection: six legs, four goat eyes, a horn more akin to a rhinoceros’s, fleshy wings, and a neck that is actually a caterpillar’s body._
 
-**HD:** 5  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** large <br>
-**Stats:** horse strength, keen spirit and health<br>
-**Movement:** fast, fly average, swim fast <br>
-**Morale:** coward <br>
+_Silent wisdom, Equine strength, Arcane majesty._
 
-As a fairy, the audreena *resists mundane weapons and spells* and WIS must be used for attack rolls against it. However, if it touches cold iron, it loses all its abilities and spells for a round.
+<br>
 
-Additionally, audreenas are know all wizards and have keen eyesight. They can speak telepathically to any warm-blooded creature in sight and breathe underwater.
+---
 
-More extraordinary: audreenas only exist to adjacent creatures and cannot be affected whatsoever by creatures further away.
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 5 | **Armor:** none |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** fast, fly normal, swim fast     |   | 
 
-**Non-combat Magic**
-Divination, Illusion
+It is **immune** to anything not adjacent to it (it only exist when close).
+It **resists** mundane weapons and spells (because it's a fairy).
+It **can** speak telepathically with any warm-blooded creature, breathe underwater, a see very well.
+**Also**, as a imaginary creature, willpower must be used for attack rolls against it instead of dexterity.
+Out of combat, it can cast divination and illusion-themed **magic**, and it knows who all wizards are. 
 
 **Attacks (1/round)**
 
-<ins>Ram.</ins> The audreena runs its full movement and makes a melee attack (2D4). On a hit, targets with less than 7 STR fall prone.
+<ins>Ram.</ins> If it has the space for it, the audreena charges with its horns (1D8). On a hit, targets with less than 7 strength fall prone.
 
 <ins>Kicks.</ins> The audreena makes two melee attacks (1D6).
 
-<ins>Spellcasting (4)</ins>. *Confusion, Improved Invisibility, Clairvoyance*.
+<ins>Spellcasting</ins>. *Confusion, Improved Invisibility, Clairvoyance*.
 
 <br>
 

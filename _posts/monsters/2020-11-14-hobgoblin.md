@@ -9,7 +9,7 @@ Taller, bossy [goblins](/monsters/goblin). An humanoid.
 
 If goblins are small ugly things, hobgoblins are tall ugly things. All teeth, with tiny yet intelligent eyes, bat ears and lanky arms. They stand proud, and most of them are muscular.
 
-_Stupidly clever, Stupidly comical, Stupidly mean._
+_Fragile Ego, Clever bully, Honorless militarist._
 
 <br>
 

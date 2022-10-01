@@ -7,35 +7,42 @@ title: Ghost, Dhaot
 
 Ghost of a lost, thirsty traveler. An undead.
 
-Imagine a person so dehydrated you can see through it. Its mummified skin seems tightly stretched on its bones. Sand trickles out of its pores.
+_Imagine a person so dehydrated you can see through it. Its mummified skin seems tightly stretched on its bones. Sand trickles out of its pores._
 
-**HD:** 3  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** medium <br>
-**Stats:** purely emotional <br>
-**Movement:** slow <br>
-**Morale:** reckless <br>
+_Longing for home, Bottomless hunger, Melancholic fatalism._
 
-As an undead creature, the dhaot does not starve to death, breathe, sleep or tire and can't be poisoned.
+<br>
 
-The dhaot is ethereal when first encountered. As an ethereal creature, it is immune to damage from a non-magical source, as well as grapples and petrification. Silver weapons ignore its resistances. While ethereal, the dhaot can pass through anything, and it cannot be affected by physical creatures. Contrary to other ghosts, the dhaot is unaffected by sunlight.
+---
 
-Dhaots can see in the dark, and in the ethereal realm and the material plane at the same time.
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 3 | **Armor:** none  |
+| **Hit it:** easy    | **Dodge it:** normal  |
+| **Move:** slow    |   | 
 
-A dhaot can only be killed when its remains are brought to the destination of its last voyage. If it loses all HP and its remains are still lost, it comes back fully healed after 10 minutes for each time it was "killed" that week.
+While **ethereal**, the ghost can pass through anything, and it cannot be affected by physical creatures. The ghost is ethereal by default.
 
-If a creature possessed by a dhaot disobeys it's command, the dhaot leaves the ethereal realm. The triggering creature must save vs fear or lose all HP and get a Wound.
+It is **immune** to nonmagical damage, being [grappled](/2020/11/10/extra-rules/#conditions) or [petrified](/2020/11/10/extra-rules/#conditions) (because it is ethereal), as well as [poison](/2020/11/10/extra-rules/#conditions) and [exhaustion](/2020/11/10/extra-rules/#conditions) (because it is undead). It doesn't need to eat, breathe, sleep.  
+It **can** see in the dark as well as the ether.
+
+A dhaot can only be killed when its remains are brought to the destination of its last voyage. If it loses all HP and its remains are still lost, it comes back fully healed after 10 minutes for each time it was defeated that week.
+
+
 
 **Attacks (1/round) while ethereal**
 
-<ins>Phantasm</ins>. One creature the dhaot can see must save or believe it sees something. The illusion has the statistics of the real thing but can only affect or be seen by the target. The illusion cannot inflict more than (1D8) damage per turn. The illusion can cast the spell _charm person_.
+<ins>Phantasm</ins>. One creature the dhaot can see must save or believe it sees something. The illusion has the statistics of the real thing but can only affect or be seen by the target. The illusion cannot inflict more than (1D6) damage per turn. The illusion can cast the spell _charm person_.
 
-<ins>Possession</ins>. One creature the dhaot can see must save or be possessed by it. The possession lasts until the body drops to 0 hit points, the dhaot ends it, or the dhaot is turned or forced out by a spell. Until then, the target must obey a two-word command given to it by the dhaot to the best of its capacities without revealing they are possessed. While possessing, the dhaot can use its drain water ability.
+<ins>Possession</ins>. One creature the dhaot can see must save or be possessed by it. The possession lasts until the host drops to 0 hit points, the dhaot ends it, or the dhaot is turned or forced out by a spell. Until then, the target must obey a two-word command given to it by the dhaot to the best of its capacities without revealing they are possessed. While possessing, the dhaot can use its drain water ability.
+
+If a creature possessed by a dhaot disobeys it's command, the dhaot leaves the ethereal realm. The triggering creature must save or lose all HP and get a [Wound](/2020/11/09/base-rules/).
 
 <ins>Spatial Distortion</ins>. Target creature the dhaot can see reverts to where it was at the beginning of last turn.
 
 **Attacks (1/round) while manifested**
 
-<ins>Drain Water</ins>. The dhaot turns 1 ration or liquid into sand. The dhaot can drain the water out of a living creature’s system, which must save or take damage (1D8), vomit sand and take one level of exhaustion.
+<ins>Drain Water</ins>. The dhaot turns 1 ration or liquid into sand. The dhaot can drain the water out of a living creature’s system, which must save or take damage (1D8), vomit sand and take one level of [exhaustion](/2020/11/10/extra-rules/#conditions).
 
 <br>
 

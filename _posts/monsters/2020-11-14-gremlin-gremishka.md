@@ -5,22 +5,30 @@ permalink: /monsters/gremlin-gremishka
 title: Gremlin, Gremishka
 ---
 
-Kleptomaniac house fairy. A fey.
+Kleptomaniac house fairy. A tiny fey.
 
 Imagine a pint-sized, furred, cat-eyed humanoid with a muzzle. It moves around at high speed, often passing for a house cat or a rat, but its long fingered hands and feet and oversized toothy mouth betrays its supernatural nature.
 
-**HD:** 0  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** tiny <br>
-**Stats:** weak, yet agile <br>
-**Movement:** fast <br>
-**Morale:** coward <br>
+_Vicious tricksters, Nagging coward, Hysterical pest._
 
-As a fairy, the Gremishka *resists mundane weapons and spells* and WIS must be used for attack rolls against it. However, if it touches cold iron, it loses all these abilities and spells for a round. Additionally, the gremishka can see in the dark and is very stealthy.
+<br>
+
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 | **Armor:** none |
+| **Hit it:** hard    | **Dodge it:** normal  |
+| **Move:** fast     |   | 
+
+It **resists** mundane weapons and spells (because it's a fairy).
+It **can** see in the dark, and be very sneaky.
+**Also**, as a imaginary creature, willpower must be used for attack rolls against it instead of dexterity.
 
 Gremishkas are notably allergic to magic. If a spell is cast within 30' of one of them, roll a D3 on this table once:
 
 1. The caster nearly mishaps. It gains [1 Doom Point](/class/wizard#spells).
-2. The gremishkas in range grow! They gain 1D4 extra HP.
+2. The gremishkas nearby grow! They gain 1D4 extra HP.
 3. The gremishkas multiply! Add a new swarm of them to the encounter.
 
 **Attacks (1/round)**

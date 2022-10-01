@@ -7,7 +7,7 @@ title: Ghoul, Beast
 
 A template to turn other monsters into ghouls. An undead.
 
-There is something off with this creature: it is sickly, crusted with dirt, and a long, thick tongue that stretches all the way to the ground. Its eyes are bloodshot and evil and its long, dirty claws are blood soaked. It stinks.
+_There is something off with this creature: it is sickly, crusted with dirt, and a long, thick tongue that stretches all the way to the ground. Its eyes are bloodshot and evil and its long, dirty claws are blood soaked. It stinks._
 
 **Add these abilities to the creature's**
 
@@ -16,7 +16,7 @@ As undead creatures, ghoul beasts do not starve to death (even if they do feel h
 **Add these attacks to the creature's** <br>
 _These dice are for a medium-sized creature. Scale the dice up or down for each size difference._
 
-<ins>Diseased Claw</ins>.  The ghoul makes one melee attack (1D4). On a hit, the target must save against diseases or be paralyzed. A paralyzed target can save again at the end of each of its turns, getting free after two successes, or after 10 minutes if it fails two times, whichever comes first. If the target fails, it catches ghoul rabies.
+<ins>Diseased Claw</ins>. The ghoul makes one melee attack (1D4). On a hit, the target must save or be [stunned](/2020/11/10/extra-rules/#conditions). It can save again at the end of each of its turns, it is freed after two successes, or catches Ghoul Rabies and stays paralyzed 10 minutes after two failures.
 
 <ins>Feral Bite</ins>. The ghoul makes one melee attack (1D6). Other creatures have advantage on their melee attacks against it until its next turn.
 

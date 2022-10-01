@@ -16,7 +16,7 @@ Your choice of Butchery, Debauchery or Farming.
 
 For every Pigfolk template you have, one of your Inventory slot is filled with **Fat**.
 
-**A:** Bulk I, Pig Nose I<br>
+**A:** Bulk, Pig Nose I<br>
 **B:** Dungeon Cook, Caloric Burn<br>
 **C:** Pig Nose II<br>
 **D:** Butcher<br>

@@ -7,15 +7,21 @@ title: Engine of Pain
 
 Mech-suits with construction tools. A construct with an unconscious humanoid inside.
 
-A steaming, rusty mech-suit. Trapped inside are the vegetative remains of a punished humanoid. All it understands now are the orders of its master, and pain.
+_A steaming, rusty mech-suit. Trapped inside are the vegetative remains of a punished humanoid. All it understands now are the orders of its master, and pain._
 
-**HD:** 3  &nbsp; &nbsp;  **Armor:** as plate <br>
-**Size:** medium <br>
-**Stats:** strong, clumsy, but numb <br>
-**Movement:** slow <br>
-**Morale:** reckless <br>
+_Numbed by pain, focused on the task, stilted movements._
 
-As a construct, the engine of pain can be considered an object. It is *immune to fatigue, fear, poison and diseases*.
+<br>
+
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 3 | **Armor:** as plate  |
+| **Hit it:** easy    | **Dodge it:** normal  |
+| **Move:** slow    |   | 
+
+It is **immune** to [fatigue](/2020/11/10/extra-rules/#conditions), [fear](/2020/11/10/extra-rules/#conditions), [poison](/2020/11/10/extra-rules/#conditions) and diseases (because it's an object). 
 
 Targeting the body inside the engine is made at disadvantage but inflicts 1D8 extra damage.
 
@@ -24,11 +30,11 @@ Each engine of pain is outfitted with a tool on each of its arms, roll 1D4 twice
 
 <ins>Claw.</ins> The engine makes one melee attack (1D6) and grapples on a hit.
 
-<ins>Hammer.</ins> The engine makes one melee attack (1D6) and a target with less than 5 STR is pushed nearby and falls prone. The damage is doubled against objects.
+<ins>Hammer.</ins> The engine makes one melee attack (1D6) and a target with less than 5 Strength is pushed nearby and falls prone. The damage is doubled against objects.
 
 <ins>Drill.</ins> The engine makes one melee attack (2D4). Doubled against objects.
 
-<ins>Sonic Blasters.</ins> Each adjacent creature and object immediately in front of the engine take (1D6). They take half damage and are not knocked on a successful save. The damage is doubled against objects.
+<ins>Sonic Blasters.</ins> Each adjacent creature and object immediately in front of the engine take (1D4). They take half damage on a successful save. The damage is doubled against objects.
 
 <span class="alchemy">**Weapon of Pain**. Each of the engine of pain’s weapons can be used by anybody but arming them inflicts 1D6 intelligence damage. </span>
 

@@ -9,13 +9,19 @@ Taller, bossy [goblins](/monsters/goblin). An humanoid.
 
 If goblins are small ugly things, hobgoblins are tall ugly things. All teeth, with tiny yet intelligent eyes, bat ears and lanky arms. They stand proud, and most of them are muscular.
 
-**HD:** 1  &nbsp; &nbsp;  **Armor:** as worn <br>
-**Size:** medium <br>
-**Stats:** strong, sturdy and dumb. <br>
-**Movement:** average <br>
-**Morale:** brave <br>
+_Stupidly clever, Stupidly comical, Stupidly mean._
 
-Hobgoblins can see in the dark.
+<br>
+
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 1 | **Armor:** chainmail |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal  |   | 
+
+It **can** see in the dark.
 
 **Attacks (1/round)**
 

@@ -5,19 +5,28 @@ permalink: /monsters/mephit-fire
 title: Mephit, Fire
 ---
 
-Fire animated by a spark of mischief. Elemental fire.
+Fire animated by a spark of mischief. Small elemental fire.
 
-Imagine if a little grotesque gargoyle was made of pure flames.
+_Imagine if a little grotesque gargoyle was made of pure flames._
 
-**HD:** 0  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** small <br>
-**Stats:** agile yet dumb <br>
-**Movement:** average fly fast <br>
-**Morale:** coward <br>
+_Hysterical, Herald of agressive negociations._
 
-As elemental fire, the fire mephit *resists all damage* and is *immune to fire*. It *recovers 1 HP* every round spent ablaze or with fuel and *loses 1 HP* each round spent without fuel. Contact with it inflicts 1 fire damage. It has the same properties as fire.
+<br>
 
-Additionally, when the fire mephit dies, it explodes in a small burst of flame inflicting 1D4 damage to all adjacent creatures and setting objects ablaze.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 | **Armor:** none  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal, fly fast    |   | 
+
+It is **immune** to fire. 
+It **resists** all other damage (because it's an elemental).
+**Also**, it recovers 1D6 HP every round it touches something flammable.
+**However**, it takes 1D6 damage each round spent without fuel. In general, it has the same properties as fire such as shedding light and being snuffed by water. It inflicts 1 damage to anything that damages it in melee.
+
+**Additionally**, when the fire mephit dies, it explodes in a small burst of flame inflicting 1D4 damage to all adjacent creatures and setting objects ablaze.
 
 **Attacks (1/round)**
 

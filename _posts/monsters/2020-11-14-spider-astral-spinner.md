@@ -5,21 +5,28 @@ permalink: /monsters/spider-astral-spinner
 title: Spider, Astral Spinner
 ---
 
-Parasitic spiders dwelling in the astral plane but preying on the material. A beast.
+Parasitic spiders dwelling in the astral plane but preying on the material. A tiny beast.
 
-Imagine a foot-long hairless spider the color of polished silver. Its hollow abdomen holds an eye-sized gelatinous orb filled with red, blue or purple liquid.
+_Imagine a foot-long hairless spider the color of polished silver. Its hollow abdomen holds an eye-sized gelatinous orb filled with red, blue or purple liquid._
 
-**HD:** 0  &nbsp; &nbsp;  **Armor:** as chain <br>
-**Size:** tiny <br>
-**Stats:** weak and feral<br>
-**Movement:** average, climb average <br>
-**Morale:** coward <br>
+<br>
 
-Spiders can climb on any surface, including upside down, with little difficulty. They are connected to their web and can feel anything that touches it. The astral spinner's web is made of pure silver coated in sticky fluid and exists both in the astral and material worlds. A body part wrapped in it ceases to exist in the material world.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 | **Armor:** as chain  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal, climb normal    |   | 
+
+It **can** detect anything that touches its silver web, walk on any surface, even upside down and also see the astral and material plane. 
+It **can’t** see well.
+
+**Also**, the astral spinner's web is made of pure silver coated in sticky fluid and exists both in the astral and material worlds. A body part wrapped in it ceases to exist in the material world.
 
 **Attacks (1/round)**
 
-<ins>Bind.</ins> The astral spinner goads a creature into tangling itself even more in its web. On a failed save, roll a new grappled body part. If 3 or more body parts are grappled, 1D4 more astral spinners phase in. If the whole body is bound, the creature is fully phased to the astral plane and will be devoured by the Astral Spinner Host.
+<ins>Bind.</ins> The astral spinner goads a creature into tangling itself even more in its web. On a failed save, roll a new [grappled](/2020/11/10/extra-rules/#conditions) body part. If 3 or more body parts are grappled, 1D4 more astral spinners phase in from the astral plane. If the whole body is bound, the creature is fully phased to the astral plane and will be devoured by the Astral Spinner Host.
 
 <ins>Phase.</ins> The astral spinner switches between the astral plane and the material plane.
 
@@ -29,21 +36,21 @@ Spiders can climb on any surface, including upside down, with little difficulty.
 
 # Astral Spinner Host
 
-Imagine an emaciated humanoid with mandibles, very long fingers and eyes like beads filled with blue, red or purple liquid. It floats in the middle of its silver hair that spreads 300' across like spiderwebs.
+_Imagine an emaciated humanoid with mandibles, very long fingers and eyes like beads filled with blue, red or purple liquid. It floats in the middle of its silver hair that spreads 300' across like spiderwebs._
 
-**HD:** 3  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** medium (gargantuan with hair) <br>
-**Stats:** slow and feral<br>
-**Movement:** fly slow <br>
-**Morale:** coward <br>
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 3 | **Armor:** none  |
+| **Hit it:** easy    | **Dodge it:** normal  |
+| **Move:** fly slow    |   | 
 
 The spinner host is entirely in the astral sea. Unlike the spinners themselves, it cannot see and phase into the material world. It is surrounded by 300' of sticky silver hairs that capture whoever tries to get close to it. If the web is disturbed, 1D4 astral spinners appear.
 
 **Attacks (1/round)**
 
-<ins>Latch.</ins> The astral spinner host makes a melee attack (1D4) and grapple a target with its mandibles.
+<ins>Latch.</ins> The astral spinner host makes a melee attack (1D4) and [grapple](/2020/11/10/extra-rules/#conditions) a target with its mandibles.
 
-<ins>Drain Essence.</ins> The astral spinner host drains a grappled target of its essence, inflicting 1D4 CHA damage. If this brings the target's CHA to 0, it is phased back to the material world as a dead, empty husk.
+<ins>Drain Essence.</ins> The astral spinner host drains a grappled target of its essence, inflicting 1D4 Willpower damage. If this brings the target's Willpower to 0, it is phased back to the material world as a dead, empty husk.
 
 <br>
 

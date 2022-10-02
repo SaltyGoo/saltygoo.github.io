@@ -5,19 +5,28 @@ permalink: /monsters/mephit-earth
 title: Mephit, Earth
 ---
 
-Earth animated by a spark of mischief. Elemental earth.
+Earth animated by a spark of mischief. Small elemental earth.
 
-Imagine if a little grotesque gargoyle was made of dirt and gravel.
+_Imagine if a little grotesque gargoyle was made of dirt and gravel._
 
-**HD:** 0  &nbsp; &nbsp;  **Armor:** as chain <br>
-**Size:** small <br>
-**Stats:** sturdy yet dumb <br>
-**Movement:** average <br>
-**Morale:** coward <br>
+_Lazy, Herald of stalling negotiations._
 
-As elemental earth, the earth mephit *resists all damage*. It *recovers 1 HP* every round spent on the ground and *loses 1 HP* each round spent not touching it. It has the same properties as gravel.
+<br>
 
-Additionally, when the earth mephit dies, it explodes in a small burst of gravel inflicting 1D4 damage to all adjacent creatures and objects.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 | **Armor:** as chain  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal    |   | 
+
+It is **immune** to being [petrified](/2020/11/10/extra-rules/#conditions). 
+It **resists** all damage (because it's an elemental).
+**Also**, it recovers 1D6 HP every round spent on ground.
+**However**, it takes 1D6 damage each round spent not touching the ground. In general, it has the same properties as gravel.
+
+**Additionally**, when the earth mephit dies, it explodes in a small burst of gravel inflicting 1D4 damage to all adjacent creatures and objects.
 
 **Attacks (1/round)**
 

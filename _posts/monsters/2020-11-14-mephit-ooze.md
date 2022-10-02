@@ -5,25 +5,35 @@ permalink: /monsters/mephit-ooze
 title: Mephit, Ooze
 ---
 
-Earth and water animated by a spark of mischief. Elemental earth and water.
+Earth and water animated by a spark of mischief. Small elemental earth and water.
 
-Imagine if a little grotesque gargoyle was made of ever dripping mud.
+_Imagine if a little grotesque gargoyle was made of ever dripping mud._
 
-**HD:** 0  &nbsp; &nbsp;  **Armor:** as leather <br>
-**Size:** small <br>
-**Stats:** sturdy yet dumb <br>
-**Movement:** average, swim average, fly average <br>
-**Morale:** coward <br>
+_Meek, Herald of flattery._
 
-As elemental earth and water, the ooze mephit *resists all damage*. It *recovers 1 HP* every round spent in mud or ooze and *loses 1 HP* each round spent not touching it. It has the same properties as mud and can squeeze through holes as small as 1 inch.
+<br>
 
-Additionally, when the ooze mephit dies, it explodes in a small burst of ooze which not only permanently stains clothes, but make everybody caught in the blast poisoned from the stench for 10 minutes.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 0 | **Armor:** as leather  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal, swim & fly normal    |   | 
+
+It is **immune** being [grappled](/2020/11/10/extra-rules/#conditions). 
+It **resists** all damage (because it's an elemental).
+It **can** move through any small hole.
+**Also**, it recovers 1D6 HP every round spent in mud or ooze
+**However**, it takes 1D6 damage each round spent out of it. In general, it has the same properties as mud.
+
+**Additionally**, when it dies, it explodes in a small burst of ooze which not only permanently stains clothes, but makes everybody caught in the blast [poisoned](/2020/11/10/extra-rules/#conditions) from the stench for 10 minutes.
 
 **Attacks (1/round)**
 
 <ins>Spit Ooze</ins>. The mephit makes a-ranged attack against a target. On a hit, roll a D6, that body part is glued: 1) mouth ([cant breathe](https://saltygoo.github.io/2020/11/10/extra-rules/#conditions)); 2) a leg (cant move); 3) an arm (stuck to an adjacent surface or creature); 4) eyes (blinded).
 
-<ins>Sticky Hands</ins>. The mephit makes a grapple attempt with advantage. On a roll of 20, it enters the mouth of its target, choking it from the inside. Drinking a lot or making yourself vomit allows a CON save to expulse it. Alcohol gives you advantage.
+<ins>Sticky Hands</ins>. The mephit makes a [grapple](/2020/11/10/extra-rules/#conditions) attempt with advantage. On a roll of 20, it enters the mouth of its target, choking it from the inside. Drinking a lot or making yourself vomit allows a save to expulse it. Alcohol gives you advantage.
 <br>
 
 ---

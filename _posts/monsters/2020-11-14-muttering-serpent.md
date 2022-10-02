@@ -5,29 +5,35 @@ permalink: /monsters/muttering-serpent
 title: Muttering Serpent
 ---
 
-Powerful spirit of self-doubt. A fey.
+Powerful spirit of self-doubt. A large fey.
 
-You didn't see the snake first, because its mirror-like scales made it blend in the background. Similarly, it's length is hard to grasp: two or three horses long? You don't have time to wonder as you see your own face at the end of the serpentine body, unhinging its jaws as it looks at you.
+_You didn't see the snake first, because its mirror-like scales made it blend in the background. Similarly, it's length is hard to grasp: two or three horses long? You don't have time to wonder as you see your own face at the end of the serpentine body, unhinging its jaws as it looks at you._
 
-**HD:** 4  &nbsp; &nbsp;  **Armor:** as mail <br>
-**Size:** large <br>
-**Stats:** strong and sturdy, intelligent and risk averse <br>
-**Movement:** average <br>
-**Morale:** coward <br>
+_Risk averse, Silently strong, Twisted intelligence._
 
-As a fairy, the muttering serpent *resists mundane weapons and spells* and WIS must be used for attack rolls against it. However, if it touches cold iron, it loses all its abilities and spells for a round.
+<br>
 
-Additionally, muttering serpents have mirror-like scales that make it functionally invisible when it doesn't move. The muttering serpent speaks telepathically and can also read surface thoughts. Because of that, it only speaks in questions and in the voice of the person they are talking to make them doubt and split their group. It can communicate with eight people simultaneously.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 4 | **Armor:** as chain |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal     |   | 
+
+It **resists** mundane weapons and spells (because it's a fairy).
+It **can** speak telepathically to eight people simultaneously and read surface thoughts. Because of that, it only speaks in questions and in the voice of the person they are talking to make them doubt and split their group.
+**Also**, as a imaginary creature, willpower must be used for attack rolls against it instead of dexterity. Its mirror-like scales make it functionally [invisible](/2020/11/10/extra-rules/#conditions) when it doesn't move. 
 
 **Attacks (1/round)**
 
-<ins>Coils.</ins> The muttering snake makes a grapple attempt. The grappled target cannot breathe and every time it tries and fails to escape, it takes 1D4 damage.
+<ins>Coils.</ins> The muttering snake makes a [grapple](/2020/11/10/extra-rules/#conditions) attempt. The grappled target cannot [breathe](/2020/11/10/extra-rules/#conditions) and every time it tries and fails to escape, it takes 1D4 damage.
 
-<ins>Swallow.</ins> The muttering snake unhinge its jaw and makes a grapple attempt with disadvantage. A creature grappled this way is completely grappled (all of its limbs are held) and takes 1D4 damage per turn.
+<ins>Swallow.</ins> The muttering snake unhinge its jaw and makes a [grapple](/2020/11/10/extra-rules/#conditions) attempt with disadvantage. A creature grappled this way is completely grappled (all of its limbs are held) and takes 1D4 damage per turn.
 
-<ins>Tail Slap.</ins> The muttering snake makes a melee attack against two targets adjacent to it (1D6). On a hit, creatures with less than 7 STR fall prone.
+<ins>Tail Slap.</ins> The muttering snake makes a melee attack against two targets adjacent to it (1D6). On a hit, creatures with less than 7 fortitude fall prone.
 
-<ins>Spellcasting (1)</ins>. *Suggestion, Mirror Image*.
+<ins>Spellcasting</ins>. *Suggestion, Mirror Image*.
 
 <br>
 

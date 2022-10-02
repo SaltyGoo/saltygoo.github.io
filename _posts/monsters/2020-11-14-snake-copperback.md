@@ -5,21 +5,26 @@ permalink: /monsters/snake-copperback
 title: Snake, Copperback
 ---
 
-A viper with scales made of actual copper. A beast.
+A viper with scales made of actual copper. An ambush predator beast.
 
-Imagine a snake about the length of a bear with scales green like rusted copper. It's tail has a metallic rattle.
+_Imagine a snake about the length of a bear with scales green like rusted copper. It's tail has a metallic rattle._
 
-**HD:** 1  &nbsp; &nbsp;  **Armor:** as chain <br>
-**Size:** medium <br>
-**Stats:** agile, feral, lazy <br>
-**Movement:** fast, swim fast <br>
-**Morale:** coward <br>
+<br>
 
-The copperback has a very good sense of smell and can hold its breath for as long as 15 minutes. Its scales provide good armor but make it vulnerable to electricity.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 1 | **Armor:** as chain |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** fast, swim fast     |   | 
+
+It is **vulnerable** to electricity.
+It **can** smell very well, and hold its breath 20 minutes. 
 
 **Attacks (1/round)**
 
-<ins>Venomous Bite</ins>. The copperback makes a melee attack (1D4). On a hit, the target must save or become poisoned.
+<ins>Venomous Bite</ins>. The copperback makes a melee attack (1D4). On a hit, the target must save or become [poisoned](/2020/11/10/extra-rules/#conditions).
 
 <span class="alchemy">**Copperback Venom**. Poison. Symptom: you fall asleep and nothing can wake you up for 4 hours. </span>
 

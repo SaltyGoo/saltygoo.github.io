@@ -9,21 +9,27 @@ Amphibious reptilian humanoid. An humanoid.
 
 Imagine a lizard standing upright on powerful hind legs. It has very little use for clothes but is covered in primitive jewelry and bones.
 
-**HD:** 2  &nbsp; &nbsp;  **Armor:** as leather & shielded <br>
-**Size:** medium <br>
-**Stats:** sturdy, emotionally awkward <br>
-**Movement:** average, swim average <br>
-**Morale:** coward <br>
+_Cold-Blooded utilitarian, emotionally awkward, Hardy strength._
 
-Lizarfolks can hold their breath for 15 minutes and have a very good sense of smell (through their tongue).
+<br>
+
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 2 | **Armor:** as leather + shielded  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal, swim normal   |   | 
+
+It **can** smell very well (through its tongue), and hold its breath 15 minutes.
 
 **Attacks (2/round)**
 
-<ins>Harpoon.</ins> The lizardfolk makes a melee attack (1D6). On a hit, the target chooses if it is grappled or if it takes 1 damage.
+<ins>Harpoon.</ins> The lizardfolk makes a melee attack (1D6). On a hit, the target chooses if it is [grappled](/2020/11/10/extra-rules/#conditions) or if it takes 1 damage.
 
 <ins>Javelin.</ins> The lizardfolk makes a ranged attack (1D6).
 
-<ins>Tail Sweep.</ins> All creatures surrounding the lizardfolk must save or fall prone.
+<ins>Tail Sweep.</ins> All creatures surrounding the lizardfolk must save or fall [prone](/2020/11/10/extra-rules/#conditions).
 
 <ins>Bite.</ins> The lizardfolk makes a melee attack (1D4).
 

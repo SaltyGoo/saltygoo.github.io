@@ -7,25 +7,32 @@ title: Ooze, Orange Sludge
 
 The sentient remnants of someone imbibed with the orange sipopa drug. An aberration.
 
-Immagine a slithering pool of deep orange goo. It coats all it touches with translucent orange goo that smells of grapefruit. Sometimes, it takes the shape of limbs or body parts, but never for long.
+_Immagine a slithering pool of deep orange goo. It coats all it touches with translucent orange goo that smells of grapefruit. Sometimes, it takes the shape of limbs or body parts, but never for long. It wants drugs, and its old body._
 
-It wants drugs, and its old body. <br>
+_Highly sensitive, lethargic and envious_
 
-**HD:** 3  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** medium <br>
-**Stats:** sturdy, lethargic, mad and highly sensitive <br>
-**Movement:** slow <br>
-**Morale:** brave <br>
+<br>
 
-As an aberration, the orange sludge *resists mind attacks* and *does not die* unless its killer succeeds a save vs fear. Additionally, as a gelatinous creature, the orange sludge is immune to piercing and bludgeoning attacks and resists slashing attacks. It can squeeze itself into 1'' holes.
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 3 | **Armor:** none  |
+| **Hit it:** easy    | **Dodge it:** normal  |
+| **Move:** slow     |   | 
+
+It is **immune** to piercing and bludgeoning damage (because it's gelatinous).
+It **resists** mind attacks (because it's an aberration) and slashing damage.
+It **can** squeeze through small holes.
+It **can't** die unless it's would-be killer saves.
 
 **Attacks (1/round)**
 
-<ins>Pseudo-Kick.</ins> The orange sludge makes a melee attack (1D6). If the target has less than 5 STR, it falls prone.
+<ins>Pseudo-Kick.</ins> The orange sludge makes a melee attack (1D6). If the target has less than 5 fortitude, it falls prone.
 
 <ins>Pseudo-Punch.</ins> The orange sludge makes a melee attack (1D6). If the target wears iron armor pieces and weapons, it rolls a D8. If the result is below the number of iron armor pieces and weapons, one of them becomes dulled (its damage becomes 1D4) or brittle (it breaks on a critical hit).
 
-<ins>Envelop.</ins> The orange sludge lets itself drop from a ceiling on a target. If it fails to dodge, it becomes completely covered by it. It can't breathe and each round must decide if it takes 1D6 damage from the sludge entering their throat or loses one of their iron items to rust.
+<ins>Envelop.</ins> The orange sludge lets itself drop from a ceiling on a target. If it fails to dodge, it becomes completely covered by it. It can't [breathe](/2020/11/10/extra-rules/#conditions) and each round must decide if it takes 1D6 damage from the sludge entering their throat or loses one of their iron items to rust.
 
 <br>
 

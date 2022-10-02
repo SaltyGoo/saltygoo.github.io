@@ -9,7 +9,7 @@ Fiery lizard people. A fire elemental.
 
 _Imagine a salamander standing on its rear legs, seven feet tall. Its wet red and black skin is glowing like magma and its eyes are like black pearls._
 
-_Hungry, envious, simmering rage._
+_Proud soldier, Relaxing artist, Arrogant explorer._
 
 <br>
 

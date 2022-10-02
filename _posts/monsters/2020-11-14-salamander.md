@@ -7,21 +7,30 @@ title: Salamander
 
 Fiery lizard people. A fire elemental.
 
-Imagine a salamander standing on its rear legs, seven feet tall. Its wet red and black skin is glowing like magma and its eyes are like black pearls.
+_Imagine a salamander standing on its rear legs, seven feet tall. Its wet red and black skin is glowing like magma and its eyes are like black pearls._
 
-**HD:** 2  &nbsp; &nbsp;  **Armor:** none <br>
-**Size:** medium <br>
-**Stats:** strong & sturdy <br>
-**Movement:** average <br>
-**Morale:** brave <br>
+_Hungry, envious, simmering rage._
 
-As elemental fire, the salamander *resists all damage* and is *immune to fire*. It *recovers 2 HP* every round spent ablaze or with fuel and *loses 2 HP* each round spent without fuel. Contact with it inflicts 1 fire damage. It has the same properties as fire.
+<br>
+
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **HD:** 2 | **Armor:** none  |
+| **Hit it:** normal    | **Dodge it:** normal  |
+| **Move:** normal    |   | 
+
+It is **immune** to fire. 
+It **resists** all other damage (because it's an elemental).
+**Also**, it recovers 1D6 HP every round it touches something flammable and inflicts 1 damage to anything that touches or damages it.
+**However**, it takes 1D6 damage each round spent without fuel.
 
 **Attacks (1/round)**
 
 <ins>Skewer</ins>. The salamander makes a melee attack with reach (1D6 +1 fire damage).
 
-<ins>Scalding Tongue</ins>. The salamander makes a grappling attack with reach, burning its target (1D4) and dragging it to itself.
+<ins>Scalding Tongue</ins>. The salamander makes a [grappling](/2020/11/10/extra-rules/#conditions) attack with reach, burning its target (1D4) and dragging it to itself.
 
 <br>
 

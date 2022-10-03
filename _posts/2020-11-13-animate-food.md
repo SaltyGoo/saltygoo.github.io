@@ -3,7 +3,7 @@ layout: post
 tags: spell tricks
 title: Animate Food
 ---
-D:  [dice] hours
+**D**:  [dice] hours
 
 [dice] pieces of food combine and come to life as [sum] HP Food Golem under your control.  It gains a mean of locomotion, the ability to manipulate objects, though this may be limited based on the food's size and initial properties, and the ability to speak one language you know.
 

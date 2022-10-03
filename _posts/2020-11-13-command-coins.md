@@ -3,7 +3,7 @@ layout: post
 tags: spell tricks
 title: Command Coins
 ---
-R:  30' D: [dice] x 10 minutes
+**R**:  30' **D**: [dice] x 10 minutes
 
 All coins in range will leap up and obey your single-word commands. Coins can be commanded to follow you, hide in crevices, or serve as rollers for heavy statues, but they are mindless and feeble. 
  

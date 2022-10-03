@@ -3,7 +3,7 @@ layout: post
 tags: spell tricks
 title: The Cat's Craddle
 ---
-R: Touch
+**R**: Touch
 
 You do some figure-work with a rope, in a complicated yet silent spell cast over many rounds. 
 

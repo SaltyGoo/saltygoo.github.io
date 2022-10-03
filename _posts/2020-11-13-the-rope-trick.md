@@ -3,7 +3,7 @@ layout: post
 tags: spell tricks
 title: The Rope Trick
 ---
-R: Touch		D: [dice]*10 minutes
+**R**: Touch		**D**: [dice]*10 minutes
 
 You must have seen magicians throw a rope upwards, only to have the rope become rigid, and then see them climb the rope, seemingly attached nowhere.
 

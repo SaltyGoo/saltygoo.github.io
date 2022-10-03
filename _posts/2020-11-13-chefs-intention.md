@@ -3,7 +3,7 @@ layout: post
 tags: spell tricks
 title: Chef's Intention
 ---
-D:  1 Day
+**D**:  1 Day
 
 By touching a dish of food, you may encode a secret message in the food that is up to [dice]+[sum] words long.  Anyone who eats that dish will hear your message played to them.
  

@@ -9,5 +9,7 @@ title: Shuffle the Mortal Coils
 
 The spell can be reversed and make real snakes into ropes, splicing them together if needed, permanently.
 
+If you invest 4 dice or more in this spell, the effect becomes permanent.
+
 ###### snake + rope
 ###### Adapted from [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)

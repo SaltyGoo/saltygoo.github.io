@@ -3,7 +3,7 @@ layout: post
 tags: spell necromancy
 title: Vision of Death
 ---
-R: Touch
+**R**: Touch
 
 You touch a dead body or body part. For each [dice] invested you learn one additional thing, in that order:
 

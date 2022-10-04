@@ -3,7 +3,7 @@ layout: post
 tags: spell necromancy
 title: Skull Ghost
 ---
-R: Touch  D: [dice] x 10 minutes
+**R**: Touch  **D**: [dice] x 10 minutes
 
 You summon the ghostly memory of a whole body that was once attached to a skull. It will be somewhat helpful to you and retain the approximate intelligence of the creature it had in life, but none of the memories. It can attack with its skull as a heavy weapon and can fit through any space that its skull can fit through. It only has 1 HP but is attacked with disadvantage.
  

@@ -3,9 +3,9 @@ layout: post
 tags: spell necromancy
 title: Soul Transfer
 ---
-D: Sigil
+**D**: [Sigil](/spells/#lexicon)
 
-Your soul is placed in a talisman like a pendant or an article of clothing marked by your Sigil, leaving the original body behind in stasis. 
+Your soul is placed in a talisman like a pendant or an article of clothing marked by your [Sigil](/spells/#lexicon), leaving the original body behind in stasis. 
 
 While in the talisman, your consciousness remains active and aware of events nearby, and may possess any [dice] HD body that comes in contact with the talisman, though a save is permitted if the possession is resisted. 
 

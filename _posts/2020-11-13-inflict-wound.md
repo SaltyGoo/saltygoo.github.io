@@ -3,7 +3,7 @@ layout: post
 tags: spell necromancy
 title: Inflict Wound
 ---
-R: Touch 
+**R**: Touch 
 
 The target takes [sum] damage.
 

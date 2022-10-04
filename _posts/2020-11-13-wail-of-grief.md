@@ -3,7 +3,7 @@ layout: post
 tags: spell necromancy
 title: Wail of Grief
 ---
-R: 60'
+**R**: 60'
 
 Living creatures within range take [dice] damage. Undead creatures of HD equal or less than [dice] are frightened.
 

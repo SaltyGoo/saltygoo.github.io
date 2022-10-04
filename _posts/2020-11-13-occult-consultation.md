@@ -3,7 +3,7 @@ layout: post
 tags: spell necromancy
 title: Occult Consultation
 ---
-D: [sum] minutes
+**D**: [sum] minutes
 
 After a nighttime ritual where you dig a pit two feet square into which is poured wine, fragrant herbs, and the blood of a sacrifice slain with a bronze knife is performed, you call out to the spirit of a dead person. Roll 1D6 + [dice]:
 
@@ -14,7 +14,7 @@ After a nighttime ritual where you dig a pit two feet square into which is poure
 1. The spirit is answers truthfully...
 1. ... and also information you didn’t ask.
 1. ... and stays and extra 1D6 minutes.
-1. You can command the spirit.
+1. Or higher. You can command the spirit.
 
 Your roll is modified by these factors:
 - Died within a week: +1

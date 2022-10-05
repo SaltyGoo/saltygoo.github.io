@@ -40,7 +40,6 @@ You can cast spells using Spell Dice (SD) like a Wizard. They’re stored in you
 
 <details markdown="1">
 <summary>How spells work</summary>
-<ins>Casting a Spell</ins><br>
 <ins>Spell Dice (SD)</ins><br>
 You get 1 per Elf template. They are D6s.
 

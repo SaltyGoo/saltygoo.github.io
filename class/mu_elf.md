@@ -55,7 +55,8 @@ Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equ
 </details>
 
 ## Burden of Perfection
-Hard rolls are normal, and normal rolls are easy as long as you are not ugly, dirty, disfigured, humiliated, etc. Otherwise they are all hard. *You have to beat 15 to succeed a [normal roll](/2020/11/09/base-rules/), 10 to succeed on an easy one, and 20 to succeed on a hard one.*
+Hard rolls are normal, and normal rolls are easy as long as you are not ugly, dirty, disfigured, humiliated, etc. Otherwise they are all hard. 
+(*You have to beat 15 to succeed a [normal roll](/2020/11/09/base-rules/), 10 to succeed on an easy one, and 20 to succeed on a hard one.*)
 
 ## Noblesse Oblige I
 Your superiority comes with the moral duty to help inferior people. You always know the plight of humanoid groups you can see. This knowledge is superficial, more akin to a historical footnote.

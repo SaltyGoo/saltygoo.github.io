@@ -5,7 +5,7 @@ title: Floral Salvage
 ---
 **R**: Touch 
 
-As you touch a target, flowers erupt from its wounds. It takes 0.5 x [dice] damage for every unhealed point of damage it has already taken. If this damage kills the target, their corpse is entirely consumed by plant growth, and turns into a beautiful flower-covered tree measuring [sum] feet. 
+As you touch a target, flowers erupt from its wounds. It takes [dice] damage for every hit points it is missing. If this damage kills the target, its corpse is entirely consumed by plant growth, and turns into a beautiful flower-covered tree measuring [sum] feet. A save is allowed to halve the damage.
 
 ###### *Flower + Salvage*
 

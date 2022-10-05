@@ -9,7 +9,7 @@ permalink: /class/magic-user/elf
 _You are better than everybody ..._
 
 <ins>Starting Equipment</ins><br>
-A Bow and 12 Arrows, a Piece of Jewelry Doubling as a [miniature spell book](https://goblinpunch.blogspot.com/2016/09/the-perfect-languages-of-elves.html), and your choice of a Butterfly Pet, a vial emiting the light of a candle, or a musical instrument.
+A Bow and 12 Arrows, a Piece of Jewelry doubling as a [miniature spell book](https://goblinpunch.blogspot.com/2016/09/the-perfect-languages-of-elves.html), and your choice of a Butterfly Pet, a Vial of Liquid glowing like a candle, or a Musical Instrument.
 
 <ins>Starting Skills (+5)</ins><br>
 Your choice of Political Decorum, Fine Arts or The-Time-Before-Things-Became-Ugly.
@@ -36,7 +36,7 @@ For every Elf template you have, you gain a **Spell Dice** and you learn a **new
 **D:** True Shot II<br>
 
 ## Elven Magic
-You can cast spells using Spell Dice (SD) like a Wizard. They’re stored in your Psyche and you spend Spell Dice to cast them.
+Your spells are stored in your Psyche and you spend Spell Dice (SD) to cast them.
 
 <details markdown="1">
 <summary>How spells work</summary>
@@ -54,7 +54,7 @@ Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equ
 </details>
 
 ## Burden of Perfection
-Hard rolls are normal, and normal rolls are easy as long as you are not ugly, dirty, disfigured, humiliated, etc. Otherwise they are all hard. 
+All roll become easier as long as you are not ugly, dirty, disfigured, humiliated, etc.: Hard rolls are normal rolls, and normal rolls are easy.  Otherwise they are all hard. 
 (*You have to beat 15 to succeed a [normal roll](/2020/11/09/base-rules/), 10 to succeed on an easy one, and 20 to succeed on a hard one.*)
 
 ## Noblesse Oblige I

@@ -16,7 +16,7 @@ Your choice of Zoology, Local Teenager, or Weird Hermit.
 
 For every Animorph template you have, you gain one extra **Spell Dice** and an **[Animorphosis Spell](/spells/#animorphosis)**.
 
-**A:** Animorphosis Spells, Bestiary, Honorary Beast<br>
+**A:** Animorph Magic, Bestiary, Honorary Beast<br>
 **B:** Chimera <br>
 **C:** Chimera II <br>
 **D:** Apotheosis <br>

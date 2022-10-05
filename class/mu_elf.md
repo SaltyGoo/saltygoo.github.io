@@ -62,7 +62,7 @@ Hard rolls are normal, and normal rolls are easy as long as you are not ugly, di
 Your superiority comes with the moral duty to help inferior people. You always know the plight of humanoid groups you can see. This knowledge is superficial, more akin to a historical footnote.
 
 ## True Shot I
-When you shoot an arrow, you can cast a spell on the same target, ignoring the normal range of the spell.
+When you shoot an arrow, you can cast a spell on the same target at the same time, ignoring the normal range of the spell.
 
 ## Noblesse Oblige II
 The era of the elves is over. You can decide to retire this character, even you are playing another one today. If you do, you can change the outcome of a situation one of your characters is witnessing. It's like a minor divine intervention: Time seems to slows, a choir of soft melancholic elven voices punctuates your movement and you then appear bathed in a dreamy light. You correct the situation, knowingly glance at your companions one last time, and leave for bether shores.

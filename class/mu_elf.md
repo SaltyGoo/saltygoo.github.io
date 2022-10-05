@@ -65,7 +65,7 @@ Your superiority comes with the moral duty to help inferior people. You always k
 When you shoot an arrow, you can cast a spell on the same target at the same time, ignoring the normal range of the spell.
 
 ## Noblesse Oblige II
-The era of the elves is over. You can decide to retire this character, even you are playing another one today. If you do, you can change the outcome of a situation one of your characters is witnessing. It's like a minor divine intervention: Time seems to slows, a choir of soft melancholic elven voices punctuates your movement and you then appear bathed in a dreamy light. You correct the situation, knowingly glance at your companions one last time, and leave for bether shores.
+The era of the elves is over. You can decide to retire this character, even you are playing another one today. If you do, you can change the outcome of a situation one of your characters is witnessing. It's like a minor divine intervention: Time seems to slows, a choir of soft melancholic elven voices punctuates your movements and you appear bathed in a dreamy light. You correct the situation, knowingly glance at your companions one last time, and leave for better shores.
 
 ## True Shot II
 You can use a bow twice during your turn as long as you are not ugly, dirty, disfigured, humiliated, etc.

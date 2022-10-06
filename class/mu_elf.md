@@ -12,7 +12,7 @@ _You are better than everybody ..._
 A Bow and 12 Arrows, a Piece of Jewelry doubling as a [miniature spell book](https://goblinpunch.blogspot.com/2016/09/the-perfect-languages-of-elves.html), and your choice of a Butterfly Pet, a Vial of Liquid glowing like a candle, or a Musical Instrument.
 
 <ins>Starting Skills (+5)</ins><br>
-Your choice of Political Decorum, Fine Arts or The-Time-Before-Things-Became-Ugly.
+Your choice of Political Decorum, Fine Arts or The-Times-Before-Things-Became-Ugly.
 
 For every Elf template you have, you gain a **Spell Dice** and you learn a **new spell** from the Elf spell list.
 

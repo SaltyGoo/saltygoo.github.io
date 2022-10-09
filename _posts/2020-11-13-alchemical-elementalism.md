@@ -37,7 +37,7 @@ The alchemical attack manifests in different shapes depending on the number of d
 - **Sword**: As a sword (D8), lasts [dice] x 10 minutes.
 
 2 [dice]:
-- **Shield**: Protects [dice] adjacent people with resistance to the element's damage for [dice] x 10 minutes.
+- **Shield**: Gives resistance to the element's damage for [dice] x 10 minutes and triggers its effect on contact.
 - **Glyph**: Draw a glyph. 30' explosion when touched. [sum]+[dice] damage, save for half. Lasts 1 day.
 
 3 [dice]:

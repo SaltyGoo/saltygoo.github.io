@@ -4,9 +4,9 @@ tags: spell physiurgy
 title: Vascular Draining
 ---
 
-R: 15’		D: [dice] rounds
+**R**: A whip		**D**: [dice] rounds
 
-You shoot a lurid orange conduit from your open hand. If it hits, it deals 1D6 magical damage to the target and you are healed the same amount. You can attempt to strike each round, your proficiency with the conduit equals to 5 + [dice].
+You shoot a lurid red conduit from your open hand. If it hits a living target, it deals 1D6 damage to the target and you recover [dice] hit points. You can attempt to strike each round.
 
 ###### *vein + drain*
 

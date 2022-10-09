@@ -12,7 +12,7 @@ _You are better than everybody ..._
 A Bow and 12 Arrows, a Piece of Jewelry doubling as a [miniature spell book](https://goblinpunch.blogspot.com/2016/09/the-perfect-languages-of-elves.html), and your choice of a Butterfly Pet, a Vial of Liquid glowing like a candle, or a Musical Instrument.
 
 <ins>Starting Skills (+5)</ins><br>
-Your choice of Political Decorum, Fine Arts or The-Times-Before-Things-Became-Ugly.
+Your choice of Political Decorum, Fine Arts, or The-Times-Before-Things-Became-Ugly.
 
 For every Elf template you have, you gain a **Spell Dice** and you learn a **new spell** from the Elf spell list.
 
@@ -54,17 +54,18 @@ Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equ
 </details>
 
 ## Burden of Perfection
-All roll become easier as long as you are not ugly, dirty, disfigured, humiliated, etc.: Hard rolls are normal rolls, and normal rolls are easy.  Otherwise they are all hard. 
-(*You have to beat 15 to succeed a [normal roll](/2020/11/09/base-rules/), 10 to succeed on an easy one, and 20 to succeed on a hard one.*)
+When you are ugly, dirty, wet, disfigured, humiliated, etc., all your D20 rolls are hard rolls (_you must roll above 20 to succeed_). The rest of the time, all your D20 rolls are one step easier (hard rolls become normal rolls (>15), and normal rolls become easy rolls (>10)). 
 
 ## Noblesse Oblige I
-Your superiority comes with the moral duty to help inferior people. You always know the plight of humanoid groups you can see. This knowledge is superficial, more akin to a historical footnote.
+Your superiority comes with the moral duty to help inferior people. You always know the plight of any society you come across. This knowledge is superficial, more akin to a historical footnote, for it is nothing compared to the tragic grandeur of the elves.
 
 ## True Shot I
-When you shoot an arrow, you can cast a spell on the same target at the same time, ignoring the normal range of the spell.
+When you hit a target with an arrow, you can cast a spell on the same target at the same time, ignoring the normal range of the spell.
 
 ## Noblesse Oblige II
-The era of the elves is over. You can decide to retire this character, even you are playing another one today. If you do, you can change the outcome of a situation one of your characters is witnessing. It's like a minor divine intervention: Time seems to slows, a choir of soft melancholic elven voices punctuates your movements and you appear bathed in a dreamy light. You correct the situation, knowingly glance at your companions one last time, and leave for better shores.
+The era of the elves is over. From now on, you can decide at any point to retire this character, even if you are currently playing another one. If you do, you can change the outcome of one situation your characters is experiencing (at the referee's discretion), like a localised divine intervention.
+
+When you do, time seems to slows, a choir of soft melancholic elven voices echo from beyond, and this character appears, bathed in a dreamy light. You save the day, knowingly glance at your companions one last time, and leave for better shores off screen.
 
 ## True Shot II
 You can use a bow twice during your turn as long as you are not ugly, dirty, disfigured, humiliated, etc.

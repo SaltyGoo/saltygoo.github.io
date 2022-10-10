@@ -4,9 +4,9 @@ tags: spell psychomancy
 title: Empathic Vessel
 ---
 
-**R**: 30’   
+**R**: 30’   **D**: [sum] rounds/minutes
 
-All emotional affects (fear, anger, sadness, pleasure, pain) of [dice] targets are transfered to one other target if it fails a save. You can target yourself.
+All emotional affects (fear, anger, sadness, pleasure, pain) of one target are transfered to [dice] other target if it fails a save, after which all return to a neutral state.
 
 ###### empathy + vessel
 ###### by SaltyGoo

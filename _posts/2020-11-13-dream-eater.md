@@ -3,7 +3,7 @@ layout: post
 tags: spell psychomancy
 title: Dream Eater
 ---
-R: sight
+**R**: sight
 
 Target sleeping creature takes [sum] damage and you heal by as much. Their only memory of the night will be your silhouette.
 

@@ -3,7 +3,7 @@ layout: post
 tags: spell psychomancy
 title: Comprehension
 ---
-**D**: [dice] hours
+**D**: [sum] x 10 minutes
 
 The meaning of obscured or indecipherable communications is laid bare. This spell may be used to understand the words of any language or read the true intent of a cyphered missive. Even spirit or animal speech, such as the groaning of clouds or the howling of wolves, may sometimes disclose their secrets. 
 

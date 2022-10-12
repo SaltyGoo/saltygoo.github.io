@@ -3,7 +3,7 @@ layout: post
 tags: spell spiritualism
 title: Astral Projection
 ---
-D: [dice] minutes
+**D**: [dice] x 10 minutes
 
 Your spirit is liberated and may venture safely from your body up to [dice]*10’ (which remains in stasis while the spirit is absent). The spirit is ethereal (and thus invisible to most mortal creatures), and may pass through a thickness of rock equal to [dice] feet, but is barred by lead or magical wards. 
 

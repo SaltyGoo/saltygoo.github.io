@@ -903,4 +903,13 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 ###### *From the Nothic Eye's [Warmind Wizard](https://nothicseye.blogspot.com/2021/12/if-your-enemy-is-of-choleric.html)!*
 </details>
 
+<details markdown="1">
+<summary><b>95. Ninety-Nine Notes from the Trenches</b></summary>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Burnt and muddied, progessively more fatalistic.*
+- You can sculpt and move smoke.
+- Each time you study this book, you craft a bullet enchanted with one spell you know. It is shot with advantage and triggers the spell on impact..
+- Roll 1D4, you gain the following spell: 1. [Hellfire Engine](/2020/11/13/hellfire-engine/), 2. [Metal to Flame](/2020/11/13/metal-to-flame/), 3. [Smoke Signal](/2020/11/13/smoke-signal/), 4. [Shield](/2020/11/13/shield/)
+###### *From A Sense of Immersion's [Trenchmaker]([https://nothicseye.blogspot.com/2021/12/if-your-enemy-is-of-choleric.html](https://asenseofimmersion.wordpress.com/2022/09/06/those-who-pulled-the-trigger-were-not-holding-the-gun-glog-wizard/))!*
+</details>
+
 I'm missing 6! Ping me on discord/reddit if you have ideas.

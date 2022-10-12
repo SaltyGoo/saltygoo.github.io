@@ -11,4 +11,4 @@ A black storm of powder is pulled from hell compresses into a 1ft ball that flin
 When the powder is lit, anything covered by it takes [sum] fire damage, and 2 damage on each of their following [dice] turns.
 
 ###### Black + Powder
-###### Adapted from [A Blasted Cratered Land](https://crateredland.blogspot.com/2019/01/the-cleric.html)
+###### Adapted from [A Sense of Immersion]([https://crateredland.blogspot.com/2019/01/the-cleric.html](https://asenseofimmersion.wordpress.com/2022/09/06/those-who-pulled-the-trigger-were-not-holding-the-gun-glog-wizard/))

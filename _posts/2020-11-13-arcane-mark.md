@@ -3,7 +3,7 @@ layout: post
 tags: spell spiritualism
 title: Arcane Mark
 ---
-R: Touch  D:  Sigil
+**R**: Touch  **D**:  [Sigil](/spells/#lexicon)
 
 You place your sigil on a creature or an object. Choose [dice] of these options:
 

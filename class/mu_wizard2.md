@@ -912,8 +912,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 ###### *From A Sense of Immersion's [Trenchmaker]([https://nothicseye.blogspot.com/2021/12/if-your-enemy-is-of-choleric.html](https://asenseofimmersion.wordpress.com/2022/09/06/those-who-pulled-the-trigger-were-not-holding-the-gun-glog-wizard/))!*
 </details>
 
-</details>
-
 <details markdown="1">
 <summary><b>96. The Star Globe</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Clouds seem to move under the surface.*
@@ -923,4 +921,4 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 ###### *From A Sense of Immersion's [Constellator]([https://nothicseye.blogspot.com/2021/12/if-your-enemy-is-of-choleric.html](https://asenseofimmersion.wordpress.com/2022/09/06/those-who-pulled-the-trigger-were-not-holding-the-gun-glog-wizard/))!*
 </details>
 
-I'm missing 5! Ping me on discord/reddit if you have ideas.
+I'm missing 4! Ping me on discord/reddit if you have ideas.

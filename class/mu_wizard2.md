@@ -909,7 +909,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - You can sculpt and move smoke.
 - Each time you study this book, you craft a bullet enchanted with one spell you know. It is shot with advantage and triggers the spell (with one SD) on impact.
 - Roll 1D4, you gain the following spell: 1. [Black Powder](/2020/11/13/black-powder/), 2. [Miasma](/2020/11/12/miasma/), 3. [Amplify Resonnance](/2020/11/13/amplify-resonance/), 4. [Subterranean Gullet](/2020/11/13/subterranean-gullet/)
-###### *From A Sense of Immersion's [Trenchmaker]([https://nothicseye.blogspot.com/2021/12/if-your-enemy-is-of-choleric.html](https://asenseofimmersion.wordpress.com/2022/09/06/those-who-pulled-the-trigger-were-not-holding-the-gun-glog-wizard/))!*
+###### *From A Sense of Immersion's [Trenchmaker](https://asenseofimmersion.wordpress.com/2022/09/06/those-who-pulled-the-trigger-were-not-holding-the-gun-glog-wizard/)!*
 </details>
 
 <details markdown="1">
@@ -918,7 +918,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - You can predict the local weather up to 3 days.
 - Each time you study this book, you gain an extra inventory slot for an object no bigger than your head. This object orbits you.
 - Roll 1D4, you gain the following spell: 1. [Alter Gravity](/2020/11/13/alter-gravity/), 2. [Divide](2020/11/13/divide/), 3. [Orbit](/2020/11/13/orbit/), 4. [Prism](/2020/11/13/prism/)
-###### *From A Sense of Immersion's [Constellator]([https://nothicseye.blogspot.com/2021/12/if-your-enemy-is-of-choleric.html](https://asenseofimmersion.wordpress.com/2022/09/06/those-who-pulled-the-trigger-were-not-holding-the-gun-glog-wizard/))!*
+###### *From A Sense of Immersion's [Constellator](https://asenseofimmersion.wordpress.com/2022/09/06/those-who-pulled-the-trigger-were-not-holding-the-gun-glog-wizard/)!*
 </details>
 
 I'm missing 4! Ping me on discord/reddit if you have ideas.

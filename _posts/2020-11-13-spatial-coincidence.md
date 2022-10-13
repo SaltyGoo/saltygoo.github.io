@@ -3,7 +3,7 @@ layout: post
 tags: spell translocation
 title: Spatial Coincidence
 ---
-R: Touch		D: [dice]*10 minutes
+**R**: Touch		**D**: [dice] x 10 minutes
 
 You, along with [dice] companions, may occupy the same space as another physical object, which must be large enough to contain the largest of the person so affected (unwilling subjects must be physically forced into an object and are permitted a saving throw against the magic). 
 

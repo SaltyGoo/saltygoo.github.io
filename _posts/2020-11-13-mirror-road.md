@@ -3,7 +3,7 @@ layout: post
 tags: spell translocation
 title: Mirror Road
 ---
-R: Touch	
+**R**: Touch	
 
 You, along with [dice] companions, may step into a mirror and travel within the mirror world, which is a twisted reflection of standard reality, emerging from another mirror (which may be selected by you if known beforehand, or is otherwise determined randomly near the desired destination). 
 

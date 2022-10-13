@@ -3,7 +3,7 @@ layout: post
 tags: spell translocation
 title: Fold Space
 ---
-R: 60’ 		D: [dice] minutes
+**R**: 60’ 		D: [dice] turns
 
 For the duration of this spell, you link two unoccupied spatial volumes (of about human size) such that things entering either location exist simultaneously in both locations. 
 
@@ -17,6 +17,8 @@ You must concentrate and remain unmoving to maintain the sorcery, and must be ab
 1. Loses all color permanently (and is shunted to one of the two locations).
 
 If concentration is broken, save or a catastrophe happens.
+
+If you invest 4 or more dice into this spell and inscribe your [Sigil](/spells/#lexicon), the effect becomes permanent at the locations.
 
 ###### fold + space
 ###### adapted from [Wonder & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)

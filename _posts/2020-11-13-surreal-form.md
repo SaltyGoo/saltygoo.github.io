@@ -3,7 +3,7 @@ layout: post
 tags: spell spiritualism
 title: Surreal Form
 ---
-D: 10 minutes
+**D**: 10 minutes
 
 Become [dice] colors in a garish, jagged patten. You can also interact with objects and creatures within artworks as if they were real. Furthermore, choose [dice] of the following effects.
 

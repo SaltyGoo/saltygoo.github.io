@@ -3,7 +3,7 @@ layout: post
 tags: spell translocation
 title: All Things Adjacent
 ---
-D:  [dice] rounds
+**D**:  [dice] rounds
 
 You are adjacent to all things within your line of sight. You can punch anything you could see.  You can pick up any object and put it in your pocket as if it were beside you.  However, you are affected as if you were in every location at once. (To put it in grid-based combat terms, you are affected by all effects effecting every observable square. You do not suffer multiple effects from the same hazard).  
 

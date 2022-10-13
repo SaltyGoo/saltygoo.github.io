@@ -921,4 +921,13 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 ###### *From A Sense of Immersion's [Constellator](https://asenseofimmersion.wordpress.com/2022/09/06/those-who-pulled-the-trigger-were-not-holding-the-gun-glog-wizard/)!*
 </details>
 
-I'm missing 4! Ping me on discord/reddit if you have ideas.
+<details markdown="1">
+<summary><b>97. Notes on Battlefied Vivisection</b></summary>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Gruesomly illustrated. Deranged footnotes.*
+- You can tast blood and know from which creature it came from.
+- Each time you study this book, you gain a vial full a random disease.
+- Roll 1D4, you gain the following spell: 1. [Call of the Leeches](/2020/11/12/call-of-the-animal/), 2. [Desiccate](/2020/11/13/desiccate/), 3. [Grow Organ](/2020/11/13/grow-organ/), 4. [Steal Limb](/2020/11/13/steal-limb/)
+###### *From A Sense of Immersion's [Experimenter](https://asenseofimmersion.wordpress.com/2022/09/06/those-who-pulled-the-trigger-were-not-holding-the-gun-glog-wizard/)!*
+</details>
+
+I'm missing 3! Ping me on discord/reddit if you have ideas.

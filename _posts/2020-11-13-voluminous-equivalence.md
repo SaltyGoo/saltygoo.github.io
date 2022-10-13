@@ -4,7 +4,7 @@ tags: spell translocation
 title: Voluminous Equivalence
 ---
 
-D: Sigil
+**D**: [Sigil](/spells/#lexicon)
 
 You transform a space into another, equivalent space of your design.
 

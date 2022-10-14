@@ -3,9 +3,9 @@ layout: post
 tags: spell vivimancy
 title: Spark of Life
 ---
-R: Touch  D: [dice] rounds
+**R**: Touch  **D**: [sum] rounds
 
-You fill target recently deceased creature or amalgam of recently deceased creature. It returns to life for the duration of the spell.
+You fill target recently deceased creature or amalgam of recently deceased creature with energy. It returns to life for the duration of the spell.
 
 If the target is an amalgam, it becomes a [dice] HD flesh golem.
 

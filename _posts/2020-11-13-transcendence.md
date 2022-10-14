@@ -3,9 +3,9 @@ layout: post
 tags: spell vivimancy
 title: Transcendence
 ---
-D: Sigil
+**D**: [Sigil](/spells/#lexicon)
 
-You carve your Sigil in your flesh and make a declarative statement about your body stating [dice] new facts. You cannot add limbs, mass or make yourself impervious to any damage. Your statement is true for the duration of the spell. If you invest 4 [dice] or more into this spell, the duration becomes permanent. 
+You carve your Sigil in your flesh and make a declarative statement about your body stating [dice] new facts. You cannot add limbs, mass or make yourself impervious to any damage, nor make comparative statements (more, less, etc.). Your statement is now true.
 
 ###### transcend + self
 ###### by SaltyGoo

@@ -3,11 +3,11 @@ layout: post
 tags: spell vivimancy
 title: Quickening
 ---
-D: Sigil
+**D**: [Sigil](/spells/#lexicon)
 
-By placing a Sigil on a person or thing, you accelerate its movements, doubling speed and granting two actions per combat round rather than the standard single action. 
+By placing a Sigil on a person or mechanism.
 
-The Sigil fades after being used significantly, such as during a combat engagement. After it fades, the person or thing so affected must make a saving throw to avoid falling unconscious or breaking.
+At any point in the future, if you see the sigiled thing, you can accelerate its movements allowing it to accomplish [dice] additional actions in one turn. After witch it must roll a D6. If it's equal or under [dice], a person becomes [exhausted](/2020/11/10/extra-rules/#conditions), and an mechanism is broken.
 
 ###### quicken + creature
 ###### adapted from [Wonder & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)

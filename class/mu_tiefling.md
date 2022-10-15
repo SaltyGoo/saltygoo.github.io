@@ -103,7 +103,7 @@ Reveal the curse of your lineage. Choose a sin and discover how deep it tainted 
 When you kill a creature with a language, you can capture its soul and keep it in your inventory. At any moment, you can consume a soul you own to gain a temporary extra Spell Dice.
 
 ## Hellforged
-Melee weapons in your hands have their damage dice increased by one size and inflict the same damage as your Maleficence if you want.
+Melee weapons in your hands have their damage dice increased by one size and inflict the same damage type as your Maleficence if you want.
 
 ## Cambion
 Your true heritage is finally revealed. Mortals will cower before your power. You gain wings and can fly as fast as you would run.

@@ -17,7 +17,7 @@ For every Necromancer template you have, you gain one extra **Spell Dice** and a
 **A:** Necromantic Magic, The threshold of Death<br>
 **B:** Harvest <br>
 **C:** The Three faces <br>
-**D:** The three faces <br>
+**D:** Undying <br>
 
 ## Necromantic Magic
 Necromancers get a second random spell from the [Necromancy school](/spells/#necromancy) at level 1. They can alternatively choose to learn the [Lichcraft](/2020/11/13/lichcraft/) spell instead.  They’re stored in your Psyche and you spend Spell Dice to cast them.

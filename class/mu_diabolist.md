@@ -74,7 +74,7 @@ You can clear all your [doom] by performing a random obligation for a devil (rol
 If you have chosen to go down the path of dealing with devils, it is because of your own weakness. Choose the sin that brought you here:
 
 - **Wrath**. You can inflict [doom] fire damage to any target you can see. You gain a _Doom Point_ if it survives, and lose one if it dies.
-- **Sloth**. You can sacrifice skill slots to gain new [followers](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html) when you are in town. Each skill you have increases your [doom] by 1.
+- **Sloth**. You can sacrifice skills you know to gain new [followers](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html) when you are in town. Each skill you have increases your [doom] by 1.
 - **Envy**. Once per day, you can make a copy of a hand-held object or vestment owned by someone else you can see. You gain a _Doom Point_ every time you use it.
 - **Pride**. You can reroll any D20 you roll. Each time you fail a reroll, you gain a _Doom Point_.
 - **Gluttony**. Eating a daily ration removes a _Doom Point_. Eating five daily rations in a day cures 1 Wound. You gain 3 _Doom Points_ every day.
@@ -87,7 +87,7 @@ Here's the reward you bargained for. You get those related to your two sins. Hop
 - **Wrath**. One person, object, or building of your choice explodes. Everybody interested hates you for it.
 - **Sloth**. Your spirit leaves your body behind, which becomes completely helpless. You are permanently [astrally projecting](/2020/11/13/astral-projection/) within 40' of it.
 - **Envy**. Get any one thing you are aware of. Everybody knows you have it.
-- **Pride**. Erase any mistake or humiliation from your past. You now fumble on rolls of 1 or 2 at the referee's discretion.
+- **Pride**. Erase any mistake or humiliation from your past. You now fumble on rolls of 1, 2 or 3 at the referee's discretion.
 - **Gluttony**. You can eat _anything_. You can never eat the same thing twice.
 - **Greed**. You gain 1 000 big bags of gold. You cant spend them.
 - **Lust**. You have an extra life after this one. You cannot say no to an offer of a new experience.

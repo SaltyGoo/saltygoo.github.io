@@ -20,7 +20,7 @@ For every Diabolist template you have, you gain one extra **Spell Dice** and **[
 **D:** Dark Reward <br>
 
 ## Diabolic Magic
-Diabolists get a second random spell from the [diabolist school](/spells/#diabolism) at level 1. They’re stored in spell books and you spend Spell Dice to cast them.
+Diabolists get a second random spell from the [diabolist school](/spells/#diabolism) at level 1. They’re stored in your Psyche and you spend Spell Dice to cast them.
 
 <details markdown="1">
 <summary>How GLOG spells and doom work</summary>

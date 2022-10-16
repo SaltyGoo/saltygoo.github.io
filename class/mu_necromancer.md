@@ -12,15 +12,15 @@ A Black Spellbook, Ink and Quill, And your choice of a Shovel, a Surgeon Kit, or
 <ins>Starting Skills</ins><br>
 Your choice of Mortuary Cult Embalmer, Renegade Archeologist, Local Occultist, or Mad Doctor.
 
-For every Necromancer template you have, you gain one extra **Spell Dice** and an **[Necromancy Spell](/spells/#necromancy)**.
+For every Necromancer template you have, you gain one extra **Spell Dice** and, if you have your spellbook, a **[Necromancy Spell](/spells/#necromancy)**.
 
-**A:** Necromantic Magic, The threshold of Death<br>
+**A:** Necromantic Magic, The Threshold of Death<br>
 **B:** Harvest <br>
-**C:** The Three faces <br>
+**C:** The Three Faces <br>
 **D:** Undying <br>
 
 ## Necromantic Magic
-Necromancers get a second random spell from the [Necromancy school](/spells/#necromancy) at level 1. They can alternatively choose to learn the [Lichcraft](/2020/11/13/lichcraft/) spell instead.  They’re stored in your Psyche and you spend Spell Dice to cast them.
+Necromancers get a second random spell from the [Necromancy school](/spells/#necromancy) at level 1. You can alternatively choose to learn the [Lichcraft](/2020/11/13/lichcraft/) spell instead.  They’re stored in your Psyche and you spend Spell Dice to cast them.
 
 <details markdown="1">
 <summary>How GLOG spells work</summary>

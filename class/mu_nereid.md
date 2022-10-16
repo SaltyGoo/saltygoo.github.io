@@ -46,7 +46,7 @@ Each shawl knows one Nereid Spell. When worn, you gain a Spell Dice (SD) and can
 <details markdown="1">
 <summary>How GLOG spells work</summary>
 <ins>Spell Dice (SD)</ins><br>
-You get 1 per Necromancer template. They are D6s.
+You get 1 per Foam Shawl. They are D6s.
 
 Whenever you cast a spell, you choose how many SD to invest into it. The result of the spell depends on the number of [dice] and their [sum].
 

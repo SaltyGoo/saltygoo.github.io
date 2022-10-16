@@ -31,7 +31,7 @@ It **can** shape water at will, and move through any small hole.
 
 <ins>Slam</ins>. The elemental makes a melee attack (XD4 damage).
 
-<ins>Drown</ins>. The elemental makes a grapple attempt. On success, it pours itself into the target’s mouth, inflicting 1D4 constitution damage. As long as it is grappled, the target [can't breathe](/2020/11/10/extra-rules/#conditions) or talk.
+<ins>Drown</ins>. The elemental makes a grapple attempt. On success, it pours itself into the target’s mouth, inflicting 1D4 Fortitude damage. As long as it is grappled, the target [can't breathe](/2020/11/10/extra-rules/#conditions) or talk.
 
 <ins>Create Water</ins> (X/day). The elemental creates the equivalent of a 5' cube of water.
 

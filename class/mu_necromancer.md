@@ -4,7 +4,7 @@ title: The Necromancer
 permalink: /class/magic-user/necromancer
 ---
 
-###### Adapted from Coins & Scrolls's [version](https://coinsandscrolls.blogspot.com/2017/11/osr-necromancers.html) and fromNothic's Eye's [version](https://nothicseye.blogspot.com/2022/09/for-qal-ashen.html)
+###### Adapted from Coins & Scrolls's [version](https://coinsandscrolls.blogspot.com/2017/11/osr-necromancers.html) and from Nothic's Eye's [version](https://nothicseye.blogspot.com/2022/09/for-qal-ashen.html)
 
 <ins>Starting Equipment</ins><br>
 A Black Spellbook, Ink and Quill, And your choice of a Shovel, a Surgeon Kit, or the Skull of your ancestor.

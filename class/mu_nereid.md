@@ -4,16 +4,34 @@ title: The Nereid
 permalink: /class/magic-user/nereid
 ---
 
-The Nereid is a type of [Magic User](/class/magic-user).
+_You are the allure of the sea ..._
 
 <ins>Starting Equipment</ins><br>
-A Conch, A piece of clothing made of foam (see perks), One weapon or tool stolen from a sailor.
+A Conch, A Foam Shawl (see below), and One weapon or tool of your choice stolen from a sailor.
 
 <ins>Starting Skills</ins><br>
-Your choice of Reef Gardener, Deep Sea Hermit, Landweller Seducer
+Your choice of Reef Gardener, Deep Sea Hermit, or Landweller Seducer
 
-<ins>Spell List</ins><br>
-Roll on this list when you level up:
+For every Nereid template you have, you gain one **Foam Shawl**.
+
+**A:** Fey, Deep Blue, Foam Shawl<br>
+**B:** Allure of the Sea <br>
+**C:** Dance of the Seven Shawls <br>
+**D:** Panthalassa <br>
+
+## Fey
+You can shape spells and emotions like clay, but iron makes you [poisoned](/2020/11/10/extra-rules/#conditions) for 10 minutes upon contact, during which you cannot use your powers.
+
+## Deep Blue
+You and creatures charmed by you can breathe underwater.
+
+## Foam Shawl
+For each Nereid template you gain a Foam Shawl. These shawls are in fact minor water elementals bound to you.
+
+Each shawl knows one Nereid Spell. When worn, you gain a Spell Dice (SD) and can cast the spell known by it. When you expend the SD, that shawl disappears and you lose its effect. You only recover the shawl if you rest submerged in water.
+
+<details markdown="1">
+<summary>Nereid Spells</summary>
 1. [Aquamorphosis](https://saltygoo.github.io/2020/11/13/elementamorphosis/)
 1. [Aquatic Door](https://saltygoo.github.io/2020/11/13/aquatic-door/)
 1. [Aura of Renewal](https://saltygoo.github.io/2020/11/13/aura-of-renewal/)
@@ -24,18 +42,29 @@ Roll on this list when you level up:
 1. [Obsecration](https://saltygoo.github.io/2020/11/13/obsecration/)
 1. [Seduce Water](https://saltygoo.github.io/2020/11/13/seduce-water/)
 1. [Transmit Breath](https://saltygoo.github.io/2020/11/13/transmit-breath/)
+</details>
+<details markdown="1">
+<summary>How GLOG spells work</summary>
+<ins>Spell Dice (SD)</ins><br>
+You get 1 per Necromancer template. They are D6s.
 
-<ins>Perk</ins><br>
-Instead of each SD, you have a piece of clothing made of foam (a minor water elemental in fact). Each of these vestments decrease the damage you take from spells and other magical effects by 1.
+Whenever you cast a spell, you choose how many SD to invest into it. The result of the spell depends on the number of [dice] and their [sum].
 
-When you expend a SD, that vestment disappears and you lose its effect. You only recover it if you spend a full rest submerged in water.
+If a SD rolls a 1, 2 or 3, you don’t lose it. Otherwise, you lose it until you get a night of sleep. You can’t cast without SD.
 
-You can lend these vestments to other people, effectively giving them 1 SD and one of your spells. However, as long as they hold the clothes, you are [Charmed](https://saltygoo.github.io/2020/11/10/extra-rules/#conditions) by them.
+Every time you roll doubles you get closer to *Catastrophe*.
 
-<ins>Drawback</ins><br>
-You are allergic to Iron. Contact with it prevents you from casting spells, while wounds by it make you [Poisoned](https://saltygoo.github.io/2020/11/10/extra-rules/#conditions) until they are healed.
+<ins>Catastrophe</ins><br>
+Every time you roll doubles you gain 1 *Doom Point*. Every time you gain a _Doom Point_, roll a D20. If you roll equal to or below your doom score, you trigger a [catastrophe](/list/spell-catastrophe).
+</details>
 
-<ins>Cantrips</ins>
-- You and creatures charmed by you can breathe underwater.
-- As long as you sing them, your words can be understood by all mortals.
-- If you have no water vestments left, you can take 10 minutes to meld into water and become invisible while submerged.
+You can lend these vestments and their power to other people. However, as long as they hold the clothes, they are [Charmed](/2020/11/10/extra-rules/#conditions) by you.
+
+## Allure of the Sea
+You are an embodiment of the allure of the sea. This emotion is stored in your Psyche. Any creature holding one of your possession also bears this strong emotion. They are now [Charmed](/2020/11/10/extra-rules/#conditions) by large bodies of water and must save to avoid being [Dazed](/2020/11/10/extra-rules/#conditions) when seeing one (even a depiction or a vivid description).
+
+## Dance of the Shawls
+You can awaken your shawls by dancing. Each is a [Water Elemental](/monsters/elemental-water) with 1D6 HP. If one dies, it'll come back after you rest submerged in water.
+
+## Panthalassa
+In your vicinity, any amount of water bigger than a drinking glass is connected to the global sea, Panthalassa. Thus any puddle is infinitely deep.

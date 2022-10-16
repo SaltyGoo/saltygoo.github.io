@@ -12,12 +12,12 @@ A Black Spellbook, Ink and Quill, And your choice of a Shovel, a Surgeon Kit, or
 <ins>Starting Skills</ins><br>
 Your choice of Mortuary Cult Embalmer, Renegade Archeologist, Local Occultist, or Mad Doctor.
 
-For every Necromancer template you have, you gain one extra **Spell Dice** and, if you have your spellbook, a **[Necromancy Spell](/spells/#necromancy)**.
+For every Necromancer template you have, you gain one extra **Spell Dice**, you can endure an **extra 2 [Wounds](/2020/11/09/base-rules/)** before you die, and, if you have your spellbook, learn a new **[Necromantic Spell](/spells/#necromancy)**.
 
 **A:** Necromantic Magic, The Threshold of Death<br>
 **B:** Harvest <br>
 **C:** The Three Faces <br>
-**D:** Undying <br>
+**D:** Undeath <br>
 
 ## Necromantic Magic
 Necromancers get a second random spell from the [Necromancy school](/spells/#necromancy) at level 1. You can alternatively choose to learn the [Lichcraft](/2020/11/13/lichcraft/) spell instead.  They’re stored in your Psyche and you spend Spell Dice to cast them.
@@ -40,19 +40,19 @@ Every time you roll doubles you gain 1 *Doom Point*. Every time you gain a _Doom
 Because you focus on such dark arts, you begin each adventure chased by the Church.
 
 ## The Threshold of Death
-You can inflict a [Wound](/2020/11/09/base-rules/) to yourself to add 1 SD to a spell you are casting.
+What is death? Being wounded does not make you fall unconscious and start dying. However, you still die when you reach your Wound limit. You can give yourself 1 [Wound](/2020/11/09/base-rules/) to add 1 SD to a spell you are casting.
 
-You do not fall unconscious nor start dying when you get a [Wound](/2020/11/09/base-rules/). You still die when you get 10 Wounds. However, you only cure as many Wounds as you have Necromancer templates when you rest between adventures.
+This dark magic takes a toll on your body: Medical care can only heal as many Wounds between your adventures as you have Necromancer Templates.
 
 ## Harvest
-Everytime you rest in a cemetary or the location of a massacre, you can recruit a new [follower](/2017/06/osr-table-of-camp-followers.html). This follower is rotting undead and will be hunted down if discovered as such by most humanoids. You can resurect them by inflicting a Wound to yourself.
+Everytime you rest in a cemetary or the location of a massacre, you can recruit a new [follower](/2017/06/osr-table-of-camp-followers.html). This follower is a rotting undead and will be hunted down if understood as such by most humanoids. You can resurect them by inflicting a Wound to yourself.
 
 ## The Three Faces
 Each morning when the sun rises, you choose whether you are Living, Undead, or Dead, with all that implies.
 
 -  If you are living, you can chose what age you have.
--  If you are undead, you have +1 HP for each Wound you have at sunrise.
--  If you are dead, when you wake up next sunrise, you can halve or double the number of Wounds you have. You of course cannot be killed while dead.
+-  If you are undead, you heal [dice] when you cast a spell.
+-  If you are dead, your undead followers have as much HP as you have wounds.
 
-## Undying
-You don't die until you get 20 Wounds.
+## Undeath
+You no longer die when you reach your Wound limit. Instead you lose a limb every time you would die. Consider finding spare limbs or new bodies.

@@ -62,7 +62,7 @@ The next time you go outside, a sickly light will pierce the sky and shine on yo
 ## D12 Apotropaic Catastrophes
 <details markdown="1">
 <summary><b>1. Last Warning</b></summary>
-The next time you and your allies sleep in town, you are summoned to the Bureau of Safety and Regulations for an endless inquiry. It's probably not in this town, so prepare for a long journey.</details>
+The next time you and your allies sleep in town, you are summoned by the Church for an endless inquiry on your careless use of magic.
 </details>
 <details markdown="1">
 <summary><b>2. Confinement</b></summary>
@@ -74,15 +74,15 @@ You've warded yourself from magic. Your Spell Dice are always expended when you 
 </details>
 <details markdown="1">
 <summary><b>4. Safety Burden</b></summary>
-For each spell in your Psyche, you must have another Psyche slot taken by the spell's "proper instructions". You cannot cast spells without them.</details>
+For each spell in your Psyche, you must use another Psyche slot for the spell's "_proper instructions_". You cannot cast spells without them.
 </details>
 <details markdown="1">
 <summary><b>5. Alarming Protection</b></summary>
-Every movement in your vicinity, including yours, is signaled by an annoying alarm.
+Each movement in your vicinity, including yours, is signaled by an annoying alarm.
 </details>
 <details markdown="1">
 <summary><b>6. Unhinged Power</b></summary>
-You've destroyed the restraints dampening your magic. Blue flames constantly spew out of your hands, burning everything too close.
+You've destroyed the restraints dampening your magic. Blue flames constantly spew out of your hands.
 </details>
 <details markdown="1">
 <summary><b>7. Divine Manacles</b></summary>
@@ -94,7 +94,7 @@ The area around you is completely sealed from magic. No spells can affect you an
 </details>
 <details markdown="1">
 <summary><b>9. Soultrapped</b></summary>
-Choose an item in your inventory. You are trapped in it like a genie in a bottle. You can hear a bit, although all sounds are muffled, and, if you scream, people outside can hear you, but not much louder than a whisper.
+Choose an item in your inventory. You are trapped in it like a genie in a bottle. You can hear a bit, although all sounds are muffled, and, if you scream, people outside can hear you, but not much louder than a whisper. You do not need to eat while trapped this way.
 </details>
 <details markdown="1">
 <summary><b>10. Undetection</b></summary>

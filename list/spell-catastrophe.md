@@ -6,7 +6,7 @@ title: Curses and Catastrophes
 
 Catastrophes most often happen when a spellcaster rolls too many pairs and triples on their [Spell Dice](/class/wizard#spells), but they are also designed to be used as curses by the referee when appropriate. It's a work in progress as I'm doing a list for each of the [Wonder & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness) and [Marvels & Malison](https://www.drivethrurpg.com/product/211911/Marvels--Malisons) spell schools that I use. Roll a smaller die than a D12 if you want to avoid the character-killing ones. The smaller the roll the kinder the consequence.
 
-Reminder of the Salty Goo spell catastrophe rules: _ Every time you roll doubles with your Spell Dice you gain 1 Doom Point. Roll a D20. If you roll equal to or below your doom score, you trigger a catastrophe._
+Reminder of the Salty Goo spell catastrophe rules: _Every time you roll doubles with your Spell Dice you gain 1 Doom Point. Roll a D20. If you roll equal to or below your doom score, you trigger a catastrophe._
 
 
 ## D12 Animorphic Catastrophes

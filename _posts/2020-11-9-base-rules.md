@@ -292,7 +292,7 @@ If a SD rolls a 1, 2 or 3, you don’t lose it. Otherwise, you lose it until you
 Every time you roll doubles you get closer to *Catastrophe*.
 
 <ins>Catastrophe</ins><br>
-Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equal to or below your doom score, you trigger a [catastrophe](/list/spell-catastrophe). They will end your wizardly career if you don’t quest to avoid your doom.
+Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equal to or below your doom score, you trigger a [catastrophe](/list/spell-catastrophe). Triples give 3 Points, and Quadruples, 6 points. They will end your wizardly career if you don’t quest to avoid your doom.
 
 <ins>Sigil</ins><br>
 Some spells mention a Sigil. It's your unique symbol. A spell cast with a Sigil takes 10 minutes to cast, but lasts forever. You can have as many Sigils up as you have Spell Dice.

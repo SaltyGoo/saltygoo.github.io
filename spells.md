@@ -39,7 +39,7 @@ For the complete alphabetical list : [All Spells](/list/spells)
 
 <ins>HD</ins> : Means Hit Dice, the level of the monster, which the Referee knows. The minimum level is 1.
 
-<ins>[Catastrophe](/list/spell-catastrophe)</ins> : Terrible consequences for misusing magic. Happens when a spell creates a paradox, or when two many doubles happend when you roll spell dice. They will ultimately end your wizardly carreer if you are reckless.
+<ins>[Catastrophe](/list/spell-catastrophe)</ins> :  Every time you roll doubles with your Spell Dice you gain 1 Doom Point. Roll a D20. If you roll equal to or below your doom score, you trigger a catastrophe. They will end your wizardly career if you don’t quest to avoid your doom.
 
 <ins>Duration Philosophy</ins> : Each duration unit reflects the intended use of the spell:
 - <ins>rounds</ins> is for in combat.

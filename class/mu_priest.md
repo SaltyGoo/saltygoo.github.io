@@ -34,7 +34,7 @@ They are D6s and you cannot cast a spell without them. Whenever you cast a spell
 Every time you roll doubles you get closer to *Catastrophe*.
 
 <ins>Catastrophe</ins><br>
-Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equal to or below your doom score, you trigger a [catastrophe](/list/spell-catastrophe). They might end your adventuring career so be careful.
+Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equal to or below your doom score, you trigger a [catastrophe](/list/spell-catastrophe). Triples give 3 Points, and Quadruples, 6 points.
 </details>
 
 Choices of Sacraments:

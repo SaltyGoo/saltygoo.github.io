@@ -55,7 +55,7 @@ If a SD rolls a 1, 2 or 3, you don’t lose it. Otherwise, you lose it until you
 Every time you roll doubles you get closer to *Catastrophe*.
 
 <ins>Catastrophe</ins><br>
-Every time you roll doubles you gain 1 *Doom Point*. Every time you gain a _Doom Point_, roll a D20. If you roll equal to or below your doom score, you trigger a [catastrophe](/list/spell-catastrophe).
+Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equal to or below your doom score, you trigger a [catastrophe](/list/spell-catastrophe). Triples give 3 Points, and Quadruples, 6 points.
 </details>
 
 You can lend these vestments and their power to other people. However, as long as they hold the clothes, they are [Charmed](/2020/11/10/extra-rules/#conditions) by you.

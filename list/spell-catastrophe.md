@@ -4,9 +4,10 @@ permalink: /list/spell-catastrophe
 title: Curses and Catastrophes
 ---
 
-Catastrophes most often happen when a spellcaster rolls too many pairs and triples on their [Spell Dice](/class/wizard#spells), but they are also designed to be used as curses by the referee when appropriate. It's a work in progress as I'm doing a list for each of the [Wonder & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness) and [Marvels & Malison](https://www.drivethrurpg.com/product/211911/Marvels--Malisons) spell schools that I use. Roll smaller dice than a D12 if you want to avoid the character-killing ones. The smaller the roll the kinder the consequence.
+Catastrophes most often happen when a spellcaster rolls too many pairs and triples on their [Spell Dice](/class/wizard#spells), but they are also designed to be used as curses by the referee when appropriate. It's a work in progress as I'm doing a list for each of the [Wonder & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness) and [Marvels & Malison](https://www.drivethrurpg.com/product/211911/Marvels--Malisons) spell schools that I use. Roll a smaller die than a D12 if you want to avoid the character-killing ones. The smaller the roll the kinder the consequence.
 
-With that in mind, a character could roll a D6 the first time they have a mishaps and increase the dice size each time, rerolled results they already had. But you could embrace the chaos and roll a D12 all the time.
+Reminder of the Salty Goo spell catastrophe rules: _ Every time you roll doubles with your Spell Dice you gain 1 Doom Point. Roll a D20. If you roll equal to or below your doom score, you trigger a catastrophe._
+
 
 ## D12 Animorphic Catastrophes
 <details markdown="1">
@@ -62,6 +63,7 @@ The next time you go outside, a sickly light will pierce the sky and shine on yo
 <details markdown="1">
 <summary><b>1. Last Warning</b></summary>
 The next time you and your allies sleep in town, you are summoned to the Bureau of Safety and Regulations for an endless inquiry. It's probably not in this town, so prepare for a long journey.</details>
+</details>
 <details markdown="1">
 <summary><b>2. Confinement</b></summary>
 All exits of the room you are in are sealed shut and locked. If you are not in a building, a single cell prison is build around you.
@@ -71,7 +73,7 @@ All exits of the room you are in are sealed shut and locked. If you are not in a
 You've warded yourself from magic. Your Spell Dice are always expended when you use them.
 </details>
 <details markdown="1">
-<summary><b>4. The safe use of magic</b></summary>
+<summary><b>4. Safety Burden</b></summary>
 For each spell in your Psyche, you must have another Psyche slot taken by the spell's "proper instructions". You cannot cast spells without them.</details>
 </details>
 <details markdown="1">

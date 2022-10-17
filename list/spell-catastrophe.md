@@ -58,6 +58,55 @@ You simply do not hold shape anymore. You have become an ooze. You have 3 invent
 The next time you go outside, a sickly light will pierce the sky and shine on you. You, and only you, will see the silhouettes of strange humanoids reaching out for you. The rest of the world will see you disappear. You will be found naked in a completely different location 1D4 years later with no memories.
 </details>
 
+## D12 Apotropaic Catastrophes
+<details markdown="1">
+<summary><b>1. Last Warning</b></summary>
+The next time you and your allies sleep in town, you are summoned to the Bureau of Safety and Regulations for an endless inquiry. It's probably not in this town, so prepare for a long journey.</details>
+<details markdown="1">
+<summary><b>2. Confinement</b></summary>
+All exits of the room you are in are sealed shut and locked. If you are not in a building, a single cell prison is build around you.
+</details>
+<details markdown="1">
+<summary><b>3. Seal Magic</b></summary>
+You've warded yourself from magic. Your Spell Dice are always expended when you use them.
+</details>
+<details markdown="1">
+<summary><b>4. The safe use of magic</b></summary>
+For each spell in your Psyche, you must have another Psyche slot taken by the spell's "proper instructions". You cannot cast spells without them.</details>
+</details>
+<details markdown="1">
+<summary><b>5. Alarming Protection</b></summary>
+Every movement in your vicinity, including yours, is signaled by an annoying alarm.
+</details>
+<details markdown="1">
+<summary><b>6. Unhinged Power</b></summary>
+You've destroyed the restraints dampening your magic. Blue flames constantly spew out of your hands, burning everything too close.
+</details>
+<details markdown="1">
+<summary><b>7. Divine Manacles</b></summary>
+Your hands are stuck together.
+</details>
+<details markdown="1">
+<summary><b>8. Antimagic Beacon</b></summary>
+The area around you is completely sealed from magic. No spells can affect you and you can't cast spells. Feys avoid you, divine agents hate you.
+</details>
+<details markdown="1">
+<summary><b>9. Soultrapped</b></summary>
+Choose an item in your inventory. You are trapped in it like a genie in a bottle. You can hear a bit, although all sounds are muffled, and, if you scream, people outside can hear you, but not much louder than a whisper.
+</details>
+<details markdown="1">
+<summary><b>10. Undetection</b></summary>
+You are barely perceptible: nobody cares to interact with you, and you cannot interact with anything of significance. You can speak, but it will not be remembered.
+</details>
+<details markdown="1">
+<summary><b>11. Seal Crowd</b></summary>
+Every player in your group must flip a coin. If it's head, their character is soultrapped (see number 9). The same happens with all npcs and monsters in the area.
+</details>
+<details markdown="1">
+<summary><b>12. Doom the World</b></summary>
+You break the wards protecting the integrity of the world. An eldritch god starts phasing in!
+</details>
+
 ## D12 Diabolic Catastrophes
 <details markdown="1">
 <summary><b>1. Last Warning</b></summary>

@@ -43,9 +43,9 @@ It **can't** die unless it's would-be killer saves vs fear.
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1D4 insectare and 1 veteran ...
-  1. ... [mage](https://saltygoo.github.io/monsters/mage)
+  1. ... [mage](https://saltygoo.github.io/monsters/wizard)
   1. ... [scout](https://saltygoo.github.io/monsters/scout)
-  1. ... [spelljammer captian](https://saltygoo.github.io/monsters/mage)
+  1. ... [spelljammer captian](https://saltygoo.github.io/monsters/wizard)
   1. riding a giant grasshopper
 3. **Lair:** An elegant flying ship with sails like insect wings. <br>    &nbsp; OR <br>    **Omen:** Conversation whispered in cricket noises.
 4. **Spoor:** Electrocuted person. Dead but sill spasming.

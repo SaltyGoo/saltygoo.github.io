@@ -9,5 +9,5 @@ You touch ashes and vividly see what they were before they burnt. You also see w
 
 When casting this spell, creatures that were near the flames in the past retroactively see your figure within them.
 
-###### voice + tremor
-###### From A Distant Chime's [Malachite](https://espharel.blogspot.com/2019/10/glog-wizard-malachite.html)
+###### past + fire
+###### From thethingswedoforxp's [Pyromancer](https://thethingswedoforxp.blogspot.com/2019/07/glog-wizard-pyromancer.html)

@@ -5267,6 +5267,15 @@ gen_data['arcticadjective'] = [
     'the astral sea',
     'the land of the dead',
   ];
+   gen_data['manesclue'] = [
+    'desperate',
+    'swarming',
+    'weak',
+    'hungry',
+    'summoned',
+    'spilling',
+  ];     
+     
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
   </head>

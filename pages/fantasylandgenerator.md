@@ -145,6 +145,7 @@
     'space',
     'stars',
     'arcane energy',
+    'abyss',
   ];      
    
    gen_data['astralfeature'] = [
@@ -184,6 +185,7 @@
     'a {astraladjective} giant brain floats',
     'a {astraladjective} hollow planet orbits',
     'a {astraladjective} WIZARD tower floats',
+    'the {astraladjective} eye of an eldritch  god peeks',
  ];
       
    gen_data['astraladjective'] = [
@@ -223,6 +225,7 @@
     'pulsing',
     'insectoid',
     'arcane',
+    'damned',
   ];
 
    gen_data['astralobstacle'] = [
@@ -261,6 +264,7 @@
     'psychic waves',
     'high-pitched vibrations',
     'scrying devices',
+    'ruins',
   ];
       
    gen_data['astralhazard'] = [
@@ -300,6 +304,7 @@
     'pushing you around',
     'communicating with HORRORS from beyond',
     'summoned by a WIZARD',
+    'corrupted by an eldritch god',
   ];
 
    gen_data['astralmonster'] = [
@@ -339,6 +344,7 @@
     '{braingolemown} BRAIN GOLEMS',
     'INSECTARES {insectareculture} {insectareproblem}',
     'a WIZARD {wizardwants}',
+    '{manesclue} aberrations known as MANES',
   ];
       
       
@@ -1202,6 +1208,7 @@ gen_data['mainelemental'] = [
     'There is nothing left of',
     'A PLEASURE CULT twisted',
     'Feral cannibals roam',
+    'A god has eaten all the souls around',
   ];
       
  gen_data['chaoschazard'] = [
@@ -1221,6 +1228,7 @@ gen_data['mainelemental'] = [
     'make every surface sticky',
     'create depraved illusions',
     'provoke bloodlust',
+    'summon swarms of MANES',
   ];    
       
   gen_data['chaostaint'] = [
@@ -1240,6 +1248,7 @@ gen_data['mainelemental'] = [
     'lost many limbs',
     'became hungry faint shadows',
     'became cannibalistic',
+    'became soulless',
   ];    
  
   gen_data['chaosmonster'] = [
@@ -1259,6 +1268,7 @@ gen_data['mainelemental'] = [
     '{egarustotem} EGARUS FUNGI',
     'ELVEN SHADOWS who {elfshadowwants}',
     'GHOULS {ghoulwants}',    
+    '{manesclue} aberrations known as MANES',
  ];
       
 // - - - - - - - - - - U - N - D - E - R - D - A - R - K - - - - - - - - - - - - - - - - - - - - - - -
@@ -1316,6 +1326,7 @@ gen_data['darkgate'] = [
     'slick, metallic circular gate',
     'vulture colony',
     'swamp',
+    'abyssal portal',
   ];
 gen_data['darkgatecomplication'] = [
     'the sound of brutal sword fighting coming from it',
@@ -1363,6 +1374,7 @@ gen_data['darkgatecomplication'] = [
     'the psychic barrier protecting it',
     'the plagued flies that swarm it',
     'the mud that clogs it',
+    'swarm of MANES that clogs it',
   ];
 gen_data['tunneladjective'] = [
     'amalgamated weapons',
@@ -1410,6 +1422,7 @@ gen_data['tunneladjective'] = [
     'lead',
     'plagued',
     'lush',
+    'eldritch',
   ];
 gen_data['tunnelfeature'] = [
     'strata',
@@ -1458,6 +1471,7 @@ gen_data['tunnelfeature'] = [
     'laboratory tunnels',
     'WURM carcasses',
     'mud rivers',
+    'abyssal pits',
   ];
 gen_data['tunnelhazard'] = [
     'sharp, cutting',
@@ -1506,6 +1520,7 @@ gen_data['tunnelhazard'] = [
     'brain-melting',
     'plagued',
     'deep',
+    'MANES-swarmed',
   ];
 gen_data['tunnelobstacle'] = [
     'surfaces',
@@ -1554,6 +1569,7 @@ gen_data['tunnelobstacle'] = [
     'psychic waves',
     'ticks',
     'mud pits',
+    'eldritch signs',
   ];
 gen_data['tunnelmonster'] = [
     'a {abhirclue} ABHIR DEMON',
@@ -1602,6 +1618,7 @@ gen_data['tunnelmonster'] = [
     '{braingolemown} BRAIN GOLEMS',
     'GHOUL {tunnelbeast} {ghoulbeastwants}',    
     'a{hydratotem} HYDRA',
+    '{manesclue} aberrations known as MANES',
  ];
 
 // - - - - - - - - - - S - E - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

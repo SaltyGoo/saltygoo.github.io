@@ -904,7 +904,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 
 <details markdown="1">
-<summary><b>95. Ninety-Nine Notes from the Trenches</b></summary>
+<summary><b>95. Ninety-Nine Trench Blueprints</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Burnt and muddied, progessively more fatalistic.*
 - You can sculpt and move smoke.
 - Each time you study this book, you craft a bullet enchanted with one spell you know. It is shot with advantage and triggers the spell (with one SD) on impact.
@@ -922,12 +922,21 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </details>
 
 <details markdown="1">
-<summary><b>97. Notes on Battlefied Vivisection</b></summary>
+<summary><b>97.  Battlefied Vivisected</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Gruesomly illustrated. Deranged footnotes.*
-- You can tast blood and know from which creature it came from.
+- You can know from which creature blood came from by tasting it.
 - Each time you study this book, you gain a vial full a random disease.
 - Roll 1D4, you gain the following spell: 1. [Call of the Leeches](/2020/11/12/call-of-the-animal/), 2. [Desiccate](/2020/11/13/desiccate/), 3. [Grow Organ](/2020/11/13/grow-organ/), 4. [Steal Limb](/2020/11/13/steal-limb/)
 ###### *From A Sense of Immersion's [Experimenter](https://asenseofimmersion.wordpress.com/2022/09/06/those-who-pulled-the-trigger-were-not-holding-the-gun-glog-wizard/)!*
+</details>
+
+<details markdown="1">
+<summary><b>98. Hymns from the Hearth</b></summary>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *This tome is singed and sooty, with a citrine gem set in the cover*
+- You can summon a candle flame in your hand with the snap of your fingers.
+- For each time you studied this book, you and your friends can have one night of rest safe from any harm when you desire it.
+- Roll 1D4, you gain the following spell: 1. [Ancient Flame](/2020/11/13/ancient-flame/), 2. [Flames of Truth](/2020/11/13/flames-of-truth/), 3. [Heat Alchemy](/2020/11/13/alchemical-elementalism/), 4. [Inner Hearth](/2020/11/13/aura-of-warmth/),
+###### *From Sylvanas_iii on the GLOG discord!*
 </details>
 
 I'm missing 3! Ping me on discord/reddit if you have ideas.

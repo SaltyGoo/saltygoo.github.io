@@ -1209,6 +1209,7 @@ gen_data['mainelemental'] = [
     'A PLEASURE CULT twisted',
     'Feral cannibals roam',
     'A god has eaten all the souls around',
+    'A giant maw has eaten',
   ];
       
  gen_data['chaoschazard'] = [
@@ -1229,6 +1230,7 @@ gen_data['mainelemental'] = [
     'create depraved illusions',
     'provoke bloodlust',
     'summon swarms of MANES',
+    'has grown countless sharp teeth',
   ];    
       
   gen_data['chaostaint'] = [
@@ -1249,6 +1251,7 @@ gen_data['mainelemental'] = [
     'became hungry faint shadows',
     'became cannibalistic',
     'became soulless',
+    'went on a senseless rampage',
   ];    
  
   gen_data['chaosmonster'] = [
@@ -1269,6 +1272,7 @@ gen_data['mainelemental'] = [
     'ELVEN SHADOWS who {elfshadowwants}',
     'GHOULS {ghoulwants}',    
     '{manesclue} aberrations known as MANES',
+    '{mawdemonclue} aberrations known as MAW DEMONS',
  ];
       
 // - - - - - - - - - - U - N - D - E - R - D - A - R - K - - - - - - - - - - - - - - - - - - - - - - -
@@ -1327,6 +1331,8 @@ gen_data['darkgate'] = [
     'vulture colony',
     'swamp',
     'abyssal portal',
+    'toothed pit',
+
   ];
 gen_data['darkgatecomplication'] = [
     'the sound of brutal sword fighting coming from it',
@@ -1375,6 +1381,7 @@ gen_data['darkgatecomplication'] = [
     'the plagued flies that swarm it',
     'the mud that clogs it',
     'swarm of MANES that clogs it',
+    'the toothed walls closing on people getting in',
   ];
 gen_data['tunneladjective'] = [
     'amalgamated weapons',
@@ -1423,6 +1430,7 @@ gen_data['tunneladjective'] = [
     'plagued',
     'lush',
     'eldritch',
+    'toothed',
   ];
 gen_data['tunnelfeature'] = [
     'strata',
@@ -1472,6 +1480,7 @@ gen_data['tunnelfeature'] = [
     'WURM carcasses',
     'mud rivers',
     'abyssal pits',
+    'earth jaws',
   ];
 gen_data['tunnelhazard'] = [
     'sharp, cutting',
@@ -1521,6 +1530,7 @@ gen_data['tunnelhazard'] = [
     'plagued',
     'deep',
     'MANES-swarmed',
+    'toothed',
   ];
 gen_data['tunnelobstacle'] = [
     'surfaces',
@@ -1570,6 +1580,7 @@ gen_data['tunnelobstacle'] = [
     'ticks',
     'mud pits',
     'eldritch signs',
+    'jaws',
   ];
 gen_data['tunnelmonster'] = [
     'a {abhirclue} ABHIR DEMON',
@@ -1619,6 +1630,7 @@ gen_data['tunnelmonster'] = [
     'GHOUL {tunnelbeast} {ghoulbeastwants}',    
     'a{hydratotem} HYDRA',
     '{manesclue} aberrations known as MANES',
+    '{mawdemonclue} aberrations known as MAW DEMONS',
  ];
 
 // - - - - - - - - - - S - E - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2764,7 +2776,7 @@ gen_data['jungleadjective'] = [
     'goblinoid',    
     'muddy',    
     'mystical',    
-
+    'jagged',    
   ];
   gen_data['junglefeature'] = [
     'mangrove',
@@ -2811,6 +2823,7 @@ gen_data['jungleadjective'] = [
     'keep',
     'streams',
     'wizard tower',
+    'pits',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -2857,6 +2870,7 @@ gen_data['jungleadjective'] = [
     'crossbow traps',
     'wide rivers',
     'mystical wards',
+    'toothed plants',
   ];
   gen_data['junglehazard'] = [
     'attract flash floods',  
@@ -2903,6 +2917,7 @@ gen_data['jungleadjective'] = [
     'are controlled by HOBGOBLINS',
     'hiding predators',
     'protecting a dungeon',
+    'beg for blood',
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem}{giant}AQRASETHS',
@@ -2949,6 +2964,7 @@ gen_data['jungleadjective'] = [
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
     'a{hydratotem} HYDRA',
     'a WIZARD {wizardwants}',
+    '{mawdemonclue} aberrations known as MAW DEMONS',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3481,6 +3497,7 @@ gen_data['desertadjective'] = [
     'flat',
     'legendary',
     'mystical',
+    'jagged',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -3532,6 +3549,7 @@ gen_data['desertadjective'] = [
     'pastures',
     'castle',
     'wizard tower',
+    'pits',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -3584,6 +3602,7 @@ gen_data['desertadjective'] = [
     'tumbleweed',  
     'sacred steles',  
     'mystical wards',  
+    'toothed pits',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -3635,6 +3654,7 @@ gen_data['desertadjective'] = [
     'could provoke a stampede',  
     'protecting holy sites',  
     'protecting a dungeon',  
+    'seeking blood',  
   ];
   gen_data['desertmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -3687,6 +3707,7 @@ gen_data['desertadjective'] = [
     '{horsetotem} HORSES',
     'KNIGHTS {knightwants}',
     'a WIZARD {wizardwants}',
+    '{mawdemonclue} aberrations known as MAW DEMONS',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -5275,7 +5296,15 @@ gen_data['arcticadjective'] = [
     'summoned',
     'spilling',
   ];     
-     
+   gen_data['mawdemonclue'] = [
+    'rampaging',
+    'GNOLL-worshipped',
+    'screeching',
+    'bloated',
+    'warmongering',
+    'digging',
+  ];    
+          
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
   </head>

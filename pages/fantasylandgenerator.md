@@ -1046,7 +1046,7 @@ gen_data['mainelemental'] = [
     'turn food into ash',
     'are diabolical here',
     'speak with the voices of damned souls',
-    'will only let faithful pass',
+    'will only let the faithful pass',
     'are near the immensely high wall that divides this land',
     'were created to torment sinners',
     'are manipulated by IMPS',

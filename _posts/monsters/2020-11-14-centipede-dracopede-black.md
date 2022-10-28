@@ -52,7 +52,7 @@ It **can't** see well.
 
 Dracopedes are highly sought after for the alchemical property of their spit. Their carapace is very hard, but 5 of them are needed to make an human-sized armor.
 
-<span class="alchemy">**Black Dracospit.** Save or take 1D6 damage and be [poisoned](/2020/11/10/extra-rules/#conditions), save again each day to cure. If this damage would bring you below 1 HP, you fall asleep for 12 hours instead.</span>
+<span class="alchemy">**Black Dracospit.** Builds pressure and has a chance to explode if shaken. Save or take 1D6 damage and be [poisoned](/2020/11/10/extra-rules/#conditions), save again each day to cure. If this damage would bring you below 1 HP, you fall asleep for 12 hours instead.</span>
 </details>
 
 <details markdown="1">

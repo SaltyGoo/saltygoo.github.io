@@ -54,7 +54,7 @@ The sprayed ground becomes spiky and slippery. If a creature falls, it takes dam
 
 Dracopedes are highly sought after for the alchemical property of their spit. Their carapace is very hard, but 5 of them are needed to make an human-sized armor.
 
-<span class="alchemy">**Blue Dracospit.** Freezing liquid that builds pressure when shaken. Needs subzero temperatures.</span>
+<span class="alchemy">**Blue Dracospit.** Builds pressure and has a chance to explode if shaken. Instantly freezes in contact with air in zubzero teperatures.</span>
 </details>
 
 <details markdown="1">

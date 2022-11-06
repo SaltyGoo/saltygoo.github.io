@@ -53,7 +53,7 @@ It **can't** see well.
 
 Dracopedes are highly sought after for the alchemical property of their spit. Their carapace is very hard, but 5 of them are needed to make an human-sized armor.
 
-<span class="alchemy">**Green Dracospit.** Corrosive liquid that builds pressure when shaken. The equivalent of a bottle inflicts 1D6 damage.</span>
+<span class="alchemy">**Green Dracospit.** Builds pressure and has 1/6 chance to explode if shaken. If it does, take 1D10 damage. Corrodes through organic matter. </span>
 </details>
 
 <details markdown="1">

@@ -45,7 +45,7 @@ In a swarm, creatures are **immune** to being grappled or attacked by single tar
 
 <ins>Bites.</ins> To dodge a swarm’s attack, the roll has to beat 10 + the swarm’s HP. On a hit, the target takes 1 damage and must save or be [poisoned](/2020/11/10/extra-rules/#conditions).
 
-<span class="alchemy">**Centipede Venom.** Save or be [poisoned](/2020/11/10/extra-rules/#conditions), save again each day to cure. Lose 1D4 points of Fortitude.</span>
+<span class="alchemy">**Centipede Venom.** In Wound: Save or be [poisoned](/2020/11/10/extra-rules/#conditions), save again each day to cure. Lose 1D4 points of Fortitude.</span>
 
 <br>
 

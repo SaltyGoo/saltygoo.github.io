@@ -73,7 +73,7 @@ It **can** detect heat, especially mammal body temperature.
 
 <ins>Pheromone Spray.</ins> The Vyderac sprays a cone of fine yellow powder on one or two adjacent targets. If they fail to dodge, they are covered in Vyderac pheromones which cause urticaria. 1D4 Vyderac swarms will arrive in 1D6 hours.
 
-<span class="alchemy"> **Vyderac Pheromones**. Contact poison. So itchy, a sprayed target must save each round until they succeed three times or are washed, during which time they cannot focus on any task that extends beyond 1 turn. If they fail three times, they have scratched themselves until they bleed and the poison has entered their body. In 10 minutes, they will be completely [stunned](/2020/11/10/extra-rules/#conditions) until they are cured.</span>
+<span class="alchemy"> **Vyderac Pheromones**. On skin: So itchy, you must save each round until you succeed 3 times or are washed. Until then, you cannot focus on any task that requires more than one gesture. If you fail 3 times, you sstart bleeding from your scratching and the poison has entered your body. In wound: In 10 minutes, you will be completely [stunned](/2020/11/10/extra-rules/#conditions) for 8 hours.</span>
 
 ---
 

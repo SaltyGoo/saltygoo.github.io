@@ -55,7 +55,7 @@ This attack has no effect in cool temperatures.
 
 Dracopedes are highly sought after for the alchemical property of their spit. Their carapace is very hard, but 5 of them are needed to make an human-sized armor.
 
-<span class="alchemy">**Red Dracospit.** Flammable liquid that builds pressure when shaken. Reacts to air in warm temperatures.</span>
+<span class="alchemy">**Red Dracospit.** Builds pressure and has 1/6 chance to explode if shaken. Highly flammable. Instantly catches on fire when exposed to hot air and burns 1 hour or until washed.</span>
 </details>
 
 <details markdown="1">

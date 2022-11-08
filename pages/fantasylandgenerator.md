@@ -3250,7 +3250,7 @@ gen_data['rockyadjective'] = [
     'This {2d4hexes}-hex FOREST is known for its {forestadjective} {forestfeature}. Beware, for there are {forestobstacle} that {foresthazard} in the area. It is inhabited by {forestmonster}, and also {forestmonster}.'
   ];
 gen_data['forestbeast'] = [
-    'ELKS', 'BOARS', 'BEARS', 'WOLVES', 'BATS', 'CENTIPEDES', 'SNAKES', 'CROWS'
+    'ELKS', 'BOARS', 'BEARS', 'WOLVES', 'BATS', 'CENTIPEDES', 'SNAKES', 'CROWS', 'OWLBEARS'
   ];
 gen_data['forestadjective'] = [
     'colossal',
@@ -3731,7 +3731,7 @@ gen_data['mainarctic'] = [
     'This {2d6hexes}-hex COLD REGION is known for its {arcticadjective} {arcticfeature}. Beware, for there are {arcticobstacle} that {arctichazard} in the area. It is inhabited by {arcticmonster}, and also {arcticmonster}.'
   ];
 gen_data['arcticbeast'] = [
-    'ELKS', 'YAKS', 'BEARS', 'PENGUINS', 'WOLVES', 'MAMMOTHS', 'WOOLY RHINOS', 'SEALS', 'BOARS', 'ARASSASES', 'RAVENS', 'SEAGULLS', 'SABERTOOTH CATS',  'GEESE',  'HAWKS'
+    'ELKS', 'YAKS', 'BEARS', 'PENGUINS', 'WOLVES', 'MAMMOTHS', 'WOOLY RHINOS', 'SEALS', 'BOARS', 'ARASSASES', 'RAVENS', 'SEAGULLS', 'SABERTOOTH CATS',  'GEESE',  'HAWKS', 'OWLBEARS'
   ];
 gen_data['arcticadjective'] = [
     'wind-swept',
@@ -5331,7 +5331,7 @@ gen_data['arcticadjective'] = [
     'angry',
     'melancholic',
     'sacred',
-          
+   ];          
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
   </head>

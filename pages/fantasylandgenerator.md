@@ -2455,8 +2455,8 @@ gen_data['plainsadjective'] = [
     'are set up by HOBGOBLINS',
     'are controlled by the DARK LEGION',
     'require mounts to cross easily',
-    'protecting holy sites',
-    'protecting a dungeon',
+    'protect holy sites',
+    'protect a dungeon',
   ];
   gen_data['plainsmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -2506,7 +2506,7 @@ gen_data['mainmountain'] = [
      'This {1d10hexes}-hex MOUNTAIN RANGE is known for its {mountainadjective} {mountainfeature}. Beware, for there are {mountainobstacle} that {mountainhazard} in the area. It is inhabited by {mountainmonster}, and also {mountainmonster}.'
   ];
 gen_data['mountainbeast'] = [
-    'BEARS', 'WOLVES', 'GOATS', 'CATS', 'BATS', 'CROWS', 'VULTURES', 'HAWKS'
+    'BEARS', 'WOLVES', 'GOATS', 'CATS', 'BATS', 'CROWS', 'VULTURES', 'HAWKS', 'OWLBEARS'
   ];
 gen_data['mountainadjective'] = [
     'big',    
@@ -2550,6 +2550,7 @@ gen_data['mountainadjective'] = [
     'scarlet',
     'militarized',
     'mystical',
+    'forested',
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -2593,6 +2594,7 @@ gen_data['mountainadjective'] = [
     'cliffs',
     'keep',
     'wizard tower',
+    'river',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -2636,6 +2638,7 @@ gen_data['mountainadjective'] = [
     'unstable rubbles',
     'ballistae',
     'mystical wards',
+    'forested paths',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -2678,7 +2681,8 @@ gen_data['mountainadjective'] = [
     'could blind you',
     'are set up by HOBGOBLINS',
     'are controlled by the DARK LEGION',
-    'protecting a dungeon',
+    'protect a dungeon',
+    'hide predators',
   ];
   gen_data['mountainmonster'] = [
     'OGRES who {ogreculture} {ogreproblem}',
@@ -2722,6 +2726,7 @@ gen_data['mountainadjective'] = [
     '{bloodhawktotem} BLOODHAWKS',
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
     'a WIZARD {wizardwants}',
+    '{owlbeartotem} OWLBEARS',
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -2915,8 +2920,8 @@ gen_data['jungleadjective'] = [
     'attract scavengers',
     'are from a nearby town',
     'are controlled by HOBGOBLINS',
-    'hiding predators',
-    'protecting a dungeon',
+    'hide predators',
+    'protect a dungeon',
     'beg for blood',
   ];
   gen_data['junglemonster'] = [
@@ -3025,6 +3030,7 @@ gen_data['rockyadjective'] = [
     'militarized',
     'legendary',
     'mystical',
+    'forested',
 
   ];
   gen_data['rockyfeature'] = [
@@ -3077,6 +3083,7 @@ gen_data['rockyadjective'] = [
     'keep',
     'castle',
     'wizard tower',
+    'vale',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -3129,6 +3136,7 @@ gen_data['rockyadjective'] = [
     'ballistae',
     'sacred steles',
     'mystical wards',
+    'forested paths',
     
   ];
   gen_data['rockyhazard'] = [
@@ -3179,8 +3187,9 @@ gen_data['rockyadjective'] = [
     'could blind you',  
     'are set up by HOBGOBLINS',  
     'are controlled by the DARK LEGION',  
-    'protecting a holy site',  
-    'protecting a dungeon',  
+    'protect a holy site',  
+    'protect a dungeon',  
+    'hide predators',  
   ];
   gen_data['rockymonster'] = [
     'ATHACHS who {athachculture} {athachproblem}',
@@ -3232,6 +3241,7 @@ gen_data['rockyadjective'] = [
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
     'KNIGHTS {knightwants}',
     'a WIZARD {wizardwants}',
+    '{owlbeartotem} OWLBEARS',
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3280,6 +3290,7 @@ gen_data['forestadjective'] = [
     'flooded',
     'legendary',
     'mystical',
+    'cool',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -3319,6 +3330,7 @@ gen_data['forestadjective'] = [
     'lake',
     'castle',
     'wizard tower',
+    'river',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -3358,6 +3370,7 @@ gen_data['forestadjective'] = [
     'mud puddles',  
     'sacred steles',  
     'mystical wards',  
+    'clearings',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -3395,8 +3408,9 @@ gen_data['forestadjective'] = [
     'are from the nearby town',  
     'are controlled by the DARK LEGION',  
     'could make you stuck',  
-    'protecting holy sites',  
-    'protectinga dungeon',  
+    'protect holy sites',  
+    'protect dungeon',  
+    'hide predators',  
   ];
   gen_data['forestmonster'] = [
     'ATHACHS who {athachculture} {athachproblem}',
@@ -3436,6 +3450,7 @@ gen_data['forestadjective'] = [
     'a{hydratotem} HYDRA',
     'KNIGHTS {knightwants}',
     'a WIZARD {wizardwants}',
+    '{owlbeartotem} OWLBEARS',
   ];
 
 // - - - - - - - - - - D - E - S - E - R - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3652,9 +3667,9 @@ gen_data['desertadjective'] = [
     'are set up by HOBGOBLINS',  
     'are controlled by the DARK LEGION',  
     'could provoke a stampede',  
-    'protecting holy sites',  
-    'protecting a dungeon',  
-    'seeking blood',  
+    'protect holy sites',  
+    'protect a dungeon',  
+    'seek blood',  
   ];
   gen_data['desertmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -3758,6 +3773,7 @@ gen_data['arcticadjective'] = [
     'militarized',
     'legendary',
     'mystical',
+    'forested',
   ];
   gen_data['arcticfeature'] = [
     'sky shrine',
@@ -3799,6 +3815,7 @@ gen_data['arcticadjective'] = [
     'keep',
     'castle',
     'wizard tower',
+    'river',
   ];
   gen_data['arcticobstacle'] = [
     'powerful winds',
@@ -3840,6 +3857,7 @@ gen_data['arcticadjective'] = [
     'ballistae',  
     'sacred steles',  
     'mystical wards',  
+    'nightimes',  
   ];
   gen_data['arctichazard'] = [
     'could make you fall',
@@ -3879,8 +3897,9 @@ gen_data['arcticadjective'] = [
     'are from the nearby town',  
     'could blind you',  
     'are controlled by the DARK LEGION',  
-    'protecting holy sites',  
-    'protecting a dungeon',  
+    'protect holy sites',  
+    'protect a dungeon',  
+    'hide predators',  
   ];
   gen_data['arcticmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -3922,6 +3941,7 @@ gen_data['arcticadjective'] = [
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
     'KNIGHTS {knightwants}',
     'a WIZARD {wizardwants}',
+    '{owlbeartotem} OWLBEARS',
   ];
       
 // - - - - - - - G - E - N - E - R - I - C - - - - - - - - - - - - - - - - - - - - - - - - -    
@@ -5303,7 +5323,14 @@ gen_data['arcticadjective'] = [
     'bloated',
     'warmongering',
     'digging',
-  ];    
+  ]; 
+   gen_data['owlbeartotem'] = [
+    'strong',
+    'nocturnal',
+    'prized',
+    'angry',
+    'melancholic',
+    'sacred',
           
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>

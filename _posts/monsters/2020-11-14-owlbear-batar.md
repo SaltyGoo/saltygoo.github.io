@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster beast rocky
+tags: monster beast rocky swamp
 permalink: /monsters/owlbear
 title: Owlbear, Batar
 ---

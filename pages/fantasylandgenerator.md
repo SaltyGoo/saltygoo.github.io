@@ -2098,7 +2098,7 @@ gen_data['swampadjective'] = [
     'goblinoid',
     'quiet',
     'mystical',
-
+    'rainy',
   ];
   gen_data['swampfeature'] = [
     'mangrove',
@@ -2144,6 +2144,7 @@ gen_data['swampadjective'] = [
     'keep',
     'cavern',
     'wizard tower',
+    'mounds',
  
   ];
   gen_data['swampobstacle'] = [
@@ -2190,6 +2191,7 @@ gen_data['swampadjective'] = [
     'crossbow traps',
     'mud pits',
     'mystical wards',
+    'moonless nights',
 
   ];
   gen_data['swamphazard'] = [
@@ -2236,6 +2238,7 @@ gen_data['swampadjective'] = [
     'are controlled by HOBGOBLINS',
     'pepper the land',
     'protect a dungeon',
+    'can hide ambushers',
       
   ];
   gen_data['swampmonster'] = [
@@ -2282,6 +2285,7 @@ gen_data['swampadjective'] = [
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
     'a{hydratotem} HYDRA',
     'a WIZARD {wizardwants}',
+    '{batartotem} BATAR OWLBEARS',
   ];
       
 // - - - - - - - - - - P - L - A - I - N - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2978,7 +2982,7 @@ gen_data['jungleadjective'] = [
     'This {2d4hexes}-hex ROCKY LAND is known for its {rockyadjective} {rockyfeature}. Beware, for there are {rockyobstacle} that {rockyhazard} in the area. It is inhabited by {rockymonster}, and also {rockymonster}.'
   ];
 gen_data['rockybeast'] = [
-    'GOATS', 'BOARS', 'BEARS', 'WOLVES', 'BATS', 'BASILISK', 'CROWS', 'VULTURES', 'COUGARS', 'CENTIPEDES', 'RATS', 'HAWKS'
+    'GOATS', 'BOARS', 'BEARS', 'WOLVES', 'BATS', 'BASILISK', 'CROWS', 'VULTURES', 'COUGARS', 'CENTIPEDES', 'RATS', 'HAWKS', 'OWLBEARS'
   ];
 gen_data['rockyadjective'] = [
     'mist-cloaked',
@@ -3031,6 +3035,7 @@ gen_data['rockyadjective'] = [
     'legendary',
     'mystical',
     'forested',
+    'collapsed',
 
   ];
   gen_data['rockyfeature'] = [
@@ -3084,6 +3089,7 @@ gen_data['rockyadjective'] = [
     'castle',
     'wizard tower',
     'vale',
+    'river bed',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -3137,6 +3143,7 @@ gen_data['rockyadjective'] = [
     'sacred steles',
     'mystical wards',
     'forested paths',
+    'mud rivulets',
     
   ];
   gen_data['rockyhazard'] = [
@@ -3190,6 +3197,7 @@ gen_data['rockyadjective'] = [
     'protect a holy site',  
     'protect a dungeon',  
     'hide predators',  
+    'lead to monster dens',  
   ];
   gen_data['rockymonster'] = [
     'ATHACHS who {athachculture} {athachproblem}',
@@ -3242,6 +3250,7 @@ gen_data['rockyadjective'] = [
     'KNIGHTS {knightwants}',
     'a WIZARD {wizardwants}',
     '{owlbeartotem} OWLBEARS',
+    '{batartotem} BATAR OWLBEARS',
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -5331,7 +5340,15 @@ gen_data['arcticadjective'] = [
     'angry',
     'melancholic',
     'sacred',
-   ];          
+   ];      
+   gen_data['batartotem'] = [
+    'bloodthirsty',
+    'nocturnal',
+    'mystical',
+    'damned',
+    'frightening',
+    'sacred',
+   ];   
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
   </head>

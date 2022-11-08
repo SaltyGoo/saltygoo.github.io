@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: monster beast rocky swamp
-permalink: /monsters/owlbear
+permalink: /monsters/owlbear-batar
 title: Owlbear, Batar
 ---
 

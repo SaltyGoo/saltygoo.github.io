@@ -2285,7 +2285,7 @@ gen_data['swampadjective'] = [
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
     'a{hydratotem} HYDRA',
     'a WIZARD {wizardwants}',
-    '{batartotem} BATAR OWLBEARS',
+    '{batartotem} BATAR GRIFFONS',
   ];
       
 // - - - - - - - - - - P - L - A - I - N - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3250,7 +3250,7 @@ gen_data['rockyadjective'] = [
     'KNIGHTS {knightwants}',
     'a WIZARD {wizardwants}',
     '{owlbeartotem} OWLBEARS',
-    '{batartotem} BATAR OWLBEARS',
+    '{batartotem} BATAR GRIFFONS',
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -

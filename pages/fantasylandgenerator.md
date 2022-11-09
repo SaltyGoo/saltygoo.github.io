@@ -1034,6 +1034,7 @@ gen_data['mainelemental'] = [
     'A pharaonic structure is being built passed',
     'The soul of a terrible sinner is prisoner of',
     'Secrets are traded like cattled at',
+    'A most holy temple is built around',
   ];
       
  gen_data['divinechazard'] = [
@@ -1050,6 +1051,7 @@ gen_data['mainelemental'] = [
     'are near the immensely high wall that divides this land',
     'were created to torment sinners',
     'are manipulated by IMPS',
+    'are manipualted by fanatical MONKS',
   ];    
       
   gen_data['divinetaint'] = [
@@ -1066,6 +1068,7 @@ gen_data['mainelemental'] = [
     'became cursed to repeat a sisyphean task',
     'committed a terrible sin',
     'cant escape the cruel harassment of IMPS',
+    'are part of a secret monastery here',
 
   ];    
  
@@ -1083,6 +1086,7 @@ gen_data['mainelemental'] = [
     'ENGINES OF PAIN {engineofpainown}',
     'a GHOST who {GHOSTwants}',
     'IMPS on an evil mission to {impquest}',
+    '{priestwants} PRIESTS',
  ];
 
 // - - - - - - - - - - C - U - R - S - E - D - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1676,6 +1680,7 @@ gen_data['seaadjective'] = [
     'dark',
     'breezy',
     'patrolled',
+    'sacred',
  
   ];
   gen_data['seafeature'] = [
@@ -1701,6 +1706,7 @@ gen_data['seaadjective'] = [
     'waters',
     'rocky spires',
     'trade routes',
+    'temple-island',
 
   ];
   gen_data['seaobstacle'] = [
@@ -1724,6 +1730,7 @@ gen_data['seaadjective'] = [
     'dead WHALES',
     'sunny hours of the day',
     'buoys',
+    'forbidden waters',
 
   ];
   gen_data['seahazard'] = [
@@ -1748,6 +1755,7 @@ gen_data['seaadjective'] = [
     'carry diseases',
     'could give you sunburns',
     'mark the border of a kingdom',
+    'protected by an angry god',
       
   ];
   gen_data['seamonster'] = [
@@ -1773,6 +1781,7 @@ gen_data['seaadjective'] = [
     'GHOUL {seabeast} {ghoulbeastwants}',    
     '{griffontotem} GRIFFONS',
     'MERCHANT SHIPS {humanproblem}',
+    '{priestwants} PRIESTS',
   ];
 
 // - - - - - - - - - - C - I - T - Y- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1834,6 +1843,7 @@ gen_data['cityadjective'] = [
     'ambitious',
     'noble',
     'arcane',
+    'holy',
  
   ];
   gen_data['cityfeature'] = [
@@ -1887,6 +1897,7 @@ gen_data['cityadjective'] = [
     'wizard academy',
     'knightly order',
     'wizard tower',
+    'temple',
   ];
   gen_data['cityobstacle'] = [
     'vicious mobs',
@@ -1939,10 +1950,11 @@ gen_data['cityadjective'] = [
     'mischievous IMPS',
     'noble houses',
     'arcane wards',
+    'holy laws',
 
   ];
   gen_data['cityhazard'] = [
-    'are owned by a kingpin betting against you',
+    'are set against you by a crime lord',
     'could shock you',
     'might end up corrupted by DEMONS',
     'are used to spy on you',
@@ -1991,7 +2003,8 @@ gen_data['cityadjective'] = [
     'could cause you to be trampled',
     'could lead you down a dark path',
     'are protected by oath-sworn KNIGHTS',
-    'controlled by a WIZARD',
+    'are controlled by a WIZARD',
+    'are controlled by the Church',
   ];
   gen_data['citymonster'] = [
     'a {abhirclue} ABHIR DEMON',
@@ -2044,6 +2057,7 @@ gen_data['cityadjective'] = [
     'IMPS on a divine mission to {impquest}',
     'KNIGHTS {knightwants}',
     'a WIZARD {wizardwants}',
+    '{priestwants} PRIESTS',
   ];
 
 // - - - - - - - - - - S - W - A - M - P - S- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2336,6 +2350,7 @@ gen_data['plainsadjective'] = [
     'grassy',
     'legendary',
     'mystical',
+    'holy',
  
   ];
   gen_data['plainsfeature'] = [
@@ -2377,6 +2392,7 @@ gen_data['plainsadjective'] = [
     'weed',
     'castle',
     'wizard tower',
+    'temple',
  
   ];
   gen_data['plainsobstacle'] = [
@@ -2419,6 +2435,7 @@ gen_data['plainsadjective'] = [
     'vast herds',
     'sacred steles',
     'mystical wards',
+    'religious statues',
 
   ];
   gen_data['plainshazard'] = [
@@ -2461,6 +2478,7 @@ gen_data['plainsadjective'] = [
     'require mounts to cross easily',
     'protect holy sites',
     'protect a dungeon',
+    'are tended by PRIESTS',
   ];
   gen_data['plainsmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -2502,6 +2520,7 @@ gen_data['plainsadjective'] = [
     '{horsetotem} HORSES',
     'KNIGHTS {knightwants}',
     'a WIZARD {wizardwants}',
+    '{priestwants} PRIESTS',
  ];
       
 // - - - - - - - - - - M - O - U - N - T - A - I - N - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -2555,6 +2574,7 @@ gen_data['mountainadjective'] = [
     'militarized',
     'mystical',
     'forested',
+    'holy',
   ];
   gen_data['mountainfeature'] = [
     'inn',
@@ -2599,6 +2619,7 @@ gen_data['mountainadjective'] = [
     'keep',
     'wizard tower',
     'river',
+    'temple',
   ];
   gen_data['mountainobstacle'] = [
     'boulders',
@@ -2643,6 +2664,7 @@ gen_data['mountainadjective'] = [
     'ballistae',
     'mystical wards',
     'forested paths',
+    'religious statues',
   ];
   gen_data['mountainhazard'] = [
     'could hide ambushers',
@@ -2687,6 +2709,7 @@ gen_data['mountainadjective'] = [
     'are controlled by the DARK LEGION',
     'protect a dungeon',
     'hide predators',
+    'are tended by PRIESTS',
   ];
   gen_data['mountainmonster'] = [
     'OGRES who {ogreculture} {ogreproblem}',
@@ -2731,6 +2754,7 @@ gen_data['mountainadjective'] = [
     '{hobgoblinproblem} HOBGOBLIN{hobgoblinculture}',
     'a WIZARD {wizardwants}',
     '{owlbeartotem} OWLBEARS',
+    '{priestwants} PRIESTS',
   ];
 // - - - - - - - - - - J - U - N - G - L - E - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -2786,6 +2810,7 @@ gen_data['jungleadjective'] = [
     'muddy',    
     'mystical',    
     'jagged',    
+    'holy',    
   ];
   gen_data['junglefeature'] = [
     'mangrove',
@@ -2833,6 +2858,7 @@ gen_data['jungleadjective'] = [
     'streams',
     'wizard tower',
     'pits',
+    'temple',
   ];
   gen_data['jungleobstacle'] = [
     'water lilies',    
@@ -2880,6 +2906,7 @@ gen_data['jungleadjective'] = [
     'wide rivers',
     'mystical wards',
     'toothed plants',
+    'religious statues',
   ];
   gen_data['junglehazard'] = [
     'attract flash floods',  
@@ -2927,6 +2954,7 @@ gen_data['jungleadjective'] = [
     'hide predators',
     'protect a dungeon',
     'beg for blood',
+    'are tended by PRIESTS',
   ];
   gen_data['junglemonster'] = [
     '{aqrasethtotem}{giant}AQRASETHS',
@@ -2974,6 +3002,7 @@ gen_data['jungleadjective'] = [
     'a{hydratotem} HYDRA',
     'a WIZARD {wizardwants}',
     '{mawdemonclue} aberrations known as MAW DEMONS',
+    '{priestwants} PRIESTS',
   ];
 
 // - - - - - - - - - - R - O - C - K - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3036,6 +3065,7 @@ gen_data['rockyadjective'] = [
     'mystical',
     'forested',
     'collapsed',
+    'holy',
 
   ];
   gen_data['rockyfeature'] = [
@@ -3090,6 +3120,7 @@ gen_data['rockyadjective'] = [
     'wizard tower',
     'vale',
     'river bed',
+    'temple',
 
   ];
   gen_data['rockyobstacle'] = [
@@ -3144,7 +3175,8 @@ gen_data['rockyadjective'] = [
     'mystical wards',
     'forested paths',
     'mud rivulets',
-    
+    'religious statues',
+   
   ];
   gen_data['rockyhazard'] = [
     'are crackling with power',
@@ -3198,6 +3230,7 @@ gen_data['rockyadjective'] = [
     'protect a dungeon',  
     'hide predators',  
     'lead to monster dens',  
+    'are tended by PRIESTS',  
   ];
   gen_data['rockymonster'] = [
     'ATHACHS who {athachculture} {athachproblem}',
@@ -3251,6 +3284,7 @@ gen_data['rockyadjective'] = [
     'a WIZARD {wizardwants}',
     '{owlbeartotem} OWLBEARS',
     '{batartotem} BATAR GRIFFONS',
+    '{priestwants} PRIESTS',
   ];
 
 // - - - - - - - - - - F - O - R - E - S - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3300,6 +3334,7 @@ gen_data['forestadjective'] = [
     'legendary',
     'mystical',
     'cool',
+    'holy',
   ];
   gen_data['forestfeature'] = [
     'menhirs',
@@ -3340,6 +3375,7 @@ gen_data['forestadjective'] = [
     'castle',
     'wizard tower',
     'river',
+    'temple',
   ];
   gen_data['forestobstacle'] = [
     'ley lines',
@@ -3380,6 +3416,7 @@ gen_data['forestadjective'] = [
     'sacred steles',  
     'mystical wards',  
     'clearings',  
+    'religious statues',  
   ];
   gen_data['foresthazard'] = [
     'are crackling with power',
@@ -3420,6 +3457,7 @@ gen_data['forestadjective'] = [
     'protect holy sites',  
     'protect dungeon',  
     'hide predators',  
+    'are tended by PRIESTS',  
   ];
   gen_data['forestmonster'] = [
     'ATHACHS who {athachculture} {athachproblem}',
@@ -3460,6 +3498,7 @@ gen_data['forestadjective'] = [
     'KNIGHTS {knightwants}',
     'a WIZARD {wizardwants}',
     '{owlbeartotem} OWLBEARS',
+    '{priestwants} PRIESTS',
   ];
 
 // - - - - - - - - - - D - E - S - E - R - T- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3522,6 +3561,7 @@ gen_data['desertadjective'] = [
     'legendary',
     'mystical',
     'jagged',
+    'holy',
   ];
   gen_data['desertfeature'] = [
     'sky shrine',
@@ -3574,6 +3614,7 @@ gen_data['desertadjective'] = [
     'castle',
     'wizard tower',
     'pits',
+    'temple',
   ];
   gen_data['desertobstacle'] = [
     'powerful winds',
@@ -3627,6 +3668,7 @@ gen_data['desertadjective'] = [
     'sacred steles',  
     'mystical wards',  
     'toothed pits',  
+    'religious statues',  
   ];
   gen_data['deserthazard'] = [
     'could make you fall',
@@ -3679,6 +3721,7 @@ gen_data['desertadjective'] = [
     'protect holy sites',  
     'protect a dungeon',  
     'seek blood',  
+    'are tended by PRIESTS',  
   ];
   gen_data['desertmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -3732,6 +3775,7 @@ gen_data['desertadjective'] = [
     'KNIGHTS {knightwants}',
     'a WIZARD {wizardwants}',
     '{mawdemonclue} aberrations known as MAW DEMONS',
+    '{priestwants} PRIESTS',
   ];
 
 // - - - - - - - - - - A - R - C - T - I - C- - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -3783,6 +3827,7 @@ gen_data['arcticadjective'] = [
     'legendary',
     'mystical',
     'forested',
+    'holy',
   ];
   gen_data['arcticfeature'] = [
     'sky shrine',
@@ -3825,6 +3870,7 @@ gen_data['arcticadjective'] = [
     'castle',
     'wizard tower',
     'river',
+    'temple',
   ];
   gen_data['arcticobstacle'] = [
     'powerful winds',
@@ -3867,6 +3913,7 @@ gen_data['arcticadjective'] = [
     'sacred steles',  
     'mystical wards',  
     'nightimes',  
+    'religious statues',  
   ];
   gen_data['arctichazard'] = [
     'could make you fall',
@@ -3909,6 +3956,7 @@ gen_data['arcticadjective'] = [
     'protect holy sites',  
     'protect a dungeon',  
     'hide predators',  
+    'are tended by PRIESTS',  
   ];
   gen_data['arcticmonster'] = [
     'AIRWALKERS who {airwalkerwants}',
@@ -3951,6 +3999,7 @@ gen_data['arcticadjective'] = [
     'KNIGHTS {knightwants}',
     'a WIZARD {wizardwants}',
     '{owlbeartotem} OWLBEARS',
+    '{priestwants} PRIESTS',
   ];
       
 // - - - - - - - G - E - N - E - R - I - C - - - - - - - - - - - - - - - - - - - - - - - - -    
@@ -5349,6 +5398,15 @@ gen_data['arcticadjective'] = [
     'frightening',
     'sacred',
    ];   
+   gen_data['priestwants'] = [
+    'rich',
+    'proselytizing',
+    'scheming',
+    'militant',
+    'fanatical',
+    'righteous',
+   ];        
+     
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     </script>
   </head>

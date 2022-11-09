@@ -1,8 +1,8 @@
 ---
 layout: post
 tags: monster beast rocky swamp
-permalink: /monsters/owlbear-batar
-title: Owlbear, Batar
+permalink: /monsters/griffon-batar
+title: Griffon, Batar
 ---
 
 ##### Adapted from [Richard L. Leblanc]([url](http://savevsdragon.blogspot.com/))'s Creature Compendium

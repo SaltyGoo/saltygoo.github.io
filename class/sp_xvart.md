@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Xvart
-permalink: /class/specialist/xvart
+permalink: /class/xvart
 ---
 
 ###### A class inspired by the [5e lore](https://dumpstatadventures.com/blog/deep-dive-the-xvart) for the Xvart and with a nice tip from Halfacon from [SameIsSharkInJapanese](https://sameissharkinjapanese.blogspot.com/2022/10/2000-ad-very-char2terie-halloween.html). Illustration by Kim from [Master the Dungeon](https://www.masterthedungeon.com/low-level-encounter/).

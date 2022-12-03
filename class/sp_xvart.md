@@ -8,6 +8,7 @@ permalink: /class/xvart
 
 <img align="right" width=400px  src="https://www.masterthedungeon.com/wp-content/uploads/2020/07/Humanoids-xvart.png">
 
+<span class="alchemy">
 _Once upon a time, a greedy god ruled below_<br>
 _He owned everything, yet he wanted to know_<br>
 _Exactly how much until his vaults overflow_<br>
@@ -23,6 +24,7 @@ _He had stolen enough to never worry_<br>
 <br>
 _And to make sure his crimes never show_<br>
 _replaced himself with a million faux_<br>
+</span>
 
 <ins>Starting Equipment</ins><br>
 A Crooked Dagger, and your choice of Stilts, a Wide Net, or the Accounting Book of a place or person you can choose later.

@@ -49,4 +49,5 @@ The [Specialist](/class/specialist)
   - The [Pigfolk](/class/specialist/pigfolk)
   - The [Salamander](/class/specialist/salamander)
   - The [Sand-Cursed](/class/sandcursed)
+  - The [Xvart](/class/xvart)
 </details>

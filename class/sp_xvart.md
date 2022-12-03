@@ -46,7 +46,7 @@ You are a copy of the original Xvart, one of millions of decoys created by the f
 If anybody accuses you of something, you become aware of it and can deflect the blame on another Xvart nearby. You can never be accused of having done the same specific thing ever after.
 
 ## The Wrong Xvart
-If you die and there is another Xvart nearby, you can declare that the dead xvart wasn't you. You then enter the scene as if that deadly event hadn't happened to you.
+If you die and there is another Xvart nearby, you can declare that the dead Xvart wasn't you. You then enter the scene as if that deadly event hadn't happened to you.
 
 ## Maybe the Xvart?
 You start every adventure with another Xvart nearby.

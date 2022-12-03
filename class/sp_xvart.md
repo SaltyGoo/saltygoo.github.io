@@ -6,23 +6,23 @@ permalink: /class/xvart
 
 ###### A class inspired by the [5e lore](https://dumpstatadventures.com/blog/deep-dive-the-xvart) for the Xvart and with a nice tip from Halfacon from [SameIsSharkInJapanese](https://sameissharkinjapanese.blogspot.com/2022/10/2000-ad-very-char2terie-halloween.html). Illustration by Kim from [Master the Dungeon](https://www.masterthedungeon.com/low-level-encounter/).
 
-<img align="right" width=200px  src="www.masterthedungeon.com/wp-content/uploads/2020/07/Humanoids-xvart.png.webp">
+<img align="right" width=200px  src="https://www.masterthedungeon.com/wp-content/uploads/2020/07/Humanoids-xvart.png.webp">
 
-<i>Once upon a time, an greedy god ruled below
-He owned everything, yet he wanted to know 
-Exactly how much until his vaults overflow
-
-So he tasked wise Xvart to begin tally
-For he was well known to never dally
-
-Yet after centuries of counting riches daily
-The servant wanted a taste of divine glory
-
-Xvart saw a way out and took it gayly
-He had stolen enough to never worry 
-
-And to make sure his crimes never show
-replaced himself with a million faux</i>
+_Once upon a time, an greedy god ruled below<br>
+_He owned everything, yet he wanted to know <br>
+_Exactly how much until his vaults overflow<br>
+_<br>
+_So he tasked wise Xvart to begin tally<br>
+_For he was well known to never dally<br>
+<br>
+_Yet after centuries of counting riches daily<br>
+_The servant wanted a taste of divine glory<br>
+<br>
+_Xvart saw a way out and took it gayly<br>
+_He had stolen enough to never worry <br>
+<br>
+_And to make sure his crimes never show<br>
+_replaced himself with a million faux<br>
 
 <ins>Starting Equipment</ins><br>
 A Crooked Dagger, and your choice of Stilts, a Wide Net, or the Accounting Book of a place or person you can choose later.

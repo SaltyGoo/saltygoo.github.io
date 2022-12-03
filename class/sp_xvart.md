@@ -32,10 +32,8 @@ Your choice of Hiding from the Authority, Accounting, Goblin Diplomacy, or Bat H
 
 For every Xvart template you have, you gain _another Xvart nearby_.
 
-<img align="right" width=400px  src="https://www.masterthedungeon.com/wp-content/uploads/2020/07/Humanoids-xvart.png">
-
 **A:** Little Blue Minion, Not the Xvart<br>
-**B:** The Wrong Xvart<br>
+**B:** The Wrong Xvart<br> <img align="right" width=400px  src="https://www.masterthedungeon.com/wp-content/uploads/2020/07/Humanoids-xvart.png">
 **C:** Maybe the Xvart?<br>
 **D:** The Xvart<br>
 

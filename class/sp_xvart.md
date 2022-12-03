@@ -17,9 +17,9 @@ _So he tasked wise Xvart to begin tally_<br>
 _For he was well known to never dally_<br>
 <br>
 _Yet after centuries of counting riches daily_<br>
-_The servant wanted a taste of divine glory_<br>
-<br>
 _Xvart saw a way out and took it gayly_<br>
+<br>
+_The servant wanted a taste of divine glory_<br>
 _He had stolen enough to never worry_<br>
 <br>
 _And to make sure his crimes never show_<br>

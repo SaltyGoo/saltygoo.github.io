@@ -8,7 +8,7 @@ permalink: /class/xvart
 
 <img align="right" width=200px  src="https://www.masterthedungeon.com/wp-content/uploads/2020/07/Humanoids-xvart.png.webp">
 
-_Once upon a time, an greedy god ruled below_<br>
+_Once upon a time, a greedy god ruled below_<br>
 _He owned everything, yet he wanted to know_<br>
 _Exactly how much until his vaults overflow_<br>
 <br>

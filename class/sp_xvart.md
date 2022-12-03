@@ -7,7 +7,6 @@ permalink: /class/xvart
 ###### A class inspired by the [5e lore](https://dumpstatadventures.com/blog/deep-dive-the-xvart) for the Xvart and with a nice tip from Halfacon from [SameIsSharkInJapanese](https://sameissharkinjapanese.blogspot.com/2022/10/2000-ad-very-char2terie-halloween.html). Illustration by Kim from [Master the Dungeon](https://www.masterthedungeon.com/low-level-encounter/).
 
 <span class="alchemy">
-<img align="right" width=400px  src="https://www.masterthedungeon.com/wp-content/uploads/2020/07/Humanoids-xvart.png">
 _Once upon a time, a greedy god ruled below_<br>
 _He owned everything, yet he wanted to know_<br>
 _Exactly how much until his vaults overflow_<br>
@@ -32,6 +31,8 @@ A Crooked Dagger, and your choice of Stilts, a Wide Net, or the Accounting Book 
 Your choice of Hiding from the Authority, Accounting, Goblin Diplomacy, or Bat Husbandry.
 
 For every Xvart template you have, you gain _another Xvart nearby_.
+
+<img align="right" width=400px  src="https://www.masterthedungeon.com/wp-content/uploads/2020/07/Humanoids-xvart.png">
 
 **A:** Little Blue Minion, Not the Xvart<br>
 **B:** The Wrong Xvart<br>

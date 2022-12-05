@@ -14,7 +14,7 @@ title: Blog
 {% for post in sortedposts %}
 {% assign postitems = post | split: '#' %}
 {% unless forloop.first %}
-  <li> <a href="{{ postitems[1] }}"> {{ postitems[0] }}</a></li> 
+  <li> <a href="{{ postitems[1] }}"> {{ postitems[0] }}</a></li>
 {% endunless %}
-{% endfor %} 
+{% endfor %}
 </ol>

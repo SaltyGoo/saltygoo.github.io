@@ -4,7 +4,7 @@ title: The Xvart
 permalink: /class/xvart
 ---
 
-###### A class inspired by the [5e lore](https://dumpstatadventures.com/blog/deep-dive-the-xvart) for the Xvart and with a nice tip from "Halfalcon" from "[SameIsSharkInJapanese](https://sameissharkinjapanese.blogspot.com/2022/10/2000-ad-very-char2terie-halloween.html)". Illustration by Kim from [Master the Dungeon](https://www.masterthedungeon.com/low-level-encounter/).
+###### A class inspired by the [5e lore](https://dumpstatadventures.com/blog/deep-dive-the-xvart) for the Xvart and with a nice tip from Walfalcon from [ふかひれスープ](https://sameissharkinjapanese.blogspot.com/2022/10/2000-ad-very-char2terie-halloween.html). Illustration by Kim from [Master the Dungeon](https://www.masterthedungeon.com/low-level-encounter/).
 
 <span class="alchemy">
 _Once upon a time, a greedy god ruled below_<br>

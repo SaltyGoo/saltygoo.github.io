@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: blog
+tags: article
 title: Beast Apothecary
 ---
 

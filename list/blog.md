@@ -5,7 +5,7 @@ title: Blog
 ---
 
 {% capture posts %}
-  {% for post in site.tags.blog %}
+  {% for post in site.tags.article %}
     |{{ post.title }}#{{ post.url }}
   {% endfor %}
 {% endcapture %}
@@ -18,4 +18,3 @@ title: Blog
 {% endunless %}
 {% endfor %} 
 </ol>
- 

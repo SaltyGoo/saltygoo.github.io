@@ -4,7 +4,7 @@ title: The Xvart
 permalink: /class/xvart
 ---
 
-###### A class inspired by the [5e lore](https://dumpstatadventures.com/blog/deep-dive-the-xvart) for the Xvart and with a nice tip from Halfacon from [SameIsSharkInJapanese](https://sameissharkinjapanese.blogspot.com/2022/10/2000-ad-very-char2terie-halloween.html). Illustration by Kim from [Master the Dungeon](https://www.masterthedungeon.com/low-level-encounter/).
+###### A class inspired by the [5e lore](https://dumpstatadventures.com/blog/deep-dive-the-xvart) for the Xvart and with a nice tip from "Halfalcon" from "[SameIsSharkInJapanese](https://sameissharkinjapanese.blogspot.com/2022/10/2000-ad-very-char2terie-halloween.html)". Illustration by Kim from [Master the Dungeon](https://www.masterthedungeon.com/low-level-encounter/).
 
 <span class="alchemy">
 _Once upon a time, a greedy god ruled below_<br>
@@ -38,7 +38,7 @@ For every Xvart template you have, you gain _another Xvart nearby_.
 **D:** The Xvart<br>
 
 ## Little Blue Minion
-You are 3 foot tall, allowing you to fit through narrow and small spaces. You cannot carry objects bigger than you.
+You are 3-foot tall, allowing you to fit through narrow and small spaces. You cannot carry objects bigger than you.
 
 ## Not the Xvart
 You are a copy of the original Xvart, one of millions of decoys created by the fugitive accountant. You are accused of crimes on a mundane and divine scale, yet can't be proven guilty. You benefit from a certain cosmic impunity, yet suffer from a certain universal hostility.
@@ -46,7 +46,7 @@ You are a copy of the original Xvart, one of millions of decoys created by the f
 If anybody accuses you of something, you become aware of it and can deflect the blame on another Xvart nearby. You can never be accused of having done the same specific thing ever after.
 
 ## The Wrong Xvart
-If you die and there is another Xvart nearby, you can declare that the dead Xvart wasn't you. You then enter the scene as if that deadly event hadn't happened to you.
+If you die and there is another Xvart nearby, you can declare that the dead Xvart wasn't you. You then enter the scene as if that deadly event had happened to the nearby Xvart instead.
 
 ## Maybe the Xvart?
 You start every adventure with another Xvart nearby.
@@ -54,4 +54,4 @@ You start every adventure with another Xvart nearby.
 ## The Xvart
 You are secretly the original Xvart, or are you? If anybody accuses you of having any magical or divine powers, you not only lose this ability forever, but you also never had it. All those weird things that might have happened because of this ability before were mere coincidences.
 	
-Until then, you can recreate the effects of [any spell](/list/spells) with up to 4 spell dice. If you roll a double on your spell dice, a god accuses you of having magic powers.
+Until then, you can recreate the effects of [any spell](/list/spells) with up to 4 spell dice. If you roll a double on your spell dice, a god accuses you of having magic powers. You can of course blame another Xvart nearby.

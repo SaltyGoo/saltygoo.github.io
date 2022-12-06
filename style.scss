@@ -315,3 +315,14 @@ footer {
 .ee { display: inline-block; width: 290px; }
 
 .alchemy { display: inline-block; border: 3px dashed black; width: auto; padding:10px; font-size:1em; }
+
+.tablegoo { 
+	th, td {
+ 		padding: 15px;
+ 		text-align: left;
+		border: 3px dashed black;
+		padding:5px;
+		font-size:0.7em;
+		text-align: left; }
+	width: auto;  }
+

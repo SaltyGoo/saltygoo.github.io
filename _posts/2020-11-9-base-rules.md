@@ -274,7 +274,7 @@ You level up when you spend the equivalent of a Treasure in any of the carousing
 
 - Increase your HP by 2 (up to 20 total).
 - Increase one of your stats by 1 (up to 10).
-- Gain the next template of your class or take the first template of another class (up to 4 templates total).
+- Gain the next template of your class in alphabetical order or take the template A of another class (up to 4 templates total).
 
 </details>
 

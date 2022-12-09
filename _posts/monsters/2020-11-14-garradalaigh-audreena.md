@@ -21,9 +21,9 @@ _Silent wisdom, Equine strength, Arcane majesty._
 | **Hit it:** normal    | **Dodge it:** normal  |
 | **Move:** fast, fly normal, swim fast     |   | 
 
-It is **immune** to anything not adjacent to it (it only exist when close).
+It is **immune** to anything not adjacent to it (it only exists when close).
 It **resists** mundane weapons and spells (because it's a fairy).
-It **can** speak telepathically with any warm-blooded creature, breathe underwater, a see very well.
+It **can** speak telepathically with any warm-blooded creature, breathe underwater, and see very well.
 **Also**, as a imaginary creature, willpower must be used for attack rolls against it instead of dexterity.
 Out of combat, it can cast divination and illusion-themed **magic**, and it knows who all wizards are. 
 

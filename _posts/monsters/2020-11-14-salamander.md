@@ -23,7 +23,7 @@ _Proud soldier, Relaxing artist, Arrogant explorer._
 
 It is **immune** to fire. 
 It **resists** all other damage (because it's an elemental).
-**Also**, it recovers 1D6 HP every round it touches something flammable and inflicts 1 damage to anything that touches or damages it.
+**Also**, it recovers 1D6 HP every round it touches something flammable and inflicts 1 damage to anything that touches or damages it in melee.
 **However**, it takes 1D6 damage each round spent without fuel.
 
 **Attacks (1/round)**

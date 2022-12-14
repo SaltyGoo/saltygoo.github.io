@@ -14,7 +14,7 @@ A Club, and choose three times: a Boulder or a Sheep.
 <ins>Starting Skills (+5)</ins><br>
 Throwing, and your choice of Island life, Orc Culture, or Mountain Life.
 
-For every Cyclops template you have, you grow 1', increaing your HP by 1 and giving you an extra Inventory slot.
+For every Cyclops template you have, you grow 1', increasing your HP by 1 and giving you an extra Inventory slot.
 
 **A:** One Big Eye, Boulder Throw<br>
 **B:** Blind Fury<br>

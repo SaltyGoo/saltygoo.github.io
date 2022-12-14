@@ -8,7 +8,7 @@ A year ago, people in the GLOG discord decided to work together to create gods u
 
 <img align="center" width=510px src="/images/cradleofgods/Cradle-of-Gods_Photo.jpg">
 
-With contributions from [Christian Alchemillius Orbskyr](https://pilgrimtemple.blogspot.com/), [Random Cessation of Cognition](https://craggenloch.blogspot.com/), Me, [deus ex parabola](https://as-they-must.blogspot.com/), [Abyssin](https://abyssin.github.io/), and [Semiurge](https://archonsmarchon.blogspot.com/). You can dowload the pdf <a href="/images/cradleofgods/CradleOfGods1.pdf" download="w3logo">here</a> and [here](https://pocketmod.com/howto/) are the instructions on how to fold it!
+With contributions from [Christian Alchemillius Orbskyr](https://pilgrimtemple.blogspot.com/), [Random Cessation of Cognition](https://craggenloch.blogspot.com/), Me, [deus ex parabola](https://as-they-must.blogspot.com/), [Abyssin](https://abyssin.github.io/), and [Semiurge](https://archonsmarchon.blogspot.com/). You can dowload the pdf <a href="/images/cradleofgods/CradleOfGods1.pdf" download="CradleOfGods1">here</a> and [here](https://pocketmod.com/howto/) are the instructions on how to fold it!
 
 
 <img align="center" width=250px src="/images/cradleofgods/cradle of gods.png">

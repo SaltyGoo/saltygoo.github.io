@@ -6,7 +6,7 @@ title: Cradle of Gods I
 
 A year ago, people in the GLOG discord decided to work together to create gods using a similar template, which led to the creation of this cute 1-page zine to fold.
 
-With contributions from [Christian Alchemillius Orbskyr](https://pilgrimtemple.blogspot.com/)
+With contributions from [Christian Alchemillius Orbskyr](https://pilgrimtemple.blogspot.com/), [Random Cessation of Cognition](https://craggenloch.blogspot.com/), Me, [deus ex parabola](https://as-they-must.blogspot.com/), [Abyssin](https://abyssin.github.io/), and [Semiurge](https://archonsmarchon.blogspot.com/). 
 
 <img align="center" width=250px src="/images/cradleofgods/cradle of gods.png">
 <img align="center" width=250px src="/images/cradleofgods/cradle of gods2.png">

@@ -38,4 +38,4 @@ You can spend one **Collaboration Die** and add it to one of your damage rolls a
 When your other half spends their last **Collaboration Die**, you recover one **Collaboration Die**.
 
 ## Us vs Them
-When your other half attacks, you can attack too.
+When your other half attacks on their turn, you can attack too.

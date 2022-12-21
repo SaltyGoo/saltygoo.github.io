@@ -89,7 +89,7 @@ You can have as many **Beliefs** as you want, and they can be anything. You can 
 1D4 damage, can be thrown
 
 <ins>Light (dagger, javelin)</ins>
-1D6 damage, can be thrown
+1D6 damage, can be thrown, can be in off-hand
 
 <ins>Medium (sword, axe)</ins>
 1D8 damage, 1D10 with two hands
@@ -100,6 +100,9 @@ You can have as many **Beliefs** as you want, and they can be anything. You can 
 <ins>Pole (spear, halberd)</ins>
 1D8 damage, needs two hands, <br>
 You have advantage when dodging melee attacks from creatures you've hit this turn
+
+<ins>Two-Weapon Fighting</ins>
+When you miss an attack with your main hand, you can make a free attack with your off-hand. 
 </details>
 
 <details markdown="1">

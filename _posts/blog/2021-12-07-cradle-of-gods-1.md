@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: article
-title: (Worldbuilding) Cradle of Gods I
+tags: article myth
+title: Cradle of Gods I
 ---
 
 A year ago, people in the GLOG discord decided to work together to create gods using a similar template and following prompts from a generator (pre-AI innocence!), which led to the creation of this cute 1-page zine to fold.

@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: article
-title: Fighting Styles
+title: (Rules) Fighting Styles
 ---
 
 **Nervous Hunter**

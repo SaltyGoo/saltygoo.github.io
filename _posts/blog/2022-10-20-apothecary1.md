@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: article
-title: (Items) Beast Apothecary
+tags: article item
+title: Beast Apothecary
 ---
 
 These are some of the various byproducts that pop off when I adapt a random DnD [monster](list/monsters) to the Glog. They are designed to be relatively simple and readily useable by adventurers when they encounter one of the monsters.

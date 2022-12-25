@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: article
-title: (Rules) Chtulhu X Messerspiel
+tags: article rules
+title: Chtulhu X Messerspiel
 ---
 
 My group will be playing [Call of Chtulhu](https://www.chaosium.com/call-of-cthulhu-getting-started/) instead of GLOG/DnD this summer and I can't wait. The problem is that I'm now used to the lightness of the GLOG rules, and Call of Chtulhu's rules have become too heavy for me. 

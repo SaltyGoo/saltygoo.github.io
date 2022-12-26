@@ -4,7 +4,9 @@ tags: article rules
 title: Fighting Styles
 ---
 
-[deus ex parabola](https://as-they-must.blogspot.com)'s GLOG revision of the much hated [5e fighter subclasses](https://as-they-must.blogspot.com/2022/12/call-me-what-you-will-glog-classes-5e.html) sparked a lot of discussions on discord about the (lack of) flavour and vision in the original designs. How do you make them interesting beyond bland combat bonuses? I got stuck on the 5e fighting styles because I feel they have the potential to add a lot of character, but also because it was a challenge to fit into Salty Goo: there are no +X bonus in my GLOG outside of the one each class gets per level.
+[deus ex parabola](https://as-they-must.blogspot.com)'s GLOG [revision](https://as-they-must.blogspot.com/2022/12/call-me-what-you-will-glog-classes-5e.html) of the much hated 5e fighter subclasses sparked a lot of discussions on discord about the lack of flavour and vision in the original designs. How do you make them interesting? deus is much better than me at weaving worldbuilding and flavour into a class, but I can't resist
+
+Thinking about that, I got stuck on the 5e fighting styles because I feel they have the potential to add a lot of character, but also because it was a challenge to fit into Salty Goo: there are no +X bonus in my GLOG outside of the one each class gets per level.
 
 
 

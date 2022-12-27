@@ -8,6 +8,7 @@ This is my interpretation of all 5e fighting styles, inspired by [deus ex parabo
 
 I started my conversion like a design exercise without knowing if the end result would be useful. I only knew there would be no +X bonuses. Along the way, I started seeing them as tropes, hence the new names, and thought of maybe giving them as boons to my players when their characters are fleshed out trough play. I put the criterias I had in mind for that in italic with a ✤. Now that I'm done and pretty happy about them, I've made them a feature of my [generic fighter](/class/fighter).
 
+<br>
 ---
 <br>
 
@@ -17,11 +18,11 @@ You are as tense as your bowstring. When you have your ranged weapon ready, you 
 
 **Focused Loner** <br>
 _✤ Spends time split from the group._ <br>
-Hush! Take a deep breath. When you close your eyes and don't speak, you can ~feel~ the presence of any other creature in the room with you (or looking at you if outdoors). When you do so, you can interact with any adjacent being as if you could see them. 
+Hush! Take a deep breath. When you close your eyes and don't speak, you can ~feel~ the presence of any other creature in the room with you (or looking at you if outdoors). When you do so, you can interact and fight with any adjacent being as if you could see them. 
 
 **Daring Swashbuckler** <br>
 _✤ They love flashy, overcomplicated plans._ <br>
-Your dashing exploits have earned you a nickname in the area. Choose it. You can now make a melee combat maneuver AND use a ranged weapon on your turn. Doing so increases your nickname’s fame.
+Your dashing exploits have earned you a nickname in the area. Choose it. You can now attempt a melee combat maneuver AND use a ranged weapon on your turn. Doing so increases your nickname’s fame.
 
 **Stubborn Guardian** <br>
 _✤ They have a short fuse._ <br>

@@ -59,4 +59,4 @@ Honor dictates that all conflicts are personal. You can challenge any creature w
 
 **Professional Pugilist** <br>
 _✤ They attempted to defeat something with their bare hands._ <br>
-Your fists inflict 1D6 damage. When you are not wearing any piece of armor, you can attack twice with them. When you have 3 or less items in your inventory, you can also make a combat maneuvre at the same time.
+Proper people fight naked. Your fists inflict 1D4 damage. When you are not wearing any piece of armor, you can attack twice with them. When you have 3 or less items in your inventory, you can also attempt a combat maneuver at the same time.

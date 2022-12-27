@@ -4,9 +4,7 @@ tags: article rules
 title: Fighting Styles
 ---
 
-[deus ex parabola](https://as-they-must.blogspot.com)'s GLOG [revision](https://as-they-must.blogspot.com/2022/12/call-me-what-you-will-glog-classes-5e.html) of the much hated 5e fighter subclasses sparked a lot of discussions on discord about the lack of flavour and vision in the original designs. How do you make them interesting? deus is much better than me at weaving worldbuilding and flavour into a class, but I can't resist
-
-Thinking about that, I got stuck on the 5e fighting styles because I feel they have the potential to add a lot of character, but also because it was a challenge to fit into Salty Goo: there are no +X bonus in my GLOG outside of the one each class gets per level.
+[deus ex parabola](https://as-they-must.blogspot.com)'s GLOG [conversions](https://as-they-must.blogspot.com/2022/12/call-me-what-you-will-glog-classes-5e.html) of the 5e fighter subclasses inspired me to look at them again. Having done that, the 5e fighting styles really stuck out to me as afterthoughts: half of them are a little bonus you add on your character sheet and forget about, and the other half are so niche you litteraly forget about them without ever using them. In his conversion, deus did a pretty good job translating them to OSR play, but it highlighted a design problem specific to me: I've avoided +X bonuses in all of my class abilities, except for the per-template bonus, my goal being that the players only have to track one resource per class.
 
 
 

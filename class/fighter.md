@@ -17,7 +17,7 @@ Your choice of Imperial Infantry, Imperial Navy, Celebrity Bodyguard, or Caravan
 For every Fighter template you have, you gain a bonus of 1 to you attack rolls.
 
 **A:** Weapon Training, Parry <br>
-**B:** Grit <br>
+**B:** Fighting Style <br>
 **C:** Steel Gaze <br>
 **D:** Weapon Mastery <br>
 
@@ -30,8 +30,8 @@ Your weapons have different effects depending on the type of damage you inflict 
 ## Parry
 Once per battle, you can destroy a weapon or a shied you are holding to protect yourself or an adjacent ally from an attack's damage. 
 
-## Grit
-You can have as many [Scars](/2020/11/09/base-rules/) as your WIL without them taking inventory slots.
+## Fighting Style
+Choose one of the fighting styles listed [here](/2022/12/25/fighting-styles/).
 
 ## Steel Gaze
 You project an intimidating aura that lets people know you are a skilled warrior. At any moment, you can decide how weak creatures react to you: they either avoid fighting you at all costs, or gang up on you, ignoring your teammates. Weak creatures are any monster with 2 HD or less.

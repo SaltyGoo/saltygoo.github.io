@@ -39,7 +39,7 @@ You are bigger than life. Any heavy, two-handed melee weapon or oversized, heavy
 _✤ They have made a promise._ <br>
 Duty is bigger than you. If you are adjacent, you can heroically take a hit for a person or a thing you have sworn to protect. You must decide before knowing if the spell or attack hits. When you do so, you take 1 less damage, but have disadvantage on your dodge roll* or saving throw to avoid the attack.
 
-##### * or the enemy has advantage on their attack roll if that's how your system works
+##### * or the enemy has advantage on their attack roll, if that's how your system works
 
 **Drunken Sailor** <br>
 _✤ They got drunk._ <br>
@@ -49,3 +49,14 @@ Red cheeks, slurred speech and half-closed eyes. Being drunk does not impede you
 _✤ They keep referring to their past._ <br>
 Each time you begin a new adventure, you can tell your group about a violent event from your past and carve a notch in one of your weapons. You have advantage on your damage rolls with this weapon in situations similar to that anecdote, at the referee's discretion.
 
+**Resourceful Trickster** <br>
+_✤ They've been hoarding trinkets._ <br>
+You always have a tool ready: all items smaller than your hand on yourself or on adjacent allies count as being in your quick draw slots and are hidden from view. You can pass them to anybody within throwing range without rolling.
+
+**Proud Duelist** <br>
+_✤ They made a rival out of somebody._ <br>
+Honor dictates that all conflicts are personal. You can challenge any creature with a language to a duel. Until one of you dies or yields by dropping their weapons, you cannot challenge another creature. When your rival misses an attack against you, you can make a free attack with your off-hand.
+
+**Professional Pugilist** <br>
+_✤ They attempted to defeat something with their bare hands._ <br>
+Your fists inflict 1D6 damage. When you are not wearing any piece of armor, you can attack twice with them. When you have 3 or less items in your inventory, you can also make a combat maneuvre at the same time.

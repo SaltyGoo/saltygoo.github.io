@@ -326,3 +326,10 @@ footer {
 		text-align: left; }
 	width: auto;  }
 
+.tooltip {
+  cursor: pointer;
+  text-decoration: underline;
+  &:hover {
+    text-decoration: none;
+  }
+}

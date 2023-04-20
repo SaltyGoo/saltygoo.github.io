@@ -16,7 +16,7 @@ _Imagine if a flame had the shape of a little carnival figure._
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
 | 1 **HP** | **Armor:** 0  |
-| **Hit it:** normal    | **Dodge it:** normal  |
+| **Hit it:** <span class="tooltip">normal</span>   | **Dodge it:** normal  |
 | **Move:** fast    |   | 
 
 It is **immune** to fire. 

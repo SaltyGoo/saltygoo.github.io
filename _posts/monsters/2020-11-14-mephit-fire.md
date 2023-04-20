@@ -2,14 +2,12 @@
 layout: post
 tags: monster elemental lesser  underdark magical fire astral
 permalink: /monsters/mephit-fire
-title: Mephit, Fire
+title: Mephit, Flame
 ---
 
-Fire animated by a spark of mischief. Small elemental fire.
+A flame animated by a spark of mischief. Small elemental fire.
 
-_Imagine if a little grotesque gargoyle was made of pure flames._
-
-_Hysterical, Herald of agressive negociations._
+_Imagine if a flame had the shape of a little carnival figure._
 
 <br>
 
@@ -17,9 +15,9 @@ _Hysterical, Herald of agressive negociations._
 
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
-| **HD:** 0 | **Armor:** none  |
+| 1 **HP** | **Armor:** 0  |
 | **Hit it:** normal    | **Dodge it:** normal  |
-| **Move:** normal, fly fast    |   | 
+| **Move:** fast    |   | 
 
 It is **immune** to fire. 
 It **resists** all other damage (because it's an elemental).

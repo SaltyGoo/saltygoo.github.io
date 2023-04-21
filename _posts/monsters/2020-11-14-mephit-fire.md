@@ -9,10 +9,6 @@ A flame animated by a spark of mischief. Small elemental fire.
 
 _Imagine if a flame had the shape of a little carnival figure._
 
-<br>
-
----
-
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
 | 1 **HP** | **Armor:** 0  |

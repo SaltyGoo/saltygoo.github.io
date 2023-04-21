@@ -5,7 +5,7 @@ permalink: /monsters/mephit-fire
 title: Mephit, Flame
 ---
 
-A flame animated by a spark of mischief. Small elemental fire.
+A flame animated by a spark of mischief. Small fire elemental.
 
 _Imagine if a flame had the shape of a little carnival figure._
 
@@ -13,7 +13,7 @@ _Imagine if a flame had the shape of a little carnival figure._
 | -------- | --------|
 | 1 **HP** | **Armor:** 0  |
 | **Hit it:** normal | **Dodge it:** normal |
-| **Move:** fast   |   | 
+| **Movement:** normal      | 
 
 ##### <span class="tooltip" data-tooltip=" Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat (Slow = Easy & Fast = Hard)">→ How to read monster stats</span>
 

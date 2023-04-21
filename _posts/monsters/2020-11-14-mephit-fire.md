@@ -11,6 +11,8 @@ A flame animated by a spark of mischief. A small fire elemental.
 
 Flame Mephits have no conception of the future, the past or personal boundaries. They are full of immediate, destructive and indulgent desires. 
 
+<br>
+
 ---
 
 |  <span style="display: inline-block; width:250px"></span>  |  |

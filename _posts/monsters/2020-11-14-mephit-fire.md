@@ -12,13 +12,14 @@ _Imagine if a flame had the shape of a little carnival figure._
 <br>
 
 ---
-##### <span class="tooltip" data-tooltip=" ARMOR = damage reduction | EASY/NORMAL/HARD = roll above 10/15/20 to beat | SLOW = Easy, FAST = Hard">→ How To Read Monster Stats</span>
 
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
 | 1 **HP** | **Armor:** 0  |
 | **Hit it:** normal | **Dodge it:** normal |
 | **Move:** fast   |   | 
+
+##### <span class="tooltip" data-tooltip=" ARMOR = damage reduction | | EASY/NORMAL/HARD = roll above 10/15/20 to beat | | SLOW = Easy, FAST = Hard">→ How To Read Monster Stats</span>
 
 It is **immune** to fire. 
 It **resists** all other damage (because it's an elemental).

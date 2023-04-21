@@ -333,7 +333,7 @@ footer {
 .tooltip::after {
   content: attr(data-tooltip);
   position: absolute;
-  top: -20px;
+  top: 0px;
   left: 0;
   padding: 5px;
   background-color: #000;

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster elemental lesser  underdark magical fire astral
+tags: monster elemental lesser underdark magical fire astral
 permalink: /monsters/mephit-fire
 title: Mephit, Flame
 ---
@@ -33,8 +33,6 @@ Is a living flame and is thus only affected by things that would affect a fire. 
 
 <ins>Burst of Flame</ins>. The mephit explodes, killing itself and setting a small area ablaze (1D4 dmg, save for half).
 
-
-
 <br>
 
 ---
@@ -42,25 +40,25 @@ Is a living flame and is thus only affected by things that would affect a fire. 
 <br>
 
 <details markdown="1">
+<summary>D6 What the Monster Wants</summary>
+
+1. Unsure if they are here to announce a war or a party.
+1. To challenge you to a fight, or any another thrilling activity.
+1. To clean (burn) the area for the arrival of their fiery master.
+1. To hide from their master, as they hate orders.
+1. They are newly spawned, they are very curious.
+1. Gold or treasures for their master, but nothing flammable.
+</details>
+
+<details markdown="1">
 <summary>Random Encounter</summary>
 
 1. **Monster:** 1D8 fire mephits
-1. **Lair:** A giant brasero burning with elemental flames. <br>    &nbsp; OR <br>    **Omen:** Cackling sounds and burnt smell.
+1. **Lair:** A giant brasero burning with eternal flames. <br>    &nbsp; OR <br>    **Omen:** Cackling sounds and burnt smell.
 1. **Spoor:** Everything is on fire!
 1. **Tracks:** A trail of burnt objects.
 1. **Trace:** [rumor] A powerful creature of fire has sent its agents in the area.
 1. **Trace:** A message in ignan burned on a surface.
-</details>
-
-<details markdown="1">
-<summary>D6 What the Monster Wants</summary>
-
-1. Deliver an important message from their master.
-1. Fight! But not to the death, and fairly.
-1. Cleaning (burning) the area for the arrival of their fiery master.
-1. Hiding from their master, they don't want to work.
-1. They are newly born, they are very curious.
-1. Get some information for their fiery master.
 </details>
 
 <details markdown="1">

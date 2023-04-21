@@ -12,9 +12,9 @@ _Imagine if a flame had the shape of a little carnival figure._
 <br>
 
 ---
-<details markdown="1">
+<details markdown="1" style="font-size: calc(100% / 1.5);">
 <summary style="font-size: calc(100% / 1.5);">How To Read Monster Stats</summary>
-<span style="font-size: calc(100% / 1.5);">**Armor** = damage reduction · **Easy/Normal/Hard** = roll above 10/15/20 to beat · **Slow/Normal/Fast** = roll above 10/15/20 to beat</span>
+**Armor** = damage reduction · **Easy/Normal/Hard** = roll above 10/15/20 to beat · **Slow/Normal/Fast** = roll above 10/15/20 to beat
 </details>
 
 

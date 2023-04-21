@@ -327,9 +327,24 @@ footer {
 	width: auto;  }
 
 .tooltip {
+  position: relative;
+}
+
+.tooltip::after {
+  content: attr(data-tooltip);
   position: absolute;
-  visibility: hidden;
+  top: -20px;
+  left: 0;
   padding: 5px;
-  background-color: #333;
+  background-color: #000;
   color: #fff;
+  border-radius: 3px;
+  font-size: 12px;
+  font-family: Arial, sans-serif;
+  white-space: nowrap;
+  visibility: hidden;
+}
+
+.tooltip:hover::after {
+  visibility: visible;
 }

@@ -7,7 +7,9 @@ title: Mephit, Flame
 
 A flame animated by a spark of mischief. Small fire elemental.
 
-_Imagine if a flame had the shape of a little carnival figure._
+_Imagine if a flame had the shape of a tiny Italian contortionist._
+
+Flame Mephits have no conception of the future or the past. They are full of immediate, destructive and indulgent desires. 
 
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
@@ -17,7 +19,7 @@ _Imagine if a flame had the shape of a little carnival figure._
 
 ##### <span class="tooltip" data-tooltip=" Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat (Slow = Easy & Fast = Hard)">→ How to read monster stats</span>
 
-Is a living flame and is thus only affected by things that would affect a fire. It can only survive 10 minutes without oxygen, fuel and heat.
+Is a living flame and is thus only affected by things that would affect a fire. It can only survive 10 minutes without oxygen and fuel.
 
 **Attacks (1/round)**
 

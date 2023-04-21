@@ -5,11 +5,13 @@ permalink: /monsters/mephit-fire
 title: Mephit, Flame
 ---
 
-A flame animated by a spark of mischief. Small fire elemental.
-
 _Imagine if a flame had the shape of a tiny Italian contortionist._
 
-Flame Mephits have no conception of the future or the past. They are full of immediate, destructive and indulgent desires. 
+A flame animated by a spark of mischief. A small fire elemental.
+
+Flame Mephits have no conception of the future, the past or personal boundaries. They are full of immediate, destructive and indulgent desires. 
+
+---
 
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|

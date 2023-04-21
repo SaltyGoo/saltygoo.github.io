@@ -19,20 +19,19 @@ _Imagine if a flame had the shape of a little carnival figure._
 | **Hit it:** normal | **Dodge it:** normal |
 | **Move:** fast   |   | 
 
-##### <span class="tooltip" data-tooltip=" Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat (Slow = Easy & Fast = Hard)">→ How To Read Monster Stats</span>
+##### <span class="tooltip" data-tooltip=" Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat (Slow = Easy & Fast = Hard)">→ How to read monster stats</span>
 
-It is **immune** to fire. 
-It **resists** all other damage (because it's an elemental).
-**Also**, it recovers 1D6 HP every round it touches something flammable.
-**However**, it takes 1D6 damage each round spent without fuel. In general, it has the same properties as fire such as shedding light and being snuffed by water. It inflicts 1 damage to anything that damages it in melee.
-
-**Additionally**, when the fire mephit dies, it explodes in a small burst of flame inflicting 1D4 damage to all adjacent creatures and setting objects ablaze.
+Is a living flame and is thus only affected by things that would affect a fire. It can only survive 10 minutes without oxygen, fuel and heat.
 
 **Attacks (1/round)**
 
-<ins>Spit Fire</ins>. The mephit makes a ranged attack against two adjacent targets (1) and sets them ablaze.
+<ins>Touch</ins>. The mephit makes a melee attack (1D4 dmg) and sets the target ablaze.
 
-<ins>Claw</ins>. The mephit makes a melee attack (1) and sets the target ablaze.
+<ins>Spit Fire</ins>. The mephit makes a ranged attack (1D4 dmg) and sets the target ablaze.
+
+<ins>Burst of Flame</ins>. The mephit explodes, killing itself and setting a small area ablaze (1D4 dmg, save for half).
+
+
 
 <br>
 

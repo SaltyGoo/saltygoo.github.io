@@ -326,4 +326,10 @@ footer {
 		text-align: left; }
 	width: auto;  }
 
-
+.tooltip {
+  position: absolute;
+  visibility: hidden;
+  padding: 5px;
+  background-color: #333;
+  color: #fff;
+}

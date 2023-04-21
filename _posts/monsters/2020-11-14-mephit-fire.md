@@ -12,7 +12,7 @@ _Imagine if a flame had the shape of a little carnival figure._
 <br>
 
 ---
-<span class="tooltip" data-tooltip="**Armor** = damage reduction · **Easy/Normal/Hard** = roll above 10/15/20 to beat · **Slow/Normal/Fast** = roll above 10/15/20 to beat">→ How To Read Monster Stats</span>
+##### <span class="tooltip" data-tooltip=" ARMOR = damage reduction | EASY/NORMAL/HARD = roll above 10/15/20 to beat | SLOW = Easy, FAST = Hard">→ How To Read Monster Stats</span>
 
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|

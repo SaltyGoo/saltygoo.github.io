@@ -12,12 +12,17 @@ _Imagine if a flame had the shape of a little carnival figure._
 <br>
 
 ---
+<details markdown="1">
+<summary style="font-size: calc(100% / 2);">How To Read Monster Stats</summary>
+You don't
+</details>
+
 
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
 | 1 **HP** | **Armor:** 0  |
-| **Hit it:** <span class="tooltip" data-tooltip="Roll above 15 to hit it">normal</span> | **Dodge it:** <span class="tooltip" data-tooltip="Roll above 15 to dodge it">normal</span>  |
-| **Move:** <span class="tooltip" data-tooltip="Roll above 20 to outrun it">fast</span>    |   | 
+| **Hit it:** normal | **Dodge it:** normal |
+| **Move:** fast   |   | 
 
 It is **immune** to fire. 
 It **resists** all other damage (because it's an elemental).

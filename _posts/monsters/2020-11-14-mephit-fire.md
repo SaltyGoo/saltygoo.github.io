@@ -46,8 +46,6 @@ Is a living flame and is thus only affected by things that would affect a fire. 
 
 <button onclick="generateMood()">Generate Standard Monster Need</button>
     <p id="MoodResult"></p>
-    <script src="/scripts/generateMood.js"></script>
-
 
 <details markdown="1">
 <summary>Binding the Elemental</summary>
@@ -108,4 +106,7 @@ When casting the spell you must prepare a message with up to [sum] words. [sum] 
       });
     });
   </script>
+  
+      <script src="/scripts/generateMood.js"></script>
+
 

@@ -73,15 +73,18 @@ If you roll a Catastrophe, the elemental is released and hostile, and you lose t
 </details>
 
 <details markdown="1">
-<summary>Conjuring the Elemental</summary>
+<summary>Conjure the Elemental Creature</summary>
+If you have befriended or bound this monster, you can spend the equivalent of 2 bags of gold in a magical laboratory between two adventures to learn the following spell:
 
-If you know the spell [Conjure](https://saltygoo.github.io/2020/11/12/conjure/), you can alter it in such a way for a minimum of 1 Spell Dice:
+<span class="alchemy">
 
 **Conjure Fire Mephit** <br>
 R: self 
 
-When casting the spell you must prepare a message with up to [sum] words. [sum] fire mephits are then summoned and will each deliver one word of your message to whoever it is intended to, across any plane. The message will be delivered in the most passionate and destructive way possible.
+When casting the spell you must prepare a message with up to [sum] words. [sum] fire mephits are then summoned and will each deliver one word of your message to whoever it is intended to, across any plane. The message will be delivered in the most passionate and destructive way possible, setting [dice] things on fire.
 
+</span>
+ 
 </details>
 
  

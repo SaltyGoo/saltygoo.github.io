@@ -44,7 +44,7 @@ Is a living flame and is thus only affected by things that would affect a fire. 
 <button id="generate-btn">The Monster Roams</button>
 <p id="RoamResult" style="font-style: italic;"></p>
 
-<button onclick="generateMood">The Monster Wants</button>
+<button onclick="generateMood()">The Monster Wants</button>
 <p id="MoodResult" style="font-style: italic;"></p>
 
 <details markdown="1">

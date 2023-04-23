@@ -20,7 +20,7 @@ function generateSentence() {
       const randomValue = randomRow[`column${randomColumnIndex}`];
       
       // Concatenate the values of columns 3, 4, 5, 6, 7, or 8 into a sentence
-      const sentence = `randomValue`;
+      const sentence = `${randomValue}`;
       
       // Display the sentence in the HTML
       document.getElementById("output").textContent = sentence;

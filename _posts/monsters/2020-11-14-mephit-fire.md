@@ -42,10 +42,10 @@ Is a living flame and is thus only affected by things that would affect a fire. 
 **Diet** : Fuel & Fat
 
 <button id="generate-btn">Generate Roaming Monster Event</button>
-<p id="RoamResult" style="font-style: italic;"></p>
+<p id="RoamResult" style="font-style: italic;">When you roll this monster on your encounter table. Most of them are hints the monster is nearby.</p>
 
 <button onclick="generateMood()">Generate Standard Monster Need</button>
-<p id="MoodResult"></p>
+<p id="MoodResult">If the party meets this monster, what is it doing?</p>
 <script src="/scripts/generateMood.js"></script>
 
 

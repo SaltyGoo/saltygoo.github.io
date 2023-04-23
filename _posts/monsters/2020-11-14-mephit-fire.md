@@ -42,10 +42,10 @@ Is a living flame and is thus only affected by things that would affect a fire. 
    <button id="generate-button">The Monster Is Roaming</button>
     <p id="monster-id"></p>
 
-    <script src="/scripts/encounter.js"></script>
+    <script src="scripts/encounter.js"></script>
     <script>
       var specificValue = "0001"; // Set specific value here
-      var monsterGenerator = new MonsterGenerator("Monster - Index.csv", specificValue);
+      var monsterGenerator = new MonsterGenerator("CSV/Monster - Index.csv", specificValue);
       var generateButton = document.getElementById("generate-button");
       var monsterDescription = document.getElementById("monster-id");
 

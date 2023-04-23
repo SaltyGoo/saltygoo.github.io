@@ -39,7 +39,7 @@ Is a living flame and is thus only affected by things that would affect a fire. 
 
 **Number** : 1D8 <span style="display: inline-block; width:30px"></span>
 **Lair** : Fire Pits <span style="display: inline-block; width:30px"></span>
-**Diet** : Fuel & Fat
+**Desire** : Fuel & Thrill
 
 <button id="generate-btn">Generate Roaming Monster Event</button>
 <p id="RoamResult" style="font-style: italic;">When you roll this monster on your encounter table. Most of them are hints the monster is nearby.</p>
@@ -48,6 +48,7 @@ Is a living flame and is thus only affected by things that would affect a fire. 
 <p id="MoodResult" style="font-style: italic;">If the party meets this monster, what is it doing?</p>
 <script src="/scripts/generateMood.js"></script>
 
+---
 
 <details markdown="1">
 <summary>Binding the Elemental</summary>

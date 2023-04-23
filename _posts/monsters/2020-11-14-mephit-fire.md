@@ -41,9 +41,11 @@ Is a living flame and is thus only affected by things that would affect a fire. 
 **Lair** : Fire Pits <span style="display: inline-block; width:30px"></span>
 **Diet** : Fuel & Fat
 
-<br>
- <button id="generate-btn">The Monster Roams</button>
-<p id="result" style="font-style: italic;"></p>
+<button id="generate-btn">The Monster Roams</button>
+<p id="RoamResult" style="font-style: italic;"></p>
+
+<button onclick="generateMood">The Monster Wants</button>
+<p id="MoodResult" style="font-style: italic;"></p>
 
 <details markdown="1">
 <summary>D6 What the Monster Wants</summary>
@@ -54,17 +56,6 @@ Is a living flame and is thus only affected by things that would affect a fire. 
 1. To hide from their master, as they hate orders.
 1. They are newly spawned, they are very curious.
 1. Gold or treasures for their master, but nothing flammable.
-</details>
-
-<details markdown="1">
-<summary>Random Encounter</summary>
-
-1. **Monster:** 1D8 fire mephits
-1. **Lair:** A giant brasero burning with eternal flames. <br>    &nbsp; OR <br>    **Omen:** Cackling sounds and burnt smell.
-1. **Spoor:** Everything is on fire!
-1. **Tracks:** A trail of burnt objects.
-1. **Trace:** [rumor] A powerful creature of fire has sent its agents in the area.
-1. **Trace:** A message in ignan burned on a surface.
 </details>
 
 <details markdown="1">

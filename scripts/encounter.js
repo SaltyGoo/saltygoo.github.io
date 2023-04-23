@@ -3,7 +3,7 @@ function generateSentence() {
   const specificValue = document.getElementById("specific-value").textContent;
   
   // Load the CSV file using Papa Parse
-  Papa.parse("Monster - Index.csv", {
+  Papa.parse("CSV/Monster - Index.csv", {
     download: true,
     header: true,
     complete: function(results) {
@@ -20,10 +20,16 @@ function generateSentence() {
       const randomValue = randomRow[`column${randomColumnIndex}`];
       
       // Concatenate the values of columns 3, 4, 5, 6, 7, or 8 into a sentence
-      const sentence = `${randomValue}`;
+      const sentence = randomValue;
       
       // Display the sentence in the HTML
       document.getElementById("output").textContent = sentence;
     }
   });
 }
+
+var generateButton = document.getElementById("generate-button");
+
+generateButton.addEventListener("click", function() {
+  generateSentence();
+});

@@ -59,7 +59,7 @@ New carousing activities!
 If you have captured this monster, you can spend the equivalent of 3 bags of gold in a magical laboratory between two adventures to bind it to your soul. If you do so, you ...
 
 - You gain 2 [Doom Points](/list/spell-catastrophe) (roll for Catastrophe); 
-- You gain a [Spell Dice](/class/wizard#Spells);
+- You gain a [Spell Dice](/spells/);
 - Roll a D6, you mutate in the following way :
 
 1. ... every flammable item on you burns.

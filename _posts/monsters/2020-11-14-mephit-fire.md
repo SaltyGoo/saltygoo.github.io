@@ -100,7 +100,7 @@ When casting the spell you must prepare a message with up to [sum] words. [sum] 
         var searchValue = "0001"; // change this to the actual value you need
 
         // retrieve the CSV file
-        $.get("../CSV/Monster - Index.csv", function(data) {
+        $.get("/CSV/Monster - Index.csv", function(data) {
           // split the CSV data by rows and remove the header row
           var rows = data.split("\n").slice(1);
 

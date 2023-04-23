@@ -72,8 +72,6 @@ If you have captured this monster, you can spend the equivalent of 3 bags of gol
 If you roll a Catastrophe, the elemental is released and hostile, and you lose the Spell Dice.
 </details>
 
-<br>
-
 <details markdown="1">
 <summary style="font-weight: bold;">Conjure the Elemental Creature</summary>
 If you have befriended or bound this monster, you can spend the equivalent of 2 bags of gold in a magical laboratory between two adventures to learn the following spell:

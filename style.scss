@@ -349,9 +349,13 @@ footer {
   visibility: visible;
 }
 
-#generate-btn {
+button {
   background-color: black;
   color: white;
-  font-size: 10px;
-  font-weight: bold;
+  padding: 12px 24px;
+  font-size: 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
 }
+

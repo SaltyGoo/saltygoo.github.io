@@ -91,9 +91,9 @@ When casting the spell you must prepare a message with up to [sum] words. [sum] 
 </details>
 
  
- // ENCOUNTER GENERATOR SCRIPT
  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script>
+  // ENCOUNTER GENERATOR SCRIPT
     $(document).ready(function() {
       $("#generate-btn").click(function() {
         // define the specific value to search for in column 0

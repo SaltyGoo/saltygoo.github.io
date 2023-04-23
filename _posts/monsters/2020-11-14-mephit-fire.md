@@ -38,6 +38,8 @@ Is a living flame and is thus only affected by things that would affect a fire. 
 ---
 
 <br>
+ <button id="generate-btn">The Monster Roams</button>
+  <p id="result"></p>
 
 <details markdown="1">
 <summary>D6 What the Monster Wants</summary>
@@ -87,4 +89,37 @@ R: self 
 When casting the spell you must prepare a message with up to [sum] words. [sum] fire mephits are then summoned and will each deliver one word of your message to whoever it is intended to, across any plane. The message will be delivered in the most passionate and destructive way possible.
 
 </details>
+
+ 
+ <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+  // ENCOUNTER GENERATOR SCRIPT
+    $(document).ready(function() {
+      $("#generate-btn").click(function() {
+        // define the specific value to search for in column 0
+        var searchValue = "0001"; // change this to the actual value you need
+
+        // retrieve the CSV file
+        $.get("/CSV/Monster - Index.csv", function(data) {
+          // split the CSV data by rows and remove the header row
+          var rows = data.split("\n").slice(1);
+
+          // filter the rows by the specific value in column 0
+          var matchingRows = rows.filter(function(row) {
+            var columns = row.split(",");
+            return columns[0] === searchValue;
+          });
+
+          // randomly select a row from the matching rows
+          var selectedRow = matchingRows[Math.floor(Math.random() * matchingRows.length)];
+
+          // select a random cell from columns 3 to 8
+          var selectedCell = selectedRow.split(",")[Math.floor(Math.random() * 6) + 3];
+
+          // display the selected text
+          $("#result").text(selectedCell);
+        });
+      });
+    });
+  </script>
 

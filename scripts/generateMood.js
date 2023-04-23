@@ -1,6 +1,6 @@
 function generateMood() {
   // Create an array of six mood options
-  var moods = ["happiness", "anger", "sadness", "excitement", "fear", "surprise"];
+  var moods = ["The monster is patrolling the area.", "The monster is fleeing/fighting another monster.", "The monster is hunting/foraging.", "The monster is looking for something you have/know.", "The monster is wounded.", "The monster is setting camp."];
 
   // Generate a random index number between 0 and 5
   var index = Math.floor(Math.random() * 6);

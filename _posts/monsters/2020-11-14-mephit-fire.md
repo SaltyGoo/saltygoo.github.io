@@ -112,7 +112,7 @@ When casting the spell you must prepare a message with up to [sum] words. [sum] 
           var selectedCell = selectedRow.split(",")[Math.floor(Math.random() * 6) + 3];
 
           // display the selected text
-          $("#result").text(selectedCell);
+          $("#RoamResult").text(selectedCell);
         });
       });
     });

@@ -62,19 +62,19 @@ If you have captured this monster, you can spend the equivalent of 3 bags of gol
 - You gain a [Spell Dice](/class/wizard#spell);
 - Roll a D6, you mutate in the following way :
 
-**1**. ... every flammable item on you burns.
-**1**. ... your words are replaced by 1'' fire mephits that mime them before being snuffed.
-**1**. ... your hair is replaced by flames (they don't burn you).
-**1**. ... each time you rest, one thing on you is stolen by a mephit and brought to the plane of fire.
-**1**. ... water burns you.
-**1**. ... you can change one word from a class ability you have or a spell you know to *Flame*.
+1. ... every flammable item on you burns.
+1. ... your words are replaced by 1'' fire mephits that mime them before being snuffed.
+1. ... your hair is replaced by flames (they don't burn you).
+1. ... each time you rest, one thing on you is stolen by a mephit and brought to the plane of fire.
+1. ... water burns you.
+1. ... you can change one word from a class ability you have or a spell you know to *Flame*.
 
 If you roll a Catastrophe, the elemental is released and hostile, and you lose the Spell Dice.
 </details>
 
 <details markdown="1">
 <summary style="font-weight: bold;">Conjure the Elemental Creature</summary>
-If you have befriended or bound this monster, you can spend the equivalent of 2 bags of gold in a magical laboratory between two adventures to learn the following spell:
+If you have befriended or bound this monster, you can spend the equivalent of 2 bags of gold in a wizard library between two adventures to learn the following spell:
 
 **Conjure Fire Mephit** <br>
 R: self 

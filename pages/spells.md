@@ -1,8 +1,19 @@
 ---
 layout: page
-title: Spells
+title: How Spells Work
 permalink: /spells/
 ---
+
+**Spell Dice (SD)**
+You need spell dice to cast spells. They are D6s and you normally get them through certain classes.
+
+Whenever you cast a spell, you choose how many SD to invest into it. The result of the spell depends on the number of [dice] and their [sum].
+
+If a SD rolls a 1, 2 or 3, you don’t lose it. Otherwise, you lose it until you get a night of sleep.
+
+Every time you roll doubles or triples with your SD, you get closer to *[Catastrophe](/list/spell-catastrophe)*.
+
+# Spells
 
 ###### All spell schools originate from [Wonders & Wickedness](https://www.exaltedfuneral.com/products/wonder-wickedness) and [Marvels & Malisons](https://www.exaltedfuneral.com/products/marvel-malisons)
 
@@ -27,6 +38,9 @@ For the complete alphabetical list : [All Spells](/list/spells)
 
 ### Lexicon
 
+<details markdown="1">
+<summary>How to Read a spell</summary>
+
 <ins>R</ins> : Range      <ins>D</ins> : Duration
 
 <ins>[dice]</ins> : the number of rolled dice.
@@ -50,8 +64,7 @@ For the complete alphabetical list : [All Spells](/list/spells)
 
 <ins>Range Philosophy</ins> :
 A human moves 30’ in a turn, so all ranges are in 30’ increments to ease calculation when playing without a grid.
-
-###### The small words under a spell description are its spell words. You can mix and match the spell words you know to [research new spells](/2020/11/10/extra-rules#between-adventures).
+</details>
 
 ---
  

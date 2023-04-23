@@ -41,10 +41,10 @@ Is a living flame and is thus only affected by things that would affect a fire. 
 **Lair** : Fire Pits <span style="display: inline-block; width:30px"></span>
 **Diet** : Fuel & Fat
 
-<button id="generate-btn">The Monster Roams</button>
+<button id="generate-btn">Generate Roaming Monster Event</button>
 <p id="RoamResult" style="font-style: italic;"></p>
 
-<button onclick="generateMood()">The Monster Wants</button>
+<button onclick="generateMood()">Generate Standard Monster Need</button>
 <p id="MoodResult" style="font-style: italic;"></p>
 
 <details markdown="1">

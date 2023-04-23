@@ -55,7 +55,7 @@ Is a living flame and is thus only affected by things that would affect a fire. 
 New carousing activities!
 
 <details markdown="1">
-<summary>Bind the Elemental Creature</summary>
+<summary>**Bind the Elemental Creature**</summary>
 If you have captured this monster, you can spend the equivalent of 3 bags of gold in a magical laboratory between two adventures to bind it to your soul. If you do so, you ...
 
 - You gain 2 [Doom Points](/list/spell-catastrophe) (roll for Catastrophe); 
@@ -73,7 +73,7 @@ If you roll a Catastrophe, the elemental is released and hostile, and you lose t
 </details>
 
 <details markdown="1">
-<summary>Conjure the Elemental Creature</summary>
+<summary>**Conjure the Elemental Creature**</summary>
 If you have befriended or bound this monster, you can spend the equivalent of 2 bags of gold in a magical laboratory between two adventures to learn the following spell:
 
 <span class="alchemy">

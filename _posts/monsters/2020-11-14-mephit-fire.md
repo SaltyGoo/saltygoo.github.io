@@ -44,7 +44,7 @@ Is a living flame and is thus only affected by things that would affect a fire. 
 <button id="generate-btn">Generate Roaming Monster Event</button>
 <p id="RoamResult" style="font-style: italic;">When you roll this monster on your encounter table. Most of them are hints the monster is nearby.</p>
 
-<button onclick="generateMood()">Generate Standard Monster Need</button>
+<button onclick="generateMood()">Generate What The Monster Is Doing</button>
 <p id="MoodResult" style="font-style: italic;">If the party meets this monster, what is it doing?</p>
 <script src="/scripts/generateMood.js"></script>
 

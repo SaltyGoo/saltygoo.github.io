@@ -45,7 +45,8 @@ Is a living flame and is thus only affected by things that would affect a fire. 
 <p id="RoamResult" style="font-style: italic;"></p>
 
 <button onclick="generateMood()">Generate Standard Monster Need</button>
-<p id="MoodResult" style="font-style: italic;"></p>
+    <p id="MoodResult" style="font-style: italic;"></p>
+    <script src="/scripts/generateMood.js"></script>
 
 <details markdown="1">
 <summary>D6 What the Monster Wants</summary>

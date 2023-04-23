@@ -5,7 +5,8 @@ permalink: /spells/
 ---
 
 **Spell Dice (SD)**
-You need spell dice to cast spells. They are D6s and you normally get them through certain classes.
+
+You need a leasr 1 Spell Die to cast spells. They are D6s and you normally get them when taking levels in certain classes.
 
 Whenever you cast a spell, you choose how many SD to invest into it. The result of the spell depends on the number of [dice] and their [sum].
 

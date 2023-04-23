@@ -1,4 +1,4 @@
-function generateText() {
+function generateMood {
   // Create an array of six options
   var options = ["Option 1", "Option 2", "Option 3", "Option 4", "Option 5", "Option 6"];
 
@@ -9,6 +9,6 @@ function generateText() {
   var selectedOption = options[index];
 
   // Get the paragraph element where we will display the generated text
-  var generatedText = document.getElementById("generated-text");
+  var generatedText = document.getElementById("MoodResult");
 
 }

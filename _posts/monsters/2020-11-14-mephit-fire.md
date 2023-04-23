@@ -37,6 +37,10 @@ Is a living flame and is thus only affected by things that would affect a fire. 
 
 ---
 
+**Number** : 1D8 <span style="display: inline-block; width:30px"></span>
+**Lair** : Fire Pits <span style="display: inline-block; width:30px"></span>
+**Diet** : Fuel & Fat
+
 <br>
  <button id="generate-btn">The Monster Roams</button>
 <p id="result" style="font-style: italic;"></p>

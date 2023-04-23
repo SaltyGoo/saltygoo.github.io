@@ -48,16 +48,6 @@ Is a living flame and is thus only affected by things that would affect a fire. 
     <p id="MoodResult" style="font-style: italic;"></p>
     <script src="/scripts/generateMood.js"></script>
 
-<details markdown="1">
-<summary>D6 What the Monster Wants</summary>
-
-1. Unsure if they are here to announce a war or a party.
-1. To challenge you to a fight, or any another thrilling activity.
-1. To clean (burn) the area for the arrival of their fiery master.
-1. To hide from their master, as they hate orders.
-1. They are newly spawned, they are very curious.
-1. Gold or treasures for their master, but nothing flammable.
-</details>
 
 <details markdown="1">
 <summary>Binding the Elemental</summary>

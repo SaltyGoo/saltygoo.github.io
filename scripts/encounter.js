@@ -23,7 +23,7 @@ function generateSentence() {
       const sentence = randomValue;
       
       // Display the sentence in the HTML
-      document.getElementById("output").textContent = sentence;
+      document.getElementById("monster-id").textContent = sentence;
     }
   });
 }

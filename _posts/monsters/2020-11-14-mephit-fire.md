@@ -39,6 +39,9 @@ Is a living flame and is thus only affected by things that would affect a fire. 
 
 <br>
 
+<button onclick="generateMonster()">Generate Monster</button>
+<p id="monster"></p>
+
 <details markdown="1">
 <summary>D6 What the Monster Wants</summary>
 

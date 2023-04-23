@@ -38,7 +38,7 @@ Is a living flame and is thus only affected by things that would affect a fire. 
 ---
 
 <br>
- <button id="generate-btn">The Monster Roams</button>
+ <button id="generate-btn" style="font-style: bold;">The Monster Roams</button>
 <p id="result" style="font-style: italic;"></p>
 
 <details markdown="1">

@@ -1,13 +1,14 @@
 ---
 layout: post
 permalink: /list/spell-catastrophe
-title: Curses and Catastrophes
+title: Doom
 ---
 
-Catastrophes most often happen when a spellcaster rolls too many pairs and triples on their [Spell Dice](/class/wizard#spells), but they are also designed to be used as curses by the referee when appropriate. It's a work in progress as I'm doing a list for each of the [Wonder & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness) and [Marvels & Malison](https://www.drivethrurpg.com/product/211911/Marvels--Malisons) spell schools that I use. Roll a smaller die than a D12 if you want to avoid the character-killing ones. The smaller the roll the kinder the consequence.
+Magic is dangerous! If used recklessly, it will lead directly to your doom. That is why everybody has a **Doom Score** which starts at 0. When you gain one or more **Doom Points** (for example, by getting a pair when rolling spell dice), add it to your Doom Score and roll a D20. If you roll equal or under your Doom Score, you trigger a **Catastrophe**. Getting a triple when casting a spell gives 3 Doom Points, and a quadruple, 6.
 
-Reminder of the Salty Goo spell catastrophe rules: _Every time you roll doubles with your Spell Dice you gain 1 Doom Point. Roll a D20. If you roll equal to or below your doom score, you trigger a catastrophe. Triples give 3 Points, and Quadruples, 6 points._
+# Catastrophes
 
+Catastrophes happen most often when a spellcaster rolls too many pairs and triples on their [Spell Dice](/class/wizard#spells), but they are also designed to be used as curses by the referee when appropriate. When a player triggers a catastrophe, choose which type seems to be the most appropriate (I'm doing a list for each of the [Wonder & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness) and [Marvels & Malison](https://www.drivethrurpg.com/product/211911/Marvels--Malisons) spell schools) and give the player the _Last Warning_. For each further catastrophy triggered by this character, ask the player to roll a D12 and face the consequences. The smaller the roll the kinder the consequence. Reroll if it already happened.
 
 ## D12 Animorphic Catastrophes
 <details markdown="1">

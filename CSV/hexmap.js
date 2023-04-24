@@ -7,7 +7,15 @@ async function getRandomCell(csvFile, columnIndex) {
   const response = await fetch(csvFile);
   const data = await response.text();
   const rows = data.split('\n').filter(row => row.trim() !== '');
-  const cells = rows.map(row => row.split(',').map(cell => cell.trim())[columnIndex]).filter(cell => cell !== '');
+  const cells = rows.map(row => {
+    const cell = row.split(',').map(cell => cell.trim())[columnIndex];
+    if (cell.startsWith('<a href=')) {
+      const match = /href="([^"]+)"/.exec(cell);
+      return match ? match[1] : '';
+    } else {
+      return cell;
+    }
+  }).filter(cell => cell !== '');
   return cells[Math.floor(Math.random() * cells.length)] || '';
 }
 

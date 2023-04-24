@@ -4,17 +4,22 @@ const cvsBiomes = ['/CSV/Monster - 01_Arctic.csv', '/CSV/Monster - 02_Desert.csv
 const underdarkCvs = '/CSV/Monster - 11_Gate.csv';
 
 async function getRandomCell(csvFile, columnIndex) {
-  try {
-    const response = await fetch(csvFile);
-    const data = await response.text();
-    const { data: rows } = Papa.parse(data);
-    const cells = rows.map(row => row[columnIndex].trim()).filter(cell => cell !== '');
-    return cells[Math.floor(Math.random() * cells.length)] || '';
-  } catch (error) {
-    console.error(error);
-    return '';
+  const response = await fetch(csvFile);
+  const data = await response.text();
+  const rows = data.split('\n').filter(row => row.trim() !== '');
+  const cells = rows.map(row => row.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/).map(cell => cell.trim())[columnIndex]).filter((cell, index) => cell !== '' && index !== 0);
+  const randomCell = cells[Math.floor(Math.random() * cells.length)] || '';
+  const regex = /<a href='(.*?)'>(.*?)<\/a>/;
+  const match = randomCell.match(regex);
+  if (match) {
+    const link = match[1];
+    const text = match[2];
+    return `<a href="${link}">${text}</a>`;
+  } else {
+    return randomCell;
   }
 }
+
 
 async function generateText() {
   const csvFile = cvsBiomes[Math.floor(Math.random() * cvsBiomes.length)];

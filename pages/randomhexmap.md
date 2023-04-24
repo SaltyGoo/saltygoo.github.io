@@ -12,13 +12,13 @@
     const response = await fetch(csvFile);
     const data = await response.text();
     const rows = data.split('\n').filter(row => row.trim() !== '');
-    const cells = rows.map(row => row.split(',')).filter((row, index) => index !== 0).map(row => row[columnIndex]).filter(cell => cell !== '');
+    const cells = rows.map(row => row.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/).map(cell => cell.trim())[columnIndex]).filter((cell, index) => cell !== '' && index !== 0);
     return cells[Math.floor(Math.random() * cells.length)] || '';
   }
 
   async function generateText() {
     const csvFile = cvsBiomes[Math.floor(Math.random() * cvsBiomes.length)];
-    const cells = await Promise.all(Array.from({length: 12}, (_, i) => getRandomCell(csvFile, i + 4)));
+    const cells = await Promise.all(Array.from({length: 12}, (_, i) => getRandomCell(csvFile, i + 3)));
 
     // Add content of columns 4-7 of specific CSV 10% of the time
     if (csvFile !== underdarkCvs && Math.random() < 0.1) {
@@ -37,6 +37,6 @@
 
   async function generateAndDisplayText() {
     const generatedText = await generateText();
-    document.getElementById('generatedText').textContent = generatedText;
+    document.getElementById('generatedText').innerHTML = generatedText;
   }
 </script>

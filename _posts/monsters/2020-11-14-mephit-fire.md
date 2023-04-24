@@ -52,7 +52,7 @@ This creature is a living flame and is thus only affected by things that would a
 
 ---
 
-## You Have Captured A Mephit
+### So, You Have Captured A Mephit
 
 New carousing activities!
 

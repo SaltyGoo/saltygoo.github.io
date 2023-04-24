@@ -23,10 +23,10 @@
       // Add content of columns 4-7 of specific CSV 10% of the time
       if (csvFile !== underdarkCvs && Math.random() < 0.1) {
         const specificCells = await Promise.all([
-          getRandomCell(underdarkCvs, 3),
           getRandomCell(underdarkCvs, 4),
           getRandomCell(underdarkCvs, 5),
-          getRandomCell(underdarkCvs, 6)
+          getRandomCell(underdarkCvs, 6),
+          getRandomCell(underdarkCvs, 7)
         ]);
         cells.push(...specificCells);
       }

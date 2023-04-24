@@ -56,3 +56,5 @@ async function generateText() {
 
   // Add content of columns 4-7 of specific CVS 10% of the time
   if (csvFile !== underdark
+
+      // rerun

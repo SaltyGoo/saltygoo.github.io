@@ -21,7 +21,7 @@ Flame Mephits have no conception of the future, the past or personal boundaries.
 | **Hit it:** normal | **Dodge it:** normal |
 | **Movement:** normal      | 
 
-##### <span class="tooltip" data-tooltip=" Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat (Slow = Easy & Fast = Hard)">→ How to read monster stats</span>
+##### <span class="tooltip" data-tooltip="Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat">→ How to read monster stats</span>
 
 The Mephit is a living flame and is thus only affected by things that would affect a fire. It can only survive 10 minutes without oxygen and fuel.
 

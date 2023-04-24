@@ -11,6 +11,10 @@ A flame animated by a spark of mischief. A small fire elemental.
 
 Flame Mephits have no conception of the future, the past or personal boundaries. They are full of immediate, destructive and indulgent desires. 
 
+**Number** : 1D8 <span style="display: inline-block; width:30px"></span>
+**Lair** : Fire Pits <span style="display: inline-block; width:30px"></span>
+**Desire** : Fuel & Thrill
+
 <br>
 
 ---
@@ -23,7 +27,7 @@ Flame Mephits have no conception of the future, the past or personal boundaries.
 
 ##### <span class="tooltip" data-tooltip=" Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat (Slow = Easy & Fast = Hard)">→ How to read monster stats</span>
 
-Is a living flame and is thus only affected by things that would affect a fire. It can only survive 10 minutes without oxygen and fuel.
+The Mephit is a living flame and is thus only affected by things that would affect a fire. It can only survive 10 minutes without oxygen and fuel.
 
 **Attacks (1/round)**
 
@@ -37,9 +41,6 @@ Is a living flame and is thus only affected by things that would affect a fire. 
 
 ---
 
-**Number** : 1D8 <span style="display: inline-block; width:30px"></span>
-**Lair** : Fire Pits <span style="display: inline-block; width:30px"></span>
-**Desire** : Fuel & Thrill
 
 <button id="generate-btn">Generate Roaming Monster Event</button>
 <p id="RoamResult" style="font-style: italic;">When you roll this monster on your encounter table. Most of them are hints the monster is nearby.</p>
@@ -56,17 +57,17 @@ New carousing activities!
 
 <details markdown="1">
 <summary style="font-weight: bold;">Bind the Elemental Creature</summary>
-If you have captured this monster, you can spend the equivalent of 3 bags of gold in a magical laboratory between two adventures to bind it to your soul. If you do so, you ...
+If you have captured this elemental monster, you can spend the equivalent of 3 bags of gold in a magical laboratory between two adventures to bind it to your soul. If you do so, you ...
 
 - You gain 2 [Doom Points](/list/spell-catastrophe) (roll for Catastrophe); 
-- You gain a [Spell Dice](/spells/);
+- You gain 1 [Spell Die](/spells/);
 - Roll a D6, you mutate in the following way :
 
-1. ... every flammable item on you burns.
-1. ... your words are replaced by 1'' fire mephits that mime them before being snuffed.
-1. ... your hair is replaced by flames (they don't burn you).
-1. ... each time you rest, one thing on you is stolen by a mephit and brought to the plane of fire.
-1. ... water burns you.
+1. ... every flammable item currently on you turns into ashes.
+1. ... your words are replaced by tiny fire mephits that mime them before being snuffed.
+1. ... your hair becomes flames (it doesn't burn you).
+1. ... each time you rest, one thing near you is stolen by a mephit and brought to the plane of fire.
+1. ... water burns you like it was fire.
 1. ... you can change one word from a class ability you have or a spell you know to *Flame*.
 
 If you roll a Catastrophe, the elemental is released and hostile, and you lose the Spell Dice.
@@ -79,7 +80,7 @@ If you have befriended or bound this monster, you can spend the equivalent of 2 
 **Conjure Fire Mephit** <br>
 R: self 
 
-When casting the spell you must prepare a message with up to [sum] words. [sum] fire mephits are then summoned and will each deliver one word of your message to whoever it is intended to, across any plane. The message will be delivered in the most passionate and destructive way possible, setting [dice] things on fire.
+When casting the spell you must prepare a message with up to [sum] words. [sum] fire mephits are then summoned and will each deliver one word of your message to whoever it is intended to, across any plane. The message will be delivered in the most passionate and destructive way possible, damaging [dice] things the target owns.
 
 </details>
 

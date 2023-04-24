@@ -18,7 +18,7 @@
 
     async function generateText() {
       const csvFile = cvsBiomes[Math.floor(Math.random() * cvsBiomes.length)];
-      const cells = await Promise.all(Array.from({length: 12}, (_, i) => getRandomCell(csvFile, i + 3)));
+      const cells = await Promise.all(Array.from({length: 12}, (_, i) => getRandomCell(csvFile, i + 4)));
 
       // Add content of columns 4-7 of specific CSV 10% of the time
       if (csvFile !== underdarkCvs && Math.random() < 0.1) {

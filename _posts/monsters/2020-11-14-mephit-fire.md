@@ -11,10 +11,6 @@ A flame animated by a spark of mischief. A small fire elemental.
 
 Flame Mephits have no conception of the future, the past or personal boundaries. They are full of immediate, destructive and indulgent desires. 
 
-**Number** : 1D8 <span style="display: inline-block; width:30px"></span>
-**Lair** : Fire Pits <span style="display: inline-block; width:30px"></span>
-**Desire** : Fuel & Thrill
-
 <br>
 
 ---
@@ -41,6 +37,9 @@ The Mephit is a living flame and is thus only affected by things that would affe
 
 ---
 
+**Number** : 1D8 <span style="display: inline-block; width:30px"></span>
+**Lair** : Fire Pits <span style="display: inline-block; width:30px"></span>
+**Desire** : Fuel & Thrill
 
 <button id="generate-btn">Generate Roaming Monster Event</button>
 <p id="RoamResult" style="font-style: italic;">When you roll this monster on your encounter table. Most of them are hints the monster is nearby.</p>

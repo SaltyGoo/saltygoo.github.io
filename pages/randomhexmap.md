@@ -1,4 +1,4 @@
- <h1>Monster Text Generator</h1>
+  <h1>Monster Text Generator</h1>
   <button onclick="generateAndDisplayText()">Generate Text</button>
   <p id="generatedText"></p>
   
@@ -8,29 +8,31 @@
     // Name of the specific CSV to use for 10% of the time
     const underdarkCvs = '/CSV/Monster - 11_Gate.csv';
 
-    async function getRandomCell(csvFile, columnIndex, ignoreFirstRow) {
+    async function getRandomCell(csvFile, columnIndex) {
       const response = await fetch(csvFile);
       const data = await response.text();
-      const rows = data.split('\n').filter((row, index) => index !== 0 || !ignoreFirstRow).filter(row => row.trim() !== '');
-      const cells = rows.map(row => row.split(',').map(cell => cell.trim())[columnIndex]).filter(cell => cell !== '');
+      const rows = data.split('\n').filter(row => row.trim() !== '');
+      const cells = rows.map(row => row.split(',').map(cell => cell.trim())[columnIndex]).filter((cell, index) => cell !== '' && index !== 0);
       return cells[Math.floor(Math.random() * cells.length)] || '';
     }
 
     async function generateText() {
       const csvFile = cvsBiomes[Math.floor(Math.random() * cvsBiomes.length)];
-      const cells = await Promise.all(Array.from({length: 12}, (_, i) => getRandomCell(csvFile, i + 3, true)));
+      const cells = await Promise.all(Array.from({length: 12}, (_, i) => getRandomCell(csvFile, i + 3)));
 
-      let underdarkCells = '';
       // Add content of columns 4-7 of specific CSV 10% of the time
       if (csvFile !== underdarkCvs && Math.random() < 0.1) {
-        const cell4 = await getRandomCell(underdarkCvs, 3, false);
-        const cell5 = await getRandomCell(underdarkCvs, 4, false);
-        const cell6 = await getRandomCell(underdarkCvs, 5, false);
-        const cell7 = await getRandomCell(underdarkCvs, 6, false);
-        underdarkCells = `${cell4} ${cell5} ${cell6} ${cell7}`;
+        const specificCells = await Promise.all([
+          getRandomCell(underdarkCvs, 3),
+          getRandomCell(underdarkCvs, 4),
+          getRandomCell(underdarkCvs, 5),
+          getRandomCell(underdarkCvs, 6)
+        ]);
+        cells.push(...specificCells);
       }
 
-      return [...cells.slice(0, 3), ...cells.slice(7), underdarkCells].join(' ');
+      // Combine cells into one string
+      return cells.join(' ');
     }
 
     async function generateAndDisplayText() {

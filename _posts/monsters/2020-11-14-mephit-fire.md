@@ -5,9 +5,9 @@ permalink: /monsters/mephit-fire
 title: Mephit, Flame
 ---
 
-_Imagine if a flame had the shape of a tiny, grotesque acrobat._
+_Imagine if a tiny, grotesque acrobat was made of pure fire._
 
-A flame animated by a spark of mischief. A small fire elemental.
+A flickering flame animated by a spark of mischief. A small fire elemental.
 
 Flame Mephits have no conception of the future, the past or personal boundaries. They are full of immediate, destructive and indulgent desires. 
 
@@ -23,7 +23,7 @@ Flame Mephits have no conception of the future, the past or personal boundaries.
 
 ##### <span class="tooltip" data-tooltip="Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat">→ How to read monster stats</span>
 
-The Mephit is a living flame and is thus only affected by things that would affect a fire. It can only survive 10 minutes without oxygen and fuel.
+This creature is a living flame and is thus only affected by things that would affect a fire. It can only survive 10 minutes without oxygen and fuel.
 
 **Attacks (1/round)**
 

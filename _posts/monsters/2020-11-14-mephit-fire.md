@@ -5,6 +5,8 @@ permalink: /monsters/mephit-fire
 title: Mephit, Flame
 ---
 
+<img align="right" width=250px  src="https://static.wikia.nocookie.net/forgottenrealms/images/5/5a/FireMephit1e_p64.png/revision/latest?cb=20200322203419"  style="border:0px solid black">
+
 _Imagine if a tiny, grotesque acrobat was made of pure fire._
 
 A flickering flame animated by a spark of mischief. A small fire elemental.

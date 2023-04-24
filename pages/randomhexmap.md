@@ -1,4 +1,4 @@
- <h1>Monster Text Generator</h1>
+<h1>Monster Text Generator</h1>
   <button onclick="generateAndDisplayText()">Generate Text</button>
   <p id="generatedText"></p>
   
@@ -11,22 +11,29 @@
     async function getRandomCell(csvFile, columnIndex) {
       const response = await fetch(csvFile);
       const data = await response.text();
-      const rows = data.split('\n').filter(row => row.trim() !== '');
+      const rows = data.split('\n').slice(1).filter(row => row.trim() !== '');
       const cells = rows.map(row => row.split(',').map(cell => cell.trim())[columnIndex]).filter(cell => cell !== '');
       return cells[Math.floor(Math.random() * cells.length)] || '';
     }
 
     async function generateText() {
       const csvFile = cvsBiomes[Math.floor(Math.random() * cvsBiomes.length)];
-      const cells = await Promise.all(Array.from({length: 12}, (_, i) => getRandomCell(csvFile, i + 3)));
+      const biomeCells = await Promise.all(Array.from({length: 12}, (_, i) => getRandomCell(csvFile, i + 3)));
 
-      // Add content of columns 4-7 of specific CVS 10% of the time
+      let underdarkCells = [];
       if (csvFile !== underdarkCvs && Math.random() < 0.1) {
-        const specificCells = await Promise.all(Array.from({length: 4}, (_, i) => getRandomCell(underdarkCvs, i + 3)));
-        cells.push(...specificCells);
+        underdarkCells = await Promise.all(Array.from({length: 4}, (_, i) => getRandomCell(underdarkCvs, i + 3)));
       }
 
-      return cells.join(' ');
+      const combinedCells = [...biomeCells, ...underdarkCells];
+
+      let result = '';
+      for (let i = 3; i <= 14; i++) {
+        result += combinedCells[i] + ' ';
+      }
+      result += combinedCells[15];
+
+      return result;
     }
 
     async function generateAndDisplayText() {

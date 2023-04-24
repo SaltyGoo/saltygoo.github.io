@@ -54,5 +54,21 @@ async function generateText() {
     });
   }));
 
-  // Add content of columns 4-7 of specific CVS 10% of the time
-  if (csvFile !== underdark
+  // Concatenate the cells into a single sentence
+  const sentence = cells.join(' ');
+
+  // Find all 4-digit sequences in the sentence
+  const regex = /\d{4}/g;
+  const sequences = sentence.match(regex);
+
+  // Replace each sequence with the text "FOUR_DIGITS"
+  const modifiedSentence = sentence.replace(regex, "FOUR_DIGITS");
+
+  return { original: sentence, modified: modifiedSentence, sequences };
+}
+
+  // Add content of columns 4-7 of specific CSV 10% of the time
+  if (csvFile !== underdarkCvs && Math.random() < 0.1) {
+    const cell = await getRandomCell(underdarkCvs, Math.floor(Math.random() * 4) + 4);
+    cells.push(cell);
+  }

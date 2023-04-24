@@ -5,9 +5,11 @@ permalink: /monsters/mephit-fire
 title: Mephit, Flame
 ---
 
-_Imagine if a flame had the shape of a tiny Italian contortionist._
+<img align="right" width=200px  src="https://static.wikia.nocookie.net/forgottenrealms/images/5/5a/FireMephit1e_p64.png"  style="border:0px solid black">
 
-A flame animated by a spark of mischief. A small fire elemental.
+_Imagine if a tiny, grotesque acrobat was made of pure fire._
+
+A flickering flame animated by a spark of mischief. A small fire elemental.
 
 Flame Mephits have no conception of the future, the past or personal boundaries. They are full of immediate, destructive and indulgent desires. 
 
@@ -21,9 +23,9 @@ Flame Mephits have no conception of the future, the past or personal boundaries.
 | **Hit it:** normal | **Dodge it:** normal |
 | **Movement:** normal      | 
 
-##### <span class="tooltip" data-tooltip=" Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat (Slow = Easy & Fast = Hard)">→ How to read monster stats</span>
+##### <span class="tooltip" data-tooltip="Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat">→ How to read monster stats</span>
 
-Is a living flame and is thus only affected by things that would affect a fire. It can only survive 10 minutes without oxygen and fuel.
+This creature is a living flame and is thus only affected by things that would affect a fire. It can only survive 10 minutes without oxygen and fuel.
 
 **Attacks (1/round)**
 
@@ -37,56 +39,49 @@ Is a living flame and is thus only affected by things that would affect a fire. 
 
 ---
 
-<br>
- <button id="generate-btn">The Monster Roams</button>
-  <p id="result"></p>
+**Number** : 1D8 <span style="display: inline-block; width:30px"></span>
+**Lair** : Fire Pits <span style="display: inline-block; width:30px"></span>
+**Desire** : Fuel & Thrill
+
+<button id="generate-btn">Generate Roaming Monster Event</button>
+<p id="RoamResult" style="font-style: italic;">When you roll this monster on your encounter table. Most of them are hints the monster is nearby.</p>
+
+<button onclick="generateMood()">Generate What The Monster Is Doing</button>
+<p id="MoodResult" style="font-style: italic;">If the party meets this monster, what is it doing?</p>
+<script src="/scripts/generateMood.js"></script>
+
+---
+
+## So, You Have Captured A Mephit?
+
+New carousing activities!
 
 <details markdown="1">
-<summary>D6 What the Monster Wants</summary>
+<summary style="font-weight: bold;">Bind the Elemental Creature</summary>
+If you have captured this elemental monster, you can spend the equivalent of 3 bags of gold in a magical laboratory between two adventures to bind it to your soul. If you do so, you ...
 
-1. Unsure if they are here to announce a war or a party.
-1. To challenge you to a fight, or any another thrilling activity.
-1. To clean (burn) the area for the arrival of their fiery master.
-1. To hide from their master, as they hate orders.
-1. They are newly spawned, they are very curious.
-1. Gold or treasures for their master, but nothing flammable.
+- You gain 2 [Doom Points](/list/spell-catastrophe) (roll for Catastrophe); 
+- You gain 1 [Spell Die](/spells/);
+- Roll a D6, you mutate in the following way :
+
+1. ... every flammable item currently on you turns into ashes.
+1. ... your words are replaced by tiny fire mephits that mime them before being snuffed.
+1. ... your hair becomes flames (it doesn't burn you).
+1. ... each time you rest, one thing near you is stolen by a mephit and brought to the plane of fire.
+1. ... water burns you like it was fire.
+1. ... you can change one word from a class ability you have or a spell you know to *Flame*.
+
+If you roll a Catastrophe, the elemental is released and hostile, and you lose the Spell Dice.
 </details>
 
 <details markdown="1">
-<summary>Random Encounter</summary>
-
-1. **Monster:** 1D8 fire mephits
-1. **Lair:** A giant brasero burning with eternal flames. <br>    &nbsp; OR <br>    **Omen:** Cackling sounds and burnt smell.
-1. **Spoor:** Everything is on fire!
-1. **Tracks:** A trail of burnt objects.
-1. **Trace:** [rumor] A powerful creature of fire has sent its agents in the area.
-1. **Trace:** A message in ignan burned on a surface.
-</details>
-
-<details markdown="1">
-<summary>Binding the Elemental</summary>
-
-You gain a [Spell Dice](https://saltygoo.github.io/class/magic-user#spells), one Doom Point and ...
-
-1. ... every flammable item on you burns.
-1. ... your words are replaced by 1'' fire mephits that mime them before being snuffed.
-1. ... your hair is replaced by flames (they don't burn you).
-1. ... each time you rest, one thing on you is stolen by a flame mephit and brought to the plane of fire.
-1. ... water burns you.
-1. ... the spell word *Flame*.
-
-If you roll a catastrophe, the elemental is released.
-</details>
-
-<details markdown="1">
-<summary>Conjuring the Elemental</summary>
-
-If you know the spell [Conjure](https://saltygoo.github.io/2020/11/12/conjure/), you can alter it in such a way for a minimum of 1 Spell Dice:
+<summary style="font-weight: bold;">Conjure the Elemental Creature</summary>
+If you have befriended or bound this monster, you can spend the equivalent of 2 bags of gold in a wizard library between two adventures to learn the following spell:
 
 **Conjure Fire Mephit** <br>
 R: self 
 
-When casting the spell you must prepare a message with up to [sum] words. [sum] fire mephits are then summoned and will each deliver one word of your message to whoever it is intended to, across any plane. The message will be delivered in the most passionate and destructive way possible.
+When casting the spell you must prepare a message with up to [sum] words. [sum] fire mephits are then summoned and will each deliver one word of your message to whoever it is intended to, across any plane. The message will be delivered in the most passionate and destructive way possible, damaging [dice] things the target owns.
 
 </details>
 
@@ -117,9 +112,11 @@ When casting the spell you must prepare a message with up to [sum] words. [sum] 
           var selectedCell = selectedRow.split(",")[Math.floor(Math.random() * 6) + 3];
 
           // display the selected text
-          $("#result").text(selectedCell);
+          $("#RoamResult").text(selectedCell);
         });
       });
     });
   </script>
+  
+
 

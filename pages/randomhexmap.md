@@ -8,13 +8,14 @@
   // Name of the specific CSV to use for 10% of the time
   const underdarkCvs = '/CSV/Monster - 11_Gate.csv';
 
-  async function getRandomCell(csvFile, columnIndex) {
-    const response = await fetch(csvFile);
-    const data = await response.text();
-    const rows = data.split('\n').filter(row => row.trim() !== '');
-    const cells = rows.map(row => row.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/).map(cell => cell.trim())[columnIndex]).filter((cell, index) => cell !== '' && index !== 0);
-    return cells[Math.floor(Math.random() * cells.length)] || '';
-  }
+async function getRandomCell(csvFile, columnIndex) {
+  const response = await fetch(csvFile);
+  const data = await response.text();
+  const rows = data.split('\n').filter(row => row.trim() !== '');
+  const cells = rows.map(row => row.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/).map(cell => cell.trim())[columnIndex]).filter((cell, index) => cell !== '' && index !== 0);
+  const randomCell = cells[Math.floor(Math.random() * cells.length)] || '';
+  return randomCell.replace(/^"/, '').replace(/"$/, '');
+}
 
   async function generateText() {
     const csvFile = cvsBiomes[Math.floor(Math.random() * cvsBiomes.length)];

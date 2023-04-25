@@ -57,24 +57,10 @@
             }
 if (Math.random() < 0.9) {
   const gateRows = await gateCSV;
-  const gateCells = [];
-
-  for (let k = 1; k < gateRows.length; k++) {
-    const row = gateRows[k];
-    if (row.length >= 7 && row[4] !== '') {
-      gateCells.push(row);
-    }
-  }
-
-  const randomRow = gateCells[Math.floor(Math.random() * gateCells.length)];
-  let gateText = '';
-
-  gateText += randomRow[4] !== '' ? randomRow[4] + ' ' : '';
-  gateText += randomRow[5] !== '' ? randomRow[5] + ' ' : '';
-  gateText += randomRow[6] !== '' ? randomRow[6] + ' ' : '';
-  gateText += randomRow[7] !== '' ? randomRow[7] + ' ' : '';
-  concatenatedText += '<br><br>' + gateText.trim();         
-      }
+  const gateCells = gateRows.slice(1).map(row => row.slice(4, 8)).filter(row => row.some(cell => cell !== ''));
+  const [random4, random5, random6, random7] = gateCells[Math.floor(Math.random() * gateCells.length)];
+  concatenatedText += `\n\n${random4} ${random5} ${random6} ${random7}`;
+}
     }
   }
 // Replace 4-digit sequences with values from the Index CSV file

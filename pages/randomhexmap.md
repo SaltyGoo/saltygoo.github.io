@@ -77,6 +77,6 @@ async function generateText() {
   generatedText.innerHTML = sentence;
   
   return { original: sentence, sequences};
+}
 
-  }
 </script>

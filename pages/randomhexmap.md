@@ -67,7 +67,7 @@ for (let i = 0; i < indexCSVRows.length; i++) {
     if (indexCSVRows[i].length >= 37) {
       for (let j = 31; j <= 36; j++) {
         const regex = new RegExp('\\b' + indexCSVRows[i][j] + '\\b', 'g');
-        concatenatedText = concatenatedText.replace(regex, '<a href="' + indexCSVRows[i][j] + '">' + indexCSVRows[i][j] + '</a>');
+        concatenatedText = concatenatedText.replace(regex, '<a>' + indexCSVRows[i][j] + '</a>');
       }
     }
 }

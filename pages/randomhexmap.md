@@ -78,4 +78,5 @@ async function generateText() {
   
   return { original: sentence, sequences};
 
+  }
 </script>

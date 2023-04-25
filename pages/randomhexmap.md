@@ -1,4 +1,3 @@
- <!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8">
@@ -72,7 +71,7 @@ async function generateText() {
   }
   return concatenatedText;
 }
-
+}
 // Bind an event listener to a button
 const button = document.querySelector('button');
 button.addEventListener('click', async () => {

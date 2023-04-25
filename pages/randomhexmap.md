@@ -22,25 +22,32 @@
         return results;
       }
       
- async function loadCSVFiles() {
-  try {
-   // Load the CSV files into arrays
-const arcticCSV = fetch('/CSV/Monster - 01_Arctic.csv').then(response => response.text());
-const desertCSV = fetch('/CSV/Monster - 02_Desert.csv').then(response => response.text());
-const forestCSV = fetch('/CSV/Monster - 03_Forest.csv').then(response => response.text());
-const hillsCSV = fetch('/CSV/Monster - 04_Hills.csv').then(response => response.text());
-const jungleCSV = fetch('/CSV/Monster - 05_Jungle.csv').then(response => response.text());
-const mountainCSV = fetch('/CSV/Monster - 06_Mountain.csv').then(response => response.text());
-const plainsCSV = fetch('/CSV/Monster - 07_Plains.csv').then(response => response.text());
-const swampCSV = fetch('/CSV/Monster - 08_Swamp.csv').then(response => response.text());
-const cityCSV = fetch('/CSV/Monster - 09_City.csv').then(response => response.text());
-const seaCSV = fetch('/CSV/Monster - 10_Sea.csv').then(response => response.text());
-const gateCSV = fetch('/CSV/Monster - 11_Gate.csv').then(response => response.text());
-const indexCSV = fetch('/CSV/Monster - Index.csv').then(response => response.text());
+      async function loadCSVFiles() {
+        try {
+          // Load the CSV files into arrays
+          const arcticCSV = await loadCSV('/CSV/Monster - 01_Arctic.csv');
+          const desertCSV = await loadCSV('/CSV/Monster - 02_Desert.csv');
+          const forestCSV = await loadCSV('/CSV/Monster - 03_Forest.csv');
+          const hillsCSV = await loadCSV('/CSV/Monster - 04_Hills.csv');
+          const jungleCSV = await loadCSV('/CSV/Monster - 05_Jungle.csv');
+          const mountainCSV = await loadCSV('/CSV/Monster - 06_Mountain.csv');
+          const plainsCSV = await loadCSV('/CSV/Monster - 07_Plains.csv');
+          const swampCSV = await loadCSV('/CSV/Monster - 08_Swamp.csv');
+          const cityCSV = await loadCSV('/CSV/Monster - 09_City.csv');
+          const seaCSV = await loadCSV('/CSV/Monster - 10_Sea.csv');
+          const gateCSV = await loadCSV('/CSV/Monster - 11_Gate.csv');
+          const indexCSV = await loadCSV('/CSV/Monster - Index.csv');
+    
+          // Return the arrays
+          return [arcticCSV, desertCSV, forestCSV, hillsCSV, jungleCSV, mountainCSV, plainsCSV, swampCSV, cityCSV, seaCSV, gateCSV, indexCSV];
+        } catch (err) {
+          console.error(err);
+        }
+      }
       
       // Create a function to select a random Monster CSV file
       function selectMonsterCSV() {
-        const monsterCSVs = [arcticCSV, desertCSV, forestCSV, hillsCSV, jungleCSV, mountainCSV, plainsCSV, swampCSV, cityCSV, seaCSV];
+        const monsterCSVs = [arcticCSV, desertCSV, forestCSV, hillsCSV, jungleCSV, mountainCSV, plainsCSV, swampCSV, cityCSV, seaCSV, gateCSV];
         const randomIndex = Math.floor(Math.random() * monsterCSVs.length);
         return monsterCSVs[randomIndex];
       }

@@ -66,12 +66,16 @@ async function generateText() {
   const regex = /\d{4}/g;
   const sequences = sentence.match(regex);
 
-  // Add content of columns 4-7 of specific CSV 10% of the time
-  let specificCells;
-  if (csvFile !== underdarkCvs && Math.random() < 0.1) {
-    specificCells = await Promise.all(Array.from({ length: 4 }, (_, i) => getRandomCell(underdarkCvs, i + 3)));
-    sentence += " " + specificCells.join(' ');
-  }
+// Add content of columns 4-7 of specific CSV 10% of the time
+    if (csvFile !== underdarkCvs && Math.random() < 0.1) {
+      const specificCells = await Promise.all([
+        getRandomCell(underdarkCvs, 4),
+        getRandomCell(underdarkCvs, 5),
+        getRandomCell(underdarkCvs, 6),
+        getRandomCell(underdarkCvs, 7)
+      ]);
+      cells.push(...specificCells);
+    }
 
   const generatedText = document.getElementById("generatedText");
   generatedText.innerHTML = sentence;

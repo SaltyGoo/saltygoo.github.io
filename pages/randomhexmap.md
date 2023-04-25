@@ -10,16 +10,17 @@
     <div id="output"></div>
     <script>
       // Create a function to load a CSV file and parse it with Papa Parse
-      async function loadCSV(url) {
-        const response = await fetch(url);
-        const text = await response.text();
-        const results = Papa.parse(text, {
-          delimiter: ",",
-          header: false,
-          skipEmptyLines: true
-        });
-        return results.data;
-      }
+     async function loadCSV(url) {
+  const response = await fetch(url);
+  const text = await response.text();
+  const results = await new Promise(resolve => Papa.parse(text, {
+    delimiter: ",",
+    header: false,
+    skipEmptyLines: true,
+    complete: (results) => resolve(results)
+  }));
+  return results.data;
+}
       
       // Load the CSV files into arrays
       const arcticCSV = loadCSV('/CSV/Monster - 01_Arctic.csv');
@@ -71,7 +72,6 @@
       }
     }
   }
-// Replace 4-digit sequences with values from the Index CSV file
 // Replace 4-digit sequences with values from the Index CSV file
 const indexCSVResponse = await fetch('/CSV/Monster - Index.csv');
 const indexCSVText = await indexCSVResponse.text();

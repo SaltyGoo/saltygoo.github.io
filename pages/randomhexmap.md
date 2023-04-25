@@ -44,86 +44,86 @@
       }
       
       // Create a function to concatenate random cells from a Monster CSV file
-      async function generateText() {
-        const monsterCSV = await selectMonsterCSV();
-        let concatenatedText = '';
-        for (let i = 1; i < monsterCSV.length; i++) { // start loop at index 1
-          const cells = monsterCSV[i];
-          if (cells.length >= 16 && cells[4] !== '') {
-            for (let j = 4; j < 16; j++) {
-              if (cells[j] !== '') {
-                concatenatedText += cells[j]+ ' ';
+async function generateText() {
+  const monsterCSV = await selectMonsterCSV();
+  let concatenatedText = '';
+  for (let i = 1; i < monsterCSV.length; i++) { // start loop at index 1
+    const cells = monsterCSV[i];
+    if (cells.length >= 16 && cells[4] !== '') {
+      for (let j = 4; j < 16; j++) {
+        if (cells[j] !== '') {
+          concatenatedText += cells[j]+ ' ';
+        }
+      }
+      if (Math.random() < 0.1) {
+        const gateRows = await gateCSV;
+        let gateText = '';
+        for (let k = 0; k < gateRows.length; k++) {
+          const gateCells = gateRows[k];
+          if (gateCells.length >= 7 && gateCells[4] !== '') {
+            for (let l = 4; l <= 7; l++) {
+              if (gateCells[l] !== '') {
+                gateText += gateCells[l] + ' ';
               }
             }
-            if (Math.random() < 0.1) {
-              const gateRows = await gateCSV;
-              let gateText = '';
-              for (let k = 0; k < gateRows.length; k++) {
-                const gateCells = gateRows[k];
-                if (gateCells.length >= 7 && gateCells[4] !== '') {
-                  for (let l = 4; l <= 7; l++) {
-                    if (gateCells[l] !== '') {
-                      gateText += gateCells[l] + ' ';
-                    }
-                  }
-                }
-              }
-            concatenatedText += '\n\n' + gateText;
+          }
+        }
+        concatenatedText += '\n\n' + gateText;
       }
     }
   }
-// Replace 4-digit sequences with values from the Index CSV file
-const indexCSVResponse = await fetch('/CSV/Monster - Index.csv');
-const indexCSVText = await indexCSVResponse.text();
-const indexCSVRows = indexCSVText.split('\n');
+  // Replace 4-digit sequences with values from the Index CSV file
+  const indexCSVResponse = await fetch('/CSV/Monster - Index.csv');
+  const indexCSVText = await indexCSVResponse.text();
+  const indexCSVRows = indexCSVText.split('\n');
 
-const replacedIndexes = new Set();
-let replacedIndexCount = 0;
+  const replacedIndexes = new Set();
+  let replacedIndexCount = 0;
 
-while (true) {
-  let foundMatch = false;
+  while (true) {
+    let foundMatch = false;
 
-  // Keep track of the available indexes for each matched sequence
-  const availableIndexesForMatches = {};
+    // Keep track of the available indexes for each matched sequence
+    const availableIndexesForMatches = {};
 
-  // Search for matches in the concatenated text and keep track of the available indexes for each match
-  concatenatedText.replace(/\b\d{4}\b/g, match => {
-    const regex = new RegExp(`\\b${match}\\b`, 'g');
-    for (let i = 0; i < indexCSVRows.length; i++) {
-      const indexRow = indexCSVRows[i];
-      if (!indexRow) {
-        continue;
+    // Search for matches in the concatenated text and keep track of the available indexes for each match
+    concatenatedText.replace(/\b\d{4}\b/g, match => {
+      const regex = new RegExp(`\\b${match}\\b`, 'g');
+      for (let i = 0; i < indexCSVRows.length; i++) {
+        const indexRow = indexCSVRows[i];
+        if (!indexRow) {
+          continue;
+        }
+
+        if (indexRow.includes(match)) {
+          const indexCells = indexRow.split(',');
+          const availableIndexes = Array.from(Array(indexCells.length).keys()).slice(31, 37);
+          availableIndexesForMatches[match] = availableIndexes.filter(index => indexCells[index] && indexCells[index].trim());
+          break;
+        }
       }
+      return match;
+    });
 
-      if (indexRow.includes(match)) {
-        const indexCells = indexRow.split(',');
-        const availableIndexes = Array.from(Array(indexCells.length).keys()).slice(31, 37);
-        availableIndexesForMatches[match] = availableIndexes.filter(index => indexCells[index] && indexCells[index].trim());
-        break;
+    // Replace each matched sequence with a random index
+    Object.entries(availableIndexesForMatches).forEach(([match, availableIndexes]) => {
+      if (availableIndexes.length > 0) {
+        const randomIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
+        concatenatedText = concatenatedText.replace(new RegExp(`\\b${match}\\b`, 'g'), indexCSVRows[randomIndex].split(',')[1].trim());
+        replacedIndexes.add(randomIndex);
+        replacedIndexCount++;
+        foundMatch = true;
       }
-    }
-    return match;
-  });
+    });
 
-  // Replace each matched sequence with a random index
-  Object.entries(availableIndexesForMatches).forEach(([match, availableIndexes]) => {
-    if (availableIndexes.length > 0) {
-      const randomIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
-      concatenatedText = concatenatedText.replace(new RegExp(`\\b${match}\\b`, 'g'), indexCSVRows[randomIndex].split(',')[1].trim());
-      replacedIndexes.add(randomIndex);
-      replacedIndexCount++;
-      foundMatch = true;
+    if (!foundMatch) {
+      break;
     }
-  });
-
-  if (!foundMatch) {
-    break;
   }
+
+  return concatenatedText;
 }
 
-console.log(`Replaced ${replacedIndexCount} 4-digit sequences.`);
-
-return concatenatedText;
       
 // Bind an event listener to a button
 const button = document.querySelector('button');

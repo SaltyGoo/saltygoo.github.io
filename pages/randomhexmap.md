@@ -55,7 +55,7 @@
                 concatenatedText += cells[j]+ ' ';
               }
             }
-if (Math.random() < 0.1) {
+if (Math.random() < 0.9) {
   const gateRows = await gateCSV;
   const gateCells = [];
 

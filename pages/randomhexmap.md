@@ -7,20 +7,21 @@
     <h1>Random Hex Generator</h1>
     <button id="generate-button">Generate Text</button>
     <div id="output"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
     <script>
-// Load the CSV files into arrays
-const arcticCSV = fetch('/CSV/Monster - 01_Arctic.csv').then(response => response.text());
-const desertCSV = fetch('/CSV/Monster - 02_Desert.csv').then(response => response.text());
-const forestCSV = fetch('/CSV/Monster - 03_Forest.csv').then(response => response.text());
-const hillsCSV = fetch('/CSV/Monster - 04_Hills.csv').then(response => response.text());
-const jungleCSV = fetch('/CSV/Monster - 05_Jungle.csv').then(response => response.text());
-const mountainCSV = fetch('/CSV/Monster - 06_Mountain.csv').then(response => response.text());
-const plainsCSV = fetch('/CSV/Monster - 07_Plains.csv').then(response => response.text());
-const swampCSV = fetch('/CSV/Monster - 08_Swamp.csv').then(response => response.text());
-const cityCSV = fetch('/CSV/Monster - 09_City.csv').then(response => response.text());
-const seaCSV = fetch('/CSV/Monster - 10_Sea.csv').then(response => response.text());
-const gateCSV = fetch('/CSV/Monster - 11_Gate.csv').then(response => response.text());
-const indexCSV = fetch('/CSV/Monster - Index.csv').then(response => response.text());
+      // Load the CSV files into arrays
+      const arcticCSV = Papa.parse('/CSV/Monster - 01_Arctic.csv', { download: true, header: true });
+      const desertCSV = Papa.parse('/CSV/Monster - 02_Desert.csv', { download: true, header: true });
+      const forestCSV = Papa.parse('/CSV/Monster - 03_Forest.csv', { download: true, header: true });
+      const hillsCSV = Papa.parse('/CSV/Monster - 04_Hills.csv', { download: true, header: true });
+      const jungleCSV = Papa.parse('/CSV/Monster - 05_Jungle.csv', { download: true, header: true });
+      const mountainCSV = Papa.parse('/CSV/Monster - 06_Mountain.csv', { download: true, header: true });
+      const plainsCSV = Papa.parse('/CSV/Monster - 07_Plains.csv', { download: true, header: true });
+      const swampCSV = Papa.parse('/CSV/Monster - 08_Swamp.csv', { download: true, header: true });
+      const cityCSV = Papa.parse('/CSV/Monster - 09_City.csv', { download: true, header: true });
+      const seaCSV = Papa.parse('/CSV/Monster - 10_Sea.csv', { download: true, header: true });
+      const gateCSV = Papa.parse('/CSV/Monster - 11_Gate.csv', { download: true, header: true });
+      const indexCSV = Papa.parse('/CSV/Monster - Index.csv', { download: true, header: true });
 
 // Create a function to select a random Monster CSV file
 function selectMonsterCSV() {
@@ -42,7 +43,6 @@ async function generateText() {
           concatenatedText += cells[j]+ ' ';
         }
       }
-      concatenatedText += '.';
       if (Math.random() < 0.1) {
         const gateRows = (await gateCSV).split('\n');
         let gateText = '';

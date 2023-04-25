@@ -64,7 +64,6 @@ const indexCSVData = await indexCSV;
 const indexCSVText = await indexCSVData.text();
 const rows = indexCSVText.split('\n');
 for (let i = 0; i < rows.length; i++) {
-    const row = indexCSVData[i].split(',');
     if (row.length >= 37) {
       for (let j = 31; j <= 36; j++) {
         const regex = new RegExp('\\b' + row[j] + '\\b', 'g');

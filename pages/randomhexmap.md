@@ -72,6 +72,10 @@ async function generateText() {
     const specificCells = await Promise.all(Array.from({ length: 4 }, (_, i) => getRandomCell(underdarkCvs, i + 3)));
   }
 
+  const generatedText = document.getElementById("generatedText");
+  generatedText.textContent = sentence;
+}
+
   return { original: sentence, sequences};
 }
 </script>

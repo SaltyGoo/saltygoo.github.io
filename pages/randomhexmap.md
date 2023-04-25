@@ -53,9 +53,9 @@ async function generateText() {
                 gateText += gateCells[l] + ' ';
               }
             }
-            concatenatedText += '\n\n' + gateText;
           }
         }
+            concatenatedText += '\n\n' + gateText;
       }
     }
   }

@@ -47,7 +47,7 @@
 async function generateText() {
   const csvFile = cvsBiomes[Math.floor(Math.random() * cvsBiomes.length)];
   let cells;
-  
+
   try {
     cells = await Promise.all(Array.from({ length: 12 }, (_, i) => {
       const cell = getRandomCell(csvFile, i + 3);
@@ -65,22 +65,13 @@ async function generateText() {
     console.error(error);
     cells = [];
   }
-  
+
   // Concatenate the cells into a single sentence
   let sentence = cells.join(' ');
 
   // Find all 4-digit sequences in the sentence
   const regex = /\d{4}/g;
   const sequences = sentence.match(regex);
-
-  // Replace each sequence with a random cell from Monster - Index CSV
-  if (sequences) {
-    for (let sequence of sequences) {
-      const indexCsv = '/CSV/Monster - Index.csv';
-      const randomCell = await getMonsterIndexCell(indexCsv, 32, parseInt(sequence) - 1);
-      sentence = sentence.replace(sequence, randomCell);
-    }
-  }
 
   // Add content of columns 4-7 of specific CSV 10% of the time
   if (csvFile !== underdarkCvs && Math.random() < 0.1) {
@@ -91,6 +82,16 @@ async function generateText() {
       getRandomCell(underdarkCvs, 7)
     ]);
     cells.push(...specificCells);
+    sentence += ' ' + specificCells.join(' ');
+  }
+
+  // Replace each sequence with a random cell from Monster - Index CSV
+  if (sequences) {
+    for (let sequence of sequences) {
+      const indexCsv = '/CSV/Monster - Index.csv';
+      const randomCell = await getMonsterIndexCell(indexCsv, 32, parseInt(sequence) - 1);
+      sentence = sentence.replace(sequence, randomCell);
+    }
   }
 
   const generatedText = document.getElementById("generatedText");

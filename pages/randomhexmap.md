@@ -91,13 +91,17 @@ while (true) {
     
     const regex = new RegExp('\\b' + indexRow.substring(0, 4) + '\\b', 'g');
     
-    if (concatenatedText.match(regex)) {
+    let match;
+    while ((match = regex.exec(concatenatedText)) !== null) {
       const indexCells = indexRow.split(',');
       const availableIndexes = Array.from(Array(indexCells.length).keys()).slice(31, 37);
-      const randomIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
+      let randomIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
+      while (replacedIndexes.has(randomIndex)) {
+        randomIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
+      }
       
       if (indexCells[randomIndex] && indexCells[randomIndex].trim()) {
-        concatenatedText = concatenatedText.replace(regex, indexCells[randomIndex].trim());
+        concatenatedText = concatenatedText.substring(0, match.index) + indexCells[randomIndex].trim() + concatenatedText.substring(match.index + match[0].length);
         foundMatch = true;
         replacedIndexes.add(randomIndex);
         replacedIndexCount++;

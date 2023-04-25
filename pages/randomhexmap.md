@@ -56,10 +56,25 @@
               }
             }
 if (Math.random() < 0.9) {
+ if (Math.random() < 0.1) {
   const gateRows = await gateCSV;
-  const gateCells = gateRows.slice(1).map(row => row.slice(4, 8)).filter(row => row.some(cell => cell !== ''));
-  const [random4, random5, random6, random7] = gateCells[Math.floor(Math.random() * gateCells.length)];
-  concatenatedText += `<br><br>${random4} ${random5} ${random6} ${random7}`;
+  let gateText = '';
+  const columns = [4, 5, 6, 7];
+  for (let i = 0; i < columns.length; i++) {
+    const col = columns[i];
+    const cells = [];
+    for (let j = 1; j < gateRows.length; j++) {
+      const gateCells = gateRows[j];
+      if (gateCells.length >= col + 1 && gateCells[col] !== '') {
+        cells.push(gateCells[col]);
+      }
+    }
+    if (cells.length > 0) {
+      const randomCell = cells[Math.floor(Math.random() * cells.length)];
+      gateText += randomCell + ' ';
+    }
+  }
+  concatenatedText += '<br><br>' + gateText.trim();
 }
     }
   }

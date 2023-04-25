@@ -1,5 +1,5 @@
 <h1>Monster Text Generator</h1>
-<button onclick="generateAndDisplayText()">Generate Text</button>
+<button onclick="generateText()">Generate Text</button>
 <p id="generatedText"></p>
 
 <script>
@@ -70,10 +70,8 @@ async function generateText() {
   // Add content of columns 4-7 of specific CSV 10% of the time
   if (csvFile !== underdarkCvs && Math.random() < 0.1) {
     const specificCells = await Promise.all(Array.from({ length: 4 }, (_, i) => getRandomCell(underdarkCvs, i + 3)));
-    modifiedCells.push('\n\n');
-    modifiedCells.push(...specificCells);
   }
 
-  return { original: sentence, modified: modifiedSentence, sequences, cells: modifiedCells };
+  return { original: sentence, sequences};
 }
 </script>

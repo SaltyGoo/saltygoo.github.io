@@ -72,7 +72,6 @@ async function generateText() {
 
   // Find all 4-digit sequences in the sentence
   const regex = /\d{4}/g;
-  const sequences = sentence.match(regex) || [];
 
   // Add content of columns 4-7 of specific CSV 10% of the time
   if (csvFile !== underdarkCvs && Math.random() < 0.1) {

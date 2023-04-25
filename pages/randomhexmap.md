@@ -62,14 +62,14 @@ async function generateText() {
   // Replace 4-digit sequences with values from the Index CSV file
 const indexCSVResponse = await fetch('/CSV/Monster - Index.csv');
 const indexCSVText = await indexCSVResponse.text();
-const indexCSVRows = indexCSVText.split('\n');
-for (let i = 0; i < indexCSVRows.length; i++) {
-    if (indexCSVRows[i].length >= 37) {
-      for (let j = 31; j <= 36; j++) {
-        const regex = new RegExp('\\b' + indexCSVRows[i][j] + '\\b', 'g');
-        concatenatedText = concatenatedText.replace(regex, '<a>' + indexCSVRows[i][j] + '</a>');
-      }
+const indexRow = indexCSVRows.find(row => row.startsWith(indexCSVRows[i].substring(0, 4)));
+if (indexRow) {
+  const indexCells = indexRow.split(',');
+  for (let k = 31; k <= 36; k++) {
+    if (indexCells[k] && indexCells[k].trim()) {
+      concatenatedText = concatenatedText.replace(regex, indexCells[k].trim());
     }
+  }
 }
   return concatenatedText;
 }

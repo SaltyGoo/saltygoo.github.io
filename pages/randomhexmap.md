@@ -60,7 +60,7 @@ async function generateText() {
     }
   }
   // Replace 4-digit sequences with values from the Index CSV file
-const indexCSVResponse = await indexCSV;
+const indexCSVResponse = await fetch('/CSV/Monster - Index.csv');
 const indexCSVText = await indexCSVResponse.text();
 const indexCSVRows = indexCSVText.split('\n');
 for (let i = 0; i < indexCSVRows.length; i++) {

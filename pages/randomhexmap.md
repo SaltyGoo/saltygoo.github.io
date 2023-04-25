@@ -1,5 +1,4 @@
-
-    <h1>Random Hex Generator</h1>
+  <h1>Random Hex Generator</h1>
     <button id="generate-button">Generate Text</button>
     <div id="output"></div>
     <script>

@@ -80,10 +80,9 @@
     const indexRow = indexCSVRows.find(row => row.startsWith(indexCSVRows[i].substring(0, 4)));
     if (indexRow) {
       const indexCells = indexRow.split(',');
-      for (let k = 31; k <= 36; k++) {
-        if (indexCells[k] && indexCells[k].trim()) {
-          concatenatedText = concatenatedText.replace(regex, indexCells[k].trim());
-        }
+      const k = Math.floor(Math.random() * 6) + 31; // Generate a random number between 31 and 36
+      if (indexCells[k] && indexCells[k].trim()) {
+      concatenatedText = concatenatedText.replace(regex, indexCells[k].trim());
       }
     }
   }

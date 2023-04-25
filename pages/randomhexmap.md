@@ -87,12 +87,13 @@ async function generateText() {
 
   // Replace each sequence with a random cell from Monster - Index CSV
   if (sequences) {
-    for (let sequence of sequences) {
-      const indexCsv = '/CSV/Monster - Index.csv';
-      const randomCell = await getMonsterIndexCell(indexCsv, 32, parseInt(sequence) - 1);
-      sentence = sentence.replace(sequence, randomCell);
-    }
+  for (let sequence of sequences) {
+    const indexCsv = '/CSV/Monster - Index.csv';
+    const randomColumnIndex = Math.floor(Math.random() * 6) + 31; // generate a random whole number between 31 and 36
+    const randomCell = await getMonsterIndexCell(indexCsv, randomColumnIndex, parseInt(sequence) - 1);
+    sentence = sentence.replace(sequence, randomCell);
   }
+}
 
   const generatedText = document.getElementById("generatedText");
   generatedText.innerHTML = sentence;

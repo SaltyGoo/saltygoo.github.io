@@ -93,16 +93,13 @@ while (true) {
     
     if (concatenatedText.match(regex)) {
       const indexCells = indexRow.split(',');
-      let k = Math.floor(Math.random() * 6) + 31; // Generate a random number between 31 and 36
+      const availableIndexes = Array.from(Array(indexCells.length).keys()).slice(31, 37);
+      const randomIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
       
-      while (replacedIndexes.has(k)) {
-        k = Math.floor(Math.random() * 6) + 31; // Generate a different random number
-      }
-      
-      if (indexCells[k] && indexCells[k].trim()) {
-        concatenatedText = concatenatedText.replace(regex, indexCells[k].trim());
+      if (indexCells[randomIndex] && indexCells[randomIndex].trim()) {
+        concatenatedText = concatenatedText.replace(regex, indexCells[randomIndex].trim());
         foundMatch = true;
-        replacedIndexes.add(k);
+        replacedIndexes.add(randomIndex);
         replacedIndexCount++;
       }
     }
@@ -116,6 +113,7 @@ while (true) {
 console.log(`Replaced ${replacedIndexCount} 4-digit sequences.`);
 
 return concatenatedText;
+
 }
 // Bind an event listener to a button
 const button = document.querySelector('button');

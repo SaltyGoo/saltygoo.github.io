@@ -67,8 +67,13 @@ async function generateText() {
   }
 
   // Concatenate the cells into a single sentence
-   let sentence = cells.join(' ');
-   const sequences = sentence.match(regex) || [];
+  let sentence = cells.join(' ');
+  let sequences = sentence.match(regex) || [];
+  
+  // Make sure sequences is an array
+  if (!Array.isArray(sequences)) {
+    sequences = [sequences];
+  }
 
   // Add content of columns 4-7 of specific CSV 10% of the time
   if (csvFile !== underdarkCvs && Math.random() < 0.1) {
@@ -94,5 +99,4 @@ async function generateText() {
 
   return { original: sentence, sequences };
 }
-
 </script>

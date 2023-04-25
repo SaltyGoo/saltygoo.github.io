@@ -59,7 +59,7 @@ if (Math.random() < 0.9) {
   const gateRows = await gateCSV;
   const gateCells = gateRows.slice(1).map(row => row.slice(4, 8)).filter(row => row.some(cell => cell !== ''));
   const [random4, random5, random6, random7] = gateCells[Math.floor(Math.random() * gateCells.length)];
-  concatenatedText += `\n\n${random4} ${random5} ${random6} ${random7}`;
+  concatenatedText += `<br><br>${random4} ${random5} ${random6} ${random7}`;
 }
     }
   }

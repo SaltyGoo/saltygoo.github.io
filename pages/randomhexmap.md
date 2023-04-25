@@ -46,6 +46,7 @@ async function getMonsterIndexCell(csvFile, columnIndex, sequences) {
 
 async function generateText() {
   const csvFile = cvsBiomes[Math.floor(Math.random() * cvsBiomes.length)];
+  const sequences = sentence.match(regex) || [];
   let cells;
 
   try {

@@ -34,8 +34,8 @@ async function generateText() {
   const monsterCSV = await selectMonsterCSV();
   const monsterCSVRows = monsterCSV.split('\n');
   let concatenatedText = '';
-  for (let i = 0; i < monsterCSVRows.length; i++) {
-  const cells = monsterCSVRows[i].split(',');
+  for (let i = 1; i < monsterCSVRows.length; i++) { // start loop at index 1
+    const cells = monsterCSVRows[i].split(',');
     if (cells.length >= 16 && cells[4] !== '') {
       for (let j = 4; j <= 16; j++) {
         if (cells[j] !== '') {
@@ -60,17 +60,21 @@ async function generateText() {
     }
   }
   // Replace 4-digit sequences with values from the Index CSV file
-const indexCSVResponse = await fetch('/CSV/Monster - Index.csv');
-const indexCSVText = await indexCSVResponse.text();
-const indexRow = indexCSVRows.find(row => row.startsWith(indexCSVRows[i].substring(0, 4)));
-if (indexRow) {
-  const indexCells = indexRow.split(',');
-  for (let k = 31; k <= 36; k++) {
-    if (indexCells[k] && indexCells[k].trim()) {
-      concatenatedText = concatenatedText.replace(regex, indexCells[k].trim());
+  const indexCSVResponse = await fetch('/CSV/Monster - Index.csv');
+  const indexCSVText = await indexCSVResponse.text();
+  const indexCSVRows = indexCSVText.split('\n');
+  for (let i = 0; i < indexCSVRows.length; i++) {
+    const regex = new RegExp('\\b' + indexCSVRows[i].substring(0, 4) + '\\b', 'g');
+    const indexRow = indexCSVRows.find(row => row.startsWith(indexCSVRows[i].substring(0, 4)));
+    if (indexRow) {
+      const indexCells = indexRow.split(',');
+      for (let k = 31; k <= 36; k++) {
+        if (indexCells[k] && indexCells[k].trim()) {
+          concatenatedText = concatenatedText.replace(regex, indexCells[k].trim());
+        }
+      }
     }
   }
-}
   return concatenatedText;
 }
 // Bind an event listener to a button

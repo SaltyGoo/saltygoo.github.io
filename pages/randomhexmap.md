@@ -55,20 +55,25 @@
                 concatenatedText += cells[j]+ ' ';
               }
             }
-            if (Math.random() < 0.1) {
-              const gateRows = await gateCSV;
-              let gateText = '';
-              for (let k = 0; k < gateRows.length; k++) {
-                const gateCells = gateRows[k];
-                if (gateCells.length >= 7 && gateCells[4] !== '') {
-                  for (let l = 4; l <= 7; l++) {
-                    if (gateCells[l] !== '') {
-                      gateText += gateCells[l] + ' ';
-                    }
-                  }
-                }
-              }
-            concatenatedText += '<br><br>' + gateText;
+if (Math.random() < 0.1) {
+  const gateRows = await gateCSV;
+  const gateCells = [];
+
+  for (let k = 1; k < gateRows.length; k++) {
+    const row = gateRows[k];
+    if (row.length >= 7 && row[4] !== '') {
+      gateCells.push(row);
+    }
+  }
+
+  const randomRow = gateCells[Math.floor(Math.random() * gateCells.length)];
+  let gateText = '';
+
+  gateText += randomRow[4] !== '' ? randomRow[4] + ' ' : '';
+  gateText += randomRow[5] !== '' ? randomRow[5] + ' ' : '';
+  gateText += randomRow[6] !== '' ? randomRow[6] + ' ' : '';
+  gateText += randomRow[7] !== '' ? randomRow[7] + ' ' : '';
+  concatenatedText += '<br><br>' + gateText.trim();         
       }
     }
   }

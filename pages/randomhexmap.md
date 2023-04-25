@@ -56,7 +56,6 @@
               }
             }
 if (Math.random() < 0.9) {
- if (Math.random() < 0.1) {
   const gateRows = await gateCSV;
   let gateText = '';
   const columns = [4, 5, 6, 7];

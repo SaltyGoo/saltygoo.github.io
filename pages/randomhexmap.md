@@ -39,7 +39,7 @@ async function generateText() {
     if (cells.length >= 16 && cells[4] !== '') {
       for (let j = 4; j < 16; j++) {
         if (cells[j] !== '') {
-          concatenatedText += cells[j] + ' ';
+          concatenatedText += cells[j] + '.' + ' ';
         }
       }
       if (Math.random() < 0.1) {

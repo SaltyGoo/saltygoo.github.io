@@ -1,102 +1,84 @@
-<h1>Monster Text Generator</h1>
-<button id="generateButton" onclick="generateText()">Generate Text</button>
-<p id="generatedText"></p>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Random Hex Generator</title>
+  </head>
+  <body>
+    <h1>Random Hex Generator</h1>
+    <button id="generate-button">Generate Text</button>
+    <div id="output"></div>
+    <script>
+// Load the CSV files into arrays
+const arcticCSV = fetch('/CSV/Monster - 01_Arctic.csv').then(response => response.text());
+const desertCSV = fetch('/CSV/Monster - 02_Desert.csv').then(response => response.text());
+const forestCSV = fetch('/CSV/Monster - 03_Forest.csv').then(response => response.text());
+const hillsCSV = fetch('/CSV/Monster - 04_Hills.csv').then(response => response.text());
+const jungleCSV = fetch('/CSV/Monster - 05_Jungle.csv').then(response => response.text());
+const mountainCSV = fetch('/CSV/Monster - 06_Mountain.csv').then(response => response.text());
+const plainsCSV = fetch('/CSV/Monster - 07_Plains.csv').then(response => response.text());
+const swampCSV = fetch('/CSV/Monster - 08_Swamp.csv').then(response => response.text());
+const cityCSV = fetch('/CSV/Monster - 09_City.csv').then(response => response.text());
+const seaCSV = fetch('/CSV/Monster - 10_Sea.csv').then(response => response.text());
+const gateCSV = fetch('/CSV/Monster - 11_Gate.csv').then(response => response.text());
+const indexCSV = fetch('/CSV/Monster - Index.csv').then(response => response.text());
 
-<script>
-  const cvsBiomes = ['/CSV/Monster - 01_Arctic.csv', '/CSV/Monster - 02_Desert.csv', '/CSV/Monster - 03_Forest.csv', '/CSV/Monster - 04_Hills.csv', '/CSV/Monster - 05_Jungle.csv', '/CSV/Monster - 06_Mountain.csv', '/CSV/Monster - 07_Plains.csv', '/CSV/Monster - 08_Swamp.csv', '/CSV/Monster - 09_City.csv', '/CSV/Monster - 10_Sea.csv'];
-
-  // Name of the specific CVS to use for 10% of the time
-  const underdarkCvs = '/CSV/Monster - 11_Gate.csv';
-
-  async function getRandomCell(csvFile, columnIndex) {
-    const response = await fetch(csvFile);
-    const data = await response.text();
-    const rows = data.split('\n').filter(row => row.trim() !== '');
-    const cells = rows.map(row => row.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/).map(cell => cell.trim())[columnIndex]).filter((cell, index) => cell !== '' && index !== 0);
-    const randomCell = cells[Math.floor(Math.random() * cells.length)] || '';
-    const regex = /<a href='(.*?)'>(.*?)<\/a>/;
-    const match = randomCell.match(regex);
-    if (match) {
-      const link = match[1];
-      const text = match[2];
-      return `<a href="${link}">${text}</a>`;
-    } else {
-      return randomCell;
-    }
-  }
-
-async function getMonsterIndexCell(csvFile, columnIndex, sequences) {
-    const response = await fetch(csvFile);
-    const data = await response.text();
-    const rows = data.split('\n').filter(row => row.trim() !== '');
-    const cells = rows.map(row => row.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/).map(cell => cell.trim()));
-    const filteredRows = cells.filter(row => sequences.includes(row[0]));
-    const randomRow = filteredRows[Math.floor(Math.random() * filteredRows.length)];
-    const randomCell = randomRow.slice(columnIndex, columnIndex + 6)[Math.floor(Math.random() * 6)] || '';
-    const regex = /<a href='(.*?)'>(.*?)<\/a>/;
-    const match = randomCell.match(regex);
-    if (match) {
-      const link = match[1];
-      const text = match[2];
-      return `<a href="${link}">${text}</a>`;
-    } else {
-      return randomCell;
-    }
+// Create a function to select a random Monster CSV file
+function selectMonsterCSV() {
+  const monsterCSVs = [arcticCSV, desertCSV, forestCSV, hillsCSV, jungleCSV, mountainCSV, plainsCSV, swampCSV, cityCSV, seaCSV];
+  const randomIndex = Math.floor(Math.random() * monsterCSVs.length);
+  return monsterCSVs[randomIndex];
 }
 
+// Create a function to concatenate random cells from a Monster CSV file
 async function generateText() {
-  const csvFile = cvsBiomes[Math.floor(Math.random() * cvsBiomes.length)];
-  const regex = /\d{4}/g;
-
-  try {
-    cells = await Promise.all(Array.from({ length: 12 }, (_, i) => {
-      const cell = getRandomCell(csvFile, i + 3);
-      return cell.then(result => {
-        // Check if the cell value is a sequence of 4 numbers
-        if (/^\d{4}$/.test(result)) {
-          // Get the random cell from Monster - Index CSV
-          const indexCsv = '/CSV/Monster - Index.csv';
-          return getMonsterIndexCell(indexCsv, 32, parseInt(result) - 1);
+  const monsterCSV = await selectMonsterCSV();
+  const rows = monsterCSV.split('\n');
+  let concatenatedText = '';
+  for (let i = 0; i < rows.length; i++) {
+    const cells = rows[i].split(',');
+    if (cells.length >= 16 && cells[4] !== '') {
+      for (let j = 4; j <= 16; j++) {
+        if (cells[j] !== '') {
+          concatenatedText += cells[j] + ' ';
         }
-        return result;
-      });
-    }));
-  } catch (error) {
-    console.error(error);
-    cells = [];
+      }
+      if (Math.random() < 0.1) {
+        const gateRows = await gateCSV.split('\n');
+        let gateText = '';
+        for (let k = 0; k < gateRows.length; k++) {
+          const gateCells = gateRows[k].split(',');
+          if (gateCells.length >= 7 && gateCells[4] !== '') {
+          for (let l = 4; l <= 7; l++) {
+            if (gateCells[l] !== '') {
+              gateText += gateCells[l] + ' ';
+            }
+          }
+          concatenatedText += '\n\n' + gateText;
+        }
+      }
+    }
   }
-
-  // Concatenate the cells into a single sentence
-  let sentence = cells.join(' ');
-  let sequences = sentence.match(regex) || [];
-  
-  // Make sure sequences is an array
-  if (!Array.isArray(sequences)) {
-    sequences = [sequences];
+  // Replace 4-digit sequences with values from the Index CSV file
+  const indexCSVData = await indexCSV.split('\n');
+  for (let i = 0; i < indexCSVData.length; i++) {
+    const row = indexCSVData[i].split(',');
+    if (row.length >= 37) {
+      for (let j = 31; j <= 36; j++) {
+        const regex = new RegExp('\\b' + row[j] + '\\b', 'g');
+        concatenatedText = concatenatedText.replace(regex, '<a href="' + row[j] + '">' + row[j] + '</a>');
+      }
+    }
   }
-
-  // Add content of columns 4-7 of specific CSV 10% of the time
-  if (csvFile !== underdarkCvs && Math.random() < 0.1) {
-    const specificCells = await Promise.all([
-      getRandomCell(underdarkCvs, 4),
-      getRandomCell(underdarkCvs, 5),
-      getRandomCell(underdarkCvs, 6),
-      getRandomCell(underdarkCvs, 7)
-    ]);
-    cells.push(...specificCells);
-    sentence += ' ' + specificCells.join(' ');
-  }
-
-  // Replace each sequence with a random cell from Monster - Index CSV
-  for (let sequence of sequences) {
-    const indexCsv = '/CSV/Monster - Index.csv';
-    const randomCell = await getMonsterIndexCell(indexCsv, Math.floor(Math.random() * 6) + 31, sequence);
-    sentence = sentence.replace(sequence, randomCell);
-  }
-
-  const generatedText = document.getElementById("generatedText");
-  generatedText.innerHTML = sentence;
-
-  return { original: sentence, sequences };
+  return concatenatedText;
 }
-</script>
+
+// Bind an event listener to a button
+const button = document.querySelector('button');
+button.addEventListener('click', async () => {
+  const text = await generateText();
+  const outputDiv = document.querySelector('#output');
+  outputDiv.innerHTML = text;
+});
+    </script>
+  </body>
+</html>

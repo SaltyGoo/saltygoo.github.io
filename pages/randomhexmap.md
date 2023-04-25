@@ -1,5 +1,5 @@
 <h1>Monster Text Generator</h1>
-<button onclick="generateText()">Generate Text</button>
+<button id="generateButton" onclick="generateText()">Generate Text</button>
 <p id="generatedText"></p>
 
 <script>

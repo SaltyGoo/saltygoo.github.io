@@ -60,8 +60,8 @@ async function generateText() {
     }
   }
   // Replace 4-digit sequences with values from the Index CSV file
-const indexCSVData = await indexCSV;
-const indexCSVText = indexCSVData;
+const indexCSVResponse = await indexCSV;
+const indexCSVText = await indexCSVResponse.text();
 const indexCSVRows = indexCSVText.split('\n');
 for (let i = 0; i < indexCSVRows.length; i++) {
     if (indexCSVRows[i].length >= 37) {

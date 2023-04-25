@@ -48,12 +48,13 @@ async function generateText() {
         for (let k = 0; k < gateRows.length; k++) {
           const gateCells = gateRows[k].split(',');
           if (gateCells.length >= 7 && gateCells[4] !== '') {
-          for (let l = 4; l <= 7; l++) {
-            if (gateCells[l] !== '') {
-              gateText += gateCells[l] + ' ';
+            for (let l = 4; l <= 7; l++) {
+              if (gateCells[l] !== '') {
+                gateText += gateCells[l] + ' ';
+              }
             }
+            concatenatedText += '\n\n' + gateText;
           }
-          concatenatedText += '\n\n' + gateText;
         }
       }
     }
@@ -70,7 +71,6 @@ async function generateText() {
     }
   }
   return concatenatedText;
-}
 }
 // Bind an event listener to a button
 const button = document.querySelector('button');

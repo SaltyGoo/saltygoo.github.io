@@ -71,26 +71,44 @@
       }
     }
   }
-  // Replace 4-digit sequences with values from the Index CSV file
+// Replace 4-digit sequences with values from the Index CSV file
 const indexCSVResponse = await fetch('/CSV/Monster - Index.csv');
 const indexCSVText = await indexCSVResponse.text();
 const indexCSVRows = indexCSVText.split('\n');
-const replacedSequences = {}; // keep track of replaced sequences
-for (let i = 0; i < indexCSVRows.length; i++) {
-  const regex = new RegExp('\\b' + indexCSVRows[i].substring(0, 4) + '\\b', 'g');
-  const indexRow = indexCSVRows.find(row => row.startsWith(indexCSVRows[i].substring(0, 4)));
-  if (indexRow) {
-    const indexCells = indexRow.split(',');
-    const k = Math.floor(Math.random() * 6) + 31; // Generate a random number between 31 and 36
-    if (indexCells[k] && indexCells[k].trim()) {
-      let replaceIndex = 0;
-      if (replacedSequences.hasOwnProperty(indexCells[0])) { // check if sequence has been replaced before
-        replaceIndex = replacedSequences[indexCells[0]] + 1; // select next index for the sequence
-      }
-      replacedSequences[indexCells[0]] = replaceIndex; // update index for sequence
-      const replaceString = indexCells[replaceIndex + 31].trim();
-      concatenatedText = concatenatedText.replace(regex, replaceString);
+
+const replacedIndexes = new Set();
+let replacedIndexCount = 0;
+
+while (true) {
+  let foundMatch = false;
+  
+  for (let i = 0; i < indexCSVRows.length; i++) {
+    const indexRow = indexCSVRows[i];
+    if (!indexRow) {
+      continue;
     }
+    
+    const regex = new RegExp('\\b' + indexRow.substring(0, 4) + '\\b', 'g');
+    
+    if (concatenatedText.match(regex)) {
+      const indexCells = indexRow.split(',');
+      let k = Math.floor(Math.random() * 6) + 31; // Generate a random number between 31 and 36
+      
+      while (replacedIndexes.has(k)) {
+        k = Math.floor(Math.random() * 6) + 31; // Generate a different random number
+      }
+      
+      if (indexCells[k] && indexCells[k].trim()) {
+        concatenatedText = concatenatedText.replace(regex, indexCells[k].trim());
+        foundMatch = true;
+        replacedIndexes.add(k);
+        replacedIndexCount++;
+      }
+    }
+  }
+  
+  if (!foundMatch) {
+    break;
   }
 }
 return concatenatedText;

@@ -37,7 +37,7 @@ async function generateText() {
   for (let i = 1; i < monsterCSVRows.length; i++) { // start loop at index 1
     const cells = monsterCSVRows[i].split(',');
     if (cells.length >= 16 && cells[4] !== '') {
-      for (let j = 4; j <= 16; j++) {
+      for (let j = 4; j < 16; j++) {
         if (cells[j] !== '') {
           concatenatedText += cells[j] + ' ';
         }

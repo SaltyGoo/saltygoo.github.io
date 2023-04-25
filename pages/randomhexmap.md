@@ -1,9 +1,4 @@
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Random Hex Generator</title>
-  </head>
-  <body>
+
     <h1>Random Hex Generator</h1>
     <button id="generate-button">Generate Text</button>
     <div id="output"></div>
@@ -80,5 +75,4 @@ button.addEventListener('click', async () => {
   outputDiv.innerHTML = text;
 });
     </script>
-  </body>
-</html>
+

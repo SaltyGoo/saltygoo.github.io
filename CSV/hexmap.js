@@ -64,15 +64,15 @@ async function generateText() {
   // Replace each sequence with the text "FOUR_DIGITS"
   const modifiedSentence = sentence.replace(regex, "FOUR_DIGITS");
 
-  return { original: sentence, modified: modifiedSentence, sequences };
-}
+  // Replace any remaining instances of 4-digit sequences in cells with "FOUR_DIGITS"
+  const modifiedCells = cells.map(cell => cell.replace(regex, "FOUR_DIGITS"));
 
   // Add content of columns 4-7 of specific CSV 10% of the time
-if (csvFile !== underdarkCvs && Math.random() < 0.1) {
+  if (csvFile !== underdarkCvs && Math.random() < 0.1) {
     const specificCells = await Promise.all(Array.from({ length: 4 }, (_, i) => getRandomCell(underdarkCvs, i + 3)));
-    cells.push('\n\n');
-    cells.push(...specificCells);
+    modifiedCells.push('\n\n');
+    modifiedCells.push(...specificCells);
   }
 
-  return cells.join(' ');
+  return { original: sentence, modified: modifiedSentence, sequences, cells: modifiedCells };
 }

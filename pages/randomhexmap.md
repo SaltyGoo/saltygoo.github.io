@@ -71,7 +71,7 @@ async function generateText() {
 
   // Find all 4-digit sequences in the sentence
   const regex = /\d{4}/g;
-  const sequences = sentence.match(regex);
+  const sequences = sentence.match(regex) || [];
 
   // Add content of columns 4-7 of specific CSV 10% of the time
   if (csvFile !== underdarkCvs && Math.random() < 0.1) {
@@ -86,19 +86,16 @@ async function generateText() {
   }
 
   // Replace each sequence with a random cell from Monster - Index CSV
-if (sequences) {
   for (let sequence of sequences) {
     const indexCsv = '/CSV/Monster - Index.csv';
     const randomCell = await getMonsterIndexCell(indexCsv, Math.floor(Math.random() * 6) + 31, sequence);
     sentence = sentence.replace(sequence, randomCell);
   }
-}
 
   const generatedText = document.getElementById("generatedText");
   generatedText.innerHTML = sentence;
 
   return { original: sentence, sequences };
 }
-
 
 </script>

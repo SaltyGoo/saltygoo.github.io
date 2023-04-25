@@ -68,7 +68,7 @@
                   }
                 }
               }
-            concatenatedText += '\n\n' + gateText;
+            concatenatedText += '<br><br>' + gateText;
       }
     }
   }

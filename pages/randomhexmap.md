@@ -108,7 +108,9 @@ async function generateText() {
     // Replace each matched sequence with a random index
     Object.entries(availableIndexesForMatches).forEach(([match, availableIndexes]) => {
       if (availableIndexes.length > 0) {
-        const randomIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
+        const randomIndex = Math.floor(Math.random() * availableIndexes.length);
+const index = availableIndexes[randomIndex];
+const replacementValue = indexCSVRows[index] || '';
         concatenatedText = concatenatedText.replace(new RegExp(`\\b${match}\\b`, 'g'), indexCSVRows[randomIndex].split(',')[1].trim());
         replacedIndexes.add(randomIndex);
         replacedIndexCount++;

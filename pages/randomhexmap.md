@@ -43,6 +43,7 @@
   } catch (err) {
     console.error(err);
   }
+  }
       
       // Create a function to select a random Monster CSV file
       function selectMonsterCSV() {

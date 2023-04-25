@@ -32,10 +32,10 @@ function selectMonsterCSV() {
 // Create a function to concatenate random cells from a Monster CSV file
 async function generateText() {
   const monsterCSV = await selectMonsterCSV();
-  const rows = monsterCSV.split('\n');
+  const monsterCSVRows = monsterCSV.split('\n');
   let concatenatedText = '';
-  for (let i = 0; i < rows.length; i++) {
-    const cells = rows[i].split(',');
+  for (let i = 0; i < monsterCSVRows.length; i++) {
+  const cells = monsterCSVRows[i].split(',');
     if (cells.length >= 16 && cells[4] !== '') {
       for (let j = 4; j <= 16; j++) {
         if (cells[j] !== '') {
@@ -62,15 +62,15 @@ async function generateText() {
   // Replace 4-digit sequences with values from the Index CSV file
 const indexCSVData = await indexCSV;
 const indexCSVText = await indexCSVData.text();
-const rows = indexCSVText.split('\n');
-for (let i = 0; i < rows.length; i++) {
-    if (row.length >= 37) {
+const indexCSVRows = indexCSVText.split('\n');
+for (let i = 0; i < indexCSVRows.length; i++) {
+    if (indexCSVRows[i].length >= 37) {
       for (let j = 31; j <= 36; j++) {
-        const regex = new RegExp('\\b' + row[j] + '\\b', 'g');
-        concatenatedText = concatenatedText.replace(regex, '<a href="' + row[j] + '">' + row[j] + '</a>');
+        const regex = new RegExp('\\b' + indexCSVRows[i][j] + '\\b', 'g');
+        concatenatedText = concatenatedText.replace(regex, '<a href="' + indexCSVRows[i][j] + '">' + indexCSVRows[i][j] + '</a>');
       }
     }
-  }
+}
   return concatenatedText;
 }
 // Bind an event listener to a button
@@ -81,6 +81,5 @@ button.addEventListener('click', async () => {
   outputDiv.innerHTML = text;
 });
     </script>
-
   </body>
 </html>

@@ -5,8 +5,9 @@
     <div id="modified"></div>
     <div id="sequences"></div>
     <div id="cells"></div>
-    <script src="https://cdn.jsdelivr.net/npm/promise-polyfill"></script>
-    <script src="/JS/hexmap.js"></script>
+   
+   <script src="https://cdn.jsdelivr.net/npm/promise-polyfill"></script>
+    <script src="/CSV/hexmap.js"></script>
     <script>
       const generateBtn = document.getElementById('generate-btn');
       const originalDiv = document.getElementById('original');

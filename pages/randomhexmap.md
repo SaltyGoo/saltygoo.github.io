@@ -72,22 +72,50 @@
     }
   }
 // Replace 4-digit sequences with values from the Index CSV file
+// Replace 4-digit sequences with values from the Index CSV file
 const indexCSVResponse = await fetch('/CSV/Monster - Index.csv');
 const indexCSVText = await indexCSVResponse.text();
 const indexCSVRows = indexCSVText.split('\n');
 
-let match;
-while ((match = regex.exec(concatenatedText)) !== null) {
-  const sequence = match[0];
-  const indexRow = indexCSVRows.find(row => row.startsWith(sequence));
-  if (indexRow) {
-    const indexCells = indexRow.split(',');
-    const k = Math.floor(Math.random() * 6) + 31; // Generate a random number between 31 and 36
-    if (indexCells[k] && indexCells[k].trim()) {
-      concatenatedText = concatenatedText.substring(0, match.index) + indexCells[k].trim() + concatenatedText.substring(match.index + sequence.length);
+const replacedIndexes = new Set();
+let replacedIndexCount = 0;
+
+while (true) {
+  let foundMatch = false;
+  
+  for (let i = 0; i < indexCSVRows.length; i++) {
+    const indexRow = indexCSVRows[i];
+    if (!indexRow) {
+      continue;
+    }
+    
+    const regex = new RegExp('\\b' + indexRow.substring(0, 4) + '\\b', 'g');
+    
+    if (concatenatedText.match(regex)) {
+      const indexCells = indexRow.split(',');
+      let k = Math.floor(Math.random() * 6) + 31; // Generate a random number between 31 and 36
+      
+      while (replacedIndexes.has(k)) {
+        k = Math.floor(Math.random() * 6) + 31; // Generate a different random number
+      }
+      
+      if (indexCells[k] && indexCells[k].trim()) {
+        concatenatedText = concatenatedText.replace(regex, indexCells[k].trim());
+        foundMatch = true;
+        replacedIndexes.add(k);
+        replacedIndexCount++;
+      }
     }
   }
+  
+  if (!foundMatch) {
+    break;
+  }
 }
+
+console.log(`Replaced ${replacedIndexCount} 4-digit sequences.`);
+
+return concatenatedText;
 }
 // Bind an event listener to a button
 const button = document.querySelector('button');

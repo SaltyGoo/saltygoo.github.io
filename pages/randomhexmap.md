@@ -10,16 +10,17 @@
     <div id="output"></div>
     <script>
       // Create a function to load a CSV file and parse it with Papa Parse
-      async function loadCSV(url) {
-        const response = await fetch(url);
-        const text = await response.text();
-        const results = Papa.parse(text, {
-          delimiter: ",",
-          header: false,
-          skipEmptyLines: true
-        });
-        return results.data;
-      }
+     async function loadCSV(url) {
+  const response = await fetch(url);
+  const text = await response.text();
+  const results = await new Promise(resolve => Papa.parse(text, {
+    delimiter: ",",
+    header: false,
+    skipEmptyLines: true,
+    complete: (results) => resolve(results)
+  }));
+  return results.data;
+}
       
       // Load the CSV files into arrays
       const arcticCSV = loadCSV('/CSV/Monster - 01_Arctic.csv');
@@ -71,29 +72,52 @@
       }
     }
   }
-  // Replace 4-digit sequences with values from the Index CSV file
+// Replace 4-digit sequences with values from the Index CSV file
 const indexCSVResponse = await fetch('/CSV/Monster - Index.csv');
 const indexCSVText = await indexCSVResponse.text();
 const indexCSVRows = indexCSVText.split('\n');
-const replacedSequences = {}; // keep track of replaced sequences
-for (let i = 0; i < indexCSVRows.length; i++) {
-  const regex = new RegExp('\\b' + indexCSVRows[i].substring(0, 4) + '\\b', 'g');
-  const indexRow = indexCSVRows.find(row => row.startsWith(indexCSVRows[i].substring(0, 4)));
-  if (indexRow) {
-    const indexCells = indexRow.split(',');
-    const k = Math.floor(Math.random() * 6) + 31; // Generate a random number between 31 and 36
-    if (indexCells[k] && indexCells[k].trim()) {
-      let replaceIndex = 0;
-      if (replacedSequences.hasOwnProperty(indexCells[0])) { // check if sequence has been replaced before
-        replaceIndex = replacedSequences[indexCells[0]] + 1; // select next index for the sequence
+
+const replacedIndexes = new Set();
+let replacedIndexCount = 0;
+
+while (true) {
+  let foundMatch = false;
+  
+  for (let i = 0; i < indexCSVRows.length; i++) {
+    const indexRow = indexCSVRows[i];
+    if (!indexRow) {
+      continue;
+    }
+    
+    const regex = new RegExp('\\b' + indexRow.substring(0, 4) + '\\b', 'g');
+    
+    let match;
+    while ((match = regex.exec(concatenatedText)) !== null) {
+      const indexCells = indexRow.split(',');
+      const availableIndexes = Array.from(Array(indexCells.length).keys()).slice(31, 37);
+      let randomIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
+      while (replacedIndexes.has(randomIndex)) {
+        randomIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
       }
-      replacedSequences[indexCells[0]] = replaceIndex; // update index for sequence
-      const replaceString = indexCells[replaceIndex + 31].trim();
-      concatenatedText = concatenatedText.replace(regex, replaceString);
+      
+      if (indexCells[randomIndex] && indexCells[randomIndex].trim()) {
+        concatenatedText = concatenatedText.substring(0, match.index) + indexCells[randomIndex].trim() + concatenatedText.substring(match.index + match[0].length);
+        foundMatch = true;
+        replacedIndexes.add(randomIndex);
+        replacedIndexCount++;
+      }
     }
   }
+  
+  if (!foundMatch) {
+    break;
+  }
 }
+
+console.log(`Replaced ${replacedIndexCount} 4-digit sequences.`);
+
 return concatenatedText;
+
 }
 // Bind an event listener to a button
 const button = document.querySelector('button');

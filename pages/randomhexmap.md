@@ -25,14 +25,14 @@
     }
   }
 
-  async function getMonsterIndexCell(csvFile, columnIndex, rowIndex) {
+async function getMonsterIndexCell(csvFile, columnIndex, sequences) {
     const response = await fetch(csvFile);
     const data = await response.text();
     const rows = data.split('\n').filter(row => row.trim() !== '');
     const cells = rows.map(row => row.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/).map(cell => cell.trim()));
-    const targetValue = cells[rowIndex][0];
-    const targetRow = cells.find(row => row[0] === targetValue);
-    const randomCell = targetRow.slice(columnIndex, columnIndex + 6)[Math.floor(Math.random() * 6)] || '';
+    const filteredRows = cells.filter(row => sequences.includes(row[0]));
+    const randomRow = filteredRows[Math.floor(Math.random() * filteredRows.length)];
+    const randomCell = randomRow.slice(columnIndex, columnIndex + 6)[Math.floor(Math.random() * 6)] || '';
     const regex = /<a href='(.*?)'>(.*?)<\/a>/;
     const match = randomCell.match(regex);
     if (match) {
@@ -42,7 +42,7 @@
     } else {
       return randomCell;
     }
-  }
+}
 
 async function generateText() {
   const csvFile = cvsBiomes[Math.floor(Math.random() * cvsBiomes.length)];

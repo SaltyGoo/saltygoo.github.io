@@ -43,7 +43,7 @@ async function generateText() {
         }
       }
       if (Math.random() < 0.1) {
-        const gateRows = await gateCSV.split('\n');
+        const gateRows = (await gateCSV).split('\n');
         let gateText = '';
         for (let k = 0; k < gateRows.length; k++) {
           const gateCells = gateRows[k].split(',');

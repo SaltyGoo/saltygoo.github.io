@@ -45,11 +45,8 @@ async function getMonsterIndexCell(csvFile, columnIndex, sequences) {
 }
 
 async function generateText() {
-  let sentence = '';
   const csvFile = cvsBiomes[Math.floor(Math.random() * cvsBiomes.length)];
   const regex = /\d{4}/g;
-  const sequences = sentence.match(regex) || [];
-  let cells;
 
   try {
     cells = await Promise.all(Array.from({ length: 12 }, (_, i) => {
@@ -70,10 +67,8 @@ async function generateText() {
   }
 
   // Concatenate the cells into a single sentence
-  let sentence = cells.join(' ');
-
-  // Find all 4-digit sequences in the sentence
-  const regex = /\d{4}/g;
+   let sentence = cells.join(' ');
+   const sequences = sentence.match(regex) || [];
 
   // Add content of columns 4-7 of specific CSV 10% of the time
   if (csvFile !== underdarkCvs && Math.random() < 0.1) {

@@ -70,14 +70,14 @@ async function generateText() {
 
   // Add content of columns 4-7 of specific CSV 10% of the time
   if (csvFile !== underdarkCvs && Math.random() < 0.1) {
-    const specificCells = await Promise.all([
-      getRandomCell(underdarkCvs, 4),
-      getRandomCell(underdarkCvs, 5),
-      getRandomCell(underdarkCvs, 6),
-      getRandomCell(underdarkCvs, 7)
-    ]);
-    cells.push(...specificCells);
-  }
+  let specificCells = await Promise.all([
+    getRandomCell(underdarkCvs, 4),
+    getRandomCell(underdarkCvs, 5),
+    getRandomCell(underdarkCvs, 6),
+    getRandomCell(underdarkCvs, 7)
+  ]);
+  cells.push(...specificCells);
+}
 
   // Replace each 4-digit sequence in the sentence with a random cell from Monster - Index CSV
   for (const sequence of sequences) {

@@ -33,8 +33,6 @@ It can hear very well, allowing it to easily spot their preys in the dark, even 
 
 <ins>Bite</ins>. The arctic bat makes a melee attack. On a hit, the target must save vs poison or slowly freeze and be [dazed](/2020/11/10/extra-rules/#conditions). The target can save again at the end of its next turn to cure the effect. On a second failure, the target is frozen for 24h. This effect only happens in subzero temperatures.
 
-<span class="alchemy">**Arctic Bat Saliva.** In wound: Save or be poisoned, save again each day to cure. You are [stunned](/2020/11/10/extra-rules/#conditions) in subzero temperatures.</span>
-
 <br>
 
 ---
@@ -80,6 +78,9 @@ In a swarm, creatures are **immune** to being grappled or attacked by single tar
 <details markdown="1">
 <summary>Salvaging the body</summary>
 Arctic bat fur is very fluffy, but a huge amount of bats must be skinned to make a coat, making it very expensive. Arctic bat venom is valued as a food preserver.
+
+<span class="alchemy">**Arctic Bat Saliva.** In wound: Save or be poisoned, save again each day to cure. You are [stunned](/2020/11/10/extra-rules/#conditions) in subzero temperatures.</span>
+
 </details>
 
 <details markdown="1">

@@ -72,6 +72,7 @@ async function generateText() {
   }
   return concatenatedText.trim(); // Remove any leading or trailing spaces from the concatenated text
 }
+   }
 if (Math.random() < 0.9) {
   const gateRows = await gateCSV;
   let gateText = '';

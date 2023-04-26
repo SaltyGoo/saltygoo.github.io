@@ -77,10 +77,6 @@ In a swarm, creatures are **immune** to being grappled or attacked by single tar
 
 ## So, You Are Hunting Arctic Bats?
 
-Arctic bat fur is very fluffy, but a huge amount of bats must be skinned to make a coat, making it very expensive. Arctic bat venom is valued as a food preserver.
-
-<span class="alchemy">**Arctic Bat Saliva.** In wound: Save or be poisoned, save again each day to cure. You are [stunned](/2020/11/10/extra-rules/#conditions) in subzero temperatures.</span>
-
 New carousing activities!
 
 <details markdown="1">
@@ -90,6 +86,10 @@ If you have captured this beast, you can spend the equivalent of 1 bag of gold i
 
 <details markdown="1">
 <summary style="font-weight: bold;">Craft from Beast Parts</summary>
+Arctic bat fur is very fluffy, but a huge amount of bats must be skinned to make a coat, making it very expensive. Arctic bat venom is valued as a food preserver and as a weapon.
+
+<span class="alchemy">**Arctic Bat Saliva.** In wound: Save or be poisoned, save again each day to cure. You are [stunned](/2020/11/10/extra-rules/#conditions) in subzero temperatures.</span>
+
 If you have access to an artisan and a workshop, you can spend loot between two adventures to create something with parts of the beast. The object you craft can be anything mostly made of the provided materials. If you use mundane tools, the result will be mundane; if you spent at least a bag of gold on it, the object will be special; and if you spend the equivalent of a treasure for the tools, it will be magical. Discuss what you want with the referee.
 </details>
 

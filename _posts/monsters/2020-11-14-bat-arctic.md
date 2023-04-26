@@ -5,9 +5,13 @@ permalink: /monsters/bat-arctic
 title: Bat, Arctic
 ---
 
-Fluffy white bats with freezing venom. A tiny beast.
+<img align="right" width=200px  src="/images/0002_BatArctic.png"  style="border:0px solid black">
 
-_Arctic bats are white and fluffy, which gives them excellent camouflage in snow. They are swarming carnivores._
+_Imagine a tiny screeching puff of white fur with grey-blue bat wings._
+
+A fluffy white bat with a freezing venom. A tiny scavenging beast.
+
+Arctic Bats follow blizzards, hiding among the snowflakes. They harass their prays until they freeze before eating them. 
 
 <br>
 
@@ -15,11 +19,15 @@ _Arctic bats are white and fluffy, which gives them excellent camouflage in snow
 
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
-| **HD:** 0 | **Armor:** none  |
-| **Hit it:** hard    | **Dodge it:** normal  |
-| **Move:** slow, fly fast     |   | 
+| 1 **HP** | **Armor:** 0  |
+| **Hit it:** hard | **Dodge it:** normal |
+| **Movement:** fly fast      | 
 
-It **resists** cold. It **can** hear very well, allowing it to easily spot their preys in the dark, even invisible ones. It also looks like a big snowflake while moving, making attacks against it disadvantageous during snowstorms.
+##### <span class="tooltip" data-tooltip="Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat">→ How to read monster stats</span>
+
+Because of its fur, this creature is **resistant to cold** and hard to spot amongst snowflakes, making attacks against it disadvantageous during snowstorms. 
+
+It can hear very well, allowing it to easily spot their preys in the dark, even invisible ones.
 
 **Attacks (1/round)**
 
@@ -33,24 +41,43 @@ It **resists** cold. It **can** hear very well, allowing it to easily spot their
 
 # Arctic Bat Swarm
 
+
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
-| **HD:** 0 +3D4HP | **Armor:** none  |
-| **Hit it:** normal    | **Dodge it:** special  |
-| **Move:** slow, fly fast     |   | 
+| 3D4 **HP** | **Armor:** 0  |
+| **Hit it:** normal | **Dodge it:** speial |
+| **Movement:** fly fast      | 
 
-It **resists** cold. It **can** hear very well, allowing it to easily spot their preys in the dark, even invisible ones. It also looks like a big snowflake while moving, making attacks against it disadvantageous during snowstorms.
+##### <span class="tooltip" data-tooltip="Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat">→ How to read monster stats</span>
+
+Because of its fur, this creature is **resistant to cold** and hard to spot amongst snowflakes, making attacks against it disadvantageous during snowstorms. 
+
+It can hear very well, allowing it to easily spot their preys in the dark, even invisible ones.
 
 In a swarm, creatures are **immune** to being grappled or attacked by single target spells, and **resist** mind and weapon damage. **However**, they take double damage from area of effect attacks.
 
 **Attacks (1/round)**
 
 <ins>Bites.</ins> To dodge a swarm’s attack, the roll has to beat 10 + the swarm's HP. On a hit, the target must save vs poison or slowly freeze and be [dazed](/2020/11/10/extra-rules/#conditions). The target can save again at the end of its next turn to cure the effect. On a second failure, the target is frozen for 24h. This effect only happens in subzero temperatures.
+
 <br>
 
 ---
 
-<br>
+---
+
+**Number** : 2D6 bats or 2 Swarms <span style="display: inline-block; width:30px"></span>
+**Lair** : A small frozen cave with 1D10 sleeping swarms in it<span style="display: inline-block; width:30px"></span>
+**Desire** : Easy Prays & Subzero Themperatures
+
+<button id="generate-btn">Generate Roaming Monster Event</button>
+<p id="RoamResult" style="font-style: italic;">When you roll this monster on your encounter table. Most of them are hints the monster is nearby.</p>
+
+<button onclick="generateMood()">Generate What The Monster Is Doing</button>
+<p id="MoodResult" style="font-style: italic;">If the party meets this monster, what is it doing?</p>
+<script src="/scripts/generateMood.js"></script>
+
+---
 
 <details markdown="1">
 <summary>Random Encounter</summary>

@@ -43,18 +43,28 @@
         return monsterCSVs[randomIndex];
       }
       
-      // Create a function to concatenate random cells from a Monster CSV file
-      async function generateText() {
-        const monsterCSV = await selectMonsterCSV();
-        let concatenatedText = '';
-        for (let i = 1; i < monsterCSV.length; i++) { // start loop at index 1
-          const cells = monsterCSV[i];
-          if (cells.length >= 16 && cells[4] !== '') {
-            for (let j = 4; j < 16; j++) {
-              if (cells[j] !== '') {
-                concatenatedText += cells[j]+ ' ';
-              }
-            }
+// Create a function to concatenate random cells from a Monster CSV file
+async function generateText() {
+  const monsterCSV = await selectMonsterCSV();
+  let concatenatedText = '';
+  const validIndices = []; // array to store indices of rows that meet the conditions
+  for (let i = 1; i < monsterCSV.length; i++) {
+    const cells = monsterCSV[i];
+    if (cells.length >= 16 && cells[4] !== '') {
+      validIndices.push(i); // add index to the array if it meets the conditions
+    }
+  }
+  if (validIndices.length > 0) {
+    const randomIndex = validIndices[Math.floor(Math.random() * validIndices.length)]; // generate a random index from the array of valid indices
+    const cells = monsterCSV[randomIndex];
+    for (let j = 4; j < 16; j++) {
+      if (cells[j] !== '') {
+        concatenatedText += cells[j]+ ' ';
+      }
+    }
+  }
+  return concatenatedText;
+}
 if (Math.random() < 0.9) {
   const gateRows = await gateCSV;
   let gateText = '';

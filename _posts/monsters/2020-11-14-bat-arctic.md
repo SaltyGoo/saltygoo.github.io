@@ -63,7 +63,7 @@ In a swarm, creatures are **immune** to being grappled or attacked by single tar
 ---
 
 **Number** : 2 Swarms <span style="display: inline-block; width:30px"></span>
-**Lair** : A small frozen cave with 1D10 sleeping swarms in it<span style="display: inline-block; width:30px"></span>
+**Lair** : A crack leading to a frozen cave with 1D10 sleeping swarms in it<span style="display: inline-block; width:30px"></span> <br>
 **Desire** : Easy Prays & Subzero Themperatures
 
 <button id="generate-btn">Generate Roaming Monster Event</button>
@@ -75,33 +75,27 @@ In a swarm, creatures are **immune** to being grappled or attacked by single tar
 
 ---
 
-<details markdown="1">
-<summary>Salvaging the body</summary>
+## So, You Are Hunting Arctic Bats?
+
 Arctic bat fur is very fluffy, but a huge amount of bats must be skinned to make a coat, making it very expensive. Arctic bat venom is valued as a food preserver.
 
 <span class="alchemy">**Arctic Bat Saliva.** In wound: Save or be poisoned, save again each day to cure. You are [stunned](/2020/11/10/extra-rules/#conditions) in subzero temperatures.</span>
 
+New carousing activities!
+
+<details markdown="1">
+<summary style="font-weight: bold;">Tame the Beast</summary>
+If you have captured this beast, you can spend the equivalent of 1 bag of gold in food between two adventures to tame it. It is now one of your <span class="tooltip" data-tooltip="You can bring a follower in your adventures if you dedicate a Psyche slot to it.">_followers_</span>. Each extra bag of gold spent training the beast teaches it a one-word order. Otherwise, it only acts to eat or in self-defence. 
 </details>
 
 <details markdown="1">
-<summary>D6 Symbolism</summary>
-In local cultures the bat is a symbol of ...
-
-1. Dusk
-1. Snowstorms
-1. Bad Luck
-1. Preservation
-1. Luxury
-1. Sacred
+<summary style="font-weight: bold;">Craft from Beast Parts</summary>
+If you have access to an artisan and a workshop, you can spend loot between two adventures to create something with parts of the beast. The object you craft can be anything mostly made of the provided materials. If you use mundane tools, the result will be mundane; if you spent at least a bag of gold on it, the object will be special; and if you spend the equivalent of a treasure for the tools, it will be magical. Discuss what you want with the referee.
 </details>
 
-<br>
 
-<details markdown="1">
-<summary>Credits</summary>
-Arctic bat seem to be an original creation of [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/) in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium). I loved the idea of the freezing venom. — SaltyGoo
-</details>
-
+ ##### Illustration by Salty Goo. Monster inspired by the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium).
+ 
  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script>
   // ENCOUNTER GENERATOR SCRIPT

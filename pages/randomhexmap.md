@@ -94,7 +94,7 @@ while (true) {
       continue;
     }
     
-    const regex = new RegExp('\b' + indexRow.substring(0, 4) + '\b', 'g');
+    const regex = new RegExp('\\b' + indexRow.substring(0, 4) + '\\b', 'g');
     
     let match;
     while ((match = regex.exec(concatenatedText)) !== null) {
@@ -129,7 +129,7 @@ const button = document.querySelector('button');
 button.addEventListener('click', async () => {
   const text = await generateText();
   const outputDiv = document.querySelector('#output');
-  outputDiv.innerHTML = \n + text;
+  outputDiv.innerHTML = '\n' + text;
 });
     </script>
   </body>

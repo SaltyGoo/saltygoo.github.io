@@ -5,7 +5,7 @@ permalink: /monsters/bat-arctic
 title: Bat, Arctic
 ---
 
-<img align="right" width=200px  src="/images/0002_BatArctic.png"  style="border:0px solid black">
+<img align="right" width=200px  src="/images/0002_BatArctic.png"  style="border:3px solid black">
 
 _Imagine a tiny screeching puff of white fur with grey-blue bat wings._
 
@@ -64,9 +64,7 @@ In a swarm, creatures are **immune** to being grappled or attacked by single tar
 
 ---
 
----
-
-**Number** : 2D6 bats or 2 Swarms <span style="display: inline-block; width:30px"></span>
+**Number** : 2 Swarms <span style="display: inline-block; width:30px"></span>
 **Lair** : A small frozen cave with 1D10 sleeping swarms in it<span style="display: inline-block; width:30px"></span>
 **Desire** : Easy Prays & Subzero Themperatures
 

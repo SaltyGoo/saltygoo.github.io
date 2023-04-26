@@ -80,16 +80,6 @@ In a swarm, creatures are **immune** to being grappled or attacked by single tar
 ---
 
 <details markdown="1">
-<summary>Random Encounter</summary>
-1. **Monster:** 1D4 arctic bat swarms.
-1. **Lair:** A small opening leading to a dark cave. If it's the day, 1D10 swarms are sleeping. <br>    &nbsp; OR <br>    **Omen:** High pitched bat noises, very close.
-1. **Spoor:** 1D10 arctic bats flying around.
-1. **Tracks:** High pitched bat noises in the night.
-1. **Trace:** An frozen animal with tiny bite marks.
-1. **Trace:** A single arctic bat, sleeping.
-</details>
-
-<details markdown="1">
 <summary>Salvaging the body</summary>
 Arctic bat fur is very fluffy, but a huge amount of bats must be skinned to make a coat, making it very expensive. Arctic bat venom is valued as a food preserver.
 </details>
@@ -112,3 +102,36 @@ In local cultures the bat is a symbol of ...
 <summary>Credits</summary>
 Arctic bat seem to be an original creation of [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/) in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium). I loved the idea of the freezing venom. — SaltyGoo
 </details>
+
+ <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+  // ENCOUNTER GENERATOR SCRIPT
+    $(document).ready(function() {
+      $("#generate-btn").click(function() {
+        // define the specific value to search for in column 0
+        var searchValue = "0002"; // change this to the actual value you need
+
+        // retrieve the CSV file
+        $.get("/CSV/Monster - Index.csv", function(data) {
+          // split the CSV data by rows and remove the header row
+          var rows = data.split("\n").slice(1);
+
+          // filter the rows by the specific value in column 0
+          var matchingRows = rows.filter(function(row) {
+            var columns = row.split(",");
+            return columns[0] === searchValue;
+          });
+
+          // randomly select a row from the matching rows
+          var selectedRow = matchingRows[Math.floor(Math.random() * matchingRows.length)];
+
+          // select a random cell from columns 3 to 8
+          var selectedCell = selectedRow.split(",")[Math.floor(Math.random() * 6) + 3];
+
+          // display the selected text
+          $("#RoamResult").text(selectedCell);
+        });
+      });
+    });
+  </script>
+  

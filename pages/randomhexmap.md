@@ -129,7 +129,7 @@ const button = document.querySelector('button');
 button.addEventListener('click', async () => {
   const text = await generateText();
   const outputDiv = document.querySelector('#output');
-  outputDiv.innerHTML = text;
+  outputDiv.innerHTML = <br> + text;
 });
     </script>
   </body>

@@ -73,7 +73,7 @@ if (Math.random() < 0.9) {
       gateText += randomCell + ' ';
     }
   }
-  concatenatedText += '<br><br>' + gateText.trim();
+  concatenatedText += '\n\n' + gateText.trim();
 }
     }
   }
@@ -129,7 +129,7 @@ const button = document.querySelector('button');
 button.addEventListener('click', async () => {
   const text = await generateText();
   const outputDiv = document.querySelector('#output');
-  outputDiv.innerHTML = '<br>' + text;
+  outputDiv.innerHTML = '\n\n' + text;
 });
     </script>
   </body>

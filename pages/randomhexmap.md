@@ -43,18 +43,35 @@
         return monsterCSVs[randomIndex];
       }
       
-    // Create a function to concatenate random cells from a Monster CSV file
-      async function generateText() {
-        const monsterCSV = await selectMonsterCSV();
-        let concatenatedText = '';
-        for (let i = 1; i < monsterCSV.length; i++) { // start loop at index 1
-          const cells = monsterCSV[i];
-          if (cells.length >= 16 && cells[4] !== '') {
-            for (let j = 4; j < 16; j++) {
-              if (cells[j] !== '') {
-                concatenatedText += cells[j]+ ' ';
-              }
-            }
+// Create a function to concatenate random cells from a Monster CSV file
+async function generateText() {
+  const monsterCSV = await selectMonsterCSV();
+  let concatenatedText = '';
+  const columnsToConcat = [];
+
+  // Loop through the columns to concatenate and add the column index to the columnsToConcat array
+  for (let i = 4; i <= 15; i++) {
+    columnsToConcat.push(i);
+  }
+
+  // Remove the first element (header) from the monsterCSV array
+  monsterCSV.shift();
+
+  // Loop through each row of the monsterCSV array
+  for (let i = 0; i < monsterCSV.length; i++) {
+    const cells = monsterCSV[i];
+
+    // Loop through the columnsToConcat array and concatenate a random non-empty cell from each column
+    for (let j = 0; j < columnsToConcat.length; j++) {
+      const columnIndex = columnsToConcat[j];
+      const cell = cells[columnIndex];
+      if (cell !== '') {
+        concatenatedText += cell + ' ';
+      }
+    }
+  }
+  return concatenatedText.trim(); // Remove any leading or trailing spaces from the concatenated text
+}
 if (Math.random() < 0.9) {
   const gateRows = await gateCSV;
   let gateText = '';

@@ -73,6 +73,35 @@
         const gateCells = gateRows[j];
         if (gateCells.length >= col + 1 && gateCells[col] !== '') {
           cells.push(gateCells[col]);
+async function generateText() {
+  const monsterCSV = await selectMonsterCSV();
+  let concatenatedText = '';
+  const columns = [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
+  for (let i = 0; i < columns.length; i++) {
+    const col = columns[i];
+    const cells = [];
+    for (let j = 1; j < monsterCSV.length; j++) { // start loop at index 1
+      const monsterCells = monsterCSV[j];
+      if (monsterCells.length >= col + 1 && monsterCells[col] !== '') {
+        cells.push(monsterCells[col]);
+      }
+    }
+    if (cells.length > 0) {
+      const randomCell = cells[Math.floor(Math.random() * cells.length)];
+      concatenatedText += randomCell + ' ';
+    }
+  }
+  if (Math.random() < 0.9) {
+    const gateRows = await gateCSV;
+    let gateText = '';
+    const columns = [4, 5, 6, 7];
+    for (let i = 0; i < columns.length; i++) {
+      const col = columns[i];
+      const cells = [];
+      for (let j = 1; j < gateRows.length; j++) {
+        const gateCells = gateRows[j];
+        if (gateCells.length >= col + 1 && gateCells[col] !== '') {
+          cells.push(gateCells[col]);
         }
       }
       if (cells.length > 0) {
@@ -82,53 +111,51 @@
     }
     concatenatedText += '<br><br>' + gateText.trim();
   }
-// Replace 4-digit sequences with values from the Index CSV file
-const indexCSVResponse = await fetch('/CSV/Monster - Index.csv');
-const indexCSVText = await indexCSVResponse.text();
-const indexCSVRows = indexCSVText.split('\n');
+  // Replace 4-digit sequences with values from the Index CSV file
+  const indexCSVResponse = await fetch('/CSV/Monster - Index.csv');
+  const indexCSVText = await indexCSVResponse.text();
+  const indexCSVRows = indexCSVText.split('\n');
 
-const replacedIndexes = new Set();
-let replacedIndexCount = 0;
+  const replacedIndexes = new Set();
+  let replacedIndexCount = 0;
 
-while (true) {
-  let foundMatch = false;
-  
-  for (let i = 0; i < indexCSVRows.length; i++) {
-    const indexRow = indexCSVRows[i];
-    if (!indexRow) {
-      continue;
+  while (true) {
+    let foundMatch = false;
+
+    for (let i = 0; i < indexCSVRows.length; i++) {
+      const indexRow = indexCSVRows[i];
+      if (!indexRow) {
+        continue;
+      }
+
+      const regex = new RegExp('\\b' + indexRow.substring(0, 4) + '\\b', 'g');
+
+      let match;
+      while ((match = regex.exec(concatenatedText)) !== null) {
+        const indexCells = indexRow.split(',');
+        const availableIndexes = Array.from(Array(indexCells.length).keys()).slice(31, 37);
+        let randomIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
+        while (replacedIndexes.has(randomIndex)) {
+          randomIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
+        }
+
+        if (indexCells[randomIndex] && indexCells[randomIndex].trim()) {
+          concatenatedText = concatenatedText.replace(match[0], indexCells[randomIndex]);
+          replacedIndexes.add(randomIndex);
+          replacedIndexCount++;
+          foundMatch = true;
+        }
+      }
     }
-    
-    const regex = new RegExp('\\b' + indexRow.substring(0, 4) + '\\b', 'g');
-    
-    let match;
-    while ((match = regex.exec(concatenatedText)) !== null) {
-      const indexCells = indexRow.split(',');
-      const availableIndexes = Array.from(Array(indexCells.length).keys()).slice(31, 37);
-      let randomIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
-      while (replacedIndexes.has(randomIndex)) {
-        randomIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
-      }
-      
-      if (indexCells[randomIndex] && indexCells[randomIndex].trim()) {
-        concatenatedText = concatenatedText.substring(0, match.index) + indexCells[randomIndex].trim() + concatenatedText.substring(match.index + match[0].length);
-        foundMatch = true;
-        replacedIndexes.add(randomIndex);
-        replacedIndexCount++;
-      }
+
+    if (!foundMatch) {
+      break;
     }
   }
-  
-  if (!foundMatch) {
-    break;
-  }
+
+  return concatenatedText;
 }
-
-console.log(`Replaced ${replacedIndexCount} 4-digit sequences.`);
-
-return concatenatedText;
-
-}
+                                            
 // Bind an event listener to a button
 const button = document.querySelector('button');
 button.addEventListener('click', async () => {

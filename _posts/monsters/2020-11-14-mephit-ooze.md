@@ -25,7 +25,7 @@ Mud Mephits have no conception of pride, or social cues. They will debase themse
 
 ##### <span class="tooltip" data-tooltip="Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat">→ How to read monster stats</span>
 
-This creature is a living mud and is thus only affected by things that would affect wet dirt. Its semi-liquid state makes it immune to slashing and piercing damage. It can only survive 1 hour without water.
+This creature is living mud and is thus only affected by things that would affect wet dirt. Its semi-liquid state makes it immune to slashing and piercing damage. It can only survive 1 hour without water.
 
 **Attacks (1/round)**
 

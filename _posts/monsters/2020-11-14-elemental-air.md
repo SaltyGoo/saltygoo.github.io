@@ -51,7 +51,7 @@ This creature is living wind and is thus only affected by things that would affe
 
 ---
 
-## So, You Have Captured A Mephit?
+## So, You Have Captured An Air Elemental?
 
 New carousing activities!
 

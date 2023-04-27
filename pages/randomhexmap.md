@@ -44,46 +44,39 @@
       }
       
     // Create a function to concatenate random cells from a Monster CSV file
- async function generateText() {
-  const monsterCSV = await selectMonsterCSV();
-  let concatenatedText = '';
-  const columnsx = [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
-  for (let i = 0; i < columnsx.length; i++) {
-    const colx = columnsx[i];
-    const cellsx = [];
-    for (let j = 1; j < monsterCSV.length; j++) {
-      const monsterCells = monsterCSV[j];
-      if (monsterCells.length >= colx + 1 && monsterCells[colx] !== '') {
-        cellsx.push(monsterCells[colx]);
+      async function generateText() {
+        const monsterCSV = await selectMonsterCSV();
+        let concatenatedText = '';
+        for (let i = 1; i < monsterCSV.length; i++) { // start loop at index 1
+          const cells = monsterCSV[i];
+          if (cells.length >= 16 && cells[4] !== '') {
+            for (let j = 4; j < 16; j++) {
+              if (cells[j] !== '') {
+                concatenatedText += cells[j]+ ' ';
+              }
+            }
+if (Math.random() < 0.9) {
+  const gateRows = await gateCSV;
+  let gateText = '';
+  const columns = [4, 5, 6, 7];
+  for (let i = 0; i < columns.length; i++) {
+    const col = columns[i];
+    const cells = [];
+    for (let j = 1; j < gateRows.length; j++) {
+      const gateCells = gateRows[j];
+      if (gateCells.length >= col + 1 && gateCells[col] !== '') {
+        cells.push(gateCells[col]);
       }
     }
-    if (cellsx.length > 0) {
-      const randomCellx = cellsx[Math.floor(Math.random() * cellsx.length)];
-      concatenatedText += randomCellx + ' ';
+    if (cells.length > 0) {
+      const randomCell = cells[Math.floor(Math.random() * cells.length)];
+      gateText += randomCell + ' ';
     }
   }
-  concatenatedText += concatenatedText.trim();
-  if (Math.random() < 0.9) {
-    const gateRows = await gateCSV();
-    let gateText = '';
-    const columns = [4, 5, 6, 7];
-    for (let i = 0; i < columns.length; i++) {
-      const col = columns[i];
-      const cells = [];
-      for (let j = 1; j < gateRows.length; j++) {
-        const gateCells = gateRows[j];
-        if (gateCells.length >= col + 1 && gateCells[col] !== '') {
-          cells.push(gateCells[col]);
-        }
-      }
-      if (cells.length > 0) {
-        const randomCell = cells[Math.floor(Math.random() * cells.length)];
-        gateText += randomCell + ' ';
-      }
-    }
-    concatenatedText += '<br><br>' + gateText.trim();
-  }
+  concatenatedText += '<br><br>' + gateText.trim();
 }
+    }
+  }
 // Replace 4-digit sequences with values from the Index CSV file
 const indexCSVResponse = await fetch('/CSV/Monster - Index.csv');
 const indexCSVText = await indexCSVResponse.text();

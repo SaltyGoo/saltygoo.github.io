@@ -1,8 +1,8 @@
 ID,Alphabetical,Name,ID2,4,5,6,7,8,9,10,11,12,13,14,15
-0000,,,0000,This,three-hex,COLD REGION is known for its,,villages.,Beware of the,weather,,if you travel there. It is inhabited by,,and also,
-0002,"BAT, Arctic",ARCTIC BAT,0002,,four-hex,,snow,caves.,,low visibility,during blizzards,,0002,,0002.
-0003,"ELEMENTAL, Air",AIR ELEMENTAL,0003,,five-hex,,windy,skies.,,strong winds,when the sky is clear,,0003,,0003.
-,,,,,six-hex,,,,,,,,,,
+0000,,,0000,This,three-hex,COLD REGION is known for its,,villages.,Beware of,the weather,,if you travel there. It is inhabited by,,and also,
+0002,BAT - Arctic,ARCTIC BAT,0002,,four-hex,,snow,caves.,,the low visibility,during blizzards,,0002,,0002.
+0003,ELEMENTAL - Air,AIR ELEMENTAL,0003,,five-hex,,windy,skies.,,strong winds,when the sky is clear,,0003,,0003.
+0005,GRIFFON,GRIFFON,0005,,six-hex,,sunny,mesas.,,predators,when alone,,0005,,0005.
 ,,,,,seven-hex,,,,,,,,,,
 ,,,,,eight-hex,,,,,,,,,,
 ,,,,,nine-hex,,,,,,,,,,

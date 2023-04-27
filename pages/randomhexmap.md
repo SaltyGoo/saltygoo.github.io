@@ -61,8 +61,6 @@ async function generateText() {
       concatenatedText += randomCell + ' ';
     }
   }
-  return concatenatedText.trim();
-}
 if (Math.random() < 0.9) {
   const gateRows = await gateCSV;
   let gateText = '';

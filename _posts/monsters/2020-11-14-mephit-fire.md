@@ -66,12 +66,12 @@ If you have captured this elemental monster, you can spend the equivalent of 3 b
 - You gain 1 [Spell Die](/spells/);
 - Roll a D6, you mutate in the following way :
 
-1. ... every flammable item currently on you turns into ashes.
-1. ... your words are replaced by tiny fire mephits that mime them before being snuffed.
-1. ... your hair becomes flames (it doesn't burn you).
-1. ... each time you rest, one thing near you is stolen by a mephit and brought to the plane of fire.
-1. ... water burns you like it was fire.
-1. ... you can change one word from a class ability you have or a spell you know to *Flame*.
+1. Every flammable item currently on you turns into ashes.
+1. Your words are replaced by tiny fire mephits that mime them before being snuffed.
+1. Your hair becomes flames (it doesn't burn you).
+1. Each time you rest, one thing near you is stolen by a mephit and brought to the plane of fire.
+1. Water burns you like it was fire.
+1. You can change one word from a class ability you have or a spell you know to *Flame*.
 
 If you roll a Catastrophe, the elemental is released and hostile, and you lose the Spell Dice.
 </details>

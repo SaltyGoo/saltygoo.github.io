@@ -7,7 +7,7 @@ title: Bat, Arctic
 
 <img align="right" width=200px  src="/images/0002_BatArctic.png"  style="border:3px solid black">
 
- ##### Illustration by Salty Goo. Monster inspired by the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium).
+##### Illustration by Salty Goo. Monster inspired by the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium).
 
 _Imagine a tiny screeching puff of white fur with grey-blue bat wings._
 

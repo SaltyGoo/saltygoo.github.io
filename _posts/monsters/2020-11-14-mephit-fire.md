@@ -7,6 +7,8 @@ title: Mephit, Flame
 
 <img align="right" width=200px  src="/images/0001_MephitFlame.png"  style="border:0px solid black">
 
+##### Illustration by Salty Goo. Monster from ancient roman mythology.
+
 _Imagine if a tiny, grotesque acrobat was made of pure fire._
 
 A flickering flame animated by a spark of mischief. A small fire elemental.

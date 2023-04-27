@@ -2,14 +2,16 @@
 layout: post
 tags: monster elemental lesser  swamp underdark magical earth water astral
 permalink: /monsters/mephit-ooze
-title: Mephit, Ooze
+title: Mephit, Mud
 ---
 
-Earth and water animated by a spark of mischief. Small elemental earth and water.
+##### Monster from ancient roman mythology.
 
 _Imagine if a little grotesque gargoyle was made of ever dripping mud._
 
-_Meek, Herald of flattery._
+Earth and water animated by a spark of mischief. Small elemental earth and water.
+
+Mud Mephits have no conception of pride, or social cues. They will debase themselves in the most pathetic way to get what they want. 
 
 <br>
 
@@ -17,74 +19,101 @@ _Meek, Herald of flattery._
 
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
-| **HD:** 0 | **Armor:** as leather  |
-| **Hit it:** normal    | **Dodge it:** normal  |
-| **Move:** normal, swim & fly normal    |   | 
+| 1 **HP** | **Armor:** 3  |
+| **Hit it:** normal | **Dodge it:** normal |
+| **Movement:** normal & swim normal     | 
 
-It is **immune** to being [grappled](/2020/11/10/extra-rules/#conditions). 
-It **resists** all damage (because it's an elemental).
-It **can** move through any small hole.
-**Also**, it recovers 1D6 HP every round spent in mud or ooze.
-**However**, it takes 1D6 damage each round spent out of it. In general, it has the same properties as mud.
+##### <span class="tooltip" data-tooltip="Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat">→ How to read monster stats</span>
 
-**Additionally**, when it dies, it explodes in a small burst of ooze which not only permanently stains clothes, but makes everybody caught in the blast [poisoned](/2020/11/10/extra-rules/#conditions) from the stench for 10 minutes.
+This creature is a living mud and is thus only affected by things that would affect wet dirt. Its semi-liquid state makes it immune to slashing and piercing damage. It can only survive 1 hour without water.
 
 **Attacks (1/round)**
 
-<ins>Spit Ooze</ins>. The mephit makes a ranged attack against a target. On a hit, roll a D6, that body part is glued: 1) mouth ([cant breathe](https://saltygoo.github.io/2020/11/10/extra-rules/#conditions)); 2) a leg (cant move); 3) an arm (stuck to an adjacent surface or creature); 4) eyes ([blinded](https://saltygoo.github.io/2020/11/10/extra-rules/#conditions)).
+<ins>Sticky Touch</ins>. The mephit sticks itself to the target's face, [choking it](/2020/11/10/extra-rules/#conditions). Attacks that miss the mephit have 1/2 chance to hit the grappled target. Damage resisted by the mephit is transferred to the grappled target.
 
-<ins>Sticky Hands</ins>. The mephit makes a [grapple](/2020/11/10/extra-rules/#conditions) attempt with advantage. On a roll of 20, it enters the mouth of its target, choking it from the inside. Drinking a lot or making yourself vomit allows a save to expulse it. Alcohol gives you advantage.
+<ins>Spit Ooze</ins>. The mephit makes a ranged attack. On a hit, roll a D6, that body part is glued: 1) mouth ([cant breathe](/2020/11/10/extra-rules/#conditions)); 2-3) a leg (cant move); 4-5) an arm (stuck to an adjacent surface or creature); 6) eyes ([blinded](/2020/11/10/extra-rules/#conditions)). Reroll if the limb is already glued.
+
+<ins>Burst of Ooze</ins>. The mephit explodes, killing itself and spitting ooze in all direction. Automatic when the mephit dies.
+
 <br>
 
 ---
 
-<br> 
+**Number** : 1D8 <span style="display: inline-block; width:30px"></span>
+**Lair** : Mud Bath <span style="display: inline-block; width:30px"></span>
+**Desire** : Pity & Other's Demise
+
+<button id="generate-btn">Generate Roaming Monster Event</button>
+<p id="RoamResult" style="font-style: italic;">When you roll this monster on your encounter table. Most of them are hints the monster is nearby.</p>
+
+<button onclick="generateMood()">Generate What The Monster Is Doing</button>
+<p id="MoodResult" style="font-style: italic;">If the party meets this monster, what is it doing?</p>
+<script src="/scripts/generateMood.js"></script>
+
+---
+
+## So, You Have Captured A Mephit?
+
+New carousing activities!
 
 <details markdown="1">
-<summary>Random Encounter</summary>
+<summary style="font-weight: bold;">Bind the Elemental Creature</summary>
+If you have captured this elemental monster, you can spend the equivalent of 3 bags of gold in a magical laboratory between two adventures to bind it to your soul. If you do so, you ...
 
-1. **Monster:** 1D8 ooze mephits
-1. **Lair:** A fountain, overflowing with ooze. <br>	&nbsp; OR <br>	**Omen:** The noise of sticky, wet socks.
-1. **Spoor:** A big pile of ooze.
-1. **Tracks:** A trail of ooze.
-1. **Trace:** [rumor] A disgusting creature of earth has sent its agents in the area.
-1. **Trace:** A message in terran outlined with mud.
+- You gain 2 [Doom Points](/list/spell-catastrophe) (roll for Catastrophe); 
+- You gain 1 [Spell Die](/spells/);
+- Roll a D6, you mutate in the following way :
+
+1. You stink. Creatures who value hygiene will never have a good first impression of you.
+1. Your words are replaced by tiny mud mephits that mime them before being snuffed.
+1. Your teeth are jelly. No solid food again. 
+1. Each time you rest, one thing near you is stolen by a mephit and brought to the plane of ooze.
+1. You must spend time and at least a bag of gold on mud baths between adventure.
+1. You can change one word from a class ability you have or a spell you know to *Mud*.
+
+If you roll a Catastrophe, the elemental is released and hostile, and you lose the Spell Dice.
 </details>
 
 <details markdown="1">
-<summary>D6 What the Monster Wants</summary>
+<summary style="font-weight: bold;">Conjure the Elemental Creature</summary>
+If you have befriended or bound this monster, you can spend the equivalent of 2 bags of gold in a wizard library between two adventures to learn the following spell:
 
-1. Deliver an important message from their master. 
-1. To make pranks.
-1. Covering the area with mud for the arrival of their drooping master.
-1. Hiding from their master, they dont want to work.
-1. They are newly born, they are very curious.
-1. Get some information for their drooping master.
-</details>
-
-<details markdown="1">
-<summary>Binding the Elemental</summary>
-
-You gain a [Spell Dice](https://saltygoo.github.io/class/magic-user#spells), one Doom Point and ...
-
-1. ... you stink. Creatures who value hygiene will never have a good first impression of you.
-1. ... your words are replaced by 1'' ooze mephits that mime them before becoming a puddle. 
-1. ... your teeth are jelly. No solid food again. 
-1. ... each time you rest, one thing on you is stolen by an ooze mephit and brought to the plane of ooze.
-1. ... you must spend time and money on mud baths when you can.
-1. ... the spell word *Mud*. 
-
-If you roll a catastrophe, the elemental is released.
-</details>
-
-<details markdown="1">
-<summary>Conjuring the Elemental</summary>
-
-If you know the spell [Conjure](https://saltygoo.github.io/2020/11/12/conjure/), you can alter it in such way for a minimum of 1 Spell Dices:
-
-**Conjure Ooze Mephit** <br>
+**Conjure Mud Mephit** <br>
 R: self 
 
-When casting the spell you must prepare a message with up to [sum] words. [sum] Ooze mephits are then summoned and will each deliver one word of your message to whoever it is intended, across any plane. The message will be delivered in the most insulting way possible.
+When casting the spell you must prepare a message with up to [sum] words. [sum] fire mephits are then summoned and will each deliver one word of your message to whoever it is intended to, across any plane. The message will be delivered in the meekest way possible, and be repeated relentlessly until the target accepts, or the mephits are killed.
 
 </details>
+
+ 
+ <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+  // ENCOUNTER GENERATOR SCRIPT
+    $(document).ready(function() {
+      $("#generate-btn").click(function() {
+        // define the specific value to search for in column 0
+        var searchValue = "0004"; // change this to the actual value you need
+
+        // retrieve the CSV file
+        $.get("/CSV/Monster - Index.csv", function(data) {
+          // split the CSV data by rows and remove the header row
+          var rows = data.split("\n").slice(1);
+
+          // filter the rows by the specific value in column 0
+          var matchingRows = rows.filter(function(row) {
+            var columns = row.split(",");
+            return columns[0] === searchValue;
+          });
+
+          // randomly select a row from the matching rows
+          var selectedRow = matchingRows[Math.floor(Math.random() * matchingRows.length)];
+
+          // select a random cell from columns 3 to 8
+          var selectedCell = selectedRow.split(",")[Math.floor(Math.random() * 6) + 3];
+
+          // display the selected text
+          $("#RoamResult").text(selectedCell);
+        });
+      });
+    });
+  </script>

@@ -61,7 +61,7 @@ If you have captured this elemental monster, you can spend the equivalent of 3 b
 
 - You gain X [Doom Points](/list/spell-catastrophe) (roll for Catastrophe); 
 - You gain 1 [Spell Die](/spells/);
-- Roll a D6, you mutate in the following way :
+- Roll a D6, you <span class="tooltip" data-tooltip="Permanent mutations take an inventory slot">mutate</span> in the following way :
 
 1. Your weight is reduced by 80%.
 1. The wind is forever against you.

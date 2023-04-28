@@ -37,8 +37,6 @@ This creature can smell a rotting corpse from a mile away.
 
 <br>
 
-<br>
-
 ---
 
 **Number** : 2D6 <span style="display: inline-block; width:30px"></span>

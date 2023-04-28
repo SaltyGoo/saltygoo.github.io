@@ -5,9 +5,13 @@ permalink: /monsters/bird-boltforager
 title: Bird, Boltforager
 ---
 
-A disease-carrying red carrion bird. A beast.
+##### A monster originating from the [Hot Springs Island](https://shop.swordfishislands.com/the-dark-of-hot-springs-island/) adventure.
 
 _Imagine a big eagle-sized bird with brick-colored plumage. It has a big beak and a bony ridge that protects its head when feeding. It seems covered in dirty orange dust._
+
+A disease-carrying red carrion bird. A beast.
+
+The discordant chorus of huge boltforager flocks is a staple of many hot climates. They harass other creatures indiscriminately at dusk and dawn, when their orange plumage blends in the golden light. They feed on those who fall victim of the parasites they carry. 
 
 <br>
 
@@ -15,57 +19,72 @@ _Imagine a big eagle-sized bird with brick-colored plumage. It has a big beak an
 
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
-| **HD:** 1 | **Armor:** none |
-| **Hit it:** normal    | **Dodge it:** normal  |
-| **Move:** slow, fly fast     |   | 
+| **HD** 1 | **Armor:** 0  |
+| **Hit it:** normal | **Dodge it:** normal |
+| **Movement:** fly fast      | 
 
-It **can** can smell rotting corpses from a mile away.
+##### <span class="tooltip" data-tooltip="Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat">→ How to read monster stats</span>
+
+This creature can smell a rotting corpse from a mile away.
 
 **Attacks (1/round)**
 
-<ins>Dive Bomb</ins>. If the Boltforager is flying high, it dives down and makes a melee attack (1D6) to try to impale a victim on its ridge.
+<ins>Dive Bomb</ins>. If the Boltforager is flying high, it dives down and makes a melee attack (1D6 dmg) to try to impale a victim on its ridge.
 
-<ins>Wing Assault</ins>. The Boltforager makes a melee attack as it flaps its wings frantically and scratches its target (1D4). If the target is [Wounded](/2020/11/09/base-rules/), it must save or be infected with parasites.
+<ins>Wing Assault</ins>. The Boltforager makes a melee attack as it flaps its wings frantically and scratches its target (1D4 dmg). If the target is [Wounded](/2020/11/09/base-rules/), it must save or be infected with parasites.
 
 <span class="alchemy">**Boneforager**. Disease. Symptom: gain 1 [wound](/2020/11/09/base-rules/) as the parasite eats your bones. Save every night to avoid adding a cumulative symptom. The wounds cannot be recovered until the disease is removed.</span>
+
+<br>
+
 <br>
 
 ---
 
-<br>
+**Number** : 2D6 <span style="display: inline-block; width:30px"></span>
+**Lair** : Worm-infested nests full of rotting bones and eggshells. <span style="display: inline-block; width:30px"></span> <br>
+**Desire** : Rotting Flesh & Impress Its Mates
+
+<button id="generate-btn">Generate Roaming Monster Event</button>
+<p id="RoamResult" style="font-style: italic;">When you roll this monster on your encounter table. Most of them are hints the monster is nearby.</p>
+
+<button onclick="generateMood()">Generate What The Monster Is Doing</button>
+<p id="MoodResult" style="font-style: italic;">If the party meets this monster, what is it doing?</p>
+<script src="/scripts/generateMood.js"></script>
+
+---
+
+## So, You Are Hunting Boltforagers?
+
+New carousing activities!
 
 <details markdown="1">
-<summary>Random Encounter</summary>
-
-1. **Monster:** 2D6 boltforagers.
-1. **Lair:** Worm-infested nests full of rotting bones and eggshells. <br>    &nbsp; OR <br>    **Omen:** A deep, parrot-like scream.
-1. **Spoor:** A bloated, gassy carcass. Obliviously infected.
-1. **Tracks:** The characteristic scream of the boltforager. At dawn or dusk.
-1. **Trace:** Strange orange worms infesting a vermin's dead body.
-1. **Trace:** Very loud bird noises at dawn and dusk.
+<summary style="font-weight: bold;">Tame the Beast</summary>
+If you have captured this beast, you can spend the equivalent of 1 bags of gold in food between two adventures to tame it. It is now one of your <span class="tooltip" data-tooltip="You can bring a follower in your adventures if you dedicate a Psyche slot to it."><i>followers</i></span>. Each extra bag of gold spent training the beast teaches it a one-word order. Otherwise, it only acts to eat or in self-defence. 
 </details>
 
 <details markdown="1">
-<summary>Salvaging the body</summary>
-
+<summary style="font-weight: bold;">Craft from Beast Parts</summary>
 The boltforager's beak and bony ridge make a solid, easy to carve material. The dust covering it is full of worm eggs and can be of interest to those interested in biological warfare. Its meat is edible, but must be thoroughly cleansed of the parasites.
+
+If you have access to an artisan and a workshop, you can spend loot between two adventures to create something with parts of the beast. The object you craft can be anything mostly made of the provided materials. If you use mundane tools, the result will be mundane; if you spent at least a bag of gold on it, the object will be special; and if you spend the equivalent of a treasure for the tools, it will be magical. Discuss what you want with the referee.
 </details>
 
-<details markdown="1">
-<summary>D6 Symbolism</summary>
-In local cultures the boltforager is a symbol of ...
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+  // ENCOUNTER GENERATOR SCRIPT
+    $(document).ready(function() {
+      $("#generate-btn").click(function() {
+        // define the specific value to search for in column 0
+        var searchValue = "0008"; // change this to the actual value you need
 
-1. Diseases
-1. Sunset
-1. Morning
-1. Death
-1. Digestion
-1. Sacred
-</details>
+        // retrieve the CSV file
+        $.get("/CSV/Monster - Index.csv", function(data) {
+          // split the CSV data by rows and remove the header row
+          var rows = data.split("\n").slice(1);
 
-<br>
-
-<details markdown="1">
-<summary>Credits</summary>
-Boltforagers are a creation of [Jacob Hurst, Evan Peterson, and Donnie Garcia](https://shop.swordfishislands.com/) found in [Hot Springs Island](https://shop.swordfishislands.com/the-dark-of-hot-springs-island/). The creatures are not statted in the book, so I made my own version. — SaltyGoo
-</details>
+          // filter the rows by the specific value in column 0
+          var matchingRows = rows.filter(function(row) {
+            var columns = row.split(",");
+            return columns[0] === searchValue;
+          });

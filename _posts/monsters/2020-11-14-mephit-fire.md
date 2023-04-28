@@ -64,7 +64,7 @@ If you have captured this elemental monster, you can spend the equivalent of 3 b
 
 - You gain 2 [Doom Points](/list/spell-catastrophe) (roll for Catastrophe); 
 - You gain 1 [Spell Die](/spells/);
-- Roll a D6, you mutate in the following way :
+- Roll a D6, you <span class="tooltip" data-tooltip="Permanent mutations take an inventory slot">mutate</span> in the following way :
 
 1. Every flammable item currently on you turns into ashes.
 1. Your words are replaced by tiny fire mephits that mime them before being snuffed.
@@ -119,6 +119,4 @@ When casting the spell you must prepare a message with up to [sum] words. [sum] 
       });
     });
   </script>
-  
-
-
+ 

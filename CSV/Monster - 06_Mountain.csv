@@ -4,7 +4,7 @@ ID,Monster Name,Plural,ID2,4,5,6,7,8,9,10,11,12,13,14,15
 0003,ELEMENTAL - Air,AIR ELEMENTAL,0003,,three-hex,,windy,skies.,,strong winds,slowing you,,0003,,0003.
 0005,GRIFFON,GRIFFON,0005,,four-hex,,sunny,mesas.,,predators,if you are alone,,0005,,0005.
 0006,OWLBEAR,OWLBEAR,0006,,five-hex,,moonlit,pines.,,bird noises,that could mislead you,,0006,,0006.
-,,,,,six-hex,,,,,,,,,,
+0007,MEPHIT - Gravel,GRAVEL MEPHIT,0007,,six-hex,,pebble,pits.,,gravel pits,that could trap you,,0007,,0007.
 ,,,,,seven-hex,,,,,,,,,,
 ,,,,,eight-hex,,,,,,,,,,
 ,,,,,nine-hex,,,,,,,,,,

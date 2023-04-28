@@ -3,6 +3,6 @@ ID,Alphabetical,Name,ID2,4,5,6,7,8,9,10,11,12,13,14,15,
 0003,ELEMENTAL - Air,AIR ELEMENTAL,0003,,four-hex,,windy,skies.,,strong winds,slowing you,,0003,,0003.,.
 0005,GRIFFON,GRIFFON,0005,,five-hex,,sunny,mesas.,,predators,if you are alone,,0005,,0005.,
 0007,MEPHIT - Gravel,GRAVEL MEPHIT,0007,,six-hex,,pebble,dunes.,,gravel pits,that could trap you,,0007,,0007.,
-,,,,,seven-hex,,,,,,,,,,,
+0008,BIRD - BOLTFORAGER,BOLTFORAGER,0008,,seven-hex,,orange,parasites.,,carcasess,carrying diseases,,0008,,0008.,
 ,,,,,eight-hex,,,,,,,,,,,
 ,,,,,nine-hex,,,,,,,,,,,

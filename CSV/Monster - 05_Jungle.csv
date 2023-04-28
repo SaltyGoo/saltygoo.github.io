@@ -1,2 +1,6 @@
-ID,Monster Name,Plural,ID,4,5,6,7
-0001,FLAME MEPHIT,FLAME MEPHITS,0001,,,,
+ID,Alphabetical,Name,ID2,4,5,6,7,8,9,10,11,12,13,14,15
+0000,,,0000,This,two-hex,JUNGLE is known for its, ,villages.,Beware of,the weather, ,when you travel there. It is inhabited by,,and also,
+0008,BIRD - BOLTFORAGER,BOLTFORAGER,0008,,three-hex,,orange,parasites.,,carcasess,carrying diseases,,0008,,0008.
+,,,,,four-hex,,,,,,,,,,
+,,,,,five-hex,,,,,,,,,,
+,,,,,six-hex,,,,,,,,,,

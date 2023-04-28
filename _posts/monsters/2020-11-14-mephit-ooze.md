@@ -62,7 +62,7 @@ If you have captured this elemental monster, you can spend the equivalent of 3 b
 
 - You gain 2 [Doom Points](/list/spell-catastrophe) (roll for Catastrophe); 
 - You gain 1 [Spell Die](/spells/);
-- Roll a D6, you mutate in the following way :
+- Roll a D6, you <span class="tooltip" data-tooltip="Permanent mutations take an inventory slot">mutate</span> in the following way :
 
 1. You stink. Creatures who value hygiene will never have a good first impression of you.
 1. Your words are replaced by tiny mud mephits that mime them before being snuffed.

@@ -66,7 +66,7 @@ In a swarm, creatures are **immune** to being grappled or attacked by single tar
 
 **Number** : 2 Swarms <span style="display: inline-block; width:30px"></span>
 **Lair** : A crack leading to a frozen cave with 1D10 sleeping swarms in it<span style="display: inline-block; width:30px"></span> <br>
-**Desire** : Easy Prays & Subzero Themperatures
+**Desire** : Easy Preys & Subzero Themperatures
 
 <button id="generate-btn">Generate Roaming Monster Event</button>
 <p id="RoamResult" style="font-style: italic;">When you roll this monster on your encounter table. Most of them are hints the monster is nearby.</p>

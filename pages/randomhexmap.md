@@ -139,15 +139,7 @@ button.addEventListener('click', async () => {
 });
     </script>
       
-      <script>
-  const lists = document.querySelectorAll('.monsters-sublists');
-  lists.forEach(list => {
-    const items = list.getElementsByTagName('span');
-    const randomIndex = Math.floor(Math.random() * items.length);
-    const randomItem = items[randomIndex];
-    randomItem.style.display = 'inline-block';
-  });
-</script>
+      
 
   </body>
 </html>

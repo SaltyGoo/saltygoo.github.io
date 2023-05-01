@@ -8,6 +8,7 @@
     <h1>Random Hex Generator</h1>
     <button id="generate-button">Generate Text</button>
     <div id="output"></div>
+    
     <script>
       // Create a function to load a CSV file and parse it with Papa Parse
      async function loadCSV(url) {
@@ -62,7 +63,7 @@
       concatenatedText += randomCell + ' ';
     }
   }
-  if (Math.random() < 0.9) {
+  if (Math.random() < 0.2) {
     const gateRows = await gateCSV;
     let gateText = '';
     const columns = [4, 5, 6, 7];

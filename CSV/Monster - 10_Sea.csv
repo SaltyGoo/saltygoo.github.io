@@ -3,7 +3,7 @@ ID,Monster Name,Plural,ID2,4,5,6,7,8,9,10,11,12,13,14,15
 0003,ELEMENTAL - Air,AIR ELEMENTAL,0003,,four-hex,,windy,skies.,,strong winds,tearing sails,,0003,,0003.
 0005,GRIFFON,GRIFFON,0005,,five-hex,,sunny,days.,,stone spires,splitting the waves,,0005,,0005.
 0010,WIZARD,WIZARD,0010,,six-hex,,mysterious,island with a wizard tower.,,magical traps,controlled by a local <a href='/monsters/wizard'>WIZARD</a>,,0010,,0010.
-,,,,,seven-hex,,,,,,,,,,
+0011,WIZARD - War,WAR WIZARD,0010,,seven-hex,,patrolled,trade routes.,,military patrols,stopping trespassers,,0011,,0011.
 ,,,,,eight-hex,,,,,,,,,,
 ,,,,,nine-hex,,,,,,,,,,
 ,,,,,ten-hex,,,,,,,,,,

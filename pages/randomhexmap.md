@@ -139,7 +139,7 @@ button.addEventListener('click', async () => {
 });
     </script>
       
-      
+<script src="randomword.js"></script>
 
   </body>
 </html>

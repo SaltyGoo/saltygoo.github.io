@@ -5,7 +5,9 @@ permalink: /monsters/elemental-air
 title: Elemental, Air
 ---
 
-##### Monster from medieval mythology.
+<img align="right" width=200px  src="/images/0003_AirElemental.png"  style="border:0px solid black">
+
+##### Illustration by Salty Goo. Monster from medieval mythology.
 
 _Imagine wind moving and shaping itself as if it had its own will._
 

@@ -5,7 +5,9 @@ permalink: /monsters/mephit-ooze
 title: Mephit, Mud
 ---
 
-##### Monster from ancient roman mythology.
+<img align="right" height=200px  src="/images/0004_MudMephit.png"  style="border:0px solid black">
+
+##### Illustration by SaltyGoo. Monster from ancient roman mythology.
 
 _Imagine if a little grotesque gargoyle was made of ever dripping mud._
 

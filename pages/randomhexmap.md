@@ -139,7 +139,7 @@ button.addEventListener('click', async () => {
   const outputDiv = document.querySelector('#output');
   outputDiv.innerHTML = '<br>' + text;
 });
-}
+})()
     </script>
       
 <script src="/scripts/randomwords.js"></script>

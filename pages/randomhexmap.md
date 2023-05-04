@@ -133,18 +133,22 @@ return concatenatedText;
 
 }
 // Bind an event listener to a button
-const button = document.querySelector('#wrapper button');
+const button = document.querySelector('button');
 button.addEventListener('click', async () => {
   const text = await generateText();
-  const outputDiv = document.querySelector('#wrapper #output');
+  const outputDiv = document.querySelector('#output');
   outputDiv.innerHTML = '<br>' + text;
+
+  // Load and execute randomwords.js script
+  const script = document.createElement('script');
+  script.src = '/scripts/randomwords.js';
+  document.body.appendChild(script);
 });
 })()
     </script>    
-<script src="/scripts/randomwords.js"></script>
       
   <div id="wrapper">
-  <button>Generate Text</button>
+  <button>Generate Text 2</button>
   <div id="output"></div>
 </div>
     

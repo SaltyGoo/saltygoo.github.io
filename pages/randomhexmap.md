@@ -139,13 +139,13 @@ button.addEventListener('click', async () => {
   let generatedText = await generateText();
   console.log(generatedText);
   const outputDiv = document.querySelector('#output');
-  outputDiv.innerHTML = '<br>' + generatedText;
   Object.keys(replacements).forEach(searchWord => {
     console.log(searchWord);
     generatedText = generatedText.replace(new RegExp(searchWord, 'g'), () => {
       const words = replacements[searchWord];
       return words[Math.floor(Math.random() * words.length)];
-    });
+   outputDiv.innerHTML = '<br>' + generatedText;
+   });
     console.log(generatedText);
   });
 });

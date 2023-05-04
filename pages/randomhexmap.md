@@ -133,21 +133,18 @@ console.log(`Replaced ${replacedIndexCount} 4-digit sequences.`);
 return concatenatedText;
 
 }
-console.log(replacements);                                          
+console.log(replacements);
 const button = document.querySelector('button');
 button.addEventListener('click', async () => {
   let generatedText = await generateText();
-  console.log(generatedText);
   const outputDiv = document.querySelector('#output');
   Object.keys(replacements).forEach(searchWord => {
-    console.log(searchWord);
     generatedText = generatedText.replace(new RegExp(searchWord, 'g'), () => {
       const words = replacements[searchWord];
       return words[Math.floor(Math.random() * words.length)];
-   outputDiv.innerHTML = '<br>' + generatedText;
-   });
-    console.log(generatedText);
+    });
   });
+  outputDiv.innerHTML = '<br>' + generatedText;
 });
 
 })()

@@ -145,7 +145,7 @@ button.addEventListener('click', async () => {
     return words[Math.floor(Math.random() * words.length)];
       });
       });
-}
+})
 })()
     </script>    
       

@@ -3,6 +3,7 @@
     <meta charset="UTF-8">
     <title>Random Text Generator</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <script src="/scripts/randomwords.js"></script> 
   </head>
   <body>
     <h1>Random Hex Generator</h1>
@@ -138,11 +139,10 @@ button.addEventListener('click', async () => {
   const text = await generateText();
   const outputDiv = document.querySelector('#output');
   outputDiv.innerHTML = '<br>' + text;
-
-  // Load and execute randomwords.js script
-  const script = document.createElement('script');
-  script.src = '/scripts/randomwords.js';
-  document.body.appendChild(script);
+  Object.keys(replacements).forEach(searchWord => {
+  generatedText.innerHTML = generatedText.innerHTML.replace(new RegExp(searchWord, 'g'), () => {
+    const words = replacements[searchWord];
+    return words[Math.floor(Math.random() * words.length)];
 });
 })()
     </script>    

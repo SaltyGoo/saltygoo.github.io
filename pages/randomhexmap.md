@@ -133,19 +133,19 @@ console.log(`Replaced ${replacedIndexCount} 4-digit sequences.`);
 return concatenatedText;
 
 }
-// Bind an event listener to a button
 const button = document.querySelector('button');
 button.addEventListener('click', async () => {
-  const text = await generateText();
+  const generatedText = await generateText();
   const outputDiv = document.querySelector('#output');
-  outputDiv.innerHTML = '<br>' + text;
+  outputDiv.innerHTML = '<br>' + generatedText;
   Object.keys(replacements).forEach(searchWord => {
-  generatedText.innerHTML = generatedText.innerHTML.replace(new RegExp(searchWord, 'g'), () => {
-    const words = replacements[searchWord];
-    return words[Math.floor(Math.random() * words.length)];
-      });
-      });
-})
+    generatedText.innerHTML = generatedText.innerHTML.replace(new RegExp(searchWord, 'g'), () => {
+      const words = replacements[searchWord];
+      return words[Math.floor(Math.random() * words.length)];
+    });
+  });
+});
+
 })()
     </script>    
       

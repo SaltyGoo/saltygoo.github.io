@@ -135,7 +135,7 @@ return concatenatedText;
 }
 const button = document.querySelector('button');
 button.addEventListener('click', async () => {
-  const generatedText = await generateText();
+  let generatedText = await generateText();
   const outputDiv = document.querySelector('#output');
   outputDiv.innerHTML = '<br>' + generatedText;
   Object.keys(replacements).forEach(searchWord => {

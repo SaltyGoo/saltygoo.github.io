@@ -147,10 +147,7 @@ button.addEventListener('click', async () => {
 })()
     </script>    
       
-  <div id="wrapper">
-  <button>Generate Text 2</button>
-  <div id="output"></div>
-</div>
+
     
       
   </body>

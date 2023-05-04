@@ -143,7 +143,7 @@ button.addEventListener('click', async () => {
   generatedText.innerHTML = generatedText.innerHTML.replace(new RegExp(searchWord, 'g'), () => {
     const words = replacements[searchWord];
     return words[Math.floor(Math.random() * words.length)];
- }
+      });
       });
 })()
     </script>    

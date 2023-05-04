@@ -133,6 +133,7 @@ console.log(`Replaced ${replacedIndexCount} 4-digit sequences.`);
 return concatenatedText;
 
 }
+console.log(replacements);                                          
 const button = document.querySelector('button');
 button.addEventListener('click', async () => {
   let generatedText = await generateText();

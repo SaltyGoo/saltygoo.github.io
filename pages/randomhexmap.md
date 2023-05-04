@@ -10,6 +10,8 @@
     <div id="output"></div>
     
     <script>
+       // Wrap the whole code in an async function
+      (async function() {
       // Create a function to load a CSV file and parse it with Papa Parse
      async function loadCSV(url) {
   const response = await fetch(url);
@@ -24,18 +26,18 @@
 }
       
       // Load the CSV files into arrays
-const arcticCSV = loadCSV('/CSV/Monster - 01_Arctic.csv');
-const desertCSV = loadCSV('/CSV/Monster - 02_Desert.csv');
-const forestCSV = loadCSV('/CSV/Monster - 03_Forest.csv');
-const hillsCSV = loadCSV('/CSV/Monster - 04_Hills.csv');
-const jungleCSV = loadCSV('/CSV/Monster - 05_Jungle.csv');
-const mountainCSV = loadCSV('/CSV/Monster - 06_Mountain.csv');
-const plainsCSV = loadCSV('/CSV/Monster - 07_Plains.csv');
-const swampCSV = loadCSV('/CSV/Monster - 08_Swamp.csv');
-const cityCSV = loadCSV('/CSV/Monster - 09_City.csv');
-const seaCSV = loadCSV('/CSV/Monster - 10_Sea.csv');
-const gateCSV = loadCSV('/CSV/Monster - 11_Gate.csv');
-const indexCSV = loadCSV('/CSV/Monster - Index.csv');
+        const arcticCSV = await loadCSV('/CSV/Monster - 01_Arctic.csv');
+        const desertCSV = await loadCSV('/CSV/Monster - 02_Desert.csv');
+        const forestCSV = await loadCSV('/CSV/Monster - 03_Forest.csv');
+        const hillsCSV = await loadCSV('/CSV/Monster - 04_Hills.csv');
+        const jungleCSV = await loadCSV('/CSV/Monster - 05_Jungle.csv');
+        const mountainCSV = await loadCSV('/CSV/Monster - 06_Mountain.csv');
+        const plainsCSV = await loadCSV('/CSV/Monster - 07_Plains.csv');
+        const swampCSV = await loadCSV('/CSV/Monster - 08_Swamp.csv');
+        const cityCSV = await loadCSV('/CSV/Monster - 09_City.csv');
+        const seaCSV = await loadCSV('/CSV/Monster - 10_Sea.csv');
+        const gateCSV = await loadCSV('/CSV/Monster - 11_Gate.csv');
+        const indexCSV = await loadCSV('/CSV/Monster - Index.csv');
       
       // Create a function to select a random Monster CSV file
       function selectMonsterCSV() {
@@ -137,8 +139,10 @@ button.addEventListener('click', async () => {
   const outputDiv = document.querySelector('#output');
   outputDiv.innerHTML = '<br>' + text;
 });
+}
     </script>
       
+<script src="/scripts/randomwords.js"></script>
       
   </body>
 </html>

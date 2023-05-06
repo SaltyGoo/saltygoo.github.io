@@ -26,7 +26,7 @@ Air Elementals are fickle and tempestuous. They value freedom of spirit and lais
 
 ##### <span class="tooltip" data-tooltip="Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat">→ How to read monster stats</span>
 
-This creature is living wind and is thus only affected by things that would affect air currents. It has a 1/6 chance to die every round totally spent in contact with a hard surface.
+This creature is living wind and is thus only affected by things that would affect air currents. It has a 1/6 chance to die every round totally spent in contact with a hard surface. It can **shape wind**  at will.
 
 **Attacks (1/round)**
 

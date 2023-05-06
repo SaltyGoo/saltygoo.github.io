@@ -2,5 +2,5 @@ ID,Alphabetical,Name,ID2,4,5,6,7,8,9,10,11,12,13,14,15
 0000,,,0000,This,two-hex,FOREST is known for its, ,villages.,Beware of,the weather, ,while you travel there. It is inhabited by,,and also,
 0006,OWLBEAR,OWLBEAR,0006,,three-hex,,moonlit,pines.,,bird noises,that could mislead you,,0006,,0006.
 0010,WIZARD,WIZARD,0010,,four-hex,,mysterious,wizard tower.,,magical traps,controlled by a local <a href='/monsters/wizard'>WIZARD</a>,,0010,,0010.
-,,,,,five-hex,,,,,,,,,,
+0014,BOAR,BOAR,0014,,five-hex,,fragrant,spruces.,,hunters,near the hunter cabins,,0014,,0014.
 ,,,,,six-hex,,,,,,,,,,

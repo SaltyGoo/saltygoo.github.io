@@ -4,5 +4,5 @@ ID,Alphabetical,Name,ID2,4,5,6,7,8,9,10,11,12,13,14,15
 0007,MEPHIT - Gravel,GRAVEL MEPHIT,0007,,five-hex,,pebble,mounds.,,gravel pits,that could trap you,,0007,,0007.
 0008,BIRD - BOLTFORAGER,BOLTFORAGER,0008,,six-hex,,orange,parasites.,,carcasses,carrying diseases,,0008,,0008.
 0010,WIZARD,WIZARD,0010,,seven-hex,,mysterious,wizard tower.,,magical traps,controlled by a local <a href='/monsters/wizard'>WIZARD</a>,,0010,,0010.
-,,,,,eight-hex,,,,,,,,,,
+0014,BOAR,BOAR,0014,,eight-hex,,fragrant,spruces.,,hunters,near the hunter cabins,,0014,,0014.
 ,,,,,nine-hex,,,,,,,,,,

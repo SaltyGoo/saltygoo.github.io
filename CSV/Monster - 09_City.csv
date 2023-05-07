@@ -4,3 +4,4 @@ ID,Monster Name,Plural,ID2,4,5,6,7,8,9,10,11,12,13,14,15
 0010,WIZARD,WIZARD,0010,,mysterious,wizard tower.,,magical traps,controlled by a local <a href='/monsters/wizard'>WIZARD</a>,,0010,,0010.,,scholarly.
 0011,WIZARD - War,WAR WIZARD,0011,,arcane,military school.,,arcane sentries,operated by the military,,0011,,0011.,,warmongering.
 0012,WIZARD - High,HIGH MAGE,0012,,alabaster,observatory.,,anti-magic wards,around the high tower,,0012,,0012.,,elegant.
+0017,BAT,BAT,0017,,gothic,clocktower.,,dark alleys,at night,,0017,,0017.,,gloomy.

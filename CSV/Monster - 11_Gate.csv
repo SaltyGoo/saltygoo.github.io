@@ -6,3 +6,4 @@ ID,Monster Name,Plural,ID,4,5,6,7
 0007,MEPHIT - Gravel,GRAVEL MEPHIT,0007,,a gravel pit,,the pebbles raining from the ceiling.
 0015,ELEMENTAL - Earth,EARTH ELEMENTAL,0015,,a sinkhole,,the frequent and violent tremors.
 0016,BASILISK,BASILISK,0016,,a geyser,,boiling water pouring out of the rocks.
+0017,BAT,BAT,0017,,a hidden cave,,the <a href='/monsters/bat'>BATS</a> sleeping in it.

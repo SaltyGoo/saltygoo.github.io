@@ -5,5 +5,6 @@ ID,Monster Name,Plural,ID2,4,5,6,7,8,9,10,11,12,13,14,15
 0008,BIRD - BOLTFORAGER,BOLTFORAGER,0008,,six-hex,,orange,parasites.,,carcasses,carrying diseases,,0008,,0008.
 0009,BAT - Kongamato,KONGAMATO,0009,,seven-hex,,freshwater,river.,,the water,at night,,0009,,0009.
 0010,WIZARD,WIZARD,0010,,eight-hex,,mysterious,wizard tower.,,magical traps,controlled by a local <a href='/monsters/wizard'>WIZARD</a>,,0010,,0010.
-0014,BOAR,BOAR,0014,,nine-hex,,fragrant,bushes.,,hunters,near the hunter camps,,0014,,0014.
+0014,BOAR,BOAR,0014,,nine-hex,,fragrant,bushes.,,hunters,near the settlers' camps,,0014,,0014.
 0015,ELEMENTAL - Earth,EARTH ELEMENTAL,0015,,,,rocky,fault line.,,earthquakes,transforming the land,,0015,,0015.
+0016,BASILISK,BASILISK,0016,,,,sulfurous,boneyard.,,geodesic fumes,turning people into stone,,0016,,0016.

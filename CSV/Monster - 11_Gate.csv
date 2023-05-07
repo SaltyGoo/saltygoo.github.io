@@ -4,3 +4,5 @@ ID,Monster Name,Plural,ID,4,5,6,7
 0002,BAT - Arctic,ARCTIC BAT,0002,,a frozen cave,,the snow blocking the path.
 0004,MEPHIT - Mud,MUD MEPHIT,0004,,a mud pit,,deep mud puddles.
 0007,MEPHIT - Gravel,GRAVEL MEPHIT,0007,,a gravel pit,,the pebbles raining from the ceiling.
+0015,ELEMENTAL - Earth,EARTH ELEMENTAL,0015,,a sinkhole,,the frequent and violent tremors.
+0016,BASILISK,BASILISK,0016,,a geyser,,boiling water pouring out of the rocks.

@@ -45,7 +45,7 @@ It can hear very well, allowing it to easily spot their preys in the dark, even 
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
 | 3D4 **HP** | **Armor:** 0  |
-| **Hit it:** normal | **Dodge it:** speial |
+| **Hit it:** normal | **Dodge it:** special |
 | **Movement:** fly fast      | 
 
 ##### <span class="tooltip" data-tooltip="Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat">→ How to read monster stats</span>

@@ -87,7 +87,7 @@ You summon a 1D4 HD steam elemental. You may control it if it has [dice] HD or l
     $(document).ready(function() {
       $("#generate-btn").click(function() {
         // define the specific value to search for in column 0
-        var searchValue = "0003"; // change this to the actual value you need
+        var searchValue = "0019"; // change this to the actual value you need
 
         // retrieve the CSV file
         $.get("/CSV/Monster - Index.csv", function(data) {

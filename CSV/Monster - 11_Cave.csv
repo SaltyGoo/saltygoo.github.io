@@ -4,6 +4,7 @@ ID,Monster Name,Plural,ID,4,5,6,7,8,9,10,11,12,13,14,15
 0002,BAT - Arctic,ARCTIC BAT,0002,,four,,cold,ice caves,,freezing,snow,,0002,,0002.
 0004,MEPHIT - Mud,MUD MEPHIT,0004,,five,,muddy,tunnels to an earth shrine,,sticky,mud puddles,,0004,,0004.
 0007,MEPHIT - Gravel,GRAVEL MEPHIT,0007,,six,,unstable,gravel rivers,,treacherous,gravel pits,,0007,,0007.
-0015,ELEMENTAL - Earth,EARTH ELEMENTAL,0015,,seven,,primeval,stalagtite forests,,earth-shaking,tremors,,0015,,0015.
+0015,ELEMENTAL - Earth,EARTH ELEMENTAL,0015,,seven,,primeval,stalactite forests,,earth-shaking,tremors,,0015,,0015.
 0016,BASILISK,BASILISK,0016,,eight,,sinuous,shale deposits,,petrifying,gas vents,,0016,,0016.
 0017,BAT,BAT,0017,,,,<a href='/monsters/bat'>BAT</a>-infested,caves,,slippery,guano,,0017,,0017.
+0019,ELEMENTAL - Steam,STEAM ELEMENTAL,0019,,,,steamy,vents,,boiling,steam vents,,0019,,0019.

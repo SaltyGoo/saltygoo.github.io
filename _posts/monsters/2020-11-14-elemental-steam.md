@@ -5,79 +5,110 @@ permalink: /monsters/elemental-steam
 title: Elemental, Steam
 ---
 
+_Imagine vapour moving and shaping itself as if it had its own will._
+
 Sentient steam. A water elemental.
 
-_Imagine vapour moving and shaping itself as if it had its own will. Communicates in hisses and temperature changes._
-
-_Sassy, Sweaty, explosive._
-
+Steam Elementals are sassy and falsely relaxed. They love when things are easy and hate when things are complicated, and communicates in hisses and temperature changes.
 <br>
 
 ---
 
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
-| **HD:** X | **Armor:** none  |
-| **Hit it:** normal    | **Dodge it:** normal  |
-| **Move:** normal, swim normal    |   | 
+| **HD** X | **Armor:** 0  |
+| **Hit it:** normal | **Dodge it:** normal |
+| **Movement:** normal, Swim & Fly normal   | 
 
-It is **immune** to mundane weapons, and being [grappled](/2020/11/10/extra-rules/#conditions) or [petrified](/2020/11/10/extra-rules/#conditions) (because it's gaseous). 
-It **resists** all other damage (because it's an elemental), except electricity.
-It **can** shape steam at will, and move through any small hole.
-**Also**, it recovers 1D6 HP every round spent in contact with water.
-**However**, it takes 1D6 damage each round spent in arid locations, and wind can damage it. In general, it has the same properties as water.
+##### <span class="tooltip" data-tooltip="Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat">→ How to read monster stats</span>
+
+This creature is living steam and is thus only affected by things that would affect droplets of water. It can only survive 1 hour in a dry environment. It can **shape steam** at will.
 
 **Attacks (1/round)**
 
-<ins>Boiling Jet</ins>. The elemental makes a short-range attack (XD4 damage) which ignores armor. A character with a shield, however, can reduce the damage by 1D8.
+<ins>Boiling Jet</ins>. The elemental makes a short-range attack (XD4 dmg) which ignores armor. A character with a shield, however, can reduce the damage by 1D8.
 
 <ins>Temperature control</ins>. Each creature enveloped by the elemental or its steam takes 1D6 fire or cold damage, which ignores armor.
 
 <ins>Create Steam</ins> (X/day). The elemental creates the equivalent of a 20' cube of steam which lasts X minutes.
 
-
 <br>
 
 ---
 
-<br>
+**Number** : 1 <span style="display: inline-block; width:30px"></span>
+**Lair** : A steam vent <span style="display: inline-block; width:30px"></span>
+**Desire** : Frolic & Soak things
+
+<button id="generate-btn">Generate Roaming Monster Event</button>
+<p id="RoamResult" style="font-style: italic;">When you roll this monster on your encounter table. Most of them are hints the monster is nearby.</p>
+
+<button onclick="generateMood()">Generate What The Monster Is Doing</button>
+<p id="MoodResult" style="font-style: italic;">If the party meets this monster, what is it doing?</p>
+<script src="/scripts/generateMood.js"></script>
+
+## So, You Have Captured A Steam Elemental?
+
+New carousing activities!
 
 <details markdown="1">
-<summary>Random Encounter</summary>
+<summary style="font-weight: bold;">Bind the Elemental Creature</summary>
+If you have captured this elemental monster, you can spend the equivalent of 3 bags of gold in a magical laboratory between two adventures to bind it to your soul. If you do so, you ...
 
-1. **Monster:** 1 steam elemental.
-1. **Lair:** Neverending jet of steam. <br>    &nbsp; OR <br>    **Omen:** The air becomes heavy and humid, the temperature rises and droplets appear everywhere.
-1. **Spoor:** A creature wimpers, burnt all across its body by steam.
-1. **Tracks:** Warm humidity.
-1. **Trace:** Constant hot fog.
-1. **Trace:** A pale blue shard from a summoning crystal.
+- You gain X [Doom Points](/list/spell-catastrophe) (roll for Catastrophe); 
+- You gain 1 [Spell Die](/spells/);
+- Roll a D6, you <span class="tooltip" data-tooltip="Permanent mutations take an inventory slot">mutate</span> in the following way :
 
+1. You are always sweaty.
+1. Any fog will try to envelop you.
+1. You need at least two sources of heat to rest.
+1. You leave wet tracks.
+1. Your skin becomes semi-transparent.
+1. You can change one word from a class ability you have or a spell you know to *Steam*.
+
+If you roll a Catastrophe, the elemental is released and hostile, and you lose the Spell Dice.
 </details>
 
 <details markdown="1">
-<summary>D6 What the Monster Wants </summary>
+<summary style="font-weight: bold;">Conjure the Elemental Creature</summary>
+If you have befriended or bound this monster, you can spend the equivalent of 2 bags of gold in a wizard library between two adventures to learn the following spell:
 
-1. Envelop the area in wot solid fog.
-1. Protect a steam vent.
-1. Fight air.
-1. Fight fire
-1. Fight earth.
-1. Return to steam.
+**Conjure Steam Elemental** <br>
+**R**: 30'  <span style="display: inline-block; width:30px"></span> **D**: [dice] x 10 minutes
+
+You summon a 1D4 HD steam elemental. You may control it if it has [dice] HD or less with concentration, but otherwise the standard reaction roll and negotiating procedures apply. If a particular true name is known, it may be intoned during the casting of this spell and the named elemental will come instead.
 
 </details>
 
-<details markdown="1">
-<summary>Binding the Elemental</summary>
  
-You gain a [Spell Dice](https://saltygoo.github.io/class/magic-user#spells), one Doom Point and ...
+ <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+  // ENCOUNTER GENERATOR SCRIPT
+    $(document).ready(function() {
+      $("#generate-btn").click(function() {
+        // define the specific value to search for in column 0
+        var searchValue = "0003"; // change this to the actual value you need
 
-1. ... you are always steamy.
-1. ... fog is against you.
-1. ... you need to rest in warm temperatures.
-1. ... you leave wet tracks.
-1. ... you become semi-transparent.
-1. ... the spell word Steam.
+        // retrieve the CSV file
+        $.get("/CSV/Monster - Index.csv", function(data) {
+          // split the CSV data by rows and remove the header row
+          var rows = data.split("\n").slice(1);
 
-If you roll a catastrophe, the elemental is released.
+          // filter the rows by the specific value in column 0
+          var matchingRows = rows.filter(function(row) {
+            var columns = row.split(",");
+            return columns[0] === searchValue;
+          });
 
-</details>
+          // randomly select a row from the matching rows
+          var selectedRow = matchingRows[Math.floor(Math.random() * matchingRows.length)];
+
+          // select a random cell from columns 3 to 8
+          var selectedCell = selectedRow.split(",")[Math.floor(Math.random() * 6) + 3];
+
+          // display the selected text
+          $("#RoamResult").text(selectedCell);
+        });
+      });
+    });
+  </script>

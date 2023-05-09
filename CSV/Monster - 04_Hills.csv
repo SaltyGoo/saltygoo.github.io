@@ -1,11 +1,12 @@
-ID,Alphabetical,Name,ID2,4,5,6,7,8,9,10,11,12,13,14,15
+ID,Alphabetical,Count: 10,ID2,4,5,6,7,8,9,10,11,12,13,14,15
 0000,,,0000,This,three-hex,HILLY REGION is known for its,,villages.,Beware of,the weather, ,while you travel there. It is inhabited by,,and also,
 0005,GRIFFON,GRIFFON,0005,,four-hex,,sunny,mesas.,,predators,if you are alone,,0005,,0005.
 0007,MEPHIT - Gravel,GRAVEL MEPHIT,0007,,five-hex,,pebble,mounds.,,gravel pits,that could trap you,,0007,,0007.
-0008,BIRD - Boltforager,BOLTFORAGER,0008,,six-hex,,orange,parasites.,,bloated carcasses,carrying diseases,,0008,,0008.
+0008,BIRD - Boltforager,BOLTFORAGER,0008,,six-hex,,orange,dust.,,bloated carcasses,carrying diseases,,0008,,0008.
 0010,WIZARD,WIZARD,0010,,seven-hex,,mysterious,wizard tower.,,magical traps,controlled by a local <a href='/monsters/wizard'>WIZARD</a>,,0010,,0010.
 0014,BOAR,BOAR,0014,,eight-hex,,fragrant,spruces.,,hunters,near the cabins,,0014,,0014.
 0015,ELEMENTAL - Earth,EARTH ELEMENTAL,0015,,nine-hex,,rocky,fault line.,,tremors,moving rocks,,0015,,0015.
-0016,BASILISK,BASILISK,0016,,,,petrified,sulfur ponds,,geodesic fumes,turning people into stone,,0016,,0016.
+0016,BASILISK,BASILISK,0016,,,,petrified,termite mounds.,,geodesic fumes,turning people into stone,,0016,,0016.
 0017,BAT,BAT,0017,,,,fly-infested,caves.,,the moon,especially at midnight,,0017,,0017.
 0018,CAT - Giant Tressym,GIANT TRESSYM,0018,,,,arid,promontories.,,the sun,especially at noon,,0018,,0018.
+0020,BIRD - Hawk,HAWK,0020,,,,vast,plateaus,,open spaces,exposing you to greater dangers,,0020,,0020.

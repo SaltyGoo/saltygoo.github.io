@@ -1,4 +1,4 @@
-ID,Alphabetical,Name,ID2,4,5,6,7,8,9,10,11,12,13,14,15
+ID,Alphabetical,Count: 8,ID2,4,5,6,7,8,9,10,11,12,13,14,15
 0000,,,0000,This,three-hex,COLD REGION is known for its,,villages.,Beware of,the weather, ,while you travel there. It is inhabited by,,and also,
 0002,BAT - Arctic,ARCTIC BAT,0002,,four-hex,,snowy,caves.,,the low visibility,during blizzards,,0002,,0002.
 0003,ELEMENTAL - Air,AIR ELEMENTAL,0003,,five-hex,,windy,skies.,,strong winds,when the sky is clear,,0003,,0003.
@@ -7,3 +7,4 @@ ID,Alphabetical,Name,ID2,4,5,6,7,8,9,10,11,12,13,14,15
 0010,WIZARD,WIZARD,0010,,eight-hex,,mysterious,wizard tower.,,magical traps,controlled by a local <a href='/monsters/wizard'>WIZARD</a>,,0010,,0010.
 0014,BOAR,BOAR,0014,,nine-hex,,fragrant,spruces.,,hunters,near the cabins,,0014,,0014.
 0019,ELEMENTAL - Steam,STEAM ELEMENTAL,0019,,,,misty,hot springs.,,the fog,splitting the party,,0019,,0019.
+0020,BIRD - Hawk,HAWK,0020,,,,vast,taiga,,open spaces,exposing you to greater dangers,,0020,,0020.

@@ -1,7 +1,8 @@
-ID,Monster Name,Plural,ID2,4,5,6,7,8,9,10,11,12,13,14,15
-0000,,,0000,This hex holds a CITY known for its,governmental,architecture,and its,,population. Beware of the,CITY GUARD,,when visiting. The city streets are roamed by,,and also,
+ID,Monster Name,Count: 6,ID2,4,5,6,7,8,9,10,11,12,13,14,15
+0000,,,0000,This hex holds a CITY known for its,governmental,architecture,and its,,population. Beware of the,CITY GUARD,,when visiting. The city is home to,,and also,
 0005,GRIFFON,GRIFFON,0005,,royal,aviary,,proud,,sky bridges,that protect the palace,,0005,,0005.
 0010,WIZARD,WIZARD,0010,,mysterious,wizard tower,,educated,,magical traps,controlled by a local <a href='/monsters/wizard'>WIZARD</a>,,0010,,0010.
 0011,WIZARD - War,WAR WIZARD,0011,,arcane,military school,,warmongering,,arcane sentries,operated by the military,,0011,,0011.
 0012,WIZARD - High,HIGH MAGE,0012,,alabaster,observatory,,elegant,,anti-magic wards,around the high tower,,0012,,0012.
 0017,BAT,BAT,0017,,gothic,clocktower,,gloomy,,dark alleys,at night,,0017,,0017.
+0020,BIRD - Hawk,HAWK,0020,,tall,spires,,patrician,,watchtowers,that oversee the streets,,0020,,0020.

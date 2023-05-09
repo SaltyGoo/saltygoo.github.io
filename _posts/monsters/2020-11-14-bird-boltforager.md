@@ -9,7 +9,7 @@ title: Bird, Boltforager
 
 _Imagine a big eagle-sized bird with brick-colored plumage. It has a big beak and a bony ridge that protects its head when feeding. It seems covered in dirty orange dust._
 
-A disease-carrying red carrion bird. A beast.
+A disease-carrying red carrion bird. A small beast.
 
 The discordant chorus of huge boltforager flocks is a staple of many hot climates. They harass other creatures indiscriminately at dusk and dawn, when their orange plumage blends in the golden light. They feed on those who fall victim of the parasites they carry. 
 
@@ -58,7 +58,7 @@ New carousing activities!
 
 <details markdown="1">
 <summary style="font-weight: bold;">Tame the Beast</summary>
-If you have captured this beast, you can spend the equivalent of 1 bags of gold in food between two adventures to tame it. It is now one of your <span class="tooltip" data-tooltip="You can bring a follower in your adventures if you dedicate a Psyche slot to it."><i>followers</i></span>. Each extra bag of gold spent training the beast teaches it a one-word order. Otherwise, it only acts to eat or in self-defence. 
+If you have captured this beast, you can spend the equivalent of 1 bag of gold in food between two adventures to tame it. It is now one of your <span class="tooltip" data-tooltip="You can bring a follower in your adventures if you dedicate a Psyche slot to it."><i>followers</i></span>. Each extra bag of gold spent training the beast teaches it a one-word order. Otherwise, it only acts to eat or in self-defence. 
 </details>
 
 <details markdown="1">

@@ -1,6 +1,6 @@
-ID,Alphabetical,Count: 11,ID2,4,5,6,7,8,9,10,11,12,13,14,15,
+ID,Alphabetical,Count: 12/23,52%,4,5,6,7,8,9,10,11,12,13,14,15,
 0000,,,0000,This,three-hex,DESERT is known for its,,villages.,Beware of,the weather, ,while you travel there. It is inhabited by,,and also,,
-0003,ELEMENTAL - Air,AIR ELEMENTAL,0003,,four-hex,,skyward,winds.,,strong winds,hindering you,,0003,,0003.,.
+0003,ELEMENTAL - Air,AIR ELEMENTAL,0003,,four-hex,,windy,horizon.,,strong winds,hindering you,,0003,,0003.,.
 0005,GRIFFON,GRIFFON,0005,,five-hex,,sunny,mesas.,,predators,when you are alone,,0005,,0005.,
 0007,MEPHIT - Gravel,GRAVEL MEPHIT,0007,,six-hex,,pebble,dunes.,,gravel pits,that could trap you,,0007,,0007.,
 0008,BIRD - Boltforager,BOLTFORAGER,0008,,seven-hex,,orange,dust.,,bloated carcasses,carrying diseases,,0008,,0008.,
@@ -10,4 +10,5 @@ ID,Alphabetical,Count: 11,ID2,4,5,6,7,8,9,10,11,12,13,14,15,
 0017,BAT,BAT,0017,,,,fly-infested,caves.,,the moon,especially at midnight,,0017,,0017.,
 0018,CAT - Giant Tressym,GIANT TRESSYM,0018,,,,arid,acacias.,,the sun,especially at noon,,0018,,0018.,
 0020,BIRD - Hawk,HAWK,0020,,,,vast,plateaus.,,open spaces,exposing you to greater dangers,,0020,,0020.,
-0021,KNIGHT,KNIGHT,0021,,,,fortified,castle.,,rdmNOBLE's men,in the rdmNOBLE's estate,,0021,,0021.,
+0021,KNIGHT,KNIGHT,0021,,,,fortified,castle.,,the rdmNOBLE's men,in the rdmNOBLE's estate,,0021,,0021.,
+0023,HARPY,HARPY,0023,,,,god-forsaken,ruined tower.,,sounds,driving you mad,,0023,,0023.,

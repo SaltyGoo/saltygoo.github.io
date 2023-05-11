@@ -1,8 +1,8 @@
-ID,Monster Name,Count: 12,ID2,4,5,6,7,8,9,10,11,12,13,14,15
+ID,Monster Name,Count: 13/23,57%,4,5,6,7,8,9,10,11,12,13,14,15
 0000,,,0000,These,three-hex,PLAINS are known for their,,vistas.,Beware of,rough weather, ,while you travel there. It is inhabited by,,and also,
-0003,ELEMENTAL - Air,AIR ELEMENTAL,0003,,four-hex,,windy,skies.,,strong winds,masking sounds,,0003,,0003.
+0003,ELEMENTAL - Air,AIR ELEMENTAL,0003,,four-hex,,windy,horizon.,,strong winds,masking sounds,,0003,,0003.
 0005,GRIFFON,GRIFFON,0005,,five-hex,,sunny,mesas.,,predators,if you are alone,,0005,,0005.
-0008,BIRD - Boltforager,BOLTFORAGER,0008,,six-hex,,orange,parasites.,,the carcasses,carrying diseases,,0008,,0008.
+0008,BIRD - Boltforager,BOLTFORAGER,0008,,six-hex,,orange,dust clouds.,,the carcasses,carrying diseases,,0008,,0008.
 0009,BAT - Kongamato,KONGAMATO,0009,,seven-hex,,freshwater,river.,,the water,at night,,0009,,0009.
 0010,WIZARD,WIZARD,0010,,eight-hex,,mysterious,wizard tower.,,magical traps,controlled by a local <a href='/monsters/wizard'>WIZARD</a>,,0010,,0010.
 0014,BOAR,BOAR,0014,,nine-hex,,fragrant,bushes.,,hunters,near the settlers' camps,,0014,,0014.
@@ -10,5 +10,6 @@ ID,Monster Name,Count: 12,ID2,4,5,6,7,8,9,10,11,12,13,14,15
 0016,BASILISK,BASILISK,0016,,,,sulfurous,boneyard.,,geodesic fumes,turning people into stone,,0016,,0016.
 0017,BAT,BAT,0017,,,,fly-infested,caves.,,the moon,especially at midnight,,0017,,0017.
 0018,CAT - Giant Tressym,GIANT TRESSYM,0018,,,,arid,acacias.,,the sun,especially at noon,,0018,,0018.
-0020,BIRD - Hawk,HAWK,0020,,,,vast,plateaus,,open spaces,exposing you to greater dangers,,0020,,0020.
-0021,KNIGHT,KNIGHT,0021,,,,fortified,castle.,,rdmNOBLE's men,in the rdmNOBLE's estate,,0021,,0021.
+0020,BIRD - Hawk,HAWK,0020,,,,vast,plateaus.,,open spaces,exposing you to greater dangers,,0020,,0020.
+0021,KNIGHT,KNIGHT,0021,,,,fortified,castle.,,the rdmNOBLE's men,in the rdmNOBLE's estate,,0021,,0021.
+0023,HARPY,HARPY,0023,,,,god-forsaken,ruined tower,,sounds,driving you mad,,0023,,0023.

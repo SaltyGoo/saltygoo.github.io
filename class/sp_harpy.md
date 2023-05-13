@@ -33,7 +33,7 @@ Your voice is maddening. Roll one the following emotions and put it in your [Psy
 4. 	Envy
 5. 	Hysteria
 6. 	Doubt
-7. 	Hubriss
+7. 	Hubris
 8. 	Melancholy
 
 ## Shriek

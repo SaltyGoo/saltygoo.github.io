@@ -22,7 +22,7 @@ For every Harpy template you have, you can roll for an aditional emotion for you
 **D:** Fly, Siren!<br>
 
 ## Flutter
-As long as your inventory is half empty, you can ungracefully fly up to 30' forward and 20' upward before needing to land, and you never take fall damage. If you find an updraft, you lift yourself up to 100' and glide as fast as you can run for 10 minutes.
+As long as your inventory is half empty, you can ungracefully fly up to 30' forward and 20' upward before needing to land, and you never take fall damage. If you find an updraft, you can lift yourself up to 100' and glide as fast as you can run for 10 minutes.
 
 ## Vile Song
 Your voice is maddening. Roll one the following emotions and put it in your [Psyche](/2020/11/09/base-rules/). As long as you sing, creatures hearing you that fail a save are consumed by one stored emotion of your choice. If they succeed, their annoyance towards you makes them immune to your songs for a day. The targets must be able to experience that emotion (as interpreted by the referee).

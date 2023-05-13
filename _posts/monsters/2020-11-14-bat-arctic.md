@@ -5,7 +5,7 @@ permalink: /monsters/bat-arctic
 title: Bat, Arctic
 ---
 
-<img align="right" width=200px  src="/images/0002_BatArctic2.png"  style="border:3px solid black">
+<img align="right" width=200px  src="/images/0002_BatArctic2.png"  style="border:0px solid black">
 
 ##### Illustration by Salty Goo. Monster inspired by the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium).
 

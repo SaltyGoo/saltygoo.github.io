@@ -4,7 +4,7 @@ title: Harpy
 permalink: /class/specialist/harpy
 ---
 
-<img align="right" width=250px src="/images/githyanki.jpg">
+<img align="right" width=250px src="/images/0023_Harpy.png">
 
 ###### A monster class for the [Harpy](/monsters/harpy), vulture crones from greek mythology.
 

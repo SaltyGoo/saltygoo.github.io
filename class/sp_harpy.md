@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Githyanki
+title: Harpy
 permalink: /class/specialist/harpy
 ---
 
@@ -22,10 +22,10 @@ For every Harpy template you have, you can roll an aditional emotion for your Vi
 **D:** Fly, Siren<br>
 
 ## Flutter
-As long as your inventory is half empty, you can ungracefully fly 30' forward and 20' upward before needing to land, and you never take falling damage. If you find an updraft, you lift yourself up to 100' and glide as fast as you can run for 10 minutes.
+As long as your inventory is half empty, you can ungracefully fly 30' forward and 20' upward before needing to land, and you never take fall damage. If you find an updraft, you lift yourself up to 100' and glide as fast as you can run for 10 minutes.
 
 ## Vile Song
-Your voice is maddening. Roll one the following emotion and put it in your [Psyche](/2020/11/09/base-rules/). As long as you sing, you can force creatures that can hear you to be consumed by one of the chosen emotions if they fail a save. If they succeed, their annoyance towards you makes them immune to your songs. The targets must be able to experience that emotion (as interpreted by the referee).
+Your voice is maddening. Roll one the following emotion and put it in your [Psyche](/2020/11/09/base-rules/). As long as you sing, you can force creatures that can hear you to be consumed by one of the emotions in your Psyche if they fail a save. If they succeed, their annoyance towards you makes them immune to your songs for a day. The targets must be able to experience that emotion (as interpreted by the referee).
 
 1. 	Hunger
 2. 	Cynicism

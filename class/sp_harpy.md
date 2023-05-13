@@ -6,7 +6,7 @@ permalink: /class/specialist/harpy
 
 <img align="right" width=250px src="/images/0023_Harpy.png">
 
-###### A monster class for the [Harpy](/monsters/harpy), vulture crones from greek mythology.
+###### A monster class for the [Harpy](/monsters/harpy), vulture crones from greek mythology. Illustration by me.
 
 <ins>Starting Equipment</ins><br>
 Your choice of a Sharp Broken Bone, a Conch to emplify your voice, or a Mirror Shard.

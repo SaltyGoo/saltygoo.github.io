@@ -5,9 +5,13 @@ permalink: /monsters/bat-olitiau
 title: Bat, Olitiau
 ---
 
-Poisonous clawed bat. A small beast.
+#####  Mythtical monster originating from Cameroonian and Congolese folklore.
 
-_The olitiau has dirty white fur and ochre, suede-like wings. It's a nocturnal predator._
+_Imagine a white-furred bat the size of a dog with sharp claws coming out of its ochre, suede-like wings._
+
+A poisonous clawed bat. A small carnivorous beast.
+
+Olitiaus live in tree-top colonies near rivers. They hunt at night by biting their preys and waiting for their venom to take effect. 
 
 <br>
 
@@ -15,17 +19,17 @@ _The olitiau has dirty white fur and ochre, suede-like wings. It's a nocturnal p
 
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
-| **HD:** 1 | **Armor:** none  |
-| **Hit it:** normal    | **Dodge it:** normal  |
-| **Move:** normal, fly fast     |   | 
+| **HD:** 1 | **Armor:** 0  |
+| **Hit it:** normal | **Dodge it:** normal |
+| **Movement:** fly fast      | 
 
-It **can** hear very well, allowing it to easily spot their preys in the dark, even invisible ones. 
+##### <span class="tooltip" data-tooltip="Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat">→ How to read monster stats</span>
+
+It can **hear** very well, allowing it to easily spot their preys in the dark, even invisible ones.
 
 **Attacks (1/round)**
 
-<ins>Rake</ins>. The olitiau makes a melee attack (1), on a hit the target must save vs poison or start [dying](/2020/11/10/extra-rules/#conditions).
-
-<span class="alchemy"> **Olitiau Venom**. Save or start [dying](/2020/11/10/extra-rules/#conditions). </span>
+<ins>Rake</ins>. The olitiau makes a melee attack (1 dmg), on a hit the target must save vs poison or start [dying](/2020/11/10/extra-rules/#conditions).
 
 <br>
 
@@ -35,9 +39,9 @@ It **can** hear very well, allowing it to easily spot their preys in the dark, e
 
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
-| **HD:** 4 | **Armor:** none  |
-| **Hit it:** easy    | **Dodge it:** special  |
-| **Move:** normal, fly fast     |   | 
+| **HD** 4 | **Armor:** 0  |
+| **Hit it:** easy | **Dodge it:** special |
+| **Movement:** fly fast      | 
 
 It **can** hear very well, allowing it to easily spot their preys in the dark, even invisible ones. 
 
@@ -45,43 +49,71 @@ In a swarm, creatures are **immune** to being grappled or attacked by single tar
 
 **Attacks (1/round)**
 
-<ins>Rake</ins>. To dodge a swarm’s attack, the roll has to beat 10 + the swarm's HP. On a hit the target takes damage (1D6) and must save vs poison or start [dying](/2020/11/10/extra-rules/#conditions).
+<ins>Rake</ins>. To dodge a swarm’s attack, the roll has to beat 10 + the swarm's HP. On a hit the target takes damage (1D4) and must save vs poison or start [dying](/2020/11/10/extra-rules/#conditions).
+
 <br>
 
 ---
 
-<br>
+**Number** : 1 Swarm <span style="display: inline-block; width:30px"></span>
+**Lair** : A huge, sprawling willow with 4D6 sleeping olitiaus. <span style="display: inline-block; width:30px"></span> <br>
+**Desire** : Easy Preys & Big arboreal shelters
+
+<button id="generate-btn">Generate Roaming Monster Event</button>
+<p id="RoamResult" style="font-style: italic;">When you roll this monster on your encounter table. Most of them are hints the monster is nearby.</p>
+
+<button onclick="generateMood()">Generate What The Monster Is Doing</button>
+<p id="MoodResult" style="font-style: italic;">If the party meets this monster, what is it doing?</p>
+<script src="/scripts/generateMood.js"></script>
+
+---
+
+## So, You Are Hunting Olitiau Bats?
+
+New carousing activities!
 
 <details markdown="1">
-<summary>Random Encounter</summary>
-1. **Monster:** 1D4 olitiaus or 1 swarm.
-1. **Lair:** A huge, sprawling willow with 4D6 sleeping olitiaus. <br>    &nbsp; OR <br>    **Omen:** Bat screeches, very close.
-1. **Spoor:** A carcass, full of tiny bites, barely any signs of struggle.
-1. **Tracks:** Bat noises, far away.
-1. **Trace:** A single olitiau, sleeping.  
-1. **Trace:** 1D4 venom hunters.
+<summary style="font-weight: bold;">Tame the Beast</summary>
+If you have captured this beast, you can spend the equivalent of 1 bag of gold in food between two adventures to tame it. It is now one of your <span class="tooltip" data-tooltip="You can bring a follower in your adventures if you dedicate a Psyche slot to it."><i>followers</i></span>. Each extra bag of gold spent training the beast teaches it a one-word order. Otherwise, it only acts to eat or in self-defence. 
 </details>
 
 <details markdown="1">
-<summary>Salvaging the body</summary>
+<summary style="font-weight: bold;">Craft from Beast Parts</summary>
 Olitiaus are cute enough to be pets, but the most valuable part of their body is their venom.
+
+<span class="alchemy"> **Olitiau Venom**. In wound. Save or start [dying](/2020/11/10/extra-rules/#conditions). </span>
+
+If you have access to an artisan and a workshop, you can spend loot between two adventures to create something with parts of the beast. The object you craft can be anything mostly made of the provided materials. If you use mundane tools, the result will be mundane; if you spent at least a bag of gold on it, the object will be special; and if you spend the equivalent of a treasure for the tools, it will be magical. Discuss what you want with the referee.
 </details>
+ 
+ <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+  // ENCOUNTER GENERATOR SCRIPT
+    $(document).ready(function() {
+      $("#generate-btn").click(function() {
+        // define the specific value to search for in column 0
+        var searchValue = "0024"; // change this to the actual value you need
 
-<details markdown="1">
-<summary>D6 Symbolism</summary>
-In local cultures the olitiau is a symbol of ...
+        // retrieve the CSV file
+        $.get("/CSV/Monster - Index.csv", function(data) {
+          // split the CSV data by rows and remove the header row
+          var rows = data.split("\n").slice(1);
 
-1. Death
-1. Fear
-1. Kissing
-1. Water sources.
-1. Night.
-1. Cursed
-</details>
+          // filter the rows by the specific value in column 0
+          var matchingRows = rows.filter(function(row) {
+            var columns = row.split(",");
+            return columns[0] === searchValue;
+          });
 
-<br>
+          // randomly select a row from the matching rows
+          var selectedRow = matchingRows[Math.floor(Math.random() * matchingRows.length)];
 
-<details markdown="1">
-<summary>Credits</summary>
-The olitiau is a cryptid from Cameroon described as a giant toothy bat. [Richard J. Leblanc Jr](http://savevsdragon.blogspot.com/)'s adaptation in the [Creature Compendium](https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium) gave it a smaller size (rare!) and made it a disease carrier. Maybe it's because I'm writing this in the middle of a pandemic, but I like that diseases become a real threat in DnD.
-</details>
+          // select a random cell from columns 3 to 8
+          var selectedCell = selectedRow.split(",")[Math.floor(Math.random() * 6) + 3];
+
+          // display the selected text
+          $("#RoamResult").text(selectedCell);
+        });
+      });
+    });
+  </script>

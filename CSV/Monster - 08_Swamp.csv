@@ -1,4 +1,4 @@
-ID,Monster Name,Plural,ID2,4,5,6,7,8,9,10,11,12,13,14,15
+ID,Monster Name,Count: 8/24,33%,4,5,6,7,8,9,10,11,12,13,14,15
 0000,,,0000,These,two-hex,SWAMPS are known for their,,,Beware of,rough weather,,there. It is inhabited by,,and also,
 0004,MEPHIT - Mud,MUD MEPHIT,0004,,three-hex,,muddy,baths.,,the mud pits,when you travel by foot,,0004,,0004.
 0009,BAT - Kongamato,KONGAMATO,0009,,four-hex,,isolated,fishing villages.,,the water,at night,,0009,,0009.
@@ -7,3 +7,4 @@ ID,Monster Name,Plural,ID2,4,5,6,7,8,9,10,11,12,13,14,15
 0016,BASILISK,BASILISK,0016,,,,sulfurous,mounds.,,geodesic fumes,turning people into stone,,0016,,0016.
 0017,BAT,BAT,0017,,,,fly-infested,caves.,,the moon,especially at midnight,,0017,,0017.
 0019,ELEMENTAL - Steam,STEAM ELEMENTAL,0019,,,,misty,hot springs.,,the fog,splitting the party,,0019,,0019.
+0024,BAT - Olitiau,OLITIAU BAT,0024,,,,deadly,grove.,,willow trees,hiding monsters,,0024,,0024.

@@ -25,7 +25,7 @@ For every Fighter template you have, you gain a bonus of 1 to you attack rolls.
 Your weapons have different effects depending on the type of damage you inflict with them:
 - <ins>Bludgeoning:</ins> You can roll FOR after you hit to knock the target prone.
 - <ins>Piercing:</ins> Hitting a [prone](/2020/11/10/extra-rules/#conditions) or suprised target inflicts 1D6 extra damage.
-- <ins>Slashing:</ins> When you roll max damage, you can make another attack.
+- <ins>Slashing:</ins> Once per round, when you roll 1 or 2 on your damage, you can make another attack.
 
 ## Parry
 Once per battle, you can destroy a weapon or a shied you are holding to protect yourself or an adjacent ally from an attack's damage. 

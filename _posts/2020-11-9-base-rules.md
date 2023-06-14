@@ -25,7 +25,9 @@ You also have as many **Hit Points** as your Fortitude score.
 You can have as many things in your **Inventory** as twice your Fortitude score. <br>
 You can have as many things in your **Psyche** as twice your Willpower score.
 
-Choose a [**Character Class**](https://saltygoo.github.io/classes/). Add the class’s starting equipment to your Inventory, its skills and spells to your Psyche and the class' _Template A_ abilities to your character sheet.
+Choose a [**Character Class**](https://saltygoo.github.io/classes/). Add the class’s starting equipment to your Inventory, its skills and spells to your Psyche and the class' _Template A_ abilities somewhere else on your character sheet.
+
+If you want, you can add beliefs in your characters Psyche to fleshen it. The referee will reward you for following them.
 
 Voilà!
 </details>
@@ -125,13 +127,6 @@ must take one action to recharge
 <summary><b>Armor</b></summary>
 Each worn piece of armor reduces damage by 1. <br> 
 You can't swim, sneak or jump while wearing 3 or more pieces of armor.
-</details>
-
-<details markdown="1">
-<summary><b>Torches, Ammunitions, & Consumables</b></summary>
-Some items like **torches** have a finite use, represented by a D6. After 10 minutes of usage, roll the die. On a result of 1, the item is getting closer to depletion and the D6 becomes a D4. When you roll a 1 on the D4, you only have one use of the item left before it is depleted.
-
-This system can be used for **ammunitions** too, in that case, instead of 10 minutes of usage, you roll after each battle where ammunition was used.
 </details>
 
 ---

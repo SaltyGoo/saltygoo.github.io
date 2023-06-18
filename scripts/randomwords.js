@@ -1,4 +1,6 @@
   const replacements = {
+    'rdmCULT': ['a FEY-WORSHIPPING FOLK', 'an ELEMENTAL rdmELEMENT', 'a DEMONIC', 'an ANCIENT SECRET', 'AN ELDRITCH', 'A DEATH', 'A DRUG',],
+    'rdmELEMENT': ['EARTH', 'OOZE', 'ALLOY', 'LAVA', 'FIRE', 'SUN', 'GAS', 'AIR', 'STORM', 'FROST', 'WATER', 'FOG'],
     'rdmPLANE': ['PURGATORY', 'GEHENNA', 'HELL', 'the ABYSS', 'the DREAMWORLD', 'HEAVEN', 'rdmFIRE', 'rdmAIR', 'rdmEARTH', 'rdmWATER', 'the ASTRAL SEA'],
     'rdmEARTH': ['the PLANE OF EARTH', 'the PLANE OF OOZE', 'the PLANE OF METAL', 'the PLANE OF MAGMA', ],
     'rdmFIRE': ['the PLANE OF FIRE', 'the PLANE OF LIGHT', 'the PLANE OF SMOKE', 'the PLANE OF MAGMA', ],

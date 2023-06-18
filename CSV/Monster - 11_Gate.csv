@@ -1,4 +1,4 @@
-ID,Monster Name,Plural,ID,4,5,6,7
+ID,Monster Name,Count: 9/25,36%,4,5,6,7
 0000,,,0000,Rumour has it that there is ,a cave, somewhere in this area that leads to the UNDERDARK. Descent below is complicated by ,the darkness.
 0001,MEPHIT - Flame,FLAME MEPHIT,0001,,an ancient burning altar,,the hot embers that carpet it.
 0002,BAT - Arctic,ARCTIC BAT,0002,,a frozen cave,,the snow blocking the path.
@@ -8,3 +8,4 @@ ID,Monster Name,Plural,ID,4,5,6,7
 0016,BASILISK,BASILISK,0016,,a geyser,,boiling water pouring out of the rocks.
 0017,BAT,BAT,0017,,a hidden cave,,the <a href='/monsters/bat'>BATS</a> sleeping in it.
 0019,ELEMENTAL - Steam,STEAM ELEMENTAL,0019,,a hot spring,,the boiling steam jets in it.
+0025,CULTIST,CULTIST,0025,,a hidden temple,,the dark rituals happening here.

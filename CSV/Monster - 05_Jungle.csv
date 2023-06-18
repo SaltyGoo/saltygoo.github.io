@@ -1,4 +1,4 @@
-ID,Alphabetical,Count: 9/24,38%,4,5,6,7,8,9,10,11,12,13,14,15
+ID,Alphabetical,Count: 10/25,40%,4,5,6,7,8,9,10,11,12,13,14,15
 0000,,,0000,This,two-hex,JUNGLE is known for its, ,villages.,Beware of,the weather, ,while you travel there. It is inhabited by,,and also,
 0008,BIRD - Boltforager,BOLTFORAGER,0008,,three-hex,,orange,BIRDS.,,carcasses,carrying diseases,,0008,,0008.
 0009,BAT - Kongamato,KONGAMATO,0009,,four-hex,,freshwater,river.,,the water,at night,,0009,,0009.
@@ -9,3 +9,4 @@ ID,Alphabetical,Count: 9/24,38%,4,5,6,7,8,9,10,11,12,13,14,15
 0019,ELEMENTAL - Steam,STEAM ELEMENTAL,0019,,,,misty,hot springs.,,the fog,splitting the party,,0019,,0019.
 0023,HARPY,HARPY,0023,,,,god-forsaken,ruined tower.,,sounds,driving you mad,,0023,,0023.
 0024,BAT - Olitiau,OLITIAU BAT,0024,,,,deadly,ponds.,,vine-chocked trees,hiding monsters,,0024,,0024.
+0025,CULTIST,CULTIST,0025,,,,mystical,monuments.,,pagan idols,that could curse you,,0025,,0025.

@@ -1,4 +1,4 @@
-ID,Alphabetical,Count: 8/24,33%,4,5,6,7,8,9,10,11,12,13,14,15
+ID,Alphabetical,Count: 9/25,36%,4,5,6,7,8,9,10,11,12,13,14,15
 0000,,,0000,This,two-hex,FOREST is known for its, ,villages.,Beware of,the weather, ,while you travel there. It is inhabited by,,and also,
 0006,OWLBEAR,OWLBEAR,0006,,three-hex,,moonlit,pines.,,bird noises,that could mislead you,,0006,,0006.
 0010,WIZARD,WIZARD,0010,,four-hex,,mysterious,wizard tower.,,magical traps,controlled by a local <a href='/monsters/wizard'>WIZARD</a>,,0010,,0010.
@@ -7,4 +7,5 @@ ID,Alphabetical,Count: 8/24,33%,4,5,6,7,8,9,10,11,12,13,14,15
 0017,BAT,BAT,0017,,,,fly-infested,caves.,,the moon,especially at midnight,,0017,,0017.
 0019,ELEMENTAL - Steam,STEAM ELEMENTAL,0019,,,,misty,hot springs.,,the fog,splitting the party,,0019,,0019.
 0021,KNIGHT,KNIGHT,0021,,,,fortified,castle.,,the rdmNOBLE's men,in the rdmNOBLE's estate,,0021,,0021.
-0024,BAT - Olitiau,OLITIAU BAT,0024,,,,deadly,ponds.,,willow trees,hiding monsters,,0024,,c
+0024,BAT - Olitiau,OLITIAU BAT,0024,,,,deadly,ponds.,,willow trees,hiding monsters,,0024,,0024.
+0025,CULTIST,CULTIST,0025,,,,mystical,monuments.,,pagan idols,that could curse you,,0025,,0025.

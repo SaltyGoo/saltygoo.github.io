@@ -295,5 +295,3 @@ Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equ
 <ins>Sigil</ins><br>
 Some spells mention a Sigil. It's your unique symbol. A spell cast with a Sigil takes 10 minutes to cast, but lasts forever. You can have as many Sigils up as you have Spell Dice.
 </details>
-
-[PDF](/assets/BaseRules.pdf

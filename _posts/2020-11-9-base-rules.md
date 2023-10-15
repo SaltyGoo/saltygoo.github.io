@@ -50,11 +50,11 @@ Your stats and skills cannot be higher than 10. If a stat becomes 0, you become 
 *Beau is running away from a troll. He rolls a D20 and adds his Dexterity for a total of 17. This is higher than 15 and means that Beau is out of reach in another location of his choice. However, Gretchen, Beau's ally, rolled 12. That means she hasn't escaped the troll, and both of them will have to keep fighting in the next room in the dungeon.*
 </details>
 
-A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.) and starts with a value of 5. When asked to roll for an action, you can use one of your skills instead of the stat the referee tells you to use if it would thematically make sense. Your skills are stored in your **Psyche**.
+A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.). When asked to roll for an action, if it would thematically make sense, for one of your skills, the roll becomes easier (a hard roll becomes a normal roll, a normal roll becomes an easy roll, and an easy roll becomes a success). Your skills are stored in your **Psyche**.
 
 <details markdown="1">
 <summary><i>Example: Using a Skill</i></summary>
-*Beau has 3 points of Willpower and 5 points of a skill named "Swamp Dweller". When trying to parley with a troll, the referee asks him to roll Willpower, but Beau argues that his Swamp Dweller skill makes as much sense to use. The referee agrees and Beau adds 5 to his roll instead of 3.*
+*Beau has a skill named "Swamp Dweller". When trying to parley with a troll, the referee asks him to make a hard Willpower roll, but Beau argues that his Swamp Dweller skill would make him more relatable for the monster. The referee agrees and Beau only needs to beat 15 on his roll instead of 20.*
 </details>
 
 <ins>**Hit Points**</ins> (or HP) is the amount of damage you can take before getting Wounded.
@@ -75,11 +75,11 @@ Small items like potions and daggers can be stacked in your inventory in packs o
 
 You cannot go above your psyche slot limit, but you can always forget a Skill, a Spell, or a Belief, or send a follower back home. You can’t, however, get rid of a scar like that.
 
-You can have as many **Beliefs** as you want, and they can be anything. You can change them and add more each time you level up. At the end of a game session, if you have taken a risk for one of your beliefs, you can increase one of your skills by 1. If a Skill reaches a score of 10 this way, you can remove one emotional scar.
+You can have as many **Beliefs** as you want, and they can be anything. You can change them and add more each time you level up. At the end of an adventure, if you have taken a deadly risk for one of your beliefs, you can either remove one of your emotional scars, gain a new skill related to your risky action or obtain a new Follower.
 
 <details markdown="1">
 <summary><i>Example: Using a Belief</i></summary>
-*Gretchen is fighting a dangerous troll. Her teammate Beau decides to leave his hiding spot to come to her rescue because he believes in selflessness. At the end of the session, he can increase one of his skills by 1 as a reward for having acted upon his Belief.*
+*Gretchen is fighting a dangerous troll. Her teammate Beau decides to leave his hiding spot to come to her rescue because he believes in selflessness. At the end of the adventure, a bard starts following him to chronicle his heroic adventures.*
 </details>
 </details>
 
@@ -217,11 +217,6 @@ Get drunk and get known! For each Valuable spent in such way, you gain a hangove
 <details markdown="1">
 <summary><ins>Build a Home</ins></summary>
 Spending a Valuable this way will give you 1 piece of mundane furniture. If you end up spending the equivalent of a Treasure, you also become the owner of a 30' x 30' structure of the shape you want.
-</details>
-
-<details markdown="1">
-<summary><ins>Train a Skill</ins></summary>
-Spending a Valuable this way will let you increase one of your skills by 1. If you end up spending the equivalent of a Treasure, you can learn a new skill of your choice instead and put 5 points in it.
 </details>
 
 _Some options open up when you have access to specific things:_

@@ -8,12 +8,12 @@ permalink: /class/priest
 
 <details markdown="1">
 <summary>Design Notes</summary>
-*Inspired by A Blasted, Cratered Land's [cleric](https://crateredland.blogspot.com/2019/01/the-cleric.html) by Velexiraptor which I love. I had been using it in my games for a year, sadly my players have a very very low tolerance for complexity and the 3 clerics characters that were played never ended up using the commands feature and I never ended up tracking the disfavors. After months of beating myself for not being a good DM, I had an epiphany inspired by a recent job editing an instruction manual: each domain is a template. Now the class starts simple and gets progressively more complex and hopefully will be easier to assimilate for the players!*
+*Inspired by A Blasted, Cratered Land's [cleric](https://crateredland.blogspot.com/2019/01/the-cleric.html) by Velexiraptor which I love. After using that version for a while, I started editing it to make it more simple for the players and the referee. Over time it became its own thing.*
 
-*So how is it different from a wizard? Well, first, not all templates give spells, but otherwise the priest can be seen as a conditional wizard: they can only cast spells when meeting certain conditions. These rules are pretty abusable by design though to encourage reckless fanatical behaviors. I hope to make many more sacraments! Especially to allow making a spell-less priest. These are just the ones that were relevant to my current game.*
-
-*Also I might redo the wizard like that, but instead of sacraments they are different spellbooks!*
+*This priest class can be seen as a conditional wizard: they can only cast spells when meeting certain conditions. These rules are pretty abusable by design, the goal being to encourage reckless fanatical behaviors.*
 </details>
+
+You have been ordained a **priest of the Church**. The Church is is universal across the Empire, united in its worship of the **Authority**. While its bishops and cardinals bicker over political and theological issues, local parishes celebrate thousands of different saints, martyrs and traditions.
 
 <ins>Starting Equipment</ins><br>
 Holy Vestments (including Hat), a Censer, your Holy Book
@@ -21,10 +21,10 @@ Holy Vestments (including Hat), a Censer, your Holy Book
 <ins>Starting Skills (+5)</ins><br>
 "The Holy Scriptures" and your choice of "Dead Languages", "Preaching" or "Inquisition"
 
-For every Priest template you have, you gain one new **Sacrament**.
+For every Priest template you have, you gain one new different **Sacrament**.
 
 ## Sacrament
-When you choose a Sacrament, you become imparted by the divine grace of your religion. Each sacrament is different and represents one facet of your faith. If a sacrament gives you a spell, it is stored in your Psyche and you can cast it _once_ between each rest.
+When you choose a Sacrament, you become imparted by the divine grace of the Authority. Each sacrament is different and represents one facet of your faith. If a sacrament gives you a spell, it is stored in your Psyche and you can cast it _once_ between each rest.
 
 <details markdown="1">
 <summary>How GLOG spells work</summary>
@@ -38,6 +38,8 @@ Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equ
 </details>
 
 Choices of Sacraments:
+
+_(with spells)_
 
 <details markdown="1">
 <summary><b>Anoint the sword of the Conqueror</b></summary>
@@ -127,13 +129,6 @@ Choices of Sacraments:
 </details>
 
 <details markdown="1">
-<summary><b>Parade the icons of the Faith</b></summary>
-- When you go into town, you draw audiences of pious [followers](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html). After your sermons, you can hire a number of believers equal to the Treasures you carry.
-- You can give a class level to your next follower.
-- You can command your followers as a group and they will follow your orders blindly.
-</details>
-
-<details markdown="1">
 <summary><b>Prostrate yourself before the Authority</b></summary>
 - You are considered judge, jury and executioner by the faithful.
 - When you punish someone for breaking the Law, you gain 1 Spell Die (until you spend it).
@@ -145,6 +140,15 @@ Choices of Sacraments:
 - You can rot organic matter with your touch. A few seconds spoil food, and 1 hour consumes a dead human.
 - You can consume one organic object in your inventory to gain 1 spell Die (until you rest).
 - Roll 1D4, you gain the following spell: 1. [Cordiceps Apotheosis](/2020/11/12/cordiceps-apotheosis/), 2. [Fey Ring](/2020/11/13/fey-ring/), 3. [Hallucinogenesis](/2020/11/13/hallucinogenesis/), 4. [Potpourri](/2020/11/13/potpourri/)
+</details>
+
+_(without spells)_
+
+<details markdown="1">
+<summary><b>Parade the icons of the Faith</b></summary>
+- When you go into town, you draw audiences of pious [followers](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html). After your sermons, you can hire a number of believers equal to the Treasures you carry.
+- You can give a class level to your next follower.
+- You can command your followers as a group and they will follow your orders blindly.
 </details>
 
 <details markdown="1">

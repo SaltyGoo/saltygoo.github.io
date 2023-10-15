@@ -12,7 +12,7 @@ _You have been ordained a **priest of the Church**. The Church is universal acro
 
 <ins>Starting Equipment</ins><br>
 Holy Vestments, a Censer, and your Holy Book 
-</br> _You need one of each to use your priest abilities_
+<br> _You need one of each to use your priest abilities_
 
 <ins>Starting Skills</ins><br>
 "The Holy Scriptures" and your choice of "Dead Languages", "Preaching" or "Inquisition"

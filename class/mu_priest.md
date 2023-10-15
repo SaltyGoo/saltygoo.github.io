@@ -6,20 +6,15 @@ permalink: /class/priest
 
 <img align="right" width=230px src="https://images.squarespace-cdn.com/content/v1/5a7a459818b27d32248b6c7d/1519392537451-8B05C1VZDSUQD6BQZH5D/Bishop+%26+Bagg+Illustration+Black.png">
 
-<details markdown="1">
-<summary>Design Notes</summary>
-*Inspired by A Blasted, Cratered Land's [cleric](https://crateredland.blogspot.com/2019/01/the-cleric.html) by Velexiraptor which I love. After using that version for a while, I started editing it to make it more simple for the players and the referee. Over time it became its own thing.*
-
-*This priest class can be seen as a conditional wizard: they can only cast spells when meeting certain conditions. These rules are pretty abusable by design, the goal being to encourage reckless fanatical behaviors.*
-</details>
+###### A class inspired by A Blasted, Cratered Land's [cleric](https://crateredland.blogspot.com/2019/01/the-cleric.html) by Velexiraptor. 
 
 _You have been ordained a **priest of the Church**. The Church is universal across the Empire, united in its worship of the **Authority**. While bishops and cardinals bicker over political and theological issues, local parishes celebrate thousands of different saints, martyrs and traditions._
 
 <ins>Starting Equipment</ins><br>
 Holy Vestments, a Censer, and your Holy Book 
-_You need one of each to use your priest abilities_
+</br> _You need one of each to use your priest abilities_
 
-<ins>Starting Skills (+5)</ins><br>
+<ins>Starting Skills</ins><br>
 "The Holy Scriptures" and your choice of "Dead Languages", "Preaching" or "Inquisition"
 
 For every Priest template you have, you gain one new different **Sacrament**.
@@ -38,7 +33,7 @@ Every time you roll doubles you get closer to *Catastrophe*.
 Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equal to or below your doom score, you trigger a [catastrophe](/list/spell-catastrophe). Triples give 3 Points, and Quadruples, 6 points.
 </details>
 
-Choices of Sacraments:
+<ins>Choices of Sacraments:</ins>
 
 _(with spells)_
 

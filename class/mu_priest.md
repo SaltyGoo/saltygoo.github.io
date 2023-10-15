@@ -13,7 +13,7 @@ permalink: /class/priest
 *This priest class can be seen as a conditional wizard: they can only cast spells when meeting certain conditions. These rules are pretty abusable by design, the goal being to encourage reckless fanatical behaviors.*
 </details>
 
-You have been ordained a **priest of the Church**. The Church is is universal across the Empire, united in its worship of the **Authority**. While its bishops and cardinals bicker over political and theological issues, local parishes celebrate thousands of different saints, martyrs and traditions.
+_You have been ordained a **priest of the Church**. The Church is is universal across the Empire, united in its worship of the **Authority**. While its bishops and cardinals bicker over political and theological issues, local parishes celebrate thousands of different saints, martyrs and traditions._
 
 <ins>Starting Equipment</ins><br>
 Holy Vestments (including Hat), a Censer, your Holy Book

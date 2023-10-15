@@ -17,7 +17,7 @@ Holy Vestments, a Censer, and your Holy Book
 <ins>Starting Skills</ins><br>
 "The Holy Scriptures" and your choice of "Dead Languages", "Preaching" or "Inquisition"
 
-For every Priest template you have, you gain one new different **Sacrament**.
+For every Priest template you have, you choose one new **Sacrament**.
 
 ## Sacrament
 When you choose a Sacrament, you become imparted by the divine grace of the Authority. Each sacrament is different and represents one facet of your faith. If a sacrament gives you a spell, it is stored in your Psyche and you can cast it _once_ between each rest.

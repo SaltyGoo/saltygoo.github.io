@@ -1,4 +1,4 @@
-_posts---
+---
 layout: post
 tags: spell psychomancy
 title: Hallucinogenesis

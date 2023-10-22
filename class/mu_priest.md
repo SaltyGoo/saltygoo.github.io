@@ -33,8 +33,7 @@ Every time you roll doubles you get closer to *Catastrophe*.
 Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equal to or below your doom score, you trigger a [catastrophe](/list/spell-catastrophe). Triples give 3 Points, and Quadruples, 6 points.
 </details>
 
-<ins>Choices of Sacraments:</ins>
-
+<ins>Choices of Sacraments:</ins><br>
 _(with spells)_
 
 <details markdown="1">

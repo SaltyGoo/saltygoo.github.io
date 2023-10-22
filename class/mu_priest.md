@@ -40,7 +40,7 @@ _(with spells)_
 <summary><b>Anoint the sword of the Conqueror</b></summary>
 - You can spend Spell Dice as you attack and add the sum to your attack and damage rolls.
 - When you hit an enemy with a weapon or you take damage from a weapon, you gain 1 Spell Die for your next combat turn.
-- Roll 1D4, you gain the following spell: 1. [Bloodlust](/2020/11/13/bloodlust), 2. [Blood Scabbard](/2020/11/13/blood-scabbard), 3. [Cure](/2020/11/13/cure), 4. [Nine Lives](/2020/11/12/nine-lives)
+- Roll 1D4, you gain the following spell: 1. [Thaumaturgy](/2020/11/13/thaumaturgy), 2. [Blood Scabbard](/2020/11/13/blood-scabbard), 3. [Cure](/2020/11/13/cure), 4. [Nine Lives](/2020/11/12/nine-lives)
 </details>
 
 <details markdown="1">
@@ -84,14 +84,14 @@ _(with spells)_
 <details markdown="1">
 <summary><b>Commune with the Sacred Beast</b></summary>
 - Choose what kind of animal is the Sacred Beast. You can speak with this animal.
-- As long as you are behaving like the chosen animal you have at least 1 Spell Dice.
+- As long as you are act like what the chosen animal represents you have at least 1 Spell Dice.
 - Roll 1D4, you gain the following spell relating to the chosen animal: 1. [Animorph](/2020/11/12/animorph), 2. [Bestow Animal Aspect](/2020/11/12/bestow-aspect), 3. [The Animal Allure](/2020/11/12/animal-allure), 4. [Call of the Animal](/2020/11/12/call-of-the-animal).
 </details>
 
 <details markdown="1">
 <summary><b>Contact the Voices-from-Beyond</b></summary>
 - Roll on the [D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html).
-- When the referee wrongfully guesses why you are casting a spell (ask them!), add 1 Spell Die to it.
+- You have as many daily Spell Dice as you have mutations.
 - Roll 1D4, you gain the following spell: 1. [Conjure](/2020/11/12/conjure/), 2. [Genoplasm](/2020/11/13/genoplasm/), 3. [Petition](/2020/11/12/petition/), 4. [Transcendence](/2020/11/13/transcendence/)
 </details>
 
@@ -104,8 +104,8 @@ _(with spells)_
 
 <details markdown="1">
 <summary><b>Drink the blood of your enemies</b></summary>
-- Your spells cannot be resisted by creatures that have killed or wounded one of your companions.
-- When you do to others what they have done to you, you gain 1 Spell Die (until you rest).
+- Every time somebody wrongs you, you can note the wrong in your Psyche. You know instinctively when you are getting closer to these people.
+- Every time you get revenge from one of the wrongs in your Psyche, you gain 1 Spell Die (until you rest).
 - Roll 1D4, you gain the following spell: 1. [Karmic Retribution](/2020/11/13/karmic-retribution/), 2. [Petition](/2020/11/12/petition/), 3. [Relentless Vigor](/2020/11/13/relentless-vigor/), 4. [Undying Oath](/2020/11/13/undying-oath/)
 </details>
 
@@ -132,8 +132,8 @@ _(with spells)_
 
 <details markdown="1">
 <summary><b>Return the dead to Nature</b></summary>
-- You can rot organic matter with your touch. A few seconds spoil food, and 1 hour consumes a dead human.
-- You can consume one organic object in your inventory to gain 1 spell Die (until you rest).
+- You can rot dead organic matter with your touch. A few seconds spoil food, and 1 hour consumes a dead human.
+- You can consume one organic object in your inventory to gain 1 spell Die (for the next 10 minutes).
 - Roll 1D4, you gain the following spell: 1. [Cordiceps Apotheosis](/2020/11/12/cordiceps-apotheosis/), 2. [Fey Ring](/2020/11/13/fey-ring/), 3. [Hallucinogenesis](/2020/11/13/hallucinogenesis/), 4. [Potpourri](/2020/11/13/potpourri/)
 </details>
 
@@ -148,7 +148,7 @@ _(without spells)_
 
 <details markdown="1">
 <summary><b>Offer a Lamb to the Altar of Worship</b></summary>
-- You can speak the Holy Language.
-- You can spend 10 minutes at any shrine to learn the health and disposition of the divinity in residence.
-- Once per game you can ask a divinity a question, which they will answer with a hint.
+- You can speak the Holy Language of Angels, Demons, Gods and Babies.
+- You can spend 10 minutes at any shrine to learn the health, goal and disposition of the divinity in residence.
+- Once per session you can ask a divinity a question, which they will answer with a hint.
 </details>

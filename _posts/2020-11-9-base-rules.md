@@ -199,7 +199,7 @@ Each object you find has a certain value assigned by the referee:
 - valuable (bag of gold coins)
 - treasure (bag of gems)
 
-A bag of coins takes an Inventory slot. When in town, you can trade items from one category for another in the same category (at the referee's discretion, just say what you are looking for). Alternatively, 4 mundane objects are worth 1 valuable, and 4 valuables are worth 1 treasure.
+A bag of coins takes an Inventory slot. When in town, you can trade items from one category for another in the same category (at the referee's discretion, just say what you are looking for). Alternatively, 4 mundane objects are worth 1 valuable, and 4 valuables are worth 1 treasure. [More details for the referee here!](https://saltygoo.github.io/2024/06/26/currency/)
 </details>
 
 ---

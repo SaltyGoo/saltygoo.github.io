@@ -24,7 +24,7 @@ You fail all rolls against your charmer. If you attack, hurt, or say anything ba
 
 <details markdown="1">
 <summary>Confused</summary>
-Roll a D6. You must spend your turn interacting with: 1) the player on your right; 2) the player on your left; 3) yourself; 4) the closest monster; 5) the environment; 6) oblivion.
+Roll a D6. You move in a direct line towards: 1) the player on your right; 2) the player on your left; 3) the furthest monster; 4) the closest monster; 5) the floor; 6) the sky.
 </details>
 
 <details markdown="1">

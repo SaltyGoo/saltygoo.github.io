@@ -1,13 +1,15 @@
-ID,Alphabetical,Count: 11/27,41%,4,5,6,7,8,9,10,11,12,13,14,15
+ID,Alphabetical,Count: 13/30,43%,4,5,6,7,8,9,10,11,12,13,14,15
 0000,,,0000,This,two-hex,JUNGLE is known for its, ,villages.,Beware of,the weather, ,while you travel there. It is inhabited by,,and also,
 0008,BIRD - Boltforager,BOLTFORAGER,0008,,three-hex,,orange,BIRDS.,,carcasses,carrying diseases,,0008,,0008.
 0009,BAT - Kongamato,KONGAMATO,0009,,four-hex,,freshwater,river.,,the water,at night,,0009,,0009.
 0010,WIZARD,WIZARD,0010,,five-hex,,mysterious,wizard tower.,,magical traps,that a local <a href='/monsters/wizard'>WIZARD</a> summoned,,0010,,0010.
 0015,ELEMENTAL - Earth,EARTH ELEMENTAL,0015,,six-hex,,rocky,boulders.,,tremors,toppling trees,,0015,,0015.
 0016,BASILISK,BASILISK,0016,,,,petrified,sulfur ponds.,,geodesic fumes,turning people into stone,,0016,,0016.
-0017,BAT,BAT,0017,,,,fly-infested,caves.,,the moon,especially at midnight,,0017,,0017.
+0017,BAT,BAT,0017,,,,fly-infested,caves.,,the moonlight,especially at midnight,,0017,,0017.
 0019,ELEMENTAL - Steam,STEAM ELEMENTAL,0019,,,,misty,hot springs.,,the fog,splitting the party,,0019,,0019.
 0023,HARPY,HARPY,0023,,,,god-forsaken,ruined tower.,,sounds,driving you mad,,0023,,0023.
 0024,BAT - Olitiau,OLITIAU BAT,0024,,,,deadly,ponds.,,vine-chocked trees,hiding monsters,,0024,,0024.
 0025,CULTIST,CULTIST,0025,,,,mystical,monuments.,,pagan idols,that could curse you,,0025,,0025.
 0027,CULTIST - Cannibal,CANNIBAL CULTIST,0027,,,,deceptive,cannibal village.,,the serial killer,near the cemetary,,0027,,0027.
+0029,CULTIST - Tiger,TIGER CULTIST,0028,,,,hidden,tree-top huts.,,mysterious tigers,in the trees,,0029,,0029.
+0030,CULTIST - Dream,DREAM CULTIST,0030,,,,sopporific,poppies.,,the local spice,making people hallucinate,,0030,,0030.

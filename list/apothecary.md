@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /list/apothecary
+title: Salty Apothecary
+---
+
 <ins>Curses</ins>
 
 {% capture posts %}

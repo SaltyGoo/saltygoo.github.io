@@ -7,7 +7,7 @@ title: Bat, Olitiau
 
 #####  Mythtical monster originating from Cameroonian and Congolese folklore.
 
-**A poisonous clawed bat.** Olitiaus live in tree-top colonies near rivers. They hunt at night by biting their preys and waiting for their venom to take effect. A small carnivorous beast.
+**A venomous clawed bat.** Olitiaus live in tree-top colonies near rivers. They hunt at night by biting their preys and waiting for their venom to take effect. A small carnivorous beast.
 
 _Imagine a white-furred bat the size of a dog with sharp claws coming out of its ochre, suede-like wings._
 
@@ -36,9 +36,7 @@ If you have captured this beast, you can spend the equivalent of 1 bag of gold i
 
 <details markdown="1">
 <summary style="font-weight: bold;">Hunt It</summary>
-Olitiaus are cute enough to be pets, but the most valuable part of their body is their venom.
-
-<span class="alchemy"> **Olitiau Venom**. In wound. Save or start [dying](/2020/11/10/extra-rules/#conditions). </span>
+Olitiaus are cute enough to be pets, but the most valuable part of their body is their [venom](/2024/01/01/olitiau-venom/).
 
 If you have access to an artisan and a workshop, you can spend loot between two adventures to create something with parts of the beast. The object you craft can be anything mostly made of the provided materials. If you use mundane tools, the result will be mundane; if you spent at least a bag of gold on it, the object will be special; and if you spend the equivalent of a treasure for the tools, it will be magical. Discuss what you want with the referee.
 </details>

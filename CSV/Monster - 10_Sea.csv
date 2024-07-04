@@ -1,11 +1,11 @@
 ID,Monster Name,Count: 8/32,25%,4,5,6,7,8,9,10,11,12,13,14,15
 0000,,,0000,This,three-hex,SEA is known for its,bountiful,fisheries.,Beware of the,rough weather,,when you travel there. It is inhabited by,,and also,
 0003,ELEMENTAL - Air,AIR ELEMENTAL,0003,,four-hex,,windy,sky.,,strong winds,tearing sails,,0003,,0003.
-0005,GRIFFON,GRIFFON,0005,,five-hex,,sunny,days.,,stone spires,splitting the waves,,0005,,0005.
+0005,GRIFFON,GRIFFON,0005,,five-hex,,sun-kissed,nests.,,stone spires,splitting the waves,,0005,,0005.
 0010,WIZARD,WIZARD,0010,,six-hex,,mysterious,island with a wizard tower.,,magical traps,that a local <a href='/monsters/wizard'>WIZARD</a> summoned,,0010,,0010.
 0011,WIZARD - War,WAR WIZARD,0011,,seven-hex,,patrolled,trade routes.,,military patrols,stopping trespassers,,0011,,0011.
 0019,ELEMENTAL - Steam,STEAM ELEMENTAL,0019,,eight-hex,,foggy,hot waters.,,fog,around the high reefs,,0019,,0019.
 0021,KNIGHT,KNIGHT,0021,,nine-hex,,protected,island-fortress.,,imperial fleet,in the kingdom's border,,0021,,0021.
 0023,HARPY,HARPY,0023,,ten-hex,,ruined,barren islands.,,songs of birds,driving you mad,,0023,,0023.
-0032,FISH,GIANT FISH,0032,,eleven-hex,,deep,currents.,,fishernen,chasing <a href='/monsters/fish'>GIANT FISHES,,0032,,0032.
+0032,FISH,GIANT FISH,0032,,eleven-hex,,deep,currents.,,fishernen,chasing <a href='/monsters/fish'>GIANT FISHES</a>,,0032,,0032.
 ,,,,,twelve-hex,,,,,,,,,,

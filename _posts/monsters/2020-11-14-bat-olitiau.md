@@ -21,7 +21,7 @@ _Imagine a white-furred bat the size of a dog with sharp claws coming out of its
 
 ##### <span class="tooltip" data-tooltip="Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat">→ How to read monster stats</span>
 
-It can **hear** very well, allowing it to easily spot their preys in the dark, even invisible ones.
+It **can** hear very well, allowing it to easily spot their preys in the dark, even invisible ones.
 
 **Attacks (1/round)**
 

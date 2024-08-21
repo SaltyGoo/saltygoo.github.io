@@ -1,4 +1,4 @@
-ID,Monster Name,Count: 15/34,44%,4,5,6,7,8,9,10,11,12,13,14,15
+ID,Monster Name,Count: 16/35,46%,4,5,6,7,8,9,10,11,12,13,14,15
 0000,,,0000,This hex holds a CITY known for its,governmental,architecture,and its,,population. Beware of the,CITY GUARD,,when visiting. The city is home to,,and also,
 0005,GRIFFON,GRIFFON,0005,,royal,aviary,,proud,,sky bridges,protecting the palace,,0005,,0005.
 0010,WIZARD,WIZARD,0010,,mysterious,wizard tower,,educated,,magical traps,that a local <a href='/monsters/wizard'>WIZARD</a> summoned,,0010,,0010.
@@ -14,4 +14,5 @@ ID,Monster Name,Count: 15/34,44%,4,5,6,7,8,9,10,11,12,13,14,15
 0027,CULTIST - Cannibal,CANNIBAL CULTIST,0027,,bloody,organ markets,,cannibal,,cooks,hiding serial killers,,0027,,0027.
 0030,CULTIST - Dream,DREAM CULTIST,0030,,esotheric,drug dens,,drugged,,spice dealers,dulling your senses,,0030,,0030.
 0033,ZOMBIE,ZOMBIE,0033,,necromantic,cemetary,,plagued,,dead bodies,carrying the <a href='/2024/01/01/ZombiePlague'>plague</a>,,0033,,0033.
-0034,MUMMY,MUMMY,,,,,,,,,,,,,
+0034,TOMB GUARD,TOMB GUARD,0034,,ancient,tombs,,stern,,ancient statues,protecting the royal tomb,,0034,,0034.
+0035,MUMMY,MUMMY,,,,,,,,,,,,,

@@ -1,4 +1,4 @@
-ID,Monster Name,Count: 11/32,34%,4,5,6,7,8,9,10,11,12,13,14,15
+ID,Monster Name,Count: 13/35,37%,4,5,6,7,8,9,10,11,12,13,14,15
 0000,,,0000,These ,two,-hex,dark,tunnels,are dangerous because of the,fragile,stalactites,there. They are roamed by,other adventurers,and,other terrifying things.
 0001,MEPHIT - Flame,FLAME MEPHIT,0001,,three,,hot,tunnels to a fire temple,,burning,embers,,0001,,0001.
 0002,BAT - Arctic,ARCTIC BAT,0002,,four,,cold,ice caves,,freezing,snow,,0002,,0002.
@@ -11,3 +11,5 @@ ID,Monster Name,Count: 11/32,34%,4,5,6,7,8,9,10,11,12,13,14,15
 0025,CULTIST,CULTIST,0025,,,,corrupted,cult compounds,,cursed,idols,,0025,,0025.
 0026,CULTIST - Hivemind,HIVEMIND CULTIST,0026,,,,mind-carved,metal tunnels,,mind-controlling,psychic barrier,,0026,,0026.
 0032,FISH,GIANT FISH,0032,,,,flooded,underground rivers,,submerged,currents,,0032,,0032.
+0034,TOMB GUARD,TOMB GUARD,0034,,,,sandstone,tombs,,trapped,sarcophagi,,0034,,0034.
+0035,MUMMY,MUMMY,,,,,,,,,,,,,

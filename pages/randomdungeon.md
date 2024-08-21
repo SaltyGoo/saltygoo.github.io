@@ -56,6 +56,54 @@
         <option value="Water">Elemental Water</option>																	
     </select>
 
+    <!-- Generate Button -->
+    <button id="generateBtn">Generate</button>
+
+    <!-- Result Display -->
+    <div id="result"></div>
+
+    <!-- jQuery library -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <!-- PapaParse library (for parsing CSV) -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+
+    <!-- Script to Load CSV and Handle Button Click -->
+    <script>
+        $(document).ready(function() {
+            $("#generateBtn").click(function() {
+                var selectedValue = $("#climate1").val(); // Get the selected value
+
+                if (selectedValue) {
+                    // Load the CSV file
+                    $.get("/path/to/your/Monster - Index.csv", function(data) {
+                        // Parse the CSV data
+                        Papa.parse(data, {
+                            header: true,
+                            complete: function(results) {
+                                var filteredRows = results.data.filter(function(row) {
+                                    return row[Object.keys(row)[1]].startsWith(selectedValue) && row[Object.keys(row)[2]] === "TRUE";
+                                });
+
+                                if (filteredRows.length > 0) {
+                                    var selectedValues = [];
+                                    for (var i = 0; i < 3 && i < filteredRows.length; i++) {
+                                        selectedValues.push(filteredRows[i][Object.keys(filteredRows[i])[0]]);
+                                    }
+
+                                    $("#result").html("Generated values: " + selectedValues.join(", "));
+                                } else {
+                                    $("#result").html("No matching rows found.");
+                                }
+                            }
+                        });
+                    });
+                } else {
+                    $("#result").html("Please select a climate option.");
+                }
+            });
+        });
+    </script>
       
   </body>
 </html>

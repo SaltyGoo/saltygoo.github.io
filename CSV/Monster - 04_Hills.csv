@@ -1,6 +1,6 @@
-ID,Alphabetical,Count: 17/31,55%,4,5,6,7,8,9,10,11,12,13,14,15
+ID,Alphabetical,Count: 18/34,53%,4,5,6,7,8,9,10,11,12,13,14,15
 0000,,,0000,This,three-hex,HIGHLAND is known for its,,villages.,Beware of,the weather, ,while you travel there. It is inhabited by,,and also,
-0005,GRIFFON,GRIFFON,0005,,four-hex,,sunny,mesas.,,predators,if you are alone,,0005,,0005.
+0005,GRIFFON,GRIFFON,0005,,four-hex,,sun-kissed,mesas.,,predators,if you are alone,,0005,,0005.
 0007,MEPHIT - Gravel,GRAVEL MEPHIT,0007,,five-hex,,pebble,mounds.,,gravel pits,that could trap you,,0007,,0007.
 0008,BIRD - Boltforager,BOLTFORAGER,0008,,six-hex,,orange,dust.,,bloated carcasses,carrying diseases,,0008,,0008.
 0010,WIZARD,WIZARD,0010,,seven-hex,,mysterious,wizard tower.,,magical traps,that a local <a href='/monsters/wizard'>WIZARD</a> summoned,,0010,,0010.
@@ -17,3 +17,4 @@ ID,Alphabetical,Count: 17/31,55%,4,5,6,7,8,9,10,11,12,13,14,15
 0027,CULTIST - Cannibal,CANNIBAL CULTIST,0027,,,,deceptive,cannibal village.,,the serial killer,near the cemetary,,0027,,0027.
 0028,CULTIST - Pig,PIG CULTIST,0028,,,,dirty,pigsties.,,lurid bacchanalia,breeding sin,,0028,,0028.
 0031,HAG - Nigth,NIGHT HAG,0031,,,,crooked,cottages.,,old women,near the a <a href='/monsters/hag-night'>WITCH</a>'s cottage.,,0031,,0031.
+0033,ZOMBIE,ZOMBIE,0033,,,,dismal,cemetary.,,dead bodies,carrying the <a href='/2024/01/01/ZombiePlague'>plague</a>,,0033,,0033.

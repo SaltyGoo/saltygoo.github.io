@@ -1,4 +1,4 @@
-ID,Monster Name,Count: 13/32,41%,4,5,6,7,8,9,10,11,12,13,14,15
+ID,Monster Name,Count: 15/34,44%,4,5,6,7,8,9,10,11,12,13,14,15
 0000,,,0000,This hex holds a CITY known for its,governmental,architecture,and its,,population. Beware of the,CITY GUARD,,when visiting. The city is home to,,and also,
 0005,GRIFFON,GRIFFON,0005,,royal,aviary,,proud,,sky bridges,protecting the palace,,0005,,0005.
 0010,WIZARD,WIZARD,0010,,mysterious,wizard tower,,educated,,magical traps,that a local <a href='/monsters/wizard'>WIZARD</a> summoned,,0010,,0010.
@@ -7,9 +7,11 @@ ID,Monster Name,Count: 13/32,41%,4,5,6,7,8,9,10,11,12,13,14,15
 0017,BAT,BAT,0017,,gothic,clocktower,,gloomy,,dark alleys,at night,,0017,,0017.
 0020,BIRD - Hawk,HAWK,0020,,tall,spires,,patrician,,watchtowers,overlooking the streets,,0020,,0020.
 0021,KNIGHT,KNIGHT,0021,,royal,castle,,chivalrous,,<a href='/monsters/knight'>KNIGHTS</a>,protecting the rdmNOBLE,,0021,,0021.
-0022,KNIGHT - Gish,ASTRAL KNIGHT,0022,,astral,skyport,,star-worshipping,,sky ships,leading to the ASTRAL SEA,,0022,,0022.
+0022,KNIGHT - Astral,ASTRAL KNIGHT,0022,,astral,skyport,,star-worshipping,,sky ships,leading to the ASTRAL SEA,,0022,,0022.
 0023,HARPY,HARPY,0023,,defaced,acropolis,,bitter,,hateful crones,harassing you,,0023,,0023.
 0025,CULTIST,CULTIST,0025,,occult,shrines,,heretical,,pagan idols,that could curse you,,0025,,0025.
 0026,CULTIST - Hivemind,HIVEMIND CULTIST,0026,,mind-sculpted,planetarium,,psionic,,psychic police,tracking your movements,,0026,,0026.
 0027,CULTIST - Cannibal,CANNIBAL CULTIST,0027,,bloody,organ markets,,cannibal,,cooks,hiding serial killers,,0027,,0027.
 0030,CULTIST - Dream,DREAM CULTIST,0030,,esotheric,drug dens,,drugged,,spice dealers,dulling your senses,,0030,,0030.
+0033,ZOMBIE,ZOMBIE,0033,,necromantic,cemetary,,plagued,,dead bodies,carrying the <a href='/2024/01/01/ZombiePlague'>plague</a>,,0033,,0033.
+0034,MUMMY,MUMMY,,,,,,,,,,,,,

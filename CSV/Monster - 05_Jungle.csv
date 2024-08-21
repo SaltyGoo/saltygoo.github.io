@@ -1,4 +1,4 @@
-ID,Alphabetical,Count: 14/31,45%,4,5,6,7,8,9,10,11,12,13,14,15
+ID,Alphabetical,Count: 16/34,47%,4,5,6,7,8,9,10,11,12,13,14,15
 0000,,,0000,This,two-hex,JUNGLE is known for its, ,villages.,Beware of,the weather, ,while you travel there. It is inhabited by,,and also,
 0008,BIRD - Boltforager,BOLTFORAGER,0008,,three-hex,,orange,BIRDS.,,carcasses,carrying diseases,,0008,,0008.
 0009,BAT - Kongamato,KONGAMATO,0009,,four-hex,,freshwater,river.,,the water,at night,,0009,,0009.
@@ -14,3 +14,5 @@ ID,Alphabetical,Count: 14/31,45%,4,5,6,7,8,9,10,11,12,13,14,15
 0029,CULTIST - Tiger,TIGER CULTIST,0028,,,,hidden,tree-top huts.,,mysterious tigers,in the trees,,0029,,0029.
 0030,CULTIST - Dream,DREAM CULTIST,0030,,,,sopporific,poppies.,,the local spice,making people hallucinate,,0030,,0030.
 0031,HAG - Nigth,NIGHT HAG,0031,,,,crooked,cottages.,,old women,near the a <a href='/monsters/hag-night'>WITCH</a>'s cottage.,,0031,,0031.
+0033,ZOMBIE,ZOMBIE,0033,,,,dismal,cemetary.,,dead bodies,carrying the <a href='/2024/01/01/ZombiePlague'>plague</a>,,0033,,0033.
+0034,MUMMY,MUMMY,,,,,,,,,,,,,

@@ -71,44 +71,58 @@
 <script>
     $(document).ready(function() {
         $("#generateBtn").click(function() {
-            var selectedValue = $("#climate1").val(); // Get the selected value
+            var selectedValue1 = $("#climate1").val(); // Get the selected value from climate1
+            var selectedValue2 = $("#climate2").val(); // Get the selected value from climate2
 
-            if (selectedValue) {
+            if (selectedValue1 || selectedValue2) {
                 // Load the CSV file
                 $.get("/CSV/Monster - Index.csv", function(data) {
                     // Parse the CSV data
                     Papa.parse(data, {
                         header: true,
                         complete: function(results) {
-                            var filteredValues = [];
+                            var uniqueRandomValues1 = [];
+                            var uniqueRandomValues2 = [];
 
-                            // Find the index of the column that matches the selectedValue
-                            var columnIndex = results.meta.fields.indexOf(selectedValue);
+                            function getRandomValues(selectedValue) {
+                                var filteredValues = [];
+                                var columnIndex = results.meta.fields.indexOf(selectedValue);
 
-                            if (columnIndex !== -1) { // Ensure the column exists
-                                // Filter the rows
-                                results.data.forEach(function(row) {
-                                    if (row[selectedValue] === "TRUE") { // Check if the cell in the selected column has "TRUE"
-                                        filteredValues.push(row[Object.keys(row)[0]]); // Add the value from the first column
+                                if (columnIndex !== -1) { // Ensure the column exists
+                                    // Filter the rows
+                                    results.data.forEach(function(row) {
+                                        if (row[selectedValue] === "TRUE") { // Check if the cell in the selected column has "TRUE"
+                                            filteredValues.push(row[Object.keys(row)[0]]); // Add the value from the first column
+                                        }
+                                    });
+
+                                    // Randomly select 3 unique values
+                                    var selectedValues = [];
+                                    while (selectedValues.length < 3 && filteredValues.length > 0) {
+                                        var randomIndex = Math.floor(Math.random() * filteredValues.length);
+                                        selectedValues.push(filteredValues.splice(randomIndex, 1)[0]);
                                     }
-                                });
 
-                                // Randomly select 3 unique values
-                                var uniqueRandomValues = [];
-                                while (uniqueRandomValues.length < 3 && filteredValues.length > 0) {
-                                    var randomIndex = Math.floor(Math.random() * filteredValues.length);
-                                    uniqueRandomValues.push(filteredValues.splice(randomIndex, 1)[0]);
+                                    return selectedValues;
+                                } else {
+                                    return ["No matching column found for the selected climate."];
                                 }
-
-                                $("#result").html("Generated values: " + uniqueRandomValues.join(", "));
-                            } else {
-                                $("#result").html("No matching column found for the selected climate.");
                             }
+
+                            if (selectedValue1) {
+                                uniqueRandomValues1 = getRandomValues(selectedValue1);
+                            }
+                            if (selectedValue2) {
+                                uniqueRandomValues2 = getRandomValues(selectedValue2);
+                            }
+
+                            $("#result").html("Generated values from Climate 1: " + uniqueRandomValues1.join(", ") +
+                                              "<br>Generated values from Climate 2: " + uniqueRandomValues2.join(", "));
                         }
                     });
                 });
             } else {
-                $("#result").html("Please select a climate option.");
+                $("#result").html("Please select options for both climates.");
             }
         });
     });

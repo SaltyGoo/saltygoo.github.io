@@ -68,7 +68,6 @@
     <!-- PapaParse library (for parsing CSV) -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
 
-    <!-- Script to Load CSV and Handle Button Click -->
 <script>
     $(document).ready(function() {
         $("#generateBtn").click(function() {
@@ -81,29 +80,29 @@
                     Papa.parse(data, {
                         header: true,
                         complete: function(results) {
-                            var filteredRows = results.data.filter(function(row) {
-                                // Assuming the second column to be checked starts with selectedValue and third column contains TRUE
-                                return row[Object.keys(row)[1]].startsWith(selectedValue) && row[Object.keys(row)[2]] === "TRUE";
-                            });
+                            var filteredValues = [];
 
-                            if (filteredRows.length > 0) {
-                                var uniqueRandomValues = [];
-                                var indices = [];
+                            // Find the index of the column that matches the selectedValue
+                            var columnIndex = results.meta.fields.indexOf(selectedValue);
 
-                                while (uniqueRandomValues.length < 3 && indices.length < filteredRows.length) {
-                                    // Generate a random index
-                                    var randomIndex = Math.floor(Math.random() * filteredRows.length);
-                                    
-                                    // Check if this index has already been used
-                                    if (!indices.includes(randomIndex)) {
-                                        indices.push(randomIndex);
-                                        uniqueRandomValues.push(filteredRows[randomIndex][Object.keys(filteredRows[randomIndex])[0]]);
+                            if (columnIndex !== -1) { // Ensure the column exists
+                                // Filter the rows
+                                results.data.forEach(function(row) {
+                                    if (row[selectedValue] === "TRUE") { // Check if the cell in the selected column has "TRUE"
+                                        filteredValues.push(row[Object.keys(row)[0]]); // Add the value from the first column
                                     }
+                                });
+
+                                // Randomly select 3 unique values
+                                var uniqueRandomValues = [];
+                                while (uniqueRandomValues.length < 3 && filteredValues.length > 0) {
+                                    var randomIndex = Math.floor(Math.random() * filteredValues.length);
+                                    uniqueRandomValues.push(filteredValues.splice(randomIndex, 1)[0]);
                                 }
 
                                 $("#result").html("Generated values: " + uniqueRandomValues.join(", "));
                             } else {
-                                $("#result").html("No matching rows found.");
+                                $("#result").html("No matching column found for the selected climate.");
                             }
                         }
                     });

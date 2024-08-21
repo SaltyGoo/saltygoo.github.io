@@ -23,11 +23,11 @@ _Imagine a tall sandstone statue. Impassible, immobile, proud. It clutches an ov
 
 It is **immune** to anything that would't damage a rock, but is weaker where its 5 canopic jars are. Hitting a jar is a hard roll and destroys it. When there are no jars left, the tomb guard is deactivated.
 
-- **Face Jar.** Holds a pickled heart. Spreads everybody closeby with ancient blood when broken.
-- **Chest Jar.** Holds pickled longs. Screams an ancient curse (non-magical) when broken.
-- **Belly Jar.** Holds a pickled stomach. Spreads everybody closeby with acid when broken (1D4 dmg).
-- **Back Jar.** Holds pickled intestines. Releases animated strangling guts (1 HP).
-- **Groin Jar.** Holds a pickled brain. Releases a hostile floating [brain](/monsters/pickled-brain)).
+- <ins>Face Jar.</ins> Holds a pickled heart. Spreads ancient blood around when broken.
+- <ins>Chest Jar.</ins> Holds pickled longs. Screams an ancient curse (non-magical) when broken.
+- <ins>Belly Jar.</ins> Holds a pickled stomach. Spreads acid around when broken (1D4 dmg).
+- <ins>Back Jar.</ins> Holds pickled intestines. Releases animated strangling guts (1 HP).
+- <ins>Groin Jar.</ins> Holds a pickled brain. Releases a hostile floating [brain](/monsters/pickled-brain)).
 
 **Attacks (1/round)**
 
@@ -38,6 +38,18 @@ It is **immune** to anything that would't damage a rock, but is weaker where its
 <summary style="font-weight: bold;">Loot It</summary>
 Tomb guards hold nothing except the content of their canopic jars and their oversized halberd. Hitting target with an oversized weapon is harder unless the wearer has exceptional strength (10).
 
+</details>
+<details markdown="1">
+<summary>Craft One</summary>
+
+Creating a tomb guard takes 3 Spell Dice and the equivalent of 3 [bags of gold](/2024/06/26/currency/) in stone and embalming materials. You also need the fresh remains of a loyal follower. Roll 1D6 to know the result. Add 1 to your roll for each additional Spell Die spent.
+
+1. Explodes (3D6)
+1. Berserk.
+1. Will work for 1 mission.
+1. Roll again after the next mission.
+1. It is perfectly under your control.
+1. It is perfectly under your control.
 </details>
 
 <br>

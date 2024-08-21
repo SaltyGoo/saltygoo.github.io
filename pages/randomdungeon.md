@@ -8,7 +8,7 @@
     <h1>Random Dungeon Generator</h1>
  
      <!-- Dropdown Menu -->
-    <label for="dropdown">Choose Biome I:</label>
+    <label for="dropdown">Select Biome I:</label>
     <select id="climate1">
         <option value="Arctic">Cold</option>
         <option value="Desert">Desert</option>
@@ -32,7 +32,7 @@
         <option value="Water">Elemental Water</option>																	
     </select>
 
-        <label for="dropdown">Choose Biome II:</label>
+        <label for="dropdown">and Biome II:</label>
     <select id="climate2">
         <option value="Arctic">Cold</option>
         <option value="Desert">Desert</option>

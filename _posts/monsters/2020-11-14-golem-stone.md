@@ -70,7 +70,7 @@ If the golem’s activation glyph isspecifically destroyed, the golem is deactiv
 <details markdown="1">
 <summary>Crafting Instructions</summary>
 
-Creating a stone golem takes 5 Spell Dice and the equivalent of 5 [treasures](https://saltygoo.github.io/2020/11/10/extra-rules#treasures) in stone. Roll 1D6 to know the result. Add 1 to your roll for each additional Spell Die spent.
+Creating a stone golem takes 5 Spell Dice and the equivalent of 5 [bags of gold](/2024/06/26/currency/) in stone. Roll 1D6 to know the result. Add 1 to your roll for each additional Spell Die spent.
 
 1. Explodes (4D6)
 1. Berserk.

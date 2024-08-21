@@ -40,8 +40,7 @@ Tomb guards hold nothing except the content of their canopic jars and their over
 
 </details>
 <details markdown="1">
-<summary>Craft One</summary>
-
+<summary style="font-weight: bold;">Craft One</summary>
 Creating a tomb guard takes 3 Spell Dice and the equivalent of 3 [bags of gold](/2024/06/26/currency/) in stone and embalming materials. You also need the fresh remains of a loyal follower. Roll 1D6 to know the result. Add 1 to your roll for each additional Spell Die spent.
 
 1. Explodes (3D6)

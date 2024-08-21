@@ -76,7 +76,7 @@
 
                 if (selectedValue) {
                     // Load the CSV file
-                    $.get("/path/to/your/Monster - Index.csv", function(data) {
+                    $.get("/CSV/Monster - Index.csv", function(data) {
                         // Parse the CSV data
                         Papa.parse(data, {
                             header: true,

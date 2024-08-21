@@ -69,41 +69,51 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
 
     <!-- Script to Load CSV and Handle Button Click -->
-    <script>
-        $(document).ready(function() {
-            $("#generateBtn").click(function() {
-                var selectedValue = $("#climate1").val(); // Get the selected value
+<script>
+    $(document).ready(function() {
+        $("#generateBtn").click(function() {
+            var selectedValue = $("#climate1").val(); // Get the selected value
 
-                if (selectedValue) {
-                    // Load the CSV file
-                    $.get("/CSV/Monster - Index.csv", function(data) {
-                        // Parse the CSV data
-                        Papa.parse(data, {
-                            header: true,
-                            complete: function(results) {
-                                var filteredRows = results.data.filter(function(row) {
-                                    return row[Object.keys(row)[1]].startsWith(selectedValue) && row[Object.keys(row)[2]] === "TRUE";
-                                });
+            if (selectedValue) {
+                // Load the CSV file
+                $.get("/path/to/your/Monster - Index.csv", function(data) {
+                    // Parse the CSV data
+                    Papa.parse(data, {
+                        header: true,
+                        complete: function(results) {
+                            var filteredRows = results.data.filter(function(row) {
+                                // Assuming the second column to be checked starts with selectedValue and third column contains TRUE
+                                return row[Object.keys(row)[1]].startsWith(selectedValue) && row[Object.keys(row)[2]] === "TRUE";
+                            });
 
-                                if (filteredRows.length > 0) {
-                                    var selectedValues = [];
-                                    for (var i = 0; i < 3 && i < filteredRows.length; i++) {
-                                        selectedValues.push(filteredRows[i][Object.keys(filteredRows[i])[0]]);
+                            if (filteredRows.length > 0) {
+                                var uniqueRandomValues = [];
+                                var indices = [];
+
+                                while (uniqueRandomValues.length < 3 && indices.length < filteredRows.length) {
+                                    // Generate a random index
+                                    var randomIndex = Math.floor(Math.random() * filteredRows.length);
+                                    
+                                    // Check if this index has already been used
+                                    if (!indices.includes(randomIndex)) {
+                                        indices.push(randomIndex);
+                                        uniqueRandomValues.push(filteredRows[randomIndex][Object.keys(filteredRows[randomIndex])[0]]);
                                     }
-
-                                    $("#result").html("Generated values: " + selectedValues.join(", "));
-                                } else {
-                                    $("#result").html("No matching rows found.");
                                 }
+
+                                $("#result").html("Generated values: " + uniqueRandomValues.join(", "));
+                            } else {
+                                $("#result").html("No matching rows found.");
                             }
-                        });
+                        }
                     });
-                } else {
-                    $("#result").html("Please select a climate option.");
-                }
-            });
+                });
+            } else {
+                $("#result").html("Please select a climate option.");
+            }
         });
-    </script>
+    });
+</script>
       
   </body>
 </html>

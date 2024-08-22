@@ -6,6 +6,8 @@
   </head>
   <body>
     <h1>Random Hex Generator</h1>
+
+    ##### click [here](/pages/randomdungeon/) for the dungeon generator
   
     <button id="generate-button">Generate Text</button>
     <div id="output"></div>

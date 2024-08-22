@@ -2,6 +2,7 @@
   <head>
     <meta charset="UTF-8">
     <title>Random Dungeon Generator</title>
+    <script src="/scripts/randomwords.js"></script> 
 
   </head>
   <body>

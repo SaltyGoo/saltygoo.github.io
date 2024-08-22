@@ -18,6 +18,7 @@
         <option value="Mountain">Mountain</option>
         <option value="Plains">Plains</option>
         <option value="Swamp">Swamp</option>
+        <option value="City">Urban</option>
         <option value="Sea">Marine</option>
         <option value="Cave">Underground</option>
         <option value="Astral">Astral</option>
@@ -42,6 +43,7 @@
         <option value="Mountain">Mountain</option>
         <option value="Plains">Plains</option>
         <option value="Swamp">Swamp</option>
+        <option value="City">Urban</option>
         <option value="Sea">Marine</option>
         <option value="Cave">Underground</option>
         <option value="Astral">Astral</option>
@@ -124,13 +126,13 @@
                             allGeneratedValues.forEach(function(value) {
                                 results.data.forEach(function(row) {
                                     if (row[Object.keys(row)[0]] === value) { // Check if the first column matches the generated value
-                                        encounterTable.push(row["Encounter"]); // Add the encounter to the table
+                                        encounterTable.push(row["Link"]); // Add the encounter to the table
                                     }
                                 });
                             });
 
                             // Display the encounter table
-                            var encounterContent = "<strong>Monster Encounter Table</strong><br>" + encounterTable.join("<br>");
+                            var encounterContent = "<br><strong>Monster Encounter Table</strong><br>" + encounterTable.join("<br><br>");
 
                             $("#result").html(encounterContent);
                         }

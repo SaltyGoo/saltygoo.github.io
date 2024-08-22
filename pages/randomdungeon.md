@@ -59,6 +59,8 @@
         <option value="Water">Elemental Water</option>																	
     </select>
 
+<br><br>
+
     <!-- Generate Button -->
     <button id="generateBtn">Generate</button>
 
@@ -87,6 +89,7 @@
                             var uniqueRandomValues1 = [];
                             var uniqueRandomValues2 = [];
                             var encounterTable = [];
+                            var dungeonRoomsContent = "";
 
                             function getRandomValues(selectedValue) {
                                 var filteredValues = [];
@@ -132,8 +135,38 @@
                                 });
                             });
 
-                            // Display the encounter table
-                            var encounterContent = "<br><strong>Monster Encounter Table</strong><br><ol><li>" + encounterTable.join("</li><li>") + "</li></ol>";
+                            // Generate Dungeon Rooms content
+                            function generateDungeonRoom() {
+                                var roomContent = "";
+                                allGeneratedValues.forEach(function(value) {
+                                    results.data.forEach(function(row) {
+                                        if (row[Object.keys(row)[0]] === value) { // Check if the first column matches the generated value
+                                            // Randomly select a value from columns 38-43
+                                            var randomColumn1 = Math.floor(Math.random() * (43 - 38 + 1)) + 38;
+                                            var randomRoom1 = row[results.meta.fields[randomColumn1]];
+
+                                            // Randomly select a value from columns 3-8
+                                            var randomColumn2 = Math.floor(Math.random() * (8 - 3 + 1)) + 3;
+                                            var randomRoom2 = row[results.meta.fields[randomColumn2]];
+
+                                            roomContent += randomRoom1 + "<br>" + randomRoom2 + "<br><br>";
+                                        }
+                                    });
+                                });
+                                return roomContent;
+                            }
+
+                            // Repeat Dungeon Room generation 6 times
+                            for (var i = 0; i < 6; i++) {
+                                dungeonRoomsContent += generateDungeonRoom();
+                            }
+
+                            // Display the encounter table and dungeon rooms content
+                            var encounterContent = "<br><strong>Monster Encounter Table</strong><br><ol><li>" 
+                                                  + encounterTable.join("</li><li>") 
+                                                  + "</li></ol><br><br><strong>Dungeon Rooms</strong><br><br>" 
+                                                  + dungeonRoomsContent;
+
                             $("#result").html(encounterContent);
                         }
                     });
@@ -144,6 +177,7 @@
         });
     });
 </script>
+
 
       
   </body>

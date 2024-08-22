@@ -150,7 +150,7 @@ button.addEventListener('click', async () => {
 })()
     </script>    
       
-[Random dungeon generator](/pages/randomdungeon/)
+[Random dungeon generator](/pages/randomdungeon)
       
   </body>
 </html>

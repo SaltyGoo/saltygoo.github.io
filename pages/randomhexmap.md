@@ -3,10 +3,13 @@
     <meta charset="UTF-8">
     <title>Random Text Generator</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
-    <script src="/scripts/randomwords.js"></script> 
   </head>
   <body>
     <h1>Random Hex Generator</h1>
+
+    ## [Random dungeon generator](/pages/randomdungeon)
+
+    
     <button id="generate-button">Generate Text</button>
     <div id="output"></div>
     
@@ -150,7 +153,6 @@ button.addEventListener('click', async () => {
 })()
     </script>    
       
-[Random dungeon generator](/pages/randomdungeon)
       
   </body>
 </html>

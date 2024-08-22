@@ -144,7 +144,7 @@
                                 results.data.forEach(function(row) {
                                     if (row[Object.keys(row)[0]] === randomRow1) {
                                         var randomColumn1 = Math.floor(Math.random() * (43 - 38 + 1)) + 38;
-                                        roomContent += row[results.meta.fields[randomColumn1]] + "<br>";
+                                        roomContent += row[results.meta.fields[randomColumn1]] + "<br><br>";
                                     }
                                 });
 
@@ -181,6 +181,7 @@
         });
     });
 </script>
+
 
 
 

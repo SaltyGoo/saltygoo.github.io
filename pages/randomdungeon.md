@@ -132,7 +132,7 @@
                             });
 
                             // Display the encounter table
-                            var encounterContent = "<br><strong>Monster Encounter Table</strong><br>" + encounterTable.join("<br><br>");
+                            var encounterContent = "<br><strong>Monster Encounter Table</strong><br><br>" + encounterTable.join("<br><ol>");
 
                             $("#result").html(encounterContent);
                         }

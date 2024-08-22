@@ -83,6 +83,7 @@
                         complete: function(results) {
                             var uniqueRandomValues1 = [];
                             var uniqueRandomValues2 = [];
+                            var encounterTable = [];
 
                             function getRandomValues(selectedValue) {
                                 var filteredValues = [];
@@ -116,8 +117,22 @@
                                 uniqueRandomValues2 = getRandomValues(selectedValue2);
                             }
 
-                            $("#result").html("Generated values from Climate 1: " + uniqueRandomValues1.join(", ") +
-                                              "<br>Generated values from Climate 2: " + uniqueRandomValues2.join(", "));
+                            // Combine the values from both climates
+                            var allGeneratedValues = uniqueRandomValues1.concat(uniqueRandomValues2);
+
+                            // Generate the encounter table
+                            allGeneratedValues.forEach(function(value) {
+                                results.data.forEach(function(row) {
+                                    if (row[Object.keys(row)[0]] === value) { // Check if the first column matches the generated value
+                                        encounterTable.push(row["Encounter"]); // Add the encounter to the table
+                                    }
+                                });
+                            });
+
+                            // Display the encounter table
+                            var encounterContent = "<strong>Monster Encounter Table</strong><br>" + encounterTable.join("<br>");
+
+                            $("#result").html(encounterContent);
                         }
                     });
                 });
@@ -127,6 +142,7 @@
         });
     });
 </script>
+
       
   </body>
 </html>

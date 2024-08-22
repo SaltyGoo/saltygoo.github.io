@@ -138,21 +138,25 @@
                             // Generate Dungeon Rooms content
                             function generateDungeonRoom() {
                                 var roomContent = "";
-                                allGeneratedValues.forEach(function(value) {
-                                    results.data.forEach(function(row) {
-                                        if (row[Object.keys(row)[0]] === value) { // Check if the first column matches the generated value
-                                            // Randomly select a value from columns 38-43
-                                            var randomColumn1 = Math.floor(Math.random() * (43 - 38 + 1)) + 38;
-                                            var randomRoom1 = row[results.meta.fields[randomColumn1]];
 
-                                            // Randomly select a value from columns 3-8
-                                            var randomColumn2 = Math.floor(Math.random() * (8 - 3 + 1)) + 3;
-                                            var randomRoom2 = row[results.meta.fields[randomColumn2]];
-
-                                            roomContent += randomRoom1 + "<br>" + randomRoom2 + "<br><br>";
-                                        }
-                                    });
+                                // Randomly select a row and column for the first cell (columns 28-43)
+                                var randomRow1 = allGeneratedValues[Math.floor(Math.random() * allGeneratedValues.length)];
+                                results.data.forEach(function(row) {
+                                    if (row[Object.keys(row)[0]] === randomRow1) {
+                                        var randomColumn1 = Math.floor(Math.random() * (43 - 28 + 1)) + 28;
+                                        roomContent += row[results.meta.fields[randomColumn1]] + "<br>";
+                                    }
                                 });
+
+                                // Randomly select a row and column for the second cell (columns 3-8)
+                                var randomRow2 = allGeneratedValues[Math.floor(Math.random() * allGeneratedValues.length)];
+                                results.data.forEach(function(row) {
+                                    if (row[Object.keys(row)[0]] === randomRow2) {
+                                        var randomColumn2 = Math.floor(Math.random() * (8 - 3 + 1)) + 3;
+                                        roomContent += row[results.meta.fields[randomColumn2]] + "<br><br>";
+                                    }
+                                });
+
                                 return roomContent;
                             }
 
@@ -177,6 +181,7 @@
         });
     });
 </script>
+
 
 
       

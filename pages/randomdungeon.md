@@ -143,7 +143,7 @@
                                 var randomRow1 = allGeneratedValues[Math.floor(Math.random() * allGeneratedValues.length)];
                                 results.data.forEach(function(row) {
                                     if (row[Object.keys(row)[0]] === randomRow1) {
-                                        var randomColumn1 = Math.floor(Math.random() * (43 - 28 + 1)) + 28;
+                                        var randomColumn1 = Math.floor(Math.random() * (43 - 38 + 1)) + 38;
                                         roomContent += row[results.meta.fields[randomColumn1]] + "<br>";
                                     }
                                 });

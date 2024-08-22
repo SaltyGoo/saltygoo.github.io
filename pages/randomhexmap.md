@@ -6,10 +6,7 @@
   </head>
   <body>
     <h1>Random Hex Generator</h1>
-
-    ## [Random dungeon generator](/pages/randomdungeon)
-
-    
+  
     <button id="generate-button">Generate Text</button>
     <div id="output"></div>
     

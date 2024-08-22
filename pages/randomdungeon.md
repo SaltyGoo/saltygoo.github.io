@@ -139,7 +139,7 @@
                             function generateDungeonRoom() {
                                 var roomContent = "";
 
-                                // Randomly select a row and column for the first cell (columns 28-43)
+                                // Randomly select a row and column for the first cell (columns 38-43)
                                 var randomRow1 = allGeneratedValues[Math.floor(Math.random() * allGeneratedValues.length)];
                                 results.data.forEach(function(row) {
                                     if (row[Object.keys(row)[0]] === randomRow1) {

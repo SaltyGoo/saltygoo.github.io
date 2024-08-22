@@ -153,7 +153,7 @@
                                 results.data.forEach(function(row) {
                                     if (row[Object.keys(row)[0]] === randomRow2) {
                                         var randomColumn2 = Math.floor(Math.random() * (8 - 3 + 1)) + 3;
-                                        roomContent += row[results.meta.fields[randomColumn2]] + "<br><br>";
+                                        roomContent += "<u>Also:</u> " + row[results.meta.fields[randomColumn2]] + "<br><br>";
                                     }
                                 });
 

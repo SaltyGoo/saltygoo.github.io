@@ -79,33 +79,28 @@ You summon a 1D4 HD steam elemental. You may control it if it has [dice] HD or l
 
  
  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <script>
-  // ENCOUNTER GENERATOR SCRIPT
-    $(document).ready(function() {
-      $("#generate-btn").click(function() {
-        // define the specific value to search for in column 0
-        var searchValue = "0019"; // change this to the actual value you need
+<script>
+      $(document).ready(function() {
+        function generateResult(buttonId, resultId, columnRangeStart, columnRangeEnd) {
+          $(buttonId).click(function() {
+            var searchValue = "0019"; // Change this to the actual value you need
 
-        // retrieve the CSV file
-        $.get("/CSV/Monster - Index.csv", function(data) {
-          // split the CSV data by rows and remove the header row
-          var rows = data.split("\n").slice(1);
+            $.get("/CSV/Monster - Index.csv", function(data) {
+              var rows = data.split("\n").slice(1);
+              var matchingRows = rows.filter(function(row) {
+                var columns = row.split(",");
+                return columns[0] === searchValue;
+              });
 
-          // filter the rows by the specific value in column 0
-          var matchingRows = rows.filter(function(row) {
-            var columns = row.split(",");
-            return columns[0] === searchValue;
+              var selectedRow = matchingRows[Math.floor(Math.random() * matchingRows.length)];
+              var selectedCell = selectedRow.split(",")[Math.floor(Math.random() * (columnRangeEnd - columnRangeStart + 1)) + columnRangeStart];
+
+              $(resultId).html(selectedCell); // Use .html() to insert HTML content
+            });
           });
+        }
 
-          // randomly select a row from the matching rows
-          var selectedRow = matchingRows[Math.floor(Math.random() * matchingRows.length)];
-
-          // select a random cell from columns 3 to 8
-          var selectedCell = selectedRow.split(",")[Math.floor(Math.random() * 6) + 3];
-
-          // display the selected text
-          $("#RoamResult").text(selectedCell);
-        });
+        generateResult("#room-btn", "#RoomResult", 38, 43);
+        generateResult("#generate-btn", "#RoamResult", 3, 8);
       });
-    });
-  </script>
+    </script>

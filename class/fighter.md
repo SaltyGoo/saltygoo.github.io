@@ -38,6 +38,6 @@ Your weapons have different effects depending on the type of damage you inflict 
 - <ins>Bludgeoning:</ins> Weak creatures are knocked [prone](/2020/11/10/extra-rules/#conditions).
 - <ins>Piercing:</ins> Weak [prone](/2020/11/10/extra-rules/#conditions) or surprised _unnamed_ creatures are killed.
 - <ins>Slashing:</ins> You can inflict as much damage as your Grit to another adjacent target.
-- 
+
 ## Weapon Mastery
 You make two attacks per turn.

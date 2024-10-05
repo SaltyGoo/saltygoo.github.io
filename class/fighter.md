@@ -11,7 +11,7 @@ permalink: /class/fighter
 <ins>Starting Equipment</ins><br>
 Choose three times: a Weapon of your choice, 12 pieces of Ammunition, a Piece of Armor of your choice.
 
-<ins>Starting Skills (+5)</ins><br>
+<ins>Starting Skills</ins><br>
 Your choice of Imperial Infantry, Imperial Navy, Dashing Noble, or Caravan Life.
 
 For every Fighter template you have, you gain 1 **Grit**.

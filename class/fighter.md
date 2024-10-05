@@ -22,19 +22,19 @@ For every Fighter template you have, you gain 1 **Grit**.
 **D:** Weapon Mastery <br>
 
 ## Weapon Training
-You can use either your Strength or your Dexterity for your melee attack rolls. When you miss a melee attack, your target still take as much damage as your Grit.
+You can use either your Strength or your Dexterity for your melee attack rolls. When you miss a melee attack, your target still takes as much damage as your Grit.
 
 ## Parry
 Once per battle, you can destroy a weapon or a shied you are holding to protect yourself or an adjacent ally from an attack's damage. 
 
 ## Battle-Hardened Aura
-You project an intimidating aura that lets people know you are a skilled warrior. At any moment, you can decide how weak creatures react to you: they either avoid fighting you at all costs, or gang up on you, ignoring your teammates. Weak creatures are any monster less HP than 4 times your Grit.
+You project an intimidating aura that lets people know you are a skilled warrior. At any moment, you can decide how weak creatures react to you: they either avoid fighting you unless you attack them, or gang up on you while ignoring your teammates. Weak creatures are any monster less HP than 4 times your Grit.
 
 ## Platoon
 Your leadership is legendary. Your followers have a bonus HP equal to your Grit and they share your starting skill (infantry, navy, nobility, or caravan).
 
 ## Battle Tricks
-Your weapons have different effects depending on the type of damage you inflict with you hit them with an attack:
+Your melee weapons have different effects on a hit depending on the type of damage you inflict with them:
 - <ins>Bludgeoning:</ins> Weak creatures are knocked [prone](/2020/11/10/extra-rules/#conditions).
 - <ins>Piercing:</ins> Weak [prone](/2020/11/10/extra-rules/#conditions) or surprised _unnamed_ creatures are killed.
 - <ins>Slashing:</ins> You can inflict as much damage as your Grit to another adjacent target.

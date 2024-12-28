@@ -133,6 +133,13 @@ console.log(`Replaced ${replacedIndexCount} 4-digit sequences.`);
 return concatenatedText;
 
 }
+
+  // Define replacements
+  const replacements = {
+    // Add your replacement mappings here
+  };
+
+  
  console.log(replacements);
  const button = document.querySelector('button');
  button.addEventListener('click', async () => {

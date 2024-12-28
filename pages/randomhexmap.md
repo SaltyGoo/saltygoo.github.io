@@ -9,6 +9,8 @@
     
     <button id="generate-button">Generate Text</button>
     <div id="output"></div>
+
+    <script src="script/randomwords.js"></script>
     
     <script>
        // Wrap the whole code in an async function
@@ -133,11 +135,6 @@ console.log(`Replaced ${replacedIndexCount} 4-digit sequences.`);
 return concatenatedText;
 
 }
-
-  // Define replacements
-  const replacements = {
-    // Add your replacement mappings here
-  };
 
   
  console.log(replacements);

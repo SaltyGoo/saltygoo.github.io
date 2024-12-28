@@ -9,3 +9,5 @@
     'rdmSIZE': ['', 'GIANT'],
     'rdmNOBLE': ['BARON', 'BARONNESS', 'PRINCE', 'PRINCESS', 'KING', 'QUEEN', 'DUKE', 'DUCHESS', 'MARQUIS', 'MARCHIONESS', 'ARCHBISHOP', 'COUNT', 'COUNTESS', 'BARONNESS', 'EMPEROR', 'EMPRESS', 'PRINCE-ELECTOR'],
   };
+
+console.log('randomwords.js loaded');

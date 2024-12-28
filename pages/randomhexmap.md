@@ -87,7 +87,6 @@
     concatenatedText += '<br><br>' + gateText.trim();
   }
 // Replace 4-digit sequences with values from the Index CSV file
-const indexCSVResponse = await fetch('/CSV/Monster - Index.csv');
 const indexCSVText = await indexCSVResponse.text();
 const indexCSVRows = indexCSVText.split('\n');
 

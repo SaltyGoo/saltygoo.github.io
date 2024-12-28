@@ -126,6 +126,7 @@ while (true) {
   if (!foundMatch) {
     break;
   }
+ };
 
 console.log(`Replaced ${replacedIndexCount} 4-digit sequences.`);
 

@@ -1,12 +1,12 @@
 <img align="left" width=150px src="/images/Hexes/hex01.png">
 <h1>Hex 01 - Cloakwood Grove</h1>
 
-_ The heart of the ancient Cloakwood forest where druids are rumored to gather. Strangers are not welcome._
+*The heart of the ancient Cloakwood forest where druids are rumored to gather. Strangers are not welcome.*
 
 **Biome:** Old Growth Forest. Lush, autumnal, massive, tangled, strange noises.
  
   <button id="generateText">Generate Encounter</button> <br><br>
- <h4> _The first time the party enters any feature and every 12 hours._ </h4><br>
+ <h4> *The first time the party enters any feature and every 12 hours.* </h4><br>
   <span class="alchemy" id="result" > Who? What? How! </span>
 
   <script>

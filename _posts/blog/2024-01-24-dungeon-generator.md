@@ -1,4 +1,4 @@
-   ---
+---
 layout: post
 tags: article item
 title: Dungeon Generator

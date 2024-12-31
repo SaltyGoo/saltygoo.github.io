@@ -223,7 +223,7 @@ A hidden cave deep in the forest where an evil ranger is attempting to tame wyve
             const RandomRow = randomBetween(2, 7); // Rows 2 to 7
             if (isValidIndex(RandomRow, csvData.length)) {
               const value = csvData[RandomRow][columnIndex];
-              output += "A lair ! It is inhabited by " + value;
+              output += "A lair! It is inhabited by " + value;
             }
           } else if (subNumber === 4) {
             output += "HEAVY FOG. Travelers end at another location in this hex than the one intended.";

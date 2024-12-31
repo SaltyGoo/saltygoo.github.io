@@ -18,17 +18,17 @@ Travel **SW:** Sea of Swords, **S:** [06 - Centeol's Lair](/06-CenteolsLair), **
 
  ---
 
-<h2>Feature 01A - Old Standing Stones</h2>
+<h2>Feature A - Old Standing Stones</h2>
 
 A meeting points for druids.
 
 ---
 
-<h2>Feature 01B - Great Oak</h2>
+<h2>Feature B - Great Oak</h2>
 
 The home of the Archdruid of Cloakwood
 
-<h2>Feature 01C - Wyvern Nursery</h2>
+<h2>Feature C - Wyvern Nursery</h2>
 
 A hidden cave where a ranger is raising wyverns
 

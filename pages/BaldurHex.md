@@ -71,7 +71,7 @@
             } else if (subNumber === 2) {
               output += "They are wounded!";
             } else if (subNumber === 3) {
-              output += "They are dealing with ";
+              output += "They are victims of ";
               const subRandomRow = randomBetween(9, 12); // Rows 9 to 12
               if (isValidIndex(subRandomRow, csvData.length)) {
                 const subValue = csvData[subRandomRow][columnIndex];

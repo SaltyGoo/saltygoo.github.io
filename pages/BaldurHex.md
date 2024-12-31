@@ -94,6 +94,7 @@
               const subRandomRow = randomBetween(10, 13); // Rows 10 to 13
               if (isValidIndex(subRandomRow, csvData.length)) {
                 const subValue = csvData[subRandomRow][columnIndex];
+                                console.log(`Value: ${subValue}`);  // Log rolled faction
                 const subSubColumnIndex = headerRow.findIndex(header => header.startsWith(subValue));
                 const subSubRandomRow = randomBetween(2, 21); // Rows 2 to 21
                 if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subSubColumnIndex, headerRow.length)) {
@@ -110,6 +111,7 @@
           const RandomRow = randomBetween(10, 13); // Rows 10 to 13
               if (isValidIndex(RandomRow, csvData.length)) {
                 const Value = csvData[RandomRow][columnIndex];
+                console.log(`Value: ${Value}`);  // Log rolled faction
                 const SubColumnIndex = headerRow.findIndex(header => header.startsWith(Value));
                 const SubRandomRow = randomBetween(2, 21); // Rows 2 to 21
                 if (isValidIndex(SubRandomRow, csvData.length) && isValidIndex(SubColumnIndex, headerRow.length)) {

@@ -18,7 +18,7 @@ Travel **SW:** Sea of Swords, **S:** [06 - Centeol's Lair](/06-CenteolsLair), **
 
  ---
 
-<h3>Main Feature</h3>
+<h5>Main Feature</h5>
 
 <h2>Old Standing Stones</h2>
 
@@ -26,7 +26,7 @@ A meeting points for druids.
 
 ---
 
-<h3>Hidden Features</h3>
+<h5>Hidden Features</h5>
 
 <h2>Great Oak</h2>
 

@@ -16,11 +16,11 @@ Travel **SW:** Sea of Swords, **S:** [06 - Centeol's Lair](/06-CenteolsLair), **
 
 <span class="grey" id="result" style="height: 75px;"> Click the button above to generate an encounter. </span>
 
-*Generate an encounter the first time the party enters one of this hex's features and every 12 hours. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.*
+*Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.*
 
  ---
 
-<span class="feature">Feature A - Old Standing Stones</span>
+<span class="blacktitle">Feature A - Old Standing Stones</span>
 
 A meeting points for druids at the conflux of ancient leyline. Doing a specific ritual here allows communication through the other standing stones on the Southern Sword Coast, and some even say teleportation.
 

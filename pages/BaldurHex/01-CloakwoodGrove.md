@@ -1,7 +1,7 @@
 <img align="left" width=150px src="/images/Hexes/hex01.png">
  <h1>Hex 01 - Cloakwood Grove</h1>
   <button id="generateText">Generate Encounter</button>
-  <p id="result"></p>
+  <span class="alchemy"><p id="result"></p></span>
 
   <script>
     // Define the climates

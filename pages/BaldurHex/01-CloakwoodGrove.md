@@ -1,6 +1,9 @@
 <img align="left" width=150px src="/images/Hexes/hex01.png">
  <h1>Hex 01 - Cloakwood Grove</h1>
-  <button id="generateText">Generate Encounter</button>
+
+ The heart of the ancient cloakwood forest where druids are rumored to gather. Strangers are not welcome.
+ 
+  <button id="generateText">Generate Encounter</button> </br>
   <span class="alchemy" id="result"></span>
 
   <script>

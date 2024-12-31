@@ -4,10 +4,32 @@
 *The heart of the ancient Cloakwood forest where druids are rumored to gather. Strangers are not welcome.*
 
 **Biome:** <u>Old Growth Forest</u>. Lush, autumnal, massive, tangled, strange noises.
- 
+
+---
+
+**Travel North:** **NW:** Sea of Swords, **N:** Chiontar Estuary, **NE:** Chiontar Estuary
+**Travel South:** **SW:** Sea of Swords, **S:** [06 - Centeol's Lair](06-CenteolsLair), **SE:** [02 - Wyvern Fork](02/WyvernFork)
+
+ ---
+
   <button id="generateText">Generate Encounter</button> 
 *The first time the party enters any feature and every 12 hours.* <br><br>
   <span class="alchemy" id="result" > Who? What? How! </span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   <script>
     // Define the climates

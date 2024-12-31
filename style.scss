@@ -61,7 +61,6 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
 }
 
 
@@ -364,4 +363,13 @@ button {
 	padding:10px;   
 	background-color: #e6e6e6;
 }
+
+.feature { display: inline-block; 
+        width: 100%;
+	background-color: black;
+ 	font-size: 18px;
+ 	color: white;
+ 	font-weight: bold;
+}
+
 

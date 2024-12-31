@@ -153,7 +153,8 @@
         }
                           }
               }
-      } else if (randomNumber === 4) {
+      } 
+        else if (randomNumber === 4) {
         const subNumber = randomBetween(1, 5);
         const chosenClimate = randomBetween(1, 2) === 1 ? climate1 : climate2;
         const columnIndex = headerRow.findIndex(header => header.startsWith(chosenClimate));

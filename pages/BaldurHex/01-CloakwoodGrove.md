@@ -3,7 +3,7 @@
 
  The heart of the ancient Cloakwood forest where druids are rumored to gather. Strangers are not welcome.
  
-  <button id="generateText">Generate Encounter</button> <br>
+  <button id="generateText">Generate Encounter</button> <br><br>
   <span class="alchemy" id="result" style="width:700px  height: 100px;  display: inline-block;" ></span>
 
   <script>

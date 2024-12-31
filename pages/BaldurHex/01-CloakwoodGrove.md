@@ -26,13 +26,15 @@ A meeting points for druids at the conflux of ancient leyline. Doing a specific 
 
 ---
 
-<h2>Feature B - Great Oak</h2>
+<span class="blacktitle"> Feature B - Great Oak </span>
 
-The home of the Archdruid of Cloakwood
+The home of the Archdruid of Cloakwood. Recently taken over by the extremist Shadow Druids, lead by Archdruid Amarande. They do not view the intrusion of civilized humanoids into the woods kindly.
 
-<h2>Feature C - Wyvern Nursery</h2>
+---
 
-A hidden cave where a ranger is raising wyverns
+<span class="blacktitle"> Feature C - Wyvern Nursery </span>
+
+A hidden cave deep in the forest where an evil ranger is attempting to tame wyverns for the Black Talon mercenary company.
 
 
 

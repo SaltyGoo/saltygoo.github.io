@@ -1,4 +1,4 @@
-<img align="left" width=300px src="/images/Hexes/hex01.png">
+<img align="left" width=150px src="/images/Hexes/hex01.png">
  <h1>Hex 01 - Cloakwood Grove</h1>
   <button id="generateText">Generate Encounter</button>
   <p id="result"></p>

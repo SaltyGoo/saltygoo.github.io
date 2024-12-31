@@ -1,3 +1,4 @@
+<img align="left" width=300px src="/images/Hexes/hex01.png">
  <h1>Hex 01 - Cloakwood Grove</h1>
   <button id="generateText">Generate Encounter</button>
   <p id="result"></p>
@@ -198,4 +199,3 @@
       resultElement.innerHTML = output || "Error: Unable to generate text.";
     });
   </script>
-</body>

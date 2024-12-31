@@ -25,7 +25,7 @@
 
         // Main logic
         document.getElementById("generateText").addEventListener("click", async () => {
-            const csvData = await loadCSV("HexGen.csv");
+            const csvData = await loadCSV("/CSV/BG hexcrawl - HexGen.csv");
             const headerRow = csvData[0]; // First row is the header
             const resultElement = document.getElementById("result");
 

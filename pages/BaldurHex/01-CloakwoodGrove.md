@@ -11,10 +11,11 @@ Travel **NW:** Sea of Swords, **N:** Chiontar Estuary, **NE:** Chiontar Estuary 
 Travel **SW:** Sea of Swords, **S:** [06 - Centeol's Lair](/06-CenteolsLair), **SE:** [02 - Wyvern Fork](/02-WyvernFork)
 
  ---
-
-  <button id="generateText" align="center" >Generate Encounter</button> 
+ 
 *Generate an encounter the first time the party enters any of the 3 features on this hex and every 12 hours.* <br><br>
-  <p id="result" > Click on the black butto to generate an encounter. </p>
+
+  <button id="generateText" align="center" >Generate Encounter</button> <br><br>
+  <p id="result" > Text will appear here. </p>
 
 
 

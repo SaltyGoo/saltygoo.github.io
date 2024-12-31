@@ -6,7 +6,7 @@ _ The heart of the ancient Cloakwood forest where druids are rumored to gather. 
 **Biome:** Old Growth Forest. Lush, autumnal, massive, tangled, strange noises.
  
   <button id="generateText">Generate Encounter</button> <br><br>
-  _The first time the party enters any feature and every 12 hours._
+ <h4> _The first time the party enters any feature and every 12 hours._ </h4><br>
   <span class="alchemy" id="result" > Who? What? How! </span>
 
   <script>

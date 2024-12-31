@@ -20,7 +20,7 @@ Travel **SW:** Sea of Swords, **S:** [06 - Centeol's Lair](/06-CenteolsLair), **
 
  ---
 
-<span class="blacktitle">Feature A - Old Standing Stones</span>
+<span class="blacktitle"> Feature A - Old Standing Stones </span>
 
 A meeting points for druids at the conflux of ancient leyline. Doing a specific ritual here allows communication through the other standing stones on the Southern Sword Coast, and some even say teleportation.
 

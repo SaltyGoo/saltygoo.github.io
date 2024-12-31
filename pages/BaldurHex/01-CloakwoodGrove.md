@@ -14,7 +14,7 @@ Travel **SW:** Sea of Swords, **S:** [06 - Centeol's Lair](/06-CenteolsLair), **
  
 <button id="generateText" >Generate an Encounter</button> *the first time the party enters one of this hex's features and every 12 hours.* <br>
 
-<span class="grey" id="result" > Click the button above to generate an encounter. </span>
+<span class="grey" id="result" > Click the button above to generate an encounter. <br></span>
 
  ---
 

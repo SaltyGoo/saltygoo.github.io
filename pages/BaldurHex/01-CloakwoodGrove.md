@@ -3,7 +3,7 @@
 
 *The heart of the ancient Cloakwood forest where druids are rumored to gather. Strangers are not welcome.*
 
-**Biome:** Old Growth Forest. Lush, autumnal, massive, tangled, strange noises.
+**Biome:** <u>Old Growth Forest</u>. Lush, autumnal, massive, tangled, strange noises.
  
   <button id="generateText">Generate Encounter</button> <br>
 *The first time the party enters any feature and every 12 hours.* <br>

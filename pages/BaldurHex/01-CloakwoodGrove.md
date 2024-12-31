@@ -2,6 +2,8 @@
 <h1>Hex 01 - Cloakwood Grove</h1>
 
  The heart of the ancient Cloakwood forest where druids are rumored to gather. Strangers are not welcome.
+
+ Biome: **Old Growth Forest.** Lush, autumnal, massive, tangled, strange noises.
  
   <button id="generateText">Generate Encounter</button> <br><br>
   <span class="alchemy" id="result" > The first time the party enters any feature here, and when they rest/wake up.</span>

@@ -189,7 +189,7 @@
               output += "A lair of " + value;
             }
           } else if (subNumber === 4) {
-            output += "Heavy fog makes the party lost. They arrive at another location in the hex.";
+            output += "Heavy fog. You are lost and end at another location in the hex than the one intended.";
           } else if (subNumber === 5) {
             output += "The Gibberling Horde is coming tonight. Sleeping will be impossible on this hex.";
           } else if (subNumber === 6) {

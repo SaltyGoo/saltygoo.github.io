@@ -1,28 +1,28 @@
 x,Bounty Hunters,Bandits,Maw,Amn,Bassilus,Baldur's Gate,Druids,Coast,Mountain,Evergreen,Village,Barren,Forest,Old Growth,Farmland
-1,Vax & Zal,Bandits,Gnolls,Pike and Shot,Zombies,Enforcers,the druid Osmadi and wild Bears,Creatures,Creatures,Creatures,Creatures,Creatures,Creatures,Creatures,Creatures
-2,Neira,Bandits,Gnolls,Pike and Shot,Zombies,Enforcers,the druid Osmadi and wild Bears,Sirines,Wraiths,Wendigos,Wyverns,Bulettes,Werewolves,Dryads,Ankhegs
-3,Nymbul,Bandits,Gnolls,Pike and Shot,Zombies,Enforcers,the druid Osmadi and wild Bears,Water Elementals,Perytons,Giant Owls,Zombie Cattle,Wraiths,Trolls,Wyverns,Zombies
-4,Edwin,Bandits,Gnolls,Pike and Shot,Zombies,Enforcers,the druid Izefia and insect swarms,Giant Pelicans,Earth Elementals,Wood Woads,Zombies,Basilisks,Wisps,Bears,Cows
-5,Minsc & Dynaheir,Hobgoblins,Xvarts,Mountain Patrol,Skeletons,Riders,the druid Izefia and insect swarms,Giant Sea Otters,Yetis,Bears,Peasants,Dwarf Skeletons,Dwarves,Wolves,Giant Storks
-6,Lamalha,Hobgoblins,Xvarts,Mountain Patrol,Skeletons,Riders,the druid Izefia and insect swarms,Wolves,Winter Wolves,Wolves,Rat Swarms,Ghouls,Wolves,Taslois,Peasants
-7,Safana,Hobgoblins,Xvarts,Mountain Patrol,Skeletons,Riders,the druid Faldorn aand wild cats,Zounds of Seagulls,Gibberlings,Gibberlings,Black Mold,Gibberlings,Gibberlings,Giant Spiders,Zounds of Ravens
-8,Molkar,Hobgoblins,Xvarts,Mountain Patrol,Skeletons,Riders,the druid Faldorn aand wild cats,Faction,Faction,Faction,Faction,Faction,Faction,Faction,Faction
-9,Eldoth,Black Talons,Demons,Artillery Crew,Ghouls,Marines,the druid Faldorn aand wild cats,Maw,Maw,Maw,Bassilus,Maw,Maw,Druids,Baldur's Gate
-10,Coran,Black Talons,Demons,Artillery Crew,Ghouls,Marines,the druid Laskal and wild birds,Bounty Hunters,Bounty Hunters,Bounty Hunters,Bounty Hunters,Bounty Hunters,Bounty Hunters,Druids,Bounty Hunters
-11,Tarnesh,Black Talons,Demons,Artillery Crew,Ghouls,Marines,the druid Laskal and wild birds,Baldur's Gate,Amn,Amn,Baldur's Gate,Bassilus,Druids,Bandits,Bandits
-12,Khalid & Jaheira,Black Talons,Demons,Artillery Crew,Ghouls,Marines,the druid Laskal and wild birds,Bandits,Bassilus,Bassilus,Amn,Bandits,Bandits,Bandits,Bassilus
-13,Xzar & Montaron,Ogres,Gibberlings,Knights,Dead Wolves,Scouts,the druid Takiyah and wild wolves,NPC,NPC,NPC,NPC,NPC,NPC,NPC,NPC
-14,Ajantis,Ogres,Gibberlings,Knights,Dead Wolves,Scouts,the druid Takiyah and wild wolves,Pallonia,Galtok,Albert & Rufie,Borda,Narcillius,Mellicamp,Tiber,Borda
-15,Karlat,Ogres,Gibberlings,Knights,Dead Wolves,Scouts,the druid Takiyah and wild wolves,Shoal & Droth,Hafiz,Portalbendarwinden,Pallonia,Carsa,Viconia,Coran,Gerde
-16,Shank & Carbos,Ogres,Gibberlings,Knights,Dead Wolves,Scouts,archdruid Seniyad and his druid retinue,Mad Arcand,Samuel & Lena,Chelan & Torlo,Permidion Stark,Bentan,Denak & Red Wizards,Druid leader,Pallonia
-17,Teyngan's Crew,Tazok and his Ogres,Ludrug and his Gnoll pack,Laurel and her Knight companions,Bassilus and his zombie family,Vai and her Flaming Fist Enforcers,archdruid Seniyad and his druid retinue,Chase,Sarthedra,Brage,The Surgeon,Icharid,Raiken (B),Bandit leader,Old Man
-18,Neville,Aldenor and his Hobgoblins,Ingot and his Gnoll pack,Bardolan and his pike detachment,Bassilus and his zombie family,Angelo his riders,archdruid Seniyad and his druid retinue,Hazard,Hazard,Hazard,Hazard,Hazard,Hazard,Hazard,Hazard
+1,Vax & Zal,Bandits,Gnolls,Pike and Shot,Zombies,Enforcers,Osmadi the druid and wild bears,Creatures,Creatures,Creatures,Creatures,Creatures,Creatures,Creatures,Creatures
+2,Neira,Bandits,Gnolls,Pike and Shot,Zombies,Enforcers,Osmadi the druid and wild bears,Sirines,Wraiths,Wendigos,Wyverns,Bulettes,Werewolves,Dryads,Ankhegs
+3,Nymbul,Bandits,Gnolls,Pike and Shot,Zombies,Enforcers,Osmadi the druid and wild bears,Water Elementals,Perytons,Giant Owls,Zombie Cattle,Wraiths,Trolls,Wyverns,Zombies
+4,Edwin,Bandits,Gnolls,Pike and Shot,Zombies,Enforcers,Izefia the druid and insect swarms,Giant Pelicans,Earth Elementals,Wood Woads,Zombies,Basilisks,Wisps,Bears,Cows
+5,Minsc & Dynaheir,Hobgoblins,Xvarts,Mountain Patrol,Skeletons,Riders,Izefia the druid and insect swarms,Giant Sea Otters,Yetis,Bears,Peasants,Dwarf Skeletons,Dwarves,Wolves,Giant Storks
+6,Lamalha,Hobgoblins,Xvarts,Mountain Patrol,Skeletons,Riders,Izefia the druid and insect swarms,Wolves,Winter Wolves,Wolves,Rat Swarms,Ghouls,Wolves,Taslois,Peasants
+7,Safana,Hobgoblins,Xvarts,Mountain Patrol,Skeletons,Riders,Faldorn the druid and wild cats,Zounds of Seagulls,Gibberlings,Gibberlings,Black Mold,Gibberlings,Gibberlings,Giant Spiders,Zounds of Ravens
+8,Molkar,Hobgoblins,Xvarts,Mountain Patrol,Skeletons,Riders,Faldorn the druid and wild cats,Faction,Faction,Faction,Faction,Faction,Faction,Faction,Faction
+9,Eldoth,Black Talons,Demons,Artillery Crew,Ghouls,Marines,Faldorn the druid and wild cats,Maw,Maw,Maw,Bassilus,Maw,Maw,Druids,Baldur's Gate
+10,Coran,Black Talons,Demons,Artillery Crew,Ghouls,Marines,Laskal the druid and wild birds,Bounty Hunters,Bounty Hunters,Bounty Hunters,Bounty Hunters,Bounty Hunters,Bounty Hunters,Druids,Bounty Hunters
+11,Tarnesh,Black Talons,Demons,Artillery Crew,Ghouls,Marines,Laskal the druid and wild birds,Baldur's Gate,Amn,Amn,Baldur's Gate,Bassilus,Druids,Bandits,Bandits
+12,Khalid & Jaheira,Black Talons,Demons,Artillery Crew,Ghouls,Marines,Laskal the druid and wild birds,Bandits,Bassilus,Bassilus,Amn,Bandits,Bandits,Bandits,Bassilus
+13,Xzar & Montaron,Ogres,Gibberlings,Knights,Dead Wolves,Scouts,Takiyah the druid and wild wolves,NPC,NPC,NPC,NPC,NPC,NPC,NPC,NPC
+14,Ajantis,Ogres,Gibberlings,Knights,Dead Wolves,Scouts,Takiyah the druid and wild wolves,Pallonia,Galtok,Albert & Rufie,Borda,Narcillius,Mellicamp,Tiber,Borda
+15,Karlat,Ogres,Gibberlings,Knights,Dead Wolves,Scouts,Takiyah the druid and wild wolves,Shoal & Droth,Hafiz,Portalbendarwinden,Pallonia,Carsa,Viconia,Coran,Gerde
+16,Shank & Carbos,Ogres,Gibberlings,Knights,Dead Wolves,Scouts,Seniyad and his druid retinue,Mad Arcand,Samuel & Lena,Chelan & Torlo,Permidion Stark,Bentan,Denak & Red Wizards,Druid leader,Pallonia
+17,Teyngan's Crew,Tazok and his Ogres,Ludrug and his Gnoll pack,Laurel and her Knight companions,Bassilus and his zombie family,Vai and her Flaming Fist Enforcers,Seniyad and his druid retinue,Chase,Sarthedra,Brage,The Surgeon,Icharid,Raiken (B),Bandit leader,Old Man
+18,Neville,Aldenor and his Hobgoblins,Ingot and his Gnoll pack,Bardolan and his pike detachment,Bassilus and his zombie family,Angelo his riders,Seniyad and his druid retinue,Hazard,Hazard,Hazard,Hazard,Hazard,Hazard,Hazard,Hazard
 19,Arghain,Taurgoz and the Black Talons,Nexlit and his xvart tribe,Sendain and her mountain patrol,Bassilus and his zombie family,Shar-Teel and her Scouts,Druids,Sinkhole,Rockfall,Blizzard,Flash Flood,Mud Slide,Thunderstorm,Magic Mist,Thunderstorm
 20,Tamoko,Raiken and his Bandit crew,Garclax and his Gnoll pack,Brage aand his Pike detachment,Bassilus and his zombie family,Scar and his Flaming Fist Enforcers,Druids,,,,,,,,
 21,Traps,Traps,Traps,Traps,Traps,Traps,Traps,,,,,,,,
-22,Spying Kid,Slipknot Trap,Spiked Pit,Checkpoint,Exploding corpes,Checkpoint,Looping path,,,,,,,,
-23,Hidden Pit,Hidden crossbows,Hallucinogenic Spores,Peasant Snitch,Grasping hands,Peasant Snitch,Stranglewood,,,,,,,,
-24,Damsel in distress,Feral Gnolls,Rockfall,Magic Detector,Jeering Skulls,Prison Wagon,Spying birds,,,,,,,,
-25,Tracking Treasure,Treetop Scout,Idol of Rage,Cannon and Crew,Idol of Madness,Undercover bandit recruiter,Mudtrap,,,,,,,,
-26,Threatening letter,Landmine,Musk Sprey,Crossbow Bolt,Funeral Procession,Public Trials at gallows,Spider Webs,,,,,,,,
-27,Smoke Bomb,Timber Swing,Screamer,Landmines,Choking Fog,Landmines,Soporific Spores,,,,,,,,
+22,a Spying Kid.,a Slipknot Trap.,a spiked Pit trap.,an Amnian checkpoint.,exploding corpes.,a Flaming Fist checkpoint.,a looping path.,,,,,,,,
+23,a Hidden Pit trap.,trip-wired crossbows.,Hallucinogenic Spores,an Amnian Peasant Snitch.,grasping zombie hands.,a Peasant Snitch for the Flaming Fist.,stranglewood.,,,,,,,,
+24,a fake Damsel in distress.,Feral Gnolls.,a trip-wired Rockfall trap.,Magic Detectors.,jeering skeleton skulls,a Prison Wagon.,spying birds.,,,,,,,,
+25,a scrying trinket.,a hidden treetop Scout.,an Idol of Rage.,bombardments from far away.,an Idol of Madness.,an undercover Flaming Fist agent.,a mud pit.,,,,,,,,
+26,a bounty notice.,beartraps.,a gnoll musk spray trap.,trip-wired crossbows.,a funeral procession.,a public trials at improvised gallows.,spider webs.,,,,,,,,
+27,a smoke bomb.,a swinging timber trap.,a Screamer.,landmines.,choking fog.,landmines.,soporific spores.,,,,,,,,

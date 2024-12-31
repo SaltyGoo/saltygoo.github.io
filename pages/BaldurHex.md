@@ -58,9 +58,9 @@
         const chosenClimate = randomBetween(1, 2) === 1 ? climate1 : climate2;
         const columnIndex = headerRow.findIndex(header => header.startsWith(chosenClimate));
         if (isValidIndex(columnIndex, headerRow.length)) {
-          const randomRow = randomBetween(2, 7); // Rows 2 to 7
-          if (isValidIndex(randomRow, csvData.length)) {
-            output += csvData[randomRow][columnIndex] + "<br>";
+          const RandomRow = randomBetween(2, 7); // Rows 2 to 7
+          if (isValidIndex(RandomRow, csvData.length)) {
+            output += csvData[RandomRow][columnIndex] + "<br>";
 
             const subNumber = randomBetween(1, 6);
             if (subNumber === 1) {
@@ -104,7 +104,7 @@
         const chosenClimate = randomBetween(1, 2) === 1 ? climate1 : climate2;
         const columnIndex = headerRow.findIndex(header => header.startsWith(chosenClimate));
         if (isValidIndex(columnIndex, headerRow.length)) {
-          const randomRow = randomBetween(10, 13); // Rows 10 to 13
+          const RandomRow = randomBetween(10, 13); // Rows 10 to 13
               if (isValidIndex(RandomRow, csvData.length)) {
                 const Value = csvData[RandomRow][columnIndex];
                 const SubColumnIndex = headerRow.findIndex(header => header.startsWith(Value));
@@ -163,9 +163,9 @@
               output += csvData[20][columnIndex];
             }
           } else if (subNumber === 2) {
-            const randomRow = randomBetween(10, 13); // Rows 10 to 13
-            if (isValidIndex(randomRow, csvData.length)) {
-              const value = csvData[randomRow][columnIndex];
+            const RandomRow = randomBetween(10, 13); // Rows 10 to 13
+            if (isValidIndex(RandomRow, csvData.length)) {
+              const value = csvData[RandomRow][columnIndex];
               const subColumnIndex = headerRow.findIndex(header => header.startsWith(value));
               const subSubRandomRow = randomBetween(23, 28); // Rows 23 to 28
               if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subColumnIndex, headerRow.length)) {
@@ -173,9 +173,9 @@
               }
             }
           } else if (subNumber === 3) {
-            const randomRow = randomBetween(2, 7); // Rows 2 to 7
-            if (isValidIndex(randomRow, csvData.length)) {
-              const value = csvData[randomRow][columnIndex];
+            const RandomRow = randomBetween(2, 7); // Rows 2 to 7
+            if (isValidIndex(RandomRow, csvData.length)) {
+              const value = csvData[RandomRow][columnIndex];
               output += "The nest of " + value;
             }
           } else if (subNumber === 4) {

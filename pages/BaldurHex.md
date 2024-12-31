@@ -72,11 +72,11 @@
               output += "They are wounded!";
             } else if (subNumber === 3) {
               output += "They are struggling with ";
-              const subRandomRow = randomBetween(10, 13); // Rows 10 to 13
+              const subRandomRow = randomBetween(9, 12); // Rows 9 to 12
               if (isValidIndex(subRandomRow, csvData.length)) {
                 const subValue = csvData[subRandomRow][columnIndex];
                 const subSubColumnIndex = headerRow.findIndex(header => header.startsWith(subValue));
-                const subSubRandomRow = randomBetween(23, 28); // Rows 23 to 28
+                const subSubRandomRow = randomBetween(22, 27); // Rows 22 to 27
                 if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subSubColumnIndex, headerRow.length)) {
                   output += csvData[subSubRandomRow][subSubColumnIndex];
                 }
@@ -91,12 +91,12 @@
               }
             } else if (subNumber === 6) {
               output += "They are fleeing ";
-              const subRandomRow = randomBetween(10, 13); // Rows 10 to 13
+              const subRandomRow = randomBetween(9, 12); // Rows 9 to 12
               if (isValidIndex(subRandomRow, csvData.length)) {
                 const subValue = csvData[subRandomRow][columnIndex];
                                 console.log(`Value: ${subValue}`);  // Log rolled faction
                 const subSubColumnIndex = headerRow.findIndex(header => header.startsWith(subValue));
-                const subSubRandomRow = randomBetween(2, 21); // Rows 2 to 21
+                const subSubRandomRow = randomBetween(1, 20); // Rows 1 to 20
                 if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subSubColumnIndex, headerRow.length)) {
                   output += csvData[subSubRandomRow][subSubColumnIndex];
                 }
@@ -110,13 +110,13 @@
         const columnIndex = headerRow.findIndex(header => header.startsWith(chosenClimate));
                         console.log(`Climate column Index: ${columnIndex}`);  // Log climate colume
         if (isValidIndex(columnIndex, headerRow.length)) {
-          const RandomRow = randomBetween(10, 13); // Rows 10 to 13
+          const RandomRow = randomBetween(9, 12); // Rows 9 to 12
                         console.log(`Random Row: ${RandomRow}`);  // Log random row
               if (isValidIndex(RandomRow, csvData.length)) {
                 const Value = csvData[RandomRow][columnIndex];
                 console.log(`Value: ${Value}`);  // Log rolled faction
                 const SubColumnIndex = headerRow.findIndex(header => header.startsWith(Value));
-                const SubRandomRow = randomBetween(2, 21); // Rows 2 to 21
+                const SubRandomRow = randomBetween(1, 20); // Rows 1 to 20
                 if (isValidIndex(SubRandomRow, csvData.length) && isValidIndex(SubColumnIndex, headerRow.length)) {
                   output += csvData[SubRandomRow][SubColumnIndex] + "<br>";
 
@@ -129,11 +129,11 @@
               output += "They are wounded!";
             } else if (subNumber === 3) {
               output += "They are struggling with ";
-              const subRandomRow = randomBetween(10, 13); // Rows 10 to 13
+              const subRandomRow = randomBetween(9, 12); // Rows 9 to 12
               if (isValidIndex(subRandomRow, csvData.length)) {
                 const subValue = csvData[subRandomRow][columnIndex];
                 const subSubColumnIndex = headerRow.findIndex(header => header.startsWith(subValue));
-                const subSubRandomRow = randomBetween(23, 28); // Rows 23 to 28
+                const subSubRandomRow = randomBetween(22, 27); // Rows 22 to 27
                 if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subSubColumnIndex, headerRow.length)) {
                   output += csvData[subSubRandomRow][subSubColumnIndex];
                 }
@@ -148,11 +148,11 @@
               }
             } else if (subNumber === 6) {
               output += "They are fleeing ";
-              const subRandomRow = randomBetween(10, 13); // Rows 10 to 13
+              const subRandomRow = randomBetween(9, 12); // Rows 9 to 12
               if (isValidIndex(subRandomRow, csvData.length)) {
                 const subValue = csvData[subRandomRow][columnIndex];
                 const subSubColumnIndex = headerRow.findIndex(header => header.startsWith(subValue));
-                const subSubRandomRow = randomBetween(2, 21); // Rows 2 to 21
+                const subSubRandomRow = randomBetween(1, 20); // Rows 1 to 20
                 if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subSubColumnIndex, headerRow.length)) {
                   output += csvData[subSubRandomRow][subSubColumnIndex];
                 }
@@ -173,11 +173,11 @@
               output += csvData[20][columnIndex];
             }
           } else if (subNumber === 2) {
-            const RandomRow = randomBetween(10, 13); // Rows 10 to 13
+            const RandomRow = randomBetween(9, 12); // Rows 9 to 12
             if (isValidIndex(RandomRow, csvData.length)) {
               const value = csvData[RandomRow][columnIndex];
               const subColumnIndex = headerRow.findIndex(header => header.startsWith(value));
-              const subSubRandomRow = randomBetween(23, 28); // Rows 23 to 28
+              const subSubRandomRow = randomBetween(22, 27); // Rows 22 to 27
               if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subColumnIndex, headerRow.length)) {
                 output += csvData[subSubRandomRow][subColumnIndex];
               }

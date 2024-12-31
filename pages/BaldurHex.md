@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -70,7 +68,7 @@
             } else if (subNumber === 2) {
               output += "They are wounded!";
             } else if (subNumber === 3) {
-              output += "They are struggling with a ";
+              output += "They are struggling with ";
               const subRandomRow = randomBetween(9, 12); // Rows 9 to 12
               if (isValidIndex(subRandomRow, csvData.length)) {
                 const subValue = csvData[subRandomRow][columnIndex];
@@ -83,13 +81,13 @@
             } else if (subNumber === 4) {
               output += "They are hunting/patroling.";
             } else if (subNumber === 5) {
-              output += "They are fighting a ";
+              output += "They are fighting ";
               const subRandomRow = randomBetween(2, 7); // Rows 2 to 7
               if (isValidIndex(subRandomRow, csvData.length)) {
                 output += csvData[subRandomRow][columnIndex];
               }
             } else if (subNumber === 6) {
-              output += "Fleeing ";
+              output += "They are fleeing ";
               const subRandomRow = randomBetween(9, 12); // Rows 9 to 12
               if (isValidIndex(subRandomRow, csvData.length)) {
                 const subValue = csvData[subRandomRow][columnIndex];

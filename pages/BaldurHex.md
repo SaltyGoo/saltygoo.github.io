@@ -2,6 +2,8 @@
   <title>Fantasy Land Generator</title>
   </head>
   
+   <body>
+ 
     <button id="generateText">Generate Text</button>
     <p id="result"></p>
 
@@ -102,3 +104,4 @@
             resultElement.innerHTML = output;
         });
     </script>
+  </body>

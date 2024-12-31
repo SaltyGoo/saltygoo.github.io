@@ -6,7 +6,8 @@
  Biome: **Old Growth Forest.** Lush, autumnal, massive, tangled, strange noises.
  
   <button id="generateText">Generate Encounter</button> <br><br>
-  <span class="alchemy" id="result" > The first time the party enters any feature here, and when they rest/wake up.</span>
+  _The first time the party enters any feature and every 12 hours._
+  <span class="alchemy" id="result" > Who? What? How! </span>
 
   <script>
     // Define the climates

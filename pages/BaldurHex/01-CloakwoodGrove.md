@@ -12,9 +12,11 @@ Travel **SW:** Sea of Swords, **S:** [06 - Centeol's Lair](/06-CenteolsLair), **
 
  ---
  
+<h2>Encounter Generator</h2>
+
 *Generate an encounter the first time the party enters any of the 3 features on this hex and every 12 hours.* <br><br>
 
-  <button id="generateText" align="center" >Generate Encounter</button> <br><br>
+  <button id="generateText" >Generate </button> <br><br>
   <p id="result" > Text will appear here. </p>
 
 

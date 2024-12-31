@@ -22,13 +22,13 @@ Travel **SW:** Sea of Swords, **S:** [06 - Centeol's Lair](/06-CenteolsLair), **
 
 <span class="blacktitle"> Feature A - Old Standing Stones </span>
 
-A meeting points for druids at the conflux of ancient leyline. Doing a specific ritual here allows communication through the other standing stones on the Southern Sword Coast, and some even say teleportation.
+A meeting point for druids at the conflux of ancient leylines. Doing a specific ritual here allows communication through the other standing stones of the Southern Sword Coast, and some even say teleportation.
 
 ---
 
 <span class="blacktitle"> Feature B - Great Oak </span>
 
-The home of the Archdruid of Cloakwood. Recently taken over by the extremist Shadow Druids, lead by Archdruid Amarande. They do not view the intrusion of civilized humanoids into the woods kindly.
+The home of the Archdruid of Cloakwood. Recently taken over by the extremist Shadow Druids, led by Archdruid Amarande. They do not view the intrusion of civilized humanoids into the woods kindly.
 
 ---
 

@@ -106,9 +106,12 @@
         }
       } else if (randomNumber === 3) {
         const chosenClimate = randomBetween(1, 2) === 1 ? climate1 : climate2;
+                        console.log(`Chosen Climate: ${chosenClimate}`);  // Log rolled climate
         const columnIndex = headerRow.findIndex(header => header.startsWith(chosenClimate));
+                        console.log(`Climate column Index: ${columnIndex}`);  // Log climate colume
         if (isValidIndex(columnIndex, headerRow.length)) {
           const RandomRow = randomBetween(10, 13); // Rows 10 to 13
+                        console.log(`Random Row: ${RandomRow}`);  // Log random row
               if (isValidIndex(RandomRow, csvData.length)) {
                 const Value = csvData[RandomRow][columnIndex];
                 console.log(`Value: ${Value}`);  // Log rolled faction

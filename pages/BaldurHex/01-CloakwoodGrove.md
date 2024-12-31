@@ -16,6 +16,8 @@ Travel **SW:** Sea of Swords, **S:** [06 - Centeol's Lair](/06-CenteolsLair), **
 
 <span class="grey" id="result" > Click the button above to generate an encounter. <br></span>
 
+Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
+
  ---
 
 <h2>Feature A - Old Standing Stones</h2>

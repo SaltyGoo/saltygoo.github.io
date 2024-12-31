@@ -1,3 +1,4 @@
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -64,6 +65,7 @@
             output += csvData[RandomRow][columnIndex] + "<br>";
 
             const subNumber = randomBetween(1, 6);
+                  console.log(`Sub Roll: ${subNumber}`);  // Log rolled number
             if (subNumber === 1) {
               output += "They are resting.";
             } else if (subNumber === 2) {
@@ -115,6 +117,7 @@
 
 
             const subNumber = randomBetween(1, 6);
+               console.log(`Sub Roll: ${subNumber}`);  // Log rolled number
             if (subNumber === 1) {
               output += "They are resting.";
             } else if (subNumber === 2) {
@@ -156,6 +159,7 @@
               }
         else if (randomNumber === 4) {
         const subNumber = randomBetween(1, 5);
+               console.log(`Sub Roll: ${subNumber}`);  // Log rolled number
         const chosenClimate = randomBetween(1, 2) === 1 ? climate1 : climate2;
         const columnIndex = headerRow.findIndex(header => header.startsWith(chosenClimate));
         if (isValidIndex(columnIndex, headerRow.length)) {

@@ -169,8 +169,8 @@
         const columnIndex = headerRow.findIndex(header => header.startsWith(chosenClimate));
         if (isValidIndex(columnIndex, headerRow.length)) {
           if (subNumber === 1) {
-            if (isValidIndex(20, csvData.length)) {
-              output += csvData[20][columnIndex];
+            if (isValidIndex(19, csvData.length)) {
+              output += csvData[19][columnIndex];
             }
           } else if (subNumber === 2) {
             const RandomRow = randomBetween(9, 12); // Rows 9 to 12

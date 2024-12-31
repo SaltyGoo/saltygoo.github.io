@@ -26,6 +26,7 @@ Generate an encounter the first time the party goes to one of this hex's feature
 *Unless you arrive from [01 - Cloakwood Grove](/pages/BaldurHex/01-CloakwoodGrove) or [03 - Cloakwood Mines](/pages/BaldurHex/03-CloakwoodMines/), features B and C of this hex are inaccessible and traveling northward from this hex is impossible.*
 
 <span class="blacktitle"> Feature A - Thundering Raeth </span>
+
 The thundering rapids of River Raeth are 50 ft wide and make the area near-uncrossable. The only way to reach deeper into the woods is to find a crossing elsewhere, or brave the currents here.
 
 ---

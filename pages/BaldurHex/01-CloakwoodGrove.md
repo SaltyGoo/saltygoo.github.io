@@ -226,9 +226,9 @@ A hidden cave deep in the forest where an evil ranger is attempting to tame wyve
               output += "A lair of " + value;
             }
           } else if (subNumber === 4) {
-            output += "Heavy fog. You are lost and end at another location in the hex than the one intended.";
+            output += "HEAVY FOG. Travelers end at another location in this hex than the one intended.";
           } else if (subNumber === 5) {
-            output += "The Gibberling Horde is coming tonight. Sleeping will be impossible on this hex.";
+            output += "The GIBBERLING HORDE is coming tonight. Sleeping will be impossible in this hex.";
           } else if (subNumber === 6) {
             const RandomRow = randomBetween(14, 17); // Rows 14 to 17
             if (isValidIndex(RandomRow, csvData.length)) {

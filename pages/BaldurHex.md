@@ -1,9 +1,10 @@
  <head>
-  <title>Fantasy Land Generator</title>
+  <title>Baldur's Gate Encounter Generator</title>
   </head>
   
    <body>
- 
+
+ <h1>Baldur's Gate Encounter Generator</h1>
     <button id="generateText">Generate Text</button>
     <p id="result"></p>
 

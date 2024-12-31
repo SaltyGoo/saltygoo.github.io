@@ -1,4 +1,4 @@
-<img align="left" width=150px src="/images/Hexes/hex01.png">
+<img align="left" width=150px src="/images/Hexes/hex02.png">
 <h1>Hex 02 - Wyvern Fork</h1>
 
 *Where the rumbling rapids of river Raeth that cut through Cloakwood split. Very few people go beyond.*

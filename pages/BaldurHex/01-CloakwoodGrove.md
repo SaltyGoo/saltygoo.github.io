@@ -7,8 +7,8 @@
 
 ---
 
-Travel North: **NW:** Sea of Swords, **N:** Chiontar Estuary, **NE:** Chiontar Estuary <br>
-Travel South: **SW:** Sea of Swords, **S:** [06 - Centeol's Lair](/06-CenteolsLair), **SE:** [02 - Wyvern Fork](/02-WyvernFork)
+Travel **NW:** Sea of Swords, **N:** Chiontar Estuary, **NE:** Chiontar Estuary <br>
+Travel **SW:** Sea of Swords, **S:** [06 - Centeol's Lair](/06-CenteolsLair), **SE:** [02 - Wyvern Fork](/02-WyvernFork)
 
  ---
 

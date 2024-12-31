@@ -163,7 +163,7 @@
                           }
               }
         else if (randomNumber === 4) {
-        const subNumber = randomBetween(1, 5);
+        const subNumber = randomBetween(1, 6);
                console.log(`Sub Roll: ${subNumber}`);  // Log rolled number
         const chosenClimate = randomBetween(1, 2) === 1 ? climate1 : climate2;
         const columnIndex = headerRow.findIndex(header => header.startsWith(chosenClimate));
@@ -186,13 +186,19 @@
             const RandomRow = randomBetween(2, 7); // Rows 2 to 7
             if (isValidIndex(RandomRow, csvData.length)) {
               const value = csvData[RandomRow][columnIndex];
-              output += "The nest of " + value;
+              output += "A lair of " + value;
             }
           } else if (subNumber === 4) {
             output += "Heavy fog makes the party lost. They arrive at another location in the hex.";
           } else if (subNumber === 5) {
             output += "The Gibberling Horde is coming tonight. Sleeping will be impossible on this hex.";
-          }
+          } else if (subNumber === 6) {
+            const RandomRow = randomBetween(14, 17); // Rows 14 to 17
+            if (isValidIndex(RandomRow, csvData.length)) {
+              const value = csvData[RandomRow][columnIndex];
+              output += "You meet " + value;
+            }
+          } 
         }
       }
 

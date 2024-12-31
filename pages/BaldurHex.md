@@ -50,6 +50,7 @@
       const resultElement = document.getElementById("result");
 
       const randomNumber = randomBetween(1, 4);
+      console.log(`Dice Roll: ${randomNumber}`);  // Log rolled number
       let output = "";
 
       if (randomNumber === 1) {

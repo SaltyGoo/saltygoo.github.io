@@ -1,6 +1,5 @@
 <img align="left" width=150px src="/images/Hexes/hex01.png">
-<h4>Hex 01</h4>
-<h1>Cloakwood Grove</h1>
+<h1>Hex 01 - Cloakwood Grove</h1>
 
  The heart of the ancient Cloakwood forest where druids are rumored to gather. Strangers are not welcome.
  

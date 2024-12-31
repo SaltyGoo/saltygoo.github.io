@@ -108,7 +108,7 @@ A hidden cave deep in the forest where an evil ranger is attempting to tame wyve
             } else if (subNumber === 2) {
               output += "They are wounded!";
             } else if (subNumber === 3) {
-              output += "They are victims of ";
+              output += "They are victims of a trap! ";
               const subRandomRow = randomBetween(9, 12); // Rows 9 to 12
               if (isValidIndex(subRandomRow, csvData.length)) {
                 const subValue = csvData[subRandomRow][columnIndex];

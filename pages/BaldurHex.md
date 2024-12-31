@@ -1,4 +1,7 @@
- <h1>Hex Adventure Generator</h1>
+ <head>
+  <title>Fantasy Land Generator</title>
+  </head>
+  
     <button id="generateText">Generate Text</button>
     <p id="result"></p>
 

@@ -1,4 +1,4 @@
-<h5> [Return to Map](/2024/12/31/BGHex) </h5>
+##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
 
 <img align="left" width=150px src="/images/Hexes/hex01.png">
 <h1>Hex 01 - Cloakwood Grove</h1>

@@ -157,7 +157,7 @@ Corroded tunnels in the farmland lead to a dark, damp nest.
                 console.log(`Value: ${Value}`);  // Log rolled faction
                 console.log(`Header Row: ${headerRow}`);
                 console.log(`Matching headers: ${headerRow.filter(header => header.startsWith(Value))}`);
-                const SubColumnIndex = headerRow.findIndex(header => header.startsWith(Value));
+                const SubColumnIndex = headerRow.findIndex(header => header.trim().normalize('NFC').startsWith(Value.trim().normalize('NFC')));
                 console.log(`Faction Column: ${SubColumnIndex}`);  // Log rolled faction column number
                 const SubRandomRow = randomBetween(1, 20); // Rows 1 to 20
                 if (isValidIndex(SubRandomRow, csvData.length) && isValidIndex(SubColumnIndex, headerRow.length)) {

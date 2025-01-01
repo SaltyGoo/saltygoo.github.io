@@ -1,5 +1,3 @@
-##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
-
 <img align="left" width=150px src="/images/Hexes/hex04.png">
 <h1>Hex 04 - Fishing Hamlet</h1>
 
@@ -9,6 +7,7 @@
 
 ---
 
+##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
 Travel **NW:** [03 - Cloakwood Mines](/pages/BaldurHex/03-CloakwoodMines), **N:** Chiontar Estuary, **NE:** [05 - Wyrm's Crossing](/pages/BaldurHex/05-WyrmsCrossing), <br>
 Travel **SW:** [08 - The Friendly Arm Inn](/pages/BaldurHex/08-FriendlyArmInn), **S:** [09 - Peldvale](/pages/BaldurHex/09-Peldvale) , **SE:** [10 - Old Ruins](/pages/BaldurHex/10-OldRuins)
 
@@ -135,7 +134,7 @@ Corroded tunnels in the farmland lead to a dark, damp nest.
               if (isValidIndex(subRandomRow, csvData.length)) {
                 const subValue = csvData[subRandomRow][columnIndex];
                                 console.log(`Value: ${subValue}`);  // Log rolled faction
-                const subSubColumnIndex = headerRow.findIndex(header => header.startsWith(subValue));
+                const subSubColumnIndex = headerRow.findIndex(header => header.trim().normalize('NFC').startsWith(subValue.trim().normalize('NFC')));
                 const subSubRandomRow = randomBetween(1, 20); // Rows 1 to 20
                 if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subSubColumnIndex, headerRow.length)) {
                   output += csvData[subSubRandomRow][subSubColumnIndex];
@@ -170,15 +169,21 @@ Corroded tunnels in the farmland lead to a dark, damp nest.
               output += "They are wounded!";
             } else if (subNumber === 3) {
               output += "They are victims of a trap: ";
-              const subRandomRow = randomBetween(9, 12); // Rows 9 to 12
-              if (isValidIndex(subRandomRow, csvData.length)) {
-                const subValue = csvData[subRandomRow][columnIndex];
+               let subValue;
+               let subRandomRow;
+             do {
+                    subRandomRow = randomBetween(9, 12); // Generate a new random row
+                     if (isValidIndex(subRandomRow, csvData.length)) {
+                       subValue = csvData[subRandomRow][columnIndex];
+                     } else {
+                       subValue = null; // Ensure subValue is reset if index is invalid
+                     }
+                   } while (subValue === Value);
                 const subSubColumnIndex = headerRow.findIndex(header => header.trim().normalize('NFC').startsWith(subValue.trim().normalize('NFC')));
                 const subSubRandomRow = randomBetween(22, 27); // Rows 22 to 27
                 if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subSubColumnIndex, headerRow.length)) {
                   output += csvData[subSubRandomRow][subSubColumnIndex];
                 }
-              }
             } else if (subNumber === 4) {
               output += "They are hunting/patroling.";
             } else if (subNumber === 5) {
@@ -189,10 +194,17 @@ Corroded tunnels in the farmland lead to a dark, damp nest.
               }
             } else if (subNumber === 6) {
               output += "They are fleeing ";
-              const subRandomRow = randomBetween(9, 12); // Rows 9 to 12
-              if (isValidIndex(subRandomRow, csvData.length)) {
-                const subValue = csvData[subRandomRow][columnIndex];
-                const subSubColumnIndex = headerRow.findIndex(header => header.trim().normalize('NFC').startsWith(Value.trim().normalize('NFC')));
+               let subValue;
+               let subRandomRow;
+             do {
+                    subRandomRow = randomBetween(9, 12); // Generate a new random row
+                     if (isValidIndex(subRandomRow, csvData.length)) {
+                       subValue = csvData[subRandomRow][columnIndex];
+                     } else {
+                       subValue = null; // Ensure subValue is reset if index is invalid
+                     }
+                   } while (subValue === Value);
+                const subSubColumnIndex = headerRow.findIndex(header => header.trim().normalize('NFC').startsWith(subValue.trim().normalize('NFC')));
                 const subSubRandomRow = randomBetween(1, 20); // Rows 1 to 20
                 if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subSubColumnIndex, headerRow.length)) {
                   output += csvData[subSubRandomRow][subSubColumnIndex];
@@ -201,7 +213,6 @@ Corroded tunnels in the farmland lead to a dark, damp nest.
             }
           }
         }
-                          }
               }
         else if (randomNumber === 4) {
         const subNumber = randomBetween(1, 6);

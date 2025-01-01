@@ -25,24 +25,21 @@ Generate an encounter the first time the party goes to one of this hex's feature
 
  ---
 
-*Unless you arrive from [02 - Wyvern Fork](/pages/BaldurHex/02-WyvernFork), features B and C of this hex are inaccessible. The party must find a way to cross River Raeth first.*
+<span class="blacktitle"> Feature A - Fishing Village </span>
 
-<span class="blacktitle"> Feature A - Raeth Gorges </span>
-
-The mist-cloaked gorge of river Raeth are 50 ft wide and 100 ft deep. Some times, mysterious barges sail upstream under the cover of illusory magic.
+A handful of simple houses are clustered on the sandy banks of the Chiontar estuary. Drying nets and fishes sway in the wind while Baldur's Gate can be seen looming across the river. 
 
 ---
 
-<span class="blacktitle"> Feature B - Iron Throne Camp </span>
+<span class="blacktitle"> Feature B - Brun's Farm</span>
 
-This nature-beseiged riverside lumber camp is a cover for the Iron Throne's mining activities. The tension is high between the druids, the Iron Throne, and bounty hunters.
+One of the small farms lining the Coast Way near Baldur's Gate. This one stands discreetely on the outskirts of Peldvale, suggesting it could be a safe haven.
 
 ---
 
-<span class="blacktitle"> Feature C - Iron Throne Fort </span>
+<span class="blacktitle"> Feature C - The Ankheg Pit </span>
 
-This small motte-and-baily fort hidden in the forest is built atop the old flooded mines of dwarven clan Orothiar. The archmage Davaeorn has been dispatched by the Iron Throne to drain them.
-
+Corroded tunnels in the farmland lead to a dark, damp nest.
 
 
 
@@ -54,8 +51,8 @@ This small motte-and-baily fort hidden in the forest is built atop the old flood
 
   <script>
     // Define the climates
-    const climate1 = "Old Growth";
-    const climate2 = "Old Growth";
+    const climate1 = "Farmland";
+    const climate2 = "Farmland";
 
     // Helper function to load a CSV file and parse it
     async function loadCSV(filePath) {

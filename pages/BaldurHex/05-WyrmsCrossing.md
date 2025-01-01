@@ -52,7 +52,7 @@ Further along the river and hidden by fog lives Tenya, the local sea witch.
   <script>
     // Define the climates
     const climate1 = "Farmland";
-    const climate2 = "Village";
+    const climate2 = "Village1";
 
     // Helper function to load a CSV file and parse it
     async function loadCSV(filePath) {
@@ -170,9 +170,16 @@ Further along the river and hidden by fog lives Tenya, the local sea witch.
               output += "They are wounded!";
             } else if (subNumber === 3) {
               output += "They are victims of a trap: ";
-              const subRandomRow = randomBetween(9, 12); // Rows 9 to 12
-              if (isValidIndex(subRandomRow, csvData.length)) {
-                const subValue = csvData[subRandomRow][columnIndex];
+               let subValue;
+               let subRandomRow;
+             do {
+                    subRandomRow = randomBetween(9, 12); // Generate a new random row
+                     if (isValidIndex(subRandomRow, csvData.length)) {
+                       subValue = csvData[subRandomRow][columnIndex];
+                     } else {
+                       subValue = null; // Ensure subValue is reset if index is invalid
+                     }
+                   } while (subValue === Value);
                 const subSubColumnIndex = headerRow.findIndex(header => header.trim().normalize('NFC').startsWith(subValue.trim().normalize('NFC')));
                 const subSubRandomRow = randomBetween(22, 27); // Rows 22 to 27
                 if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subSubColumnIndex, headerRow.length)) {
@@ -189,9 +196,16 @@ Further along the river and hidden by fog lives Tenya, the local sea witch.
               }
             } else if (subNumber === 6) {
               output += "They are fleeing ";
-              const subRandomRow = randomBetween(9, 12); // Rows 9 to 12
-              if (isValidIndex(subRandomRow, csvData.length)) {
-                const subValue = csvData[subRandomRow][columnIndex];
+              let subValue;
+               let subRandomRow;
+             do {
+                    subRandomRow = randomBetween(9, 12); // Generate a new random row
+                     if (isValidIndex(subRandomRow, csvData.length)) {
+                       subValue = csvData[subRandomRow][columnIndex];
+                     } else {
+                       subValue = null; // Ensure subValue is reset if index is invalid
+                     }
+                   } while (subValue === Value);
                 const subSubColumnIndex = headerRow.findIndex(header => header.trim().normalize('NFC').startsWith(Value.trim().normalize('NFC')));
                 const subSubRandomRow = randomBetween(1, 20); // Rows 1 to 20
                 if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subSubColumnIndex, headerRow.length)) {

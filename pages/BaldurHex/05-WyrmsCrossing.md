@@ -185,7 +185,6 @@ Further along the river and hidden by fog lives Tenya, the local sea witch.
                 if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subSubColumnIndex, headerRow.length)) {
                   output += csvData[subSubRandomRow][subSubColumnIndex];
                 }
-              }
             } else if (subNumber === 4) {
               output += "They are hunting/patroling.";
             } else if (subNumber === 5) {
@@ -215,7 +214,6 @@ Further along the river and hidden by fog lives Tenya, the local sea witch.
             }
           }
         }
-                          }
               }
         else if (randomNumber === 4) {
         const subNumber = randomBetween(1, 6);

@@ -9,7 +9,7 @@
 
 ---
 
-Travel **NW:** Chiontar Estuary, **N:** To BALDUR'S GATE! **NE:** Chiontar River, <br>
+Travel **NW:** Chiontar Estuary, **N:** To **BALDUR'S GATE**! **NE:** Chiontar River <br>
 Travel **SW:** [04 - Fishing Hamlet](/pages/BaldurHex/04-FishingHamlet), **S:** [10 - Old Ruins](/pages/BaldurHex/10-OldRuins), **SE:** Wood of Sharp Teeth
 
  ---

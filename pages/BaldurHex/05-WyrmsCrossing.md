@@ -135,7 +135,7 @@ Further along the river and hidden by fog lives Tenya, the local sea witch.
               if (isValidIndex(subRandomRow, csvData.length)) {
                 const subValue = csvData[subRandomRow][columnIndex];
                                 console.log(`Value: ${subValue}`);  // Log rolled faction
-                const subSubColumnIndex = headerRow.findIndex(header => header.startsWith(subValue));
+                const subSubColumnIndex = headerRow.findIndex(header => header.trim().normalize('NFC').startsWith(subValue.trim().normalize('NFC')));
                 const subSubRandomRow = randomBetween(1, 20); // Rows 1 to 20
                 if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subSubColumnIndex, headerRow.length)) {
                   output += csvData[subSubRandomRow][subSubColumnIndex];
@@ -195,7 +195,7 @@ Further along the river and hidden by fog lives Tenya, the local sea witch.
               }
             } else if (subNumber === 6) {
               output += "They are fleeing ";
-              let subValue;
+               let subValue;
                let subRandomRow;
              do {
                     subRandomRow = randomBetween(9, 12); // Generate a new random row
@@ -205,7 +205,7 @@ Further along the river and hidden by fog lives Tenya, the local sea witch.
                        subValue = null; // Ensure subValue is reset if index is invalid
                      }
                    } while (subValue === Value);
-                const subSubColumnIndex = headerRow.findIndex(header => header.trim().normalize('NFC').startsWith(Value.trim().normalize('NFC')));
+                const subSubColumnIndex = headerRow.findIndex(header => header.trim().normalize('NFC').startsWith(subValue.trim().normalize('NFC')));
                 const subSubRandomRow = randomBetween(1, 20); // Rows 1 to 20
                 if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subSubColumnIndex, headerRow.length)) {
                   output += csvData[subSubRandomRow][subSubColumnIndex];

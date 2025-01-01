@@ -3,7 +3,7 @@
 <img align="left" width=150px src="/images/Hexes/hex04.png">
 <h1>Hex 04 - Fishing Hamlet</h1>
 
-*The farmlands south of Baldur's Gate are fertilized by sediments from the Chiontar's estuary and toiled by giant beetles known as Ankheg.*
+*The farmlands south of Baldur's Gate are fertilized by sediments from the Chiontar's estuary and toiled by giant beetles known as Ankhegs.*
 
 **Biome:** <u>Farmland</u>. Wet dirt. Post harvest. Dewey. Low fog. Sea air.
 

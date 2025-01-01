@@ -8,9 +8,9 @@
 
 ---
 
+##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
 Travel **NW:** Chiontar Estuary, **N:** To **BALDUR'S GATE**! **NE:** Chiontar River <br>
 Travel **SW:** [04 - Fishing Hamlet](/pages/BaldurHex/04-FishingHamlet), **S:** [10 - Old Ruins](/pages/BaldurHex/10-OldRuins), **SE:** Wood of Sharp Teeth
-##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
 
  ---
  

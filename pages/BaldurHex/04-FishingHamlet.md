@@ -115,7 +115,7 @@ Corroded tunnels in the farmland lead to a dark, damp nest.
               const subRandomRow = randomBetween(9, 12); // Rows 9 to 12
               if (isValidIndex(subRandomRow, csvData.length)) {
                 const subValue = csvData[subRandomRow][columnIndex];
-                const subSubColumnIndex = headerRow.findIndex(header => header.startsWith(subValue));
+                const subSubColumnIndex = headerRow.findIndex(header => header.trim().normalize('NFC').startsWith(subValue.trim().normalize('NFC')));
                 const subSubRandomRow = randomBetween(22, 27); // Rows 22 to 27
                 if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subSubColumnIndex, headerRow.length)) {
                   output += csvData[subSubRandomRow][subSubColumnIndex];
@@ -217,7 +217,7 @@ Corroded tunnels in the farmland lead to a dark, damp nest.
             const RandomRow = randomBetween(9, 12); // Rows 9 to 12
             if (isValidIndex(RandomRow, csvData.length)) {
               const value = csvData[RandomRow][columnIndex];
-              const SubColumnIndex = headerRow.findIndex(header => header.trim().normalize('NFC').startsWith(Value.trim().normalize('NFC')));
+              const subColumnIndex = headerRow.findIndex(header => header.trim().normalize('NFC').startsWith(value.trim().normalize('NFC')));
               const subSubRandomRow = randomBetween(22, 27); // Rows 22 to 27
               if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subColumnIndex, headerRow.length)) {
                 output += csvData[subSubRandomRow][subColumnIndex];

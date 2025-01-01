@@ -1,3 +1,5 @@
+<h6>[Return to Map](/2024/12/31/BGHex/)</h6>
+
 <img align="left" width=150px src="/images/Hexes/hex02.png">
 <h1>Hex 02 - Wyvern Fork</h1>
 

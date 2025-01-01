@@ -25,21 +25,21 @@ Generate an encounter the first time the party goes to one of this hex's feature
 
  ---
 
-<span class="blacktitle"> Feature A - Fishing Village </span>
+<span class="blacktitle"> Feature A - Wyrm's Crossing </span>
 
-A handful of simple houses are clustered on the sandy banks of the Chiontar estuary. Drying nets and fishes sway in the wind while Baldur's Gate can be seen looming across the river. 
-
----
-
-<span class="blacktitle"> Feature B - Brun's Farm</span>
-
-One of the small farms lining the Coast Way near Baldur's Gate. This one stands discreetely on the outskirts of Peldvale, suggesting it could be a safe haven.
+Massive stone bridge that crosses the Chiontar along the Coast Way near Baldur's Gate. Rempant banditry has led the Flaming Fist mercenaries to close it until further notice.
 
 ---
 
-<span class="blacktitle"> Feature C - The Ankheg Pit </span>
+<span class="blacktitle"> Feature B - Merchant Camp</span>
 
-Corroded tunnels in the farmland lead to a dark, damp nest.
+Merchant caravans from the Amn and beyond that have survived the bandit raids are stuck here until the bridge is open. Tension is high.
+
+---
+
+<span class="blacktitle"> Feature C - Tenya's Hut </span>
+
+Further along the river and hidden by fog stands the hovel of Tenya, the local sea witch.
 
 
 
@@ -52,7 +52,7 @@ Corroded tunnels in the farmland lead to a dark, damp nest.
   <script>
     // Define the climates
     const climate1 = "Farmland";
-    const climate2 = "Farmland";
+    const climate2 = "Village";
 
     // Helper function to load a CSV file and parse it
     async function loadCSV(filePath) {

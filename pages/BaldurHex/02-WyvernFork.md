@@ -1,14 +1,14 @@
-<img align="left" width=150px src="/images/Hexes/hex01.png">
-<h1>Hex 01 - Cloakwood Grove</h1>
+<img align="left" width=150px src="/images/Hexes/hex02.png">
+<h1>Hex 02 - Wyvern Fork</h1>
 
-*The heart of the ancient Cloakwood forest where druids are rumored to gather. Strangers are not welcome.*
+*Where the rumbling rapids of River Raeth that cut through Cloakwood split. Very few people go beyond.*
 
 **Biome:** <u>Old Growth Forest</u>. Lush, autumnal, massive, tangled, strange noises.
 
 ---
 
-Travel **NW:** Sea of Swords, **N:** Chiontar Estuary, **NE:** Chiontar Estuary <br>
-Travel **SW:** Sea of Swords, **S:** [06 - Centeol's Lair](/pages/BaldurHex/06-CenteolsLair), **SE:** [02 - Wyvern Fork](/pages/BaldurHex/02-WyvernFork)
+Travel **NW:** [01 - Cloakwood Grove](/pages/BaldurHex/01-CloakwoodGrove) **N:** Chiontar Estuary, **NE:** [03 - Cloakwood Mines](/pages/BaldurHex/03-CloakwoodMines/) <br>
+Travel **SW:** [06 - Centeol's Lair](/pages/BaldurHex/06-CenteolsLair), **S:** [07 - Cloakwood Lodge](/pages/BaldurHex/07-CloakwoodLodge/) , **SE:** [08 - The Friendly Arm Inn](/pages/BaldurHex/08-FriendlyArmInn)
 
  ---
  
@@ -23,21 +23,23 @@ Generate an encounter the first time the party goes to one of this hex's feature
 
  ---
 
-<span class="blacktitle"> Feature A - Old Standing Stones </span>
+*Unless you arrive from [01 - Cloakwood Grove](/pages/BaldurHex/01-CloakwoodGrove) or [03 - Cloakwood Mines](/pages/BaldurHex/03-CloakwoodMines/), features B and C of this hex are inaccessible and traveling northward from this hex is impossible.*
 
-A meeting point for druids at the conflux of ancient leylines. Doing a specific ritual here allows communication through the other standing stones of the Southern Sword Coast, and some even say teleportation.
+<span class="blacktitle"> Feature A - Thundering Raeth </span>
 
----
-
-<span class="blacktitle"> Feature B - Great Oak </span>
-
-The home of the Archdruid of Cloakwood. Recently taken over by the extremist Shadow Druids, led by Archdruid Amarande. They do not view the intrusion of civilized humanoids into the woods kindly.
+The thundering rapids of River Raeth are 50 ft wide and make the area near-uncrossable. The only way to reach deeper into the woods is to find a crossing elsewhere, or brave the currents here.
 
 ---
 
-<span class="blacktitle"> Feature C - Wyvern Nursery </span>
+<span class="blacktitle"> Feature B - Wyvern Vista </span>
 
-A hidden cave deep in the forest where an evil ranger is attempting to tame wyverns for the Black Talon mercenary company.
+A big rocky hill that overlooks the canopy. Offers the best panorama of Cloakwood, but is the nesting ground of many local wyverns.
+
+---
+
+<span class="blacktitle"> Feature C - Hamadryad Grove </span>
+
+A hidden, enchanted fay sanctuary where the boundary between the material and dream world are porous.
 
 
 

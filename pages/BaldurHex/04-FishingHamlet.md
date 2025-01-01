@@ -88,7 +88,6 @@ Corroded tunnels in the farmland lead to a dark, damp nest.
       }
 
       const headerRow = csvData[0]; // First row is the header
-      console.log(`Header Row: ${headerRow}`);
       const resultElement = document.getElementById("result");
 
       const randomNumber = randomBetween(1, 4);
@@ -156,10 +155,11 @@ Corroded tunnels in the farmland lead to a dark, damp nest.
               if (isValidIndex(RandomRow, csvData.length)) {
                 const Value = csvData[RandomRow][columnIndex];
                 console.log(`Value: ${Value}`);  // Log rolled faction
+                console.log(`Header Row: ${headerRow}`);
+                console.log(`Matching headers: ${headerRow.filter(header => header.startsWith(Value))}`);
                 const SubColumnIndex = headerRow.findIndex(header => header.startsWith(Value));
                 console.log(`Faction Column: ${SubColumnIndex}`);  // Log rolled faction column number
                 const SubRandomRow = randomBetween(1, 20); // Rows 1 to 20
-                console.log(`Matching headers: ${headerRow.filter(header => header.startsWith(Value))}`);
                 if (isValidIndex(SubRandomRow, csvData.length) && isValidIndex(SubColumnIndex, headerRow.length)) {
                   output += csvData[SubRandomRow][SubColumnIndex] + "<br>";
             const subNumber = randomBetween(1, 6)

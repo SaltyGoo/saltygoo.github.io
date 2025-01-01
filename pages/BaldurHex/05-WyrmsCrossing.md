@@ -5,7 +5,7 @@
 
 *A massive fortified bridge that crosses the Chiontar river near the city-state of Baldur's Gate.*
 
-**Biome:** <u>Settled Farmland</u>. Well traveled road. Signposts. Pastures. Low fog. Sea air.
+**Biome:** <u>Settled Farmland</u>. Paved road. Signposts. Pastures. Low fog. Sea air.
 
 ---
 

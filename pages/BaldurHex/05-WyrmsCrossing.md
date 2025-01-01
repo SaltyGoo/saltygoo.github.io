@@ -33,13 +33,13 @@ Massive stone bridge that crosses the Chiontar along the Coast Way near Baldur's
 
 <span class="blacktitle"> Feature B - Merchant Camp</span>
 
-Merchant caravans from the Amn and beyond that have survived the bandit raids are stuck here until the bridge is open. Tension is high.
+Merchant caravans from Amn and beyond that have survived the bandit raids are stuck here until the bridge is open. Tension is high.
 
 ---
 
 <span class="blacktitle"> Feature C - Tenya's Hut </span>
 
-Further along the river and hidden by fog stands the hovel of Tenya, the local sea witch.
+Further along the river and hidden by fog lives Tenya, the local sea witch.
 
 
 

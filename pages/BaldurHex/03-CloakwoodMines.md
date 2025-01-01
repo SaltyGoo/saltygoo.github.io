@@ -1,5 +1,3 @@
-##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
-
 <img align="left" width=150px src="/images/Hexes/hex03.png">
 <h1>Hex 03 - Cloakwood Mines</h1>
 
@@ -9,6 +7,7 @@
 
 ---
 
+##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
 Travel **NW:** Chiontar Estuary **N:** Chiontar Estuary, **NE:** Chiontar Estuary <br>
 Travel **SW:** [02 - Wyvern Fork](/pages/BaldurHex/02-WyvernFork), **S:** [08 - The Friendly Arm Inn](/pages/BaldurHex/08-FriendlyArmInn) , **SE:** [04 - Fishing Hamlet](/pages/BaldurHex/04-FishingHamlet)
 
@@ -57,7 +56,7 @@ This small motte-and-baily fort hidden in the forest is built atop the old flood
     const climate1 = "Old Growth";
     const climate2 = "Old Growth";
 
-    // Helper function to load a CSV file and parse it
+// Helper function to load a CSV file and parse it
     async function loadCSV(filePath) {
       try {
         const response = await fetch(filePath);
@@ -118,7 +117,7 @@ This small motte-and-baily fort hidden in the forest is built atop the old flood
               const subRandomRow = randomBetween(9, 12); // Rows 9 to 12
               if (isValidIndex(subRandomRow, csvData.length)) {
                 const subValue = csvData[subRandomRow][columnIndex];
-                const subSubColumnIndex = headerRow.findIndex(header => header.startsWith(subValue));
+                const subSubColumnIndex = headerRow.findIndex(header => header.trim().normalize('NFC').startsWith(subValue.trim().normalize('NFC')));
                 const subSubRandomRow = randomBetween(22, 27); // Rows 22 to 27
                 if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subSubColumnIndex, headerRow.length)) {
                   output += csvData[subSubRandomRow][subSubColumnIndex];
@@ -138,7 +137,7 @@ This small motte-and-baily fort hidden in the forest is built atop the old flood
               if (isValidIndex(subRandomRow, csvData.length)) {
                 const subValue = csvData[subRandomRow][columnIndex];
                                 console.log(`Value: ${subValue}`);  // Log rolled faction
-                const subSubColumnIndex = headerRow.findIndex(header => header.startsWith(subValue));
+                const subSubColumnIndex = headerRow.findIndex(header => header.trim().normalize('NFC').startsWith(subValue.trim().normalize('NFC')));
                 const subSubRandomRow = randomBetween(1, 20); // Rows 1 to 20
                 if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subSubColumnIndex, headerRow.length)) {
                   output += csvData[subSubRandomRow][subSubColumnIndex];
@@ -158,13 +157,14 @@ This small motte-and-baily fort hidden in the forest is built atop the old flood
               if (isValidIndex(RandomRow, csvData.length)) {
                 const Value = csvData[RandomRow][columnIndex];
                 console.log(`Value: ${Value}`);  // Log rolled faction
-                const SubColumnIndex = headerRow.findIndex(header => header.startsWith(Value));
+                console.log(`Header Row: ${headerRow}`);
+                console.log(`Matching headers: ${headerRow.filter(header => header.startsWith(Value))}`);
+                const SubColumnIndex = headerRow.findIndex(header => header.trim().normalize('NFC').startsWith(Value.trim().normalize('NFC')));
+                console.log(`Faction Column: ${SubColumnIndex}`);  // Log rolled faction column number
                 const SubRandomRow = randomBetween(1, 20); // Rows 1 to 20
                 if (isValidIndex(SubRandomRow, csvData.length) && isValidIndex(SubColumnIndex, headerRow.length)) {
                   output += csvData[SubRandomRow][SubColumnIndex] + "<br>";
-
-
-            const subNumber = randomBetween(1, 6);
+            const subNumber = randomBetween(1, 6)
                console.log(`Sub Roll: ${subNumber}`);  // Log rolled number
             if (subNumber === 1) {
               output += "They are resting.";
@@ -172,15 +172,21 @@ This small motte-and-baily fort hidden in the forest is built atop the old flood
               output += "They are wounded!";
             } else if (subNumber === 3) {
               output += "They are victims of a trap: ";
-              const subRandomRow = randomBetween(9, 12); // Rows 9 to 12
-              if (isValidIndex(subRandomRow, csvData.length)) {
-                const subValue = csvData[subRandomRow][columnIndex];
-                const subSubColumnIndex = headerRow.findIndex(header => header.startsWith(subValue));
+               let subValue;
+               let subRandomRow;
+             do {
+                    subRandomRow = randomBetween(9, 12); // Generate a new random row
+                     if (isValidIndex(subRandomRow, csvData.length)) {
+                       subValue = csvData[subRandomRow][columnIndex];
+                     } else {
+                       subValue = null; // Ensure subValue is reset if index is invalid
+                     }
+                   } while (subValue === Value);
+                const subSubColumnIndex = headerRow.findIndex(header => header.trim().normalize('NFC').startsWith(subValue.trim().normalize('NFC')));
                 const subSubRandomRow = randomBetween(22, 27); // Rows 22 to 27
                 if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subSubColumnIndex, headerRow.length)) {
                   output += csvData[subSubRandomRow][subSubColumnIndex];
                 }
-              }
             } else if (subNumber === 4) {
               output += "They are hunting/patroling.";
             } else if (subNumber === 5) {
@@ -191,10 +197,17 @@ This small motte-and-baily fort hidden in the forest is built atop the old flood
               }
             } else if (subNumber === 6) {
               output += "They are fleeing ";
-              const subRandomRow = randomBetween(9, 12); // Rows 9 to 12
-              if (isValidIndex(subRandomRow, csvData.length)) {
-                const subValue = csvData[subRandomRow][columnIndex];
-                const subSubColumnIndex = headerRow.findIndex(header => header.startsWith(subValue));
+               let subValue;
+               let subRandomRow;
+             do {
+                    subRandomRow = randomBetween(9, 12); // Generate a new random row
+                     if (isValidIndex(subRandomRow, csvData.length)) {
+                       subValue = csvData[subRandomRow][columnIndex];
+                     } else {
+                       subValue = null; // Ensure subValue is reset if index is invalid
+                     }
+                   } while (subValue === Value);
+                const subSubColumnIndex = headerRow.findIndex(header => header.trim().normalize('NFC').startsWith(subValue.trim().normalize('NFC')));
                 const subSubRandomRow = randomBetween(1, 20); // Rows 1 to 20
                 if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subSubColumnIndex, headerRow.length)) {
                   output += csvData[subSubRandomRow][subSubColumnIndex];
@@ -203,7 +216,6 @@ This small motte-and-baily fort hidden in the forest is built atop the old flood
             }
           }
         }
-                          }
               }
         else if (randomNumber === 4) {
         const subNumber = randomBetween(1, 6);
@@ -219,7 +231,7 @@ This small motte-and-baily fort hidden in the forest is built atop the old flood
             const RandomRow = randomBetween(9, 12); // Rows 9 to 12
             if (isValidIndex(RandomRow, csvData.length)) {
               const value = csvData[RandomRow][columnIndex];
-              const subColumnIndex = headerRow.findIndex(header => header.startsWith(value));
+              const subColumnIndex = headerRow.findIndex(header => header.trim().normalize('NFC').startsWith(value.trim().normalize('NFC')));
               const subSubRandomRow = randomBetween(22, 27); // Rows 22 to 27
               if (isValidIndex(subSubRandomRow, csvData.length) && isValidIndex(subColumnIndex, headerRow.length)) {
                 output += csvData[subSubRandomRow][subColumnIndex];

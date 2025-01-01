@@ -156,6 +156,7 @@ Corroded tunnels in the farmland lead to a dark, damp nest.
                 const Value = csvData[RandomRow][columnIndex];
                 console.log(`Value: ${Value}`);  // Log rolled faction
                 const SubColumnIndex = headerRow.findIndex(header => header.startsWith(Value));
+                console.log(`Faction Column: ${SubColumnIndex}`);  // Log rolled faction column number
                 const SubRandomRow = randomBetween(1, 20); // Rows 1 to 20
                 if (isValidIndex(SubRandomRow, csvData.length) && isValidIndex(SubColumnIndex, headerRow.length)) {
                   output += csvData[SubRandomRow][SubColumnIndex] + "<br>";

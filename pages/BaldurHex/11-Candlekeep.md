@@ -2,7 +2,7 @@
 <img align="left" width=150px src="/images/Hexes/hex11.png">
 <h1>Hex 11 - Candlekeep</h1>
 
-*Nestled atop the cliffs that rise from the Sword Coast, the citadel of Candlekeep houses the finest and most comprehensive collection of writings on the face of Faerûn. It is an imposing fortress, kept in strict isolation from the intrigues that occasionally plague the rest of the Forgotten Realms.*
+*Nestled atop the cliffs that rise from the Sword Coast, the citadel of Candlekeep houses the finest and most comprehensive collection of writings on the face of Faerûn.*
 
 **Biome:** <u>Coast</u>. Rugged clifs, vivifying wind, salt and seaweed, enthusiastic seagulls.
 

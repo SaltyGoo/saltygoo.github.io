@@ -40,4 +40,8 @@ The home of the Archdruid of Cloakwood. Recently taken over by the extremist Sha
 
 A hidden cave deep in the forest where an evil ranger is attempting to tame wyverns for the Black Talon mercenary company.
 
+<script>
+    const climate1 = "Old Growth";
+    const climate2 = "Old Growth";
+</script>
 <script src="/scripts/BGencounter.js"></script>

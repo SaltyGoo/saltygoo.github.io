@@ -2,7 +2,7 @@
 <img align="left" width=150px src="/images/Hexes/hex06.png">
 <h1>Hex 06 - Centeol's Lair</h1>
 
-*The deepest part of cloakwood is choked by spider webs. There are tales of a mysterious creature hiding among them.*
+*The deepest part of Cloakwood is choked by spider webs. There are tales of a mysterious creature hiding among them.*
 
 **Biome:** <u>Old Growth Forest</u>. Lush, autumnal, massive, webbed, strange noises.
 
@@ -39,7 +39,7 @@ This giant spiderweb cocoon is like a blight in the forest. It is the lair of th
 
 <span class="blacktitle"> Feature C - Eldelorr's Ruins </span>
 
-Eldelorr was a fishing village at the edge of cloakwood. It has long since been overrun by monsters from the forest.
+Eldelorr was a fishing village at the edge of Cloakwood. It has long since been overrun by monsters from the forest.
 <h5>Not in Baldur's Gate but lore acurate!</h5>
 
 ---

@@ -1,5 +1,5 @@
 
-<img align="left" width=150px src="/images/Hexes/hex09.png">
+<img align="left" width=150px src="/images/Hexes/hex10.png">
 <h1>Hex 10 - Old Ruins</h1>
 
 *In this section of the Woods of Sharp Teeth, rubbles from a god-forsaken city can be found.*

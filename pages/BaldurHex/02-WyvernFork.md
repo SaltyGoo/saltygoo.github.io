@@ -9,7 +9,7 @@
 
 ##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
 Travel **NW:** [01 - Cloakwood Grove](/pages/BaldurHex/01-CloakwoodGrove) **N:** Chiontar Estuary, **NE:** [03 - Cloakwood Mines](/pages/BaldurHex/03-CloakwoodMines/) <br>
-Travel **SW:** [06 - Centeol's Lair](/pages/BaldurHex/06-CenteolsLair), **S:** [07 - Cloakwood Lodge](/pages/BaldurHex/07-CloakwoodLodge/) , **SE:** [08 - The Friendly Arm Inn](/pages/BaldurHex/08-FriendlyArmInn)
+Travel **SW:** [06 - Centeol's Lair](/pages/BaldurHex/06-CenteolsLair), **S:** [07 - Cloakwood Lodge](/pages/BaldurHex/07-CloakwoodLodge/) , **SE:** [08 - The Friendly Arm Inn](/pages/BaldurHex/08-FriendlyArm)
 
  ---
  

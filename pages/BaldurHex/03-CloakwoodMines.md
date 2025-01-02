@@ -9,7 +9,7 @@
 
 ##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
 Travel **NW:** Chiontar Estuary **N:** Chiontar Estuary, **NE:** Chiontar Estuary <br>
-Travel **SW:** [02 - Wyvern Fork](/pages/BaldurHex/02-WyvernFork), **S:** [08 - The Friendly Arm Inn](/pages/BaldurHex/08-FriendlyArmInn) , **SE:** [04 - Fishing Hamlet](/pages/BaldurHex/04-FishingHamlet)
+Travel **SW:** [02 - Wyvern Fork](/pages/BaldurHex/02-WyvernFork), **S:** [08 - The Friendly Arm Inn](/pages/BaldurHex/08-FriendlyArm) , **SE:** [04 - Fishing Hamlet](/pages/BaldurHex/04-FishingHamlet)
 
  ---
  

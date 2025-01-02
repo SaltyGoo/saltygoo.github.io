@@ -1,7 +1,3 @@
-    // Define the climates
-    const climate1 = "Old Growth";
-    const climate2 = "Old Growth";
-
 // Helper function to load a CSV file and parse it
     async function loadCSV(filePath) {
       try {

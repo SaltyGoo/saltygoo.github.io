@@ -10,7 +10,7 @@
 
 ##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
 Travel **NW:** [02 - Wyvern Fork](/pages/BaldurHex/02-WyvernFork), **N:** [03 - Cloakwood Mines](/pages/BaldurHex/03-CloakwoodMines), **NE:** [04 - Fishing Hamlet](/pages/BaldurHex/04-FishingHamlet) <br>
-Travel **SW:** [07 - Cloakwood Lodge](/pages/BaldurHex/07-CloakwoodLodge) (by boat), **S:** [13 - Coast Way](/pages/BaldurHex/13-CoastWay), **SE:** [09 - Peldvale](/pages/BaldurHex/09-Peldvale)
+Travel **SW:** [07 - Cloakwood Lodge](/pages/BaldurHex/07-CloakwoodLodge), **S:** [13 - Coast Way](/pages/BaldurHex/13-CoastWay), **SE:** [09 - Peldvale](/pages/BaldurHex/09-Peldvale)
 
  ---
  

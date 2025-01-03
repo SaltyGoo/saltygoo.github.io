@@ -27,26 +27,26 @@ Generate an encounter the first time the party goes to one of this hex's feature
 
 <span class="blacktitle"> Feature A - The Way of the Lion</span>
 
-Nestled atop the cliffs that rise from the Sword Coast, the citadel of Candlekeep houses the finest and most comprehensive collection of writings on the face of Faerûn. It is an imposing fortress, kept in strict isolation from the intrigues that occasionally plague the rest of the Forgotten Realms.
+Winding through rugged boulders and windsept trees, the Lion's Way is used by pilgrims seeking entry to Candlekeep's Monastery. Upon reaching the coast, it turns into a series of narrow rock bridges that jump from cliff to cliff towards the castle.
 
 ---
 
-<span class="blacktitle"> Feature B - Diplomat's Cove</span>
+<span class="blacktitle"> Feature B - Old Standing Stones</span>
 
-Hidden below Candlekeep between two high cliffs, this sandy beach is used by dignitaries arriving to the monastery by boat. From there, a guarded tunnel leads directly to the castle.
+A long abandonned meeting point for druids at the conflux of ancient leylines. Doing a specific ritual here allows communication through the other standing stones of the Southern Sword Coast, and some even say teleportation. However, this one seems to have been defiled by a gruesome murder ritual.
+
+---
+
+<span class="blacktitle"> Feature C - Hidden Grotto</span>
+
+This hidden passage is sealed, but leads to the Underdark. It was carved by the mind flayers of Tellectus, who prey on people leaving Candlekeep to steal their knowledge.
 
 ##### Not in Baldur's Gate but lore accurate!
 
 ---
 
-<span class="blacktitle"> Feature C - Basilisk Cave</span>
-
-Only accessible at low tide. This half-flooded cave network is infested by basilisks and the petrified bodies of adventurers trying to loot Candlekeep's crypts.
-
----
-
 <script>
-    const climate1 = "Coast";
+    const climate1 = "Forest";
     const climate2 = "Coast";
 </script>
 <script src="/scripts/BGencounter.js"></script>

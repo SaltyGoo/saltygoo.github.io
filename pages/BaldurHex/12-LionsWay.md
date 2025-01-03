@@ -9,7 +9,7 @@
 ---
 
 ##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
-Travel **NW:** [11 - Candlekeep](/pages/BaldurHex/11-Candlekeep) (by boat), **N:** [07 - Cloakwood Lodge](/pages/BaldurHex/07-CloakwoodLodge), **NE:** [13 - Coast Way](/pages/BaldurHex/13-CoastWay)<br>
+Travel **NW:** [11 - Candlekeep](/pages/BaldurHex/11-Candlekeep), **N:** [07 - Cloakwood Lodge](/pages/BaldurHex/07-CloakwoodLodge), **NE:** [13 - Coast Way](/pages/BaldurHex/13-CoastWay)<br>
 Travel **SW:** [16 - Shipwreck Coast](/pages/BaldurHex/16-ShipwreckCoast), **S:** [17 - High Hedge](/pages/BaldurHex/17-HighHedge), **SE:** [18 - Beregost](/pages/BaldurHex/18-Beregost)
 
  ---

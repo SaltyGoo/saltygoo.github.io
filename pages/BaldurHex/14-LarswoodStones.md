@@ -25,26 +25,26 @@ Generate an encounter the first time the party goes to one of this hex's feature
 
  ---
 
-<span class="blacktitle"> Feature A - The Lion's Way Crossroad</span>
+<span class="blacktitle"> Feature A - Larswood Standing Stones</span>
 
-A large obelisk is inscribed with the direction of major settlements: The Friendly Arm and Baldur's Gate to the North, Candlekeep to the West, and Beregost and Amn to the South.
-
----
-
-<span class="blacktitle"> Feature B - Pillaged Caravan</span>
-
-A caravan of many wagons has been pillaged and left stranded in the woods near the Coast Way. Rumor has it that duke Entar Silvershield's son was traveling with it.
+A meeting point for druids at the conflux of ancient leylines. Doing a specific ritual here allows communication through the other standing stones of the Southern Sword Coast, and some even say teleportation.
 
 ---
 
-<span class="blacktitle"> Feature C - Belt Ogre Hut</span>
+<span class="blacktitle"> Feature B - Bloody Boulder</span>
 
-Locals know to bring an extra belt when traveling the road: a weird ogre with a belt fetish lives here and often trades belts for safe passage.
+This boulder is caked with the blood from dark rituals happening here. The gibberlings are especially numerous around it.
+
+---
+
+<span class="blacktitle"> Feature C - Crumbling Tower</span>
+
+This crumbling tower seems empty but is in fact the prison of the drow sorcerer Baeloth Barrityl.
 
 ---
 
 <script>
     const climate1 = "Forest";
-    const climate2 = "Coast";
+    const climate2 = "Forest";
 </script>
 <script src="/scripts/BGencounter.js"></script>

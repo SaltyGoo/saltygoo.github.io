@@ -10,7 +10,7 @@
 
 ##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
 Travel **NW:** [04 - Fishing Hamlet](/pages/BaldurHex/04-FishingHamlet), **N:** [05 - Wyrm's Crossing](/pages/BaldurHex/05-WyrmsCrossing), **NE:** Woods of Sharp Teeth <br>
-Travel **SW:** [09 - Peldvale](/pages/BaldurHex/09-Peldvale), **S:** [15 - Deep Larswood](/pages/BaldurHex/15-DeepLarswood), **SE:** Woods of Sharp Teeth
+Travel **SW:** [09 - Peldvale](/pages/BaldurHex/09-Peldvale), **S:** [15 - Woods of Sharp Teeth](/pages/BaldurHex/15-SharpTeeth), **SE:** Woods of Sharp Teeth
 
  ---
  

@@ -9,7 +9,7 @@
 
 ##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
 Travel **NW:** [03 - Cloakwood Mines](/pages/BaldurHex/03-CloakwoodMines), **N:** Chiontar Estuary, **NE:** [05 - Wyrm's Crossing](/pages/BaldurHex/05-WyrmsCrossing), <br>
-Travel **SW:** [08 - The Friendly Arm Inn](/pages/BaldurHex/08-FriendlyArm), **S:** [09 - Peldvale](/pages/BaldurHex/09-Peldvale) , **SE:** [10 - Old Ruins](/pages/BaldurHex/10-OldRuins)
+Travel **SW:** [08 - The Friendly Arm Inn](/pages/BaldurHex/08-FriendlyArm), **S:** [09 - Peldvale](/pages/BaldurHex/09-Peldvale) , **SE:** [10 - Bandit Territory](/pages/BaldurHex/10-OldRuins)
 
  ---
  

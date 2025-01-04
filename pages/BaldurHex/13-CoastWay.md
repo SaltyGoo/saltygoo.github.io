@@ -45,6 +45,6 @@ Locals know to bring an extra belt when traveling the road: a weird ogre with a 
 
 <script>
     const climate1 = "Forest";
-    const climate2 = "Coast";
+    const climate2 = "Forest";
 </script>
 <script src="/scripts/BGencounter.js"></script>

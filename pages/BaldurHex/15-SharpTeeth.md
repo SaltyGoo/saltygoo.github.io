@@ -9,7 +9,7 @@
 ---
 
 ##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
-Travel **NW:** [09 - Peldvale](/pages/BaldurHex/09-Peldvale), **N:** [10 - Old Ruins](/pages/BaldurHex/10-OldRuins), **NE:** Woods of Sharp Teeth<br>
+Travel **NW:** [09 - Peldvale](/pages/BaldurHex/09-Peldvale), **N:** [10 - Bandit Territory](/pages/BaldurHex/10-OldRuins), **NE:** Woods of Sharp Teeth<br>
 Travel **SW:** [14 - Larswood](/pages/BaldurHex/14-LarswoodStones), **S:** [20 - Mutamin's Garden](/pages/BaldurHex/20-Mutamin), **SE:** Woods of Sharp Teeth
 
  ---

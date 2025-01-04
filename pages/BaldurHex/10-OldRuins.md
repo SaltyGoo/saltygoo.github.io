@@ -1,8 +1,8 @@
 
 <img align="left" width=150px src="/images/Hexes/hex10.png">
-<h1>Hex 10 - Old Ruins</h1>
+<h1>Hex 10 - Bandit Territory</h1>
 
-*In this section of the Woods of Sharp Teeth, rubbles from a god-forsaken city can be found.*
+*In this section of the Woods of Sharp Teeth, rubbles from a god-forsaken city can be found. They are crawling with bandits.*
 
 **Biome:** <u>Forest</u>. Autumnal leaves, dead leaves, wet dirt, low fog, stone foundations, faraway ravens.
 

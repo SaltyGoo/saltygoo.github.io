@@ -10,7 +10,7 @@
 
 ##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
 Travel **NW:** [07 - Cloakwood Lodge](/pages/BaldurHex/07-CloakwoodLodge), **N:** [08 - Friendly Arm Inn](/pages/BaldurHex/08-FriendlyArm), **NE:** [09 - Peldvale](/pages/BaldurHex/09-Peldvale)<br>
-Travel **SW:** [12 - Lion's Way](/pages/BaldurHex/12-LionsWay), **S:** [18 - Beregost](/pages/BaldurHex/18-Beregost), **SE:** [14 - Larswood Stones](/pages/BaldurHex/14-LarswoodStones)
+Travel **SW:** [12 - Lion's Way](/pages/BaldurHex/12-LionsWay), **S:** [18 - Beregost](/pages/BaldurHex/18-Beregost), **SE:** [14 - Larswood](/pages/BaldurHex/14-LarswoodStones)
 
  ---
  

@@ -9,7 +9,7 @@
 ---
 
 ##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
-Travel **NW:** [08 - Friendly Arm Inn](/pages/BaldurHex/08-FriendlyArm), **N:** [04 - Fishing Hamlet](/pages/BaldurHex/04-FishingHamlet), **NE:** [10 - Old Ruins](/pages/BaldurHex/10-OldRuins) <br>
+Travel **NW:** [08 - Friendly Arm Inn](/pages/BaldurHex/08-FriendlyArm), **N:** [04 - Fishing Hamlet](/pages/BaldurHex/04-FishingHamlet), **NE:** [10 - Bandit Territory](/pages/BaldurHex/10-OldRuins) <br>
 Travel **SW:** [13 - Coast Way](/pages/BaldurHex/13-CoastWay), **S:** [14 - Larswood](/pages/BaldurHex/14-LarswoodStones), **SE:** [15 - Woods of Sharp Teeth](/pages/BaldurHex/15-SharpTeeth)
 
  ---

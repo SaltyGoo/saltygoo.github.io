@@ -10,7 +10,7 @@
 
 ##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
 Travel **NW:** Sea of Swords, **N:** [06 - Centeol's Lair](/pages/BaldurHex/06-CenteolsLair) (by boat), **NE:** [07 - Cloakwood Lodge](/pages/BaldurHex/07-CloakwoodLodge) (by boat)<br>
-Travel **SW:** Sea of Swords, **S:** [16 - Shipwreck Coast](/pages/BaldurHex/16-ShipwreckCoast), **SE:** [12 - Lion's Way](/pages/BaldurHex/12-LionsWay)
+Travel **SW:** Sea of Swords, **S:** [16 - Shipwreck's Coast](/pages/BaldurHex/16-ShipwreckCoast), **SE:** [12 - Lion's Way](/pages/BaldurHex/12-LionsWay)
 
  ---
  

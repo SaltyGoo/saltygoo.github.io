@@ -33,13 +33,13 @@ Talanthir the Conjurer's wizard abode, equiped with a library and a laboratory, 
 
 <span class="blacktitle"> Feature B - Overgrown Cabin</span>
 
-This abanonned cabin has seen no usage in a while judging by the dust. The reason is that giant spiders have used it to lure curious humanoids.
+Judging by the thick layer of dust covering everything inside, this abandonned cabin has seen no usage in a while. The reason is that giant spiders have used it to lure curious humanoids.
 
 ---
 
 <span class="blacktitle"> Feature C - Flower Meadows</span>
 
-Wildflowers brightly colour these meadows, which seem like a safe haven from the dangerous forest. However, dozens of skeletons lie dormant under the shrubbery, waiting for an unknown trigger to rise again.
+Wildflowers brightly colour these meadows, giving the appearance of being sheltered from the dangerous forest creatures. However, dozens of skeletons lie dormant under the shrubbery, waiting for an unknown trigger to rise again.
 
 ---
 

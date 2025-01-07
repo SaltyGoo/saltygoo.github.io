@@ -1,5 +1,5 @@
 
-<img align="left" width=150px src="/images/Hexes/hex18.png">
+<img align="left" width=150px src="/images/Hexes/hex19.png">
 <h1>Hex 19 - Song of the Moring</h1>
 
 *This temple complex is built in honour of Lathander, the Morning Lord. Its magnificent colonnades clashes with the rustic feel of Beregost nearby. The Most Radiant Kelddath Ormlyr, priest of Lathander, not only governs the local church, but is also the de facto governor of Beregost.*

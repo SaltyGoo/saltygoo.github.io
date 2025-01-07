@@ -4,12 +4,12 @@
 
 *Talanthir the Conjurer, a powerful mage from Beregost, has erected his abode here, where he trades arcane items to those he deems interesting enough.*
 
-**Biome:** <u>Forest</u>. Forest. Autumnal leaves, dead leaves, wet dirt, low fog, faraway ravens.
+**Biome:** <u>Forest</u>. Autumnal leaves, dead leaves, wet dirt, low fog, faraway ravens.
 
 ---
 
 ##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
-Travel **NW:** [16 - Shipwreck's Coast](/pages/BaldurHex/16-ShipwreckCoast), **N:** [12 - Lion's Way](/pages/BaldurHex/12-LionsWay), **NE:** [12 - Coast Way](/pages/BaldurHex/13-CoastWay)<br>
+Travel **NW:** [16 - Shipwreck's Coast](/pages/BaldurHex/16-ShipwreckCoast), **N:** [12 - Lion's Way](/pages/BaldurHex/12-LionsWay), **NE:** [13 - Coast Way](/pages/BaldurHex/13-CoastWay)<br>
 Travel **SW:** [21 - Seawatcher](/pages/BaldurHex/21-Seawatcher), **S:** [22 - Red Canyons](/pages/BaldurHex/22-RedCanyons), **SE:** [23 - Trade Way](/pages/BaldurHex/23-TradeWay)
 
  ---

@@ -51,7 +51,7 @@ The richest man in Beregost, Gerard Travenhurst, has built this manor on the nor
 ---
 
 <script>
-    const climate1 = "Village";
-    const climate2 = "Village";
+    const climate1 = "Village1";
+    const climate2 = "Village1";
 </script>
 <script src="/scripts/BGencounter.js"></script>

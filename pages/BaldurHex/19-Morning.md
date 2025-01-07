@@ -45,6 +45,6 @@ One of the three temples forming the Song of the Morning. This one is notable fo
 
 <script>
     const climate1 = "Village1";
-    const climate2 = "Village1";
+    const climate2 = "Farmland";
 </script>
 <script src="/scripts/BGencounter.js"></script>

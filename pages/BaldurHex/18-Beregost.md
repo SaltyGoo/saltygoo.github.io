@@ -27,24 +27,31 @@ Generate an encounter the first time the party goes to one of this hex's feature
 
 <span class="blacktitle"> Feature A - Beregost</span>
 
-Talanthir the Conjurer's wizard abode, equiped with a library and a laboratory, and guarded by flesh golems. He will trade goods and knowledge with deserving adventurers.
+Located near the Amnian border on the Coast Way, Beregost is a thriving village visited by many merchants on their way to Baldur's Gate. It's under the protection of the Church of Lathander. If a war would happen between Baldur's Gate and Amn, this town would be the first to suffer. Notable businesses in the village include:
+
+- **Feldepost's Inn.** A dancehall and inn. The rowdiest and busiest in town.
+- **The Jovial juggler.** An inn, popular among the Flaming Fists.
+- **The Burning Wizard.** An inn prized by "respectable people" and pickpockets.
+- **The Red Sheaf.** A tavern of ill repute.
+- **Kagain's Company.** A caravan guard company managed by a greed dwarf.
+- **Thunderhammer Smithy.** The forge of the legendary Taerom Fuiruim. He'll craft anything for a wee bit more than the competition. Has lethal weapons in stock.
 
 ---
 
-<span class="blacktitle"> Feature B - Overgrown Cabin</span>
+<span class="blacktitle"> Feature B - Pastures</span>
 
-Judging by the thick layer of dust covering everything inside, this abandonned cabin has seen no usage in a while. The reason is that giant spiders have used it to lure curious humanoids.
+Travelers who wish not to be seen often cut through the pastures and avoid Beregost altogether. The town's many sheep all graze on the western edge of town for fear of angering the ghosts of Ulcaster to the east. Beregost is known for its textile and cheese, the Beregost Blue. 
 
 ---
 
-<span class="blacktitle"> Feature C - Flower Meadows</span>
+<span class="blacktitle"> Feature C - Travenhurst Manor</span>
 
-Wildflowers brightly colour these meadows, giving the appearance of being sheltered from the dangerous forest creatures. However, dozens of skeletons lie dormant under the shrubbery, waiting for an unknown trigger to rise again.
+The richest man in Beregost, Gerard Travenhurst, has built this manor on the norther edge of the village. He has been speculating on land in the area.
 
 ---
 
 <script>
-    const climate1 = "Forest";
-    const climate2 = "Forest";
+    const climate1 = "Village";
+    const climate2 = "Village";
 </script>
 <script src="/scripts/BGencounter.js"></script>

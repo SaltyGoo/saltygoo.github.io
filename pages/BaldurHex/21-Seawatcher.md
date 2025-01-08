@@ -39,7 +39,7 @@ Sil, the sirine matriarch, and her coven have settled in a tidal cave by the bea
 
 <span class="blacktitle"> Feature C - Black Alaric's Cave</span>
 
-The famed pirate Black Alaric has hid his treasure in this heavily trapped cave garden by golems.
+The famed pirate Black Alaric has hid his treasure in this heavily trapped cave garded by golems.
 
 ---
 

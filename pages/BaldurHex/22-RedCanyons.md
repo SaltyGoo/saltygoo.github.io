@@ -10,7 +10,7 @@
 
 ##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
 Travel **NW:** [21 - Seawatcher](/pages/BaldurHex/21-Seawatcher), **N:** [17 - High Hedge](/pages/BaldurHex/17-HighHedge), **NE:** [23 - Trade Way](/pages/BaldurHex/23-TradeWay)<br>
-Travel **SW:** [26 - Bear River Mouth](/pages/BaldurHex/26-BearMouth), **S:** [27 - Fisherman Lake](/pages/BaldurHex/27-Lake), **SE:** [28 - Naskel Pass](/pages/BaldurHex/28-Pass)
+Travel **SW:** [26 - Bear River Mouth](/pages/BaldurHex/26-BearMouth), **S:** [27 - Fisherman's Lake](/pages/BaldurHex/27-Lake), **SE:** [28 - Nashkel Pass](/pages/BaldurHex/28-Pass)
 
  ---
  

@@ -2,15 +2,15 @@
 <img align="left" width=150px src="/images/Hexes/hex27.png">
 <h1>Hex 27 - Fisherman's Lake</h1>
 
-*The salmon-rich waters of the Bear River end end their course here after cascading down from the Cloud Peaks. Another calmer river ends here, downstream from the village of Nashkel.*
+*This big lakes is fed by the river that goes through the mining town of Nashkel. For this reason, many locals come here to fish.*
 
 **Biome:** <u>Evergreen</u>. Dark pines, mossy rocks, cold crisp air, crows far away, bogs.
 
 ---
 
 ##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
-Travel **NW:** Sea of Swords, **N:** [21 - Seawatcher](/pages/BaldurHex/21-Seawatcher), **NE:** [22 - Red Canyons](/pages/BaldurHex/22-RedCanyons)<br>
-Travel **SW:** Sea of Swords, **S:** [32 - Bear River](/pages/BaldurHex/32-Bear), **SE:** [27 - Fisherman's Lake](/pages/BaldurHex/27-Lake)
+Travel **NW:** [26 - Bear River Mouth](/pages/BaldurHex/21-Seawatcher), **N:** [22 - Red Canyons](/pages/BaldurHex/22-RedCanyons), **NE:** [28 - Nashkel Pass](/pages/BaldurHex/28-Pass)<br>
+Travel **SW:** [32 - Bear River](/pages/BaldurHex/32-Bear), **S:** [33 - Xvart Country](/pages/BaldurHex/33-Xvart), **SE:** [34 - Nashkel](/pages/BaldurHex/34-Nashkel)
 
  ---
  
@@ -25,13 +25,13 @@ Generate an encounter the first time the party goes to one of this hex's feature
 
  ---
 
-<span class="blacktitle"> Feature A - Bear River Mouth</span>
+<span class="blacktitle"> Feature A - Fisherman's Lake</span>
 
-The salmon-rich waters of the Bear River end end their course here after cascading down from the Cloud Peaks. The pebble beaches that form the mouth of the river are the only location between Amn and Baldur's Gate where access to the Sea of Swords is not complicated by jagged cliffs.
+This big lakes is fed by the river that goes through the mining town of Nashkel. For this reason, many locals like Chelan and Torlo come here to fish.
 
 ---
 
-<span class="blacktitle"> Feature B - Archaeological Site</span>
+<span class="blacktitle"> Feature B - Abandoned Lodge</span>
 
 The scholar Charleston Nib has set up camp here to dig up a very ancient shrine believed to be to Kozah, an ancient god of destruction. Tension is high among the diggers as rumours of an ancient curse falling upon them are starting to take hold.
 

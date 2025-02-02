@@ -2,7 +2,7 @@
 <img align="left" width=150px src="/images/Hexes/hex26.png">
 <h1>Hex 26 - Bear River Mouth</h1>
 
-*The salmon-rich waters of the Bear River end end their course here after cascading down from the Cloud Peaks.*
+*The salmon-rich waters of the Bear River end end their course here after cascading down from the Cloud Peaks. Another calmer river ends here, downstream from the village of Nashkel.*
 
 **Biome:** <u>Coastal Evergreen</u>. Dark pines, rugged cliffs, vivifying wind, salt and seaweed, enthusiastic seagulls.
 

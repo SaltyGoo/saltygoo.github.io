@@ -33,7 +33,7 @@ A big river obsiously used to course through this now-barren land. What's left o
 
 <span class="blacktitle"> Feature B - Ulcaster's Ruins</span>
 
-Founded by the famous conjurer Ulcaster more than 300 years ago, the famed wizard school attracted students from across the Sword Coast before its destruction by a cabal of jealous wizards from Calimshan. Now, its rubbles cling to the dusty cliffs of this sad barren land. Rumour has it that the ghost of its founder can be seen at night in the rubbles.
+Founded by the famous conjurer Ulcaster more than 300 years ago, the famed wizard school attracted students from across the Sword Coast before its destruction by a cabal of jealous wizards from Calimshan. Now, its rubbles cling to the dusty cliffs of this sad barren land. Rumour has it that the ghost of its founder can be seen at night roaming the crumbled corridors of his school.
 
 ---
 

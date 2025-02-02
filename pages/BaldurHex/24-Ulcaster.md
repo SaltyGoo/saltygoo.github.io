@@ -1,5 +1,5 @@
 
-<img align="left" width=150px src="/images/Hexes/hex23.png">
+<img align="left" width=150px src="/images/Hexes/hex24.png">
 <h1>Hex 24 - Ulcaster's Ruins</h1>
 
 *The famed wizard school of Ulcaster once stood here before its destruction by a cabal of jealous wizards from Calimshan two centuries ago. Now, its rubbles cling to the dusty cliffs of this sad barren land.*

@@ -4,7 +4,7 @@
 
 *The famed wizard school of Ulcaster once stood here before its destruction by a cabal of jealous wizards from Calimshan two centuries ago. Now, its rubbles cling to the dusty cliffs of this sad barren land.*
 
-**Biome:** <u>Barren </u>. Eerie wind, gnarly trees, cracked earth, dried river bed.
+**Biome:** <u>Barren</u>. Eerie wind, gnarly trees, cracked earth, dried river bed.
 
 ---
 

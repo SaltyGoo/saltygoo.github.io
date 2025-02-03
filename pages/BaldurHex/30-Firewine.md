@@ -9,8 +9,8 @@
 ---
 
 ##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
-Travel **NW:** [28 - Nashkel Pass](/pages/BaldurHex/28-Pass), **N:** [24 - Ulcaster's Ruins](/pages/BaldurHex/24-Ulcaster), **NE:** [30 - Firewine Bridge](/pages/BaldurHex/30-Firewine)<br>
-Travel **SW:** [34 - Nashkel](/pages/BaldurHex/34-Nashkel), **S:** [35 - Nashkel Green](/pages/BaldurHex/35-Green), **SE:** [36 - Valley of the Tombs](/pages/BaldurHex/36-Tombs)
+Travel **NW:** [24 - Ulcaster's Ruins](/pages/BaldurHex/24-Ulcaster), **N:** [25 - Gullykin](/pages/BaldurHex/25-Gullykin), **NE:** Green Fields<br>
+Travel **SW:** [29 - Lonely Peaks](/pages/BaldurHex/29-Lonely), **S:** [36 - Valley of the Tombs](/pages/BaldurHex/36-Tombs), **SE:** [31 - Durlag's Tower](/pages/BaldurHex/31-Durlag)
 
  ---
  

@@ -52,7 +52,7 @@ The garrison at Nashkel has recently tripled following threats from Baldur's Gat
 ---
 
 <script>
-    const climate1 = "Village1";
-    const climate2 = "Village1";
+    const climate1 = "Village2";
+    const climate2 = "Village2";
 </script>
 <script src="/scripts/BGencounter.js"></script>

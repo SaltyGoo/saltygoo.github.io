@@ -9,7 +9,7 @@
 ---
 
 ##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
-Travel **NW:** [26 - Bear River Mouth](/pages/BaldurHex/21-Seawatcher), **N:** [22 - Red Canyons](/pages/BaldurHex/22-RedCanyons), **NE:** [28 - Nashkel Pass](/pages/BaldurHex/28-Pass)<br>
+Travel **NW:** [26 - Bear River Mouth](/pages/BaldurHex/26-BearMouth), **N:** [22 - Red Canyons](/pages/BaldurHex/22-RedCanyons), **NE:** [28 - Nashkel Pass](/pages/BaldurHex/28-Pass)<br>
 Travel **SW:** [32 - Bear River](/pages/BaldurHex/32-Bear), **S:** [33 - Xvart Country](/pages/BaldurHex/33-Xvart), **SE:** [34 - Nashkel](/pages/BaldurHex/34-Nashkel)
 
  ---

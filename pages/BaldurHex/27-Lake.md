@@ -27,24 +27,24 @@ Generate an encounter the first time the party goes to one of this hex's feature
 
 <span class="blacktitle"> Feature A - Fisherman's Lake</span>
 
-This big lakes is fed by the river that goes through the mining town of Nashkel. For this reason, many locals like Chelan and Torlo come here to fish.
+This big lakes is fed by the river that goes through the mining town of Nashkel. For this reason, many locals like Chelan and Torlo come here to fish. They speak of the legend of the lake's monster.
 
 ---
 
 <span class="blacktitle"> Feature B - Abandoned Lodge</span>
 
-The scholar Charleston Nib has set up camp here to dig up a very ancient shrine believed to be to Kozah, an ancient god of destruction. Tension is high among the diggers as rumours of an ancient curse falling upon them are starting to take hold.
+The big lakeside hunting lodge was used by amnian aristocrats on hunting trips but has felt to disuse after too many xvart raids. Even half suken and covered in graffitis, it could be a good base of operation.
 
 ---
 
-<span class="blacktitle"> Feature C - Massacre Site</span>
+<span class="blacktitle"> Feature C - Underwater Den</span>
 
-The mangled remains of travelers are strewn around in a gruesome display of violence. A blood-covered man holding a jagged sword heaves in the middle of the carnage. Could it be Captain Brage of the Amnian Army?
+Sometimes, bubbling can be seen coming from the center of the lake. They are the only trace of the underwater den of a giant pike below, and the treasures it hides.
 
 ---
 
 <script>
-    const climate1 = "Coast";
+    const climate1 = "Evergreen";
     const climate2 = "Evergreen";
 </script>
 <script src="/scripts/BGencounter.js"></script>

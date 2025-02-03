@@ -2,15 +2,15 @@
 <img align="left" width=150px src="/images/Hexes/hex31.png">
 <h1>Hex 31 - Durlag's Tower</h1>
 
-*This local landmark was the isolated keep of Durlag Trollkiller, son of Bolhur the Clanless, a dwarven hero said to have amassed a large quantity of treasure and sealed himself with it.*
+*This local landmark was the isolated keep of Durlag Trollkiller, son of Bolhur the Clanless, a dwarven hero said to have amassed a large quantity of treasure and sealed himself with it. It is a thick, windowless tower built to endure the most violent siege and surrounded by crags so deep that light does not reach the bottom.*
 
 **Biome:** <u>Barren</u>. Gnarled trees, rocky slopes, gloomy wind.
 
 ---
 
 ##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
-Travel **NW:** [28 - Nashkel Pass](/pages/BaldurHex/28-Pass), **N:** [24 - Ulcaster's Ruins](/pages/BaldurHex/24-Ulcaster), **NE:** [30 - Firewine Bridge](/pages/BaldurHex/30-Firewine)<br>
-Travel **SW:** [34 - Nashkel](/pages/BaldurHex/34-Nashkel), **S:** [35 - Nashkel Green](/pages/BaldurHex/35-Green), **SE:** [36 - Valley of the Tombs](/pages/BaldurHex/36-Tombs)
+Travel **NW:** [30 - Firewine Bridge](/pages/BaldurHex/30-Firewine), **N:** Green Fields, **NE:**  Green Fields<br>
+Travel **SW:** [36 - Valley of the Tombs](/pages/BaldurHex/36-Tombs), **S:** Green Fields, **SE:** Green Fields
 
  ---
  
@@ -25,21 +25,21 @@ Generate an encounter the first time the party goes to one of this hex's feature
 
  ---
 
-<span class="blacktitle"> Feature A - Uldoon Trail</span>
+<span class="blacktitle"> Feature A - Erdane's Base Camp</span>
 
-The Uldoon Trail that links Nashkel to Gullykin and the Green Fields is overgrown in many places, but more visible in the barren lands near Firewine Bridge. It is mainly used by courriers and adventurers eager to explore Durlag's Tower and, in this area, follows the banks of the dried river that used to flow between the Green Fields and Beregost.
-
----
-
-<span class="blacktitle"> Feature B - Firewine Bridge</span>
-
-Firewine Bridge was once an elven trading town, but it was destroyed two hundred years ago when a sorcerous battle at Ulcaster diverted the course of the river below. Now, the massive, half collapsed bridge only crosses rubbles. 
+Erdane is an unscrupulous rogue who makes a living selling adventuring gear and stolen goods at a high price to adventurers hoping to loot Durlag's Tower. His little camp has attracted a colourful fauna of daredevils and death tourists sharing extravagant tales of what is inside the infamous dungeon.
 
 ---
 
-<span class="blacktitle"> Feature C - Firewine Ruins</span>
+<span class="blacktitle"> Feature B - The First Trial</span>
 
-Hidden among the rubbles of Firewine Bridge lays the entrance to tunnels that link the bridge to Gullykin up North. Recently, kobolds led by an Ogre Mage have invaded the tunnels and disturbed the ghosts of the past.
+The natural bridge tha crosses the deep crags that surround the tower are named so for the two golems that guards it. If anyone dares crossing the bridge, they will kill them.
+
+---
+
+<span class="blacktitle"> Feature C - Durlag's Tower</span>
+
+This local landmark was the isolated keep of Durlag Trollkiller, son of Bolhur the Clanless, a dwarven hero said to have amassed a large quantity of treasure and sealed himself with it. It is a thick, windowless tower built to endure the most violent siege and surrounded by crags so deep that light does not reach the bottom.
 
 ---
 

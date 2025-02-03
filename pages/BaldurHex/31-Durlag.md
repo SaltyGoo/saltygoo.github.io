@@ -2,9 +2,9 @@
 <img align="left" width=150px src="/images/Hexes/hex31.png">
 <h1>Hex 31 - Durlag's Tower</h1>
 
-*Three angular rocky peaks pierce through the forest in the foothills of the Cloud Peaks near Nashkel*
+*This local landmark was the isolated keep of Durlag Trollkiller, son of Bolhur the Clanless, a dwarven hero said to have amassed a large quantity of treasure and sealed himself with it.*
 
-**Biome:** <u>Evergreen</u>. Dark pines, mossy rocks, cold crisp air, crows far away, bogs.
+**Biome:** <u>Barren</u>. Gnarled trees, rocky slopes, gloomy wind.
 
 ---
 

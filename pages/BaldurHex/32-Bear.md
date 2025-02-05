@@ -4,7 +4,7 @@
 
 *The rapids of the Bear River thunder down the slopes of the Cloud Peaks. The rugged alpine vegetation has taken over any traces of civilization here, except for two wooden bridges.*
 
-**Biome:** <u>Coastal Evergreen</u>. Dark pines, rugged cliffs, vivifying wind, salt and seaweed, enthusiastic seagulls.
+**Biome:** <u>Coastal Hills</u>. Dark pines, rugged cliffs, vivifying wind, salt and seaweed, enthusiastic seagulls.
 
 ---
 
@@ -45,6 +45,6 @@ This crystal clear lake might be an idylic location, but it has been named by Am
 
 <script>
     const climate1 = "Coast";
-    const climate2 = "Evergreen";
+    const climate2 = "Mountain";
 </script>
 <script src="/scripts/BGencounter.js"></script>

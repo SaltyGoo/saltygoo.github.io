@@ -4,7 +4,7 @@
 
 *Hidden in the foothills of the Cloud Peaks and sheltered within the rugged cliffs of a crag, a clan of Xvarts has been eluding the authorities while wreaking havok in the region.*
 
-**Biome:** <u>Evergreen</u>. Dark pines, mossy rocks, cold crisp air, crows far away, bogs.
+**Biome:** <u>Mountain Pines</u>. Dark pines, steep rocky slopes, cold crisp air, crows far away, bogs.
 
 ---
 
@@ -45,6 +45,6 @@ The Xvarts have relied on this local dire bear to deter wanderers from coming to
 
 <script>
     const climate1 = "Evergreen";
-    const climate2 = "Evergreen";
+    const climate2 = "Mountain";
 </script>
 <script src="/scripts/BGencounter.js"></script>

@@ -4,7 +4,7 @@
 
 *Three angular rocky peaks pierce through the forest in the foothills of the Cloud Peaks near Nashkel*
 
-**Biome:** <u>Evergreen</u>. Dark pines, mossy rocks, cold crisp air, crows far away, bogs.
+**Biome:** <u>Mountain Forest</u>. Dark pines, mossy rocks, cold crisp air, crows far away, bogs.
 
 ---
 
@@ -45,6 +45,6 @@ At the foot of one of the Lonely Peaks stands a large cave. Its insides are cove
 
 <script>
     const climate1 = "Evergreen";
-    const climate2 = "Evergreen";
+    const climate2 = "Mountain";
 </script>
 <script src="/scripts/BGencounter.js"></script>

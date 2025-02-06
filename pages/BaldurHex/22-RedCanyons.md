@@ -33,7 +33,11 @@ Like a wound in the forest, the red dirt dirt collapse into a deep and dead cany
 
 <span class="blacktitle"> Feature B - Corrupted Standing Stones</span>
 
-This meeting point for druids at the conflux of ancient leylines has been corrupted by Bassilus the murderer. Doing a specific ritual here allows communication through the other standing stones of the Southern Sword Coast, and some even say teleportation.
+This meeting point for druids at the conflux of ancient leylines has been corrupted by Bassilus the murderer. Doing a specific ritual here allows communication through the other standing stones of the Southern Sword Coast, and some even say teleportation. The other standing stones that can be activated are in:
+
+- <a href="/pages/BaldurHex/01-CloakwoodGrove">01 - Cloakwood Grove</a>
+- <a href="/pages/BaldurHex/12-LionsWay">12 - Lion's Way</a>
+- <a href="/pages/BaldurHex/14-LarswoodStones">14 - Larswood</a>
 
 ---
 

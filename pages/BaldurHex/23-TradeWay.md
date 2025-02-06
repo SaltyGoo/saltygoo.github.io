@@ -20,7 +20,7 @@ Travel **SW:** [22 - Red Canyons](/pages/BaldurHex/22-RedCanyons), **S:** [28 - 
 
 <details markdown="1">
 <summary>Encounter Rules</summary>
-Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for informations on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
+Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for information on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
 </details>
 
  ---
@@ -33,7 +33,7 @@ This milestone marks the northern border of the merchant kingdom of Amn. Tension
 
 <span class="blacktitle"> Feature B - Sunken House</span>
 
-What was once a big cottage is now half sunken into a swamp here. Its last owner, Tamah Tharthyn has disapeared decades ago (she is petrified in Mutamin's Garden). Her next of kin have given it to Velmos Sonder, a priest of Milil, who plans to transform it into a monastery.
+What was once a big cottage is now half sunken into a swamp here. Its last owner, Tamah Tharthyn has disappeared decades ago (she is petrified in [Mutamin's Garden](/pages/BaldurHex/20-Mutamin/)). Her next of kin have given it to Velmos Sonder, a priest of Milil, who plans to transform it into a monastery.
 
 ---
 

@@ -2,7 +2,7 @@
 <img align="left" width=150px src="/images/Hexes/hex39.png">
 <h1>Hex 39 - Fire Leaf Forest</h1>
 
-*Shielded from the harsh mountain wind by two peaks, this small valley is the unique patch of deciduous trees in a see of pines. The fiery colour of their leaves at this time of the year gives it its name.*
+*Shielded from the harsh mountain wind by two peaks, this small valley is the unique patch of deciduous trees in a sea of pines. The fiery colour of their leaves at this time of the year gives it its name.*
 
 **Biome:** <u>Mountain Forest</u>. Orange maples, steep rocky slopes, cold crisp air, crows far away, bogs.
 
@@ -29,7 +29,7 @@ Generate an encounter the first time the party goes to one of this hex's feature
 
 This peculiar cluster of ovoid black rocks is used by local rangers as a landmark to find their way back to Nashkel. Many believe they are eggs that will one day hatch.
 
-##### Not in Baldur’s Gate but lore accurate!
+##### Not in Baldur’s Gate but lore-accurate!
 
 ---
 
@@ -37,15 +37,15 @@ This peculiar cluster of ovoid black rocks is used by local rangers as a landmar
 
 This man-sized standing stone is used by local rangers as a landmark. Those attuned with druidic magic can feel the layline that links it to the Eggs of the Dragon.
 
-##### Not in Baldur’s Gate but lore accurate!
+##### Not in Baldur’s Gate but lore-accurate!
 
 ---
 
 <span class="blacktitle"> Feature C - The Magister's Refuge</span>
 
-If one stands exactle at the middle point between the Staring Ranger and the Eggs of the Dragon, they will see a spherical arcane dome 40 feet across. This is one of the many hidden refuges set by Magister Maldiglas Turntower. Anybody inside is freed from arcane curses, regenerates wounds, and is shielded from the outside world. 
+If one stands exactly at the middle point between the Staring Ranger and the Eggs of the Dragon, they will see a spherical arcane dome 40 feet across. This is one of the many hidden refuges set by Magister Maldiglas Turntower. Anybody inside is freed from arcane curses, regenerates wounds, and is shielded from the outside world. 
 
-##### Not in Baldur’s Gate but lore accurate!
+##### Not in Baldur’s Gate but lore-accurate!
 
 
 ---

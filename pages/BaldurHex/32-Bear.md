@@ -1,6 +1,6 @@
 
 <img align="left" width=150px src="/images/Hexes/hex32.png">
-<h1>Hex 26 - Bear River</h1>
+<h1>Hex 32 - Bear River</h1>
 
 *The rapids of the Bear River thunder down the slopes of the Cloud Peaks. The rugged alpine vegetation has taken over any traces of civilization here, except for two wooden bridges.*
 
@@ -10,7 +10,7 @@
 
 ##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
 Travel **NW:** Sea of Swords, **N:** [26 - Bear River Mouth](/pages/BaldurHex/26-BearMouth), **NE:** [27 - Fisherman's Lake](/pages/BaldurHex/27-Lake)<br>
-Travel **SW:** Sea of Swords, **S:** [37 - Gnoll Stronghold](/pages/BaldurHex/37-Gnoll), **SE:** [38 - Xvart Country](/pages/BaldurHex/38-Xvart)
+Travel **SW:** Sea of Swords, **S:** [37 - Gnoll Stronghold](/pages/BaldurHex/37-Gnoll), **SE:** [33 - Xvart Country](/pages/BaldurHex/33-Xvart)
 
  ---
  

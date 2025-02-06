@@ -2,7 +2,7 @@
 <img align="left" width=150px src="/images/Hexes/hex19.png">
 <h1>Hex 19 - Song of the Moring</h1>
 
-*This temple complex is built in honour of Lathander, the Morning Lord. Its magnificent colonnades clashes with the rustic feel of Beregost nearby. The Most Radiant Kelddath Ormlyr, priest of Lathander, not only governs the local church, but is also the de facto governor of Beregost.*
+*This temple complex is built in honour of Lathander, the Morning Lord. Its magnificent colonnades clash with the rustic feel of Beregost nearby. The Most Radiant Kelddath Ormlyr, priest of Lathander, not only governs the local church, but is also the de facto governor of Beregost.*
 
 **Biome:** <u>Settled Farmland</u>. Marble Statues. Grazing Sheep. Youth playing. Flocking pigeons.
 
@@ -20,14 +20,14 @@ Travel **SW:** [23 - Trade Way](/pages/BaldurHex/23-TradeWay), **S:** [24 - Ulca
 
 <details markdown="1">
 <summary>Encounter Rules</summary>
-Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for informations on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
+Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for information on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
 </details>
 
  ---
 
 <span class="blacktitle"> Feature A - Temple of Spring</span>
 
-One of the three temples forming the Song of the Morning. This one is notable for the gigantic golden sun irradiating heat at its center. The floor is littered with flower offering left by pilgrims and local. Most Radiant Kelddath Ormlyr is the high priest here and also the governor of Beregost can be found here. He sets bounties on whoever or whatever threatens the town, such a Bassilus the murderer and the many wyverns from Cloakwood.
+One of the three temples forming the Song of the Morning. This one is notable for the gigantic golden sun irradiating heat at its center. The floor is littered with flower offerings left by pilgrims and locals. Most Radiant Kelddath Ormlyr is the high priest here and also the governor of Beregost can be found here. He sets bounties on whoever or whatever threatens the town, such as Bassilus the murderer and the many wyverns from Cloakwood.
 
 ---
 

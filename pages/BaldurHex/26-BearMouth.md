@@ -2,7 +2,7 @@
 <img align="left" width=150px src="/images/Hexes/hex26.png">
 <h1>Hex 26 - Bear River Mouth</h1>
 
-*The salmon-rich waters of the Bear River end end their course here after cascading down from the Cloud Peaks. Another calmer river ends here, downstream from the village of Nashkel.*
+*The salmon-rich waters of the Bear River end their course here after cascading down from the Cloud Peaks. Another calmer river ends here, downstream from the village of Nashkel.*
 
 **Biome:** <u>Coastal Evergreen</u>. Dark pines, rugged cliffs, vivifying wind, salt and seaweed, enthusiastic seagulls.
 
@@ -20,14 +20,14 @@ Travel **SW:** Sea of Swords, **S:** [32 - Bear River](/pages/BaldurHex/32-Bear)
 
 <details markdown="1">
 <summary>Encounter Rules</summary>
-Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for informations on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
+Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for information on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
 </details>
 
  ---
 
 <span class="blacktitle"> Feature A - Bear River Mouth</span>
 
-The salmon-rich waters of the Bear River end end their course here after cascading down from the Cloud Peaks. The pebble beaches that form the mouth of the river are the only location between Amn and Baldur's Gate where access to the Sea of Swords is not complicated by jagged cliffs.
+The salmon-rich waters of the Bear River end their course here after cascading down from the Cloud Peaks. The pebble beaches that form the mouth of the river are the only location between Amn and Baldur's Gate where access to the Sea of Swords is not complicated by jagged cliffs.
 
 ---
 

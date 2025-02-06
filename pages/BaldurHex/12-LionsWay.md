@@ -33,7 +33,11 @@ Winding through rugged boulders and windsept trees, the Lion's Way is used by pi
 
 <span class="blacktitle"> Feature B - Old Standing Stones</span>
 
-A long abandoned meeting point for druids at the confluence of ancient leylines. Doing a specific ritual here allows communication through the other standing stones of the Southern Sword Coast, and some even say teleportation. However, this one seems to have been defiled by a gruesome murder ritual.
+A long abandoned meeting point for druids at the confluence of ancient leylines. Doing a specific ritual here allows communication through the other standing stones of the Southern Sword Coast, and some even say teleportation. However, this one seems to have been defiled by a gruesome murder ritual. The other standing stones that can be activated are in:
+
+- <a href="/pages/BaldurHex/01-CloakwoodGrove">01 - Cloakwood Grove</a>
+- <a href="/pages/BaldurHex/14-LarswoodStones">14 - Larswood</a>
+- <a href="/pages/BaldurHex/22-RedCanyons">22 - Red Canyons</a>
 
 ---
 

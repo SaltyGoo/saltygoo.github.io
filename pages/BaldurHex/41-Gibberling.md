@@ -18,7 +18,7 @@ Travel **SW:** [40 - Nashkel Mines](/pages/BaldurHex/40-Mines),  **S:** Cloud Pe
 
 <details markdown="1">
 <summary>Encounter Rules</summary>
-Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for informations on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
+Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for information on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
 </details>
 
  ---

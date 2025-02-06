@@ -9,7 +9,7 @@
 ---
 
 ##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
-Travel **NW:** [16 - Shipwreck's Coast](/pages/BaldurHex/16-ShipwreckCoast), **N:** [12 - Lion's Way](/pages/BaldurHex/12-LionsWay), **NE:** [13 - Coast Way](/pages/BaldurHex/13-CoastWay)<br>
+Travel **NW:** [16 - Shipwreck's Coast](/pages/BaldurHex/16-ShipwreckCoast), **N:** [12 - Lion's Way](/pages/BaldurHex/12-LionsWay), **NE:** [18 - Beregost](/pages/BaldurHex/18-Beregost)<br>
 Travel **SW:** [21 - Seawatcher](/pages/BaldurHex/21-Seawatcher), **S:** [22 - Red Canyons](/pages/BaldurHex/22-RedCanyons), **SE:** [23 - Trade Way](/pages/BaldurHex/23-TradeWay)
 
  ---

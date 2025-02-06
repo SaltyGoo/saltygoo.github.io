@@ -2,9 +2,9 @@
 <img align="left" width=150px src="/images/Hexes/hex16.png">
 <h1>Hex 16 - Shipwreck's Coast</h1>
 
-*The jagged reefs of the Sword-Coast South of Candlekeep are treatcherous even for the most experienced navigator.*
+*The jagged reefs of the Sword-Coast South of Candlekeep are treacherous even for the most experienced navigator.*
 
-**Biome:** <u>Coast</u>. Rugged clifs, vivifying wind, salt and seaweed, enthusiastic seagulls.
+**Biome:** <u>Coast</u>. Rugged cliffs, vivifying wind, salt and seaweed, enthusiastic seagulls.
 
 ---
 
@@ -20,7 +20,7 @@ Travel **SW:** Sea of Swords, **S:** [21 - Seawatcher](/pages/BaldurHex/21-Seawa
 
 <details markdown="1">
 <summary>Encounter Rules</summary>
-Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for informations on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
+Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for information on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
 </details>
 
  ---

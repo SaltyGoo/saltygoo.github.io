@@ -20,20 +20,20 @@ Travel **SW:** [21 - Seawatcher](/pages/BaldurHex/21-Seawatcher), **S:** [22 - R
 
 <details markdown="1">
 <summary>Encounter Rules</summary>
-Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for informations on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
+Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for information on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
 </details>
 
  ---
 
 <span class="blacktitle"> Feature A - High Hedge Estate</span>
 
-Talanthir the Conjurer's wizard abode, equiped with a library and a laboratory, and guarded by flesh golems. He will trade goods and knowledge with deserving adventurers.
+Talanthir the Conjurer's wizard abode, equipped with a library and a laboratory, and guarded by flesh golems. He will trade goods and knowledge with deserving adventurers.
 
 ---
 
 <span class="blacktitle"> Feature B - Overgrown Cabin</span>
 
-Judging by the thick layer of dust covering everything inside, this abandonned cabin has seen no usage in a while. The reason is that giant spiders have used it to lure curious humanoids.
+Judging by the thick layer of dust covering everything inside, this abandoned cabin has seen no usage in a while. The reason is that giant spiders have used it to lure curious humanoids.
 
 ---
 

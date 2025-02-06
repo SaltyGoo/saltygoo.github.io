@@ -10,7 +10,7 @@
 
 ##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
 Travel **NW:** [27 - Fisherman's Lake](/pages/BaldurHex/27-Lake), **N:** [28 - Nashkel Pass](/pages/BaldurHex/28-Pass), **NE:** [29 - Lonely Peaks](/pages/BaldurHex/29-Lonely)<br>
-Travel **SW:** [33 - Xvart Country](/pages/BaldurHex/33-Xvart), **S:** [39 - Fire Leaf Forest](/pages/BaldurHex/39-FireLeaf), **SE:** [35 - Nashkel Green](/pages/BaldurHex/35-Green)
+Travel **SW:** [33 - Xvart Country](/pages/BaldurHex/33-Xvart), **S:** [39 - Fire Leaf Forest](/pages/BaldurHex/39-Fireleaf), **SE:** [35 - Nashkel Green](/pages/BaldurHex/35-Green)
 
  ---
  

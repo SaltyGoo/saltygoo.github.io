@@ -19,7 +19,7 @@ Travel **SW:** [08 - The Friendly Arm Inn](/pages/BaldurHex/08-FriendlyArm), **S
 
 <details markdown="1">
 <summary>Encounter Rules</summary>
-Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for informations on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
+Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for information on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
 </details>
 
  ---
@@ -32,7 +32,7 @@ A handful of simple houses are clustered on the sandy banks of the Chiontar estu
 
 <span class="blacktitle"> Feature B - Brun's Farm</span>
 
-One of the small farms lining the Coast Way near Baldur's Gate. This one stands discreetely on the outskirts of Peldvale, suggesting it could be a safe haven.
+One of the small farms lining the Coast Way near Baldur's Gate. This one stands discreetly on the outskirts of Peldvale, suggesting it could be a safe haven.
 
 ---
 

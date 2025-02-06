@@ -20,20 +20,20 @@ Travel **SW:** [34 - Nashkel](/pages/BaldurHex/34-Nashkel), **S:** [35 - Nashkel
 
 <details markdown="1">
 <summary>Encounter Rules</summary>
-Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for informations on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
+Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for information on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
 </details>
 
  ---
 
 <span class="blacktitle"> Feature A - Lonely Peaks</span>
 
-The view from atop the Lonely Peaks is astounding. To the North, the you can see the chimneys of Beregost and the Song of the Morning temple that towers above it. To the east, you notice that the ruined badlands are in fact a large dried river that leads to Durlag's Tower on the horizon. To the South, the snow-covered Cloud Peaks seem bigger and more innacessible than anything you have ever seen. To the West, you see the mining town of Nashkel and, further away, Fisherman's Lake is reflecting the sky. Much closer to you, you notice a patch of cleared wood and a lonely farmstead.
+The view from atop the Lonely Peaks is astounding. To the North, you can see the chimneys of Beregost and the Song of the Morning temple that towers above it. To the east, you notice that the ruined badlands are in fact a large dried river that leads to Durlag's Tower on the horizon. To the South, the snow-covered Cloud Peaks seem bigger and more inaccessible than anything you have ever seen. To the West, you see the mining town of Nashkel and, further away, Fisherman's Lake is reflecting the sky. Much closer to you, you notice a patch of cleared wood and a lonely farmstead.
 
 ---
 
 <span class="blacktitle"> Feature B - Hulrik's Farm</span>
 
-Hulrik and his family are outcast from Nashkel. They have cleared the forest and built a humble farm where they raise a cow and many pigs. They are cut off the rest of the world, highly supersticious and suspicious of strangers.
+Hulrik and his family are outcast from Nashkel. They have cleared the forest and built a humble farm where they raise a cow and many pigs. They are cut off from the rest of the world, highly superstitious and suspicious of strangers.
 
 ---
 

@@ -2,7 +2,7 @@
 <img align="left" width=150px src="/images/Hexes/hex21.png">
 <h1>Hex 21 - Seawatcher</h1>
 
-*Seawatcher is the name of the old lighthouse that used to warn sailors of the dangers of Shipwreck's Coast. Abandonned for decades, its crumbling structure looms over the dark coastal pine trees.*
+*Seawatcher is the name of the old lighthouse that used to warn sailors of the dangers of Shipwreck's Coast. Abandoned for decades, its crumbling structure looms over the dark coastal pine trees.*
 
 **Biome:** <u>Coastal Evergreen</u>. Dark pines, rugged cliffs, vivifying wind, salt and seaweed, enthusiastic seagulls.
 
@@ -20,7 +20,7 @@ Travel **SW:** Sea of Swords, **S:** [26 - Bear River Mouth](/pages/BaldurHex/26
 
 <details markdown="1">
 <summary>Encounter Rules</summary>
-Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for informations on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
+Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for information on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
 </details>
 
  ---
@@ -33,13 +33,13 @@ The old lighthouse looms over the surrounding forest. The small compound is now 
 
 <span class="blacktitle"> Feature B - Sirine Cove</span>
 
-Sil, the sirine matriarch, and her coven have settled in a tidal cave by the beach. They will hunt humanoids if they do not give them a reason not too.
+Sil, the sirine matriarch, and her coven have settled in a tidal cave by the beach. They will hunt humanoids if they do not give them a reason not to.
 
 ---
 
 <span class="blacktitle"> Feature C - Black Alaric's Cave</span>
 
-The famed pirate Black Alaric has hid his treasure in this heavily trapped cave garded by golems.
+The famed pirate Black Alaric has hid his treasure in this heavily trapped cave guarded by golems.
 
 ---
 

@@ -4,7 +4,7 @@
 
 *The Southern tip of the Woods of Sharp Teeth melds into the barren rocky land that borders the Sword Coast and the Green Fields. Here the vegetation is cut through by jagged boulders and strange sulfurous chimneys.*
 
-**Biome:** <u>Forested Badlands</u>. Marble Statues. Dead leaves. Gnarled trees. Sulfurous smell. Calcified pires.
+**Biome:** <u>Forested Badlands</u>. Marble Statues. Dead leaves. Gnarled trees. Sulfurous smell. Calcified spires.
 
 ---
 
@@ -20,7 +20,7 @@ Travel **SW:** [19 - Song of the Morning](/pages/BaldurHex/19-Morning), **S:** [
 
 <details markdown="1">
 <summary>Encounter Rules</summary>
-Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for informations on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
+Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for information on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
 </details>
 
  ---
@@ -39,7 +39,7 @@ This bone-littered burrow is home to Korax and his family, a small community of 
 
 <span class="blacktitle"> Feature C - Mutamin's Hut</span>
 
-The mad gnome Mutamin has been studying basilisks her for decades. He has rejected society, living in squalor in his hot. He does not trust humanoids.
+The mad gnome Mutamin has been studying basilisks here for decades. He has rejected society, living in squalor in his hut. He does not trust humanoids.
 
 ---
 

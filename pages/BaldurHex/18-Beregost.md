@@ -20,7 +20,7 @@ Travel **SW:** [17 - High Hedge](/pages/BaldurHex/17-HighHedge), **S:** [23 - Tr
 
 <details markdown="1">
 <summary>Encounter Rules</summary>
-Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for informations on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
+Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for information on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
 </details>
 
  ---
@@ -46,7 +46,7 @@ Travelers who wish not to be seen often cut through the pastures and avoid Bereg
 
 <span class="blacktitle"> Feature C - Travenhurst Manor</span>
 
-The richest man in Beregost, Gerard Travenhurst, has built this manor on the norther edge of the village. He has been speculating on land in the area.
+The richest man in Beregost, Gerard Travenhurst, has built this manor on the northern edge of the village. He has been speculating on land in the area.
 
 ---
 

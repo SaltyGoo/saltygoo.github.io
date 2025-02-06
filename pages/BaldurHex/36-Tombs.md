@@ -20,7 +20,7 @@ Travel **SW:** [35 - Nashkel Green](/pages/BaldurHex/35-Green), **S:** [41 - Gib
 
 <details markdown="1">
 <summary>Encounter Rules</summary>
-Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for informations on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
+Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for information on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
 </details>
 
  ---
@@ -33,13 +33,13 @@ The door of three troglodytic tombs were burst open by unscrupulous graverobbers
 
 <span class="blacktitle"> Feature B - Pillaged Tomb.</span>
 
-This tomb is more hidden and seem to have been untouched until very recently. In fact you can hear the panicked voice of Hentold coming from inside as he attempts to flee with his loot.
+This tomb is more hidden and seems to have been untouched until very recently. In fact you can hear the panicked voice of Hentold coming from inside as he attempts to flee with his loot.
 
 ---
 
 <span class="blacktitle"> Feature C - Mulahey's Tunnel</span>
 
-This tomb has long been looted. However, multiple foot tracks in the dust reveal a secret passage that leads deaper underground. It is a long journey, but if you follow it, you will arrive into a cave below Nashkel Mines.
+This tomb has long been looted. However, multiple foot tracks in the dust reveal a secret passage that leads deeper underground. It is a long journey, but if you follow it, you will arrive into a cave below Nashkel Mines.
 
 ---
 

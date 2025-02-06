@@ -20,7 +20,7 @@ Travel **SW:** [13 - Coast Way](/pages/BaldurHex/13-CoastWay), **S:** [14 - Lars
 
 <details markdown="1">
 <summary>Encounter Rules</summary>
-Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for informations on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
+Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for information on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
 </details>
 
  ---
@@ -41,7 +41,7 @@ The biggest lake in Larswood. The many washed up barrels on its shores hint at n
 
 The ochre water of this lake reflects the moon in an otherworldly way. Rumored to be linked to a long dead werewolf warlord.
 
-<h5>Not in Baldur's Gate but lore accurate!</h5>
+<h5>Not in Baldur's Gate but lore-accurate!</h5>
 
 ---
 

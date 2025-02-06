@@ -20,14 +20,14 @@ Travel **SW:** [29 - Lonely Peaks](/pages/BaldurHex/29-Lonely), **S:** [36 - Val
 
 <details markdown="1">
 <summary>Encounter Rules</summary>
-Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for informations on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
+Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for information on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
 </details>
 
  ---
 
 <span class="blacktitle"> Feature A - Uldoon Trail</span>
 
-The Uldoon Trail that links Nashkel to Gullykin and the Green Fields is overgrown in many places, but more visible in the barren lands near Firewine Bridge. It is mainly used by courriers and adventurers eager to explore Durlag's Tower and, in this area, follows the banks of the dried river that used to flow between the Green Fields and Beregost.
+The Uldoon Trail that links Nashkel to Gullykin and the Green Fields is overgrown in many places, but more visible in the barren lands near Firewine Bridge. It is mainly used by couriers and adventurers eager to explore Durlag's Tower and, in this area, follows the banks of the dried river that used to flow between the Green Fields and Beregost.
 
 ---
 
@@ -39,7 +39,7 @@ Firewine Bridge was once an elven trading town, but it was destroyed two hundred
 
 <span class="blacktitle"> Feature C - Firewine Ruins</span>
 
-Hidden among the rubbles of Firewine Bridge lays the entrance to tunnels that link the bridge to Gullykin up North. Recently, kobolds led by an Ogre Mage have invaded the tunnels and disturbed the ghosts of the past.
+Hidden among the rubbles of Firewine Bridge lies the entrance to tunnels that link the bridge to Gullykin up North. Recently, kobolds led by an Ogre Mage have invaded the tunnels and disturbed the ghosts of the past.
 
 ---
 

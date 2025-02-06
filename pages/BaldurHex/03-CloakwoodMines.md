@@ -1,7 +1,7 @@
 <img align="left" width=150px src="/images/Hexes/hex03.png">
 <h1>Hex 03 - Cloakwood Mines</h1>
 
-*Hidden in the deepest corners of Cloakwood are rumored to lie the abandonned mines of the dwarven clan Orothiar.*
+*Hidden in the deepest corners of Cloakwood are rumored to lie the abandoned mines of the dwarven clan Orothiar.*
 
 **Biome:** <u>Old Growth Forest</u>. Lush, autumnal, massive, tangled, strange noises.
 
@@ -19,7 +19,7 @@ Travel **SW:** [02 - Wyvern Fork](/pages/BaldurHex/02-WyvernFork), **S:** [08 - 
 
 <details markdown="1">
 <summary>Encounter Rules</summary>
-Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for informations on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
+Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for information on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
 </details>
 
  ---
@@ -28,13 +28,13 @@ Generate an encounter the first time the party goes to one of this hex's feature
 
 <span class="blacktitle"> Feature A - Raeth Gorges </span>
 
-The mist-cloaked gorge of river Raeth are 50 ft wide and 100 ft deep. Some times, mysterious barges sail upstream under the cover of illusory magic.
+The mist-cloaked gorge of river Raeth is 50 ft wide and 100 ft deep. Sometimes, mysterious barges sail upstream under the cover of illusory magic.
 
 ---
 
 <span class="blacktitle"> Feature B - Iron Throne Camp </span>
 
-This nature-beseiged riverside lumber camp is a cover for the Iron Throne's mining activities. The tension is high between the druids, the Iron Throne, and bounty hunters.
+This nature-besieged riverside lumber camp is a cover for the Iron Throne's mining activities. The tension is high between the druids, the Iron Throne, and bounty hunters.
 
 ---
 

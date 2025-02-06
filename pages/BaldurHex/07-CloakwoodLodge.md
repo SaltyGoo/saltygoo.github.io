@@ -2,7 +2,7 @@
 <img align="left" width=150px src="/images/Hexes/hex07.png">
 <h1>Hex 07 - Cloakwood Lodge</h1>
 
-*This part of Cloakwood is more tamed than the rest, with many pathes crossing it. It is a prime hunting ground for local aristocrats.*
+*This part of Cloakwood is more tamed than the rest, with many paths crossing it. It is a prime hunting ground for local aristocrats.*
 
 **Biome:** <u>Old Growth Forest</u>. Lush, autumnal, massive, tangled, strange noises.
 
@@ -20,7 +20,7 @@ Travel **SW:** [11 - Candlekeep](/pages/BaldurHex/11-Candlekeep) (by boat), **S:
 
 <details markdown="1">
 <summary>Encounter Rules</summary>
-Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for informations on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
+Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for information on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
 </details>
 
  ---

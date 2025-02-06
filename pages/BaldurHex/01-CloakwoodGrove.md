@@ -26,7 +26,7 @@ Generate an encounter the first time the party goes to one of this hex's feature
 
 <span class="blacktitle"> Feature A - Old Standing Stones </span>
 
-A meeting point for druids at the conflux of ancient leylines. Doing a specific ritual here allows communication through the other standing stones of the Southern Sword Coast, and some even say teleportation.
+A meeting point for druids at the confluence of ancient leylines. Doing a specific ritual here allows communication through the other standing stones of the Southern Sword Coast, and some even say teleportation.
 
 ---
 

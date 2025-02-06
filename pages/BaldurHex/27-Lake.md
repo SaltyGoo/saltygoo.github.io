@@ -2,7 +2,7 @@
 <img align="left" width=150px src="/images/Hexes/hex27.png">
 <h1>Hex 27 - Fisherman's Lake</h1>
 
-*This big lakes is fed by the river that goes through the mining town of Nashkel. For this reason, many locals come here to fish.*
+*This big lake is fed by the river that goes through the mining town of Nashkel. For this reason, many locals come here to fish.*
 
 **Biome:** <u>Evergreen</u>. Dark pines, mossy rocks, cold crisp air, crows far away, bogs.
 
@@ -20,20 +20,20 @@ Travel **SW:** [32 - Bear River](/pages/BaldurHex/32-Bear), **S:** [33 - Xvart C
 
 <details markdown="1">
 <summary>Encounter Rules</summary>
-Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for informations on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
+Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for information on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
 </details>
 
  ---
 
 <span class="blacktitle"> Feature A - Fisherman's Lake</span>
 
-This big lakes is fed by the river that goes through the mining town of Nashkel. For this reason, many locals like Chelan and Torlo come here to fish. They speak of the legend of the lake's monster.
+This big lake is fed by the river that goes through the mining town of Nashkel. For this reason, many locals like Chelan and Torlo come here to fish. They speak of the legend of the lake's monster.
 
 ---
 
 <span class="blacktitle"> Feature B - Abandoned Lodge</span>
 
-The big lakeside hunting lodge was used by amnian aristocrats on hunting trips but has felt to disuse after too many xvart raids. Even half suken and covered in graffitis, it could be a good base of operation.
+The big lakeside hunting lodge was used by amnian aristocrats on hunting trips but has fallen to disuse after too many xvart raids. Even half sunken and covered in graffitis, it could be a good base of operation.
 
 ---
 

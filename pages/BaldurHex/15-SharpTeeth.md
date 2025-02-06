@@ -27,7 +27,7 @@ Generate an encounter the first time the party goes to one of this hex's feature
 
 <span class="blacktitle"> Feature A - Temple Ruins</span>
 
-This long forgotten city has been destroyed by a god centuries ago. Only overgrown rubbles are left. This seems to be one of their temples.
+This long forgotten city has been destroyed by a god centuries ago. Only overgrown rubbles is left. This seems to be one of their temples.
 
 ---
 
@@ -39,9 +39,9 @@ Silk nests hanging like sacks from trees mark the breeding grounds of the local 
 
 <span class="blacktitle"> Feature C - Old Dead Maple</span>
 
-This massive maple tree is long dead, and a big burrow under its roots seem empty. However, voices from beyond the grave seem coming from it.
+This massive maple tree is long dead, and a big burrow under its roots seems empty. However, voices from beyond the grave seem coming from it.
 
-##### Not in Baldur's Gate but lore accurate!
+##### Not in Baldur's Gate but lore-accurate!
 
 ---
 

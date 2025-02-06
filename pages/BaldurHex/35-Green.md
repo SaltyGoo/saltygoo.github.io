@@ -10,7 +10,7 @@
 
 ##### [Return to Map](https://saltygoo.github.io/2024/12/31/BGHex/)
 Travel **NW:** [34 - Nashkel](/pages/BaldurHex/34-Nashkel), **N:** [29 - Lonely Peaks](/pages/BaldurHex/29-Lonely), **NE:** [36 - Valley of the Tombs](/pages/BaldurHex/36-Tombs)<br>
-Travel **SW:** [39 - Fire Leaf Forest](/pages/BaldurHex/39-FireLeaf), **S:** [40 - Nashkel Mines](/pages/BaldurHex/40-Mines), **SE:** [41 - Gibberling Mountains](/pages/BaldurHex/41-Gibberling)
+Travel **SW:** [39 - Fire Leaf Forest](/pages/BaldurHex/39-Fireleaf), **S:** [40 - Nashkel Mines](/pages/BaldurHex/40-Mines), **SE:** [41 - Gibberling Mountains](/pages/BaldurHex/41-Gibberling)
 
  ---
  

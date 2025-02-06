@@ -4,7 +4,7 @@
 
 *The Way of the Lion is the name given to the path that leads to Candlekeep from the Coast Way.*
 
-**Biome:** <u>Coastal Forest</u>. Rugged clifs, vivifying wind, rugged land, autumnal trees.
+**Biome:** <u>Coastal Forest</u>. Rugged cliffs, vivifying wind, rugged land, autumnal trees.
 
 ---
 
@@ -20,7 +20,7 @@ Travel **SW:** [16 - Shipwreck Coast](/pages/BaldurHex/16-ShipwreckCoast), **S:*
 
 <details markdown="1">
 <summary>Encounter Rules</summary>
-Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for informations on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
+Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for information on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
 </details>
 
  ---
@@ -33,7 +33,7 @@ Winding through rugged boulders and windsept trees, the Lion's Way is used by pi
 
 <span class="blacktitle"> Feature B - Old Standing Stones</span>
 
-A long abandonned meeting point for druids at the conflux of ancient leylines. Doing a specific ritual here allows communication through the other standing stones of the Southern Sword Coast, and some even say teleportation. However, this one seems to have been defiled by a gruesome murder ritual.
+A long abandoned meeting point for druids at the confluence of ancient leylines. Doing a specific ritual here allows communication through the other standing stones of the Southern Sword Coast, and some even say teleportation. However, this one seems to have been defiled by a gruesome murder ritual.
 
 ---
 
@@ -41,7 +41,7 @@ A long abandonned meeting point for druids at the conflux of ancient leylines. D
 
 This hidden passage is sealed, but leads to the Underdark. It was carved by the mind flayers of Tellectus, who prey on people leaving Candlekeep to steal their knowledge.
 
-##### Not in Baldur's Gate but lore accurate!
+##### Not in Baldur's Gate but lore-accurate!
 
 ---
 

@@ -20,26 +20,26 @@ Travel **SW:** Sea of Swords, **S:** [37 - Gnoll Stronghold](/pages/BaldurHex/37
 
 <details markdown="1">
 <summary>Encounter Rules</summary>
-Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for informations on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
+Generate an encounter the first time the party goes to one of this hex's features and every 12 hours. Encounters can happen on the way to the location or at the destination. If an encounter would happen while the party rests, good survival skills while setting up camp make the encounter happen after the full rest is completed. Search the [Baldur's Gate Wiki](https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_Wiki) for information on named NPC. Do not hesitate to replace any named NPC by one the players have already met from time to time! It makes for a better story.
 </details>
 
  ---
 
 <span class="blacktitle"> Feature A - Coast Bridge</span>
 
-This long wooden bridge is precariously hanging from hemp ropes 100 ft above the river. From here, you can see the the raging Sea of Swords.
+This long wooden bridge is precariously hanging from hemp ropes 100 ft above the river. From here, you can see the raging Sea of Swords.
 
 ---
 
 <span class="blacktitle"> Feature B - Mountain Bridge</span>
 
-This covered bridge links two cliffs at a point where the Bear River is narrower. It is still used by Amnian nobles on hunting trip, and the gnolls that have taken the abandonned castle nearby...
+This covered bridge links two cliffs at a point where the Bear River is narrower. It is still used by Amnian nobles on hunting trips, and the gnolls that have taken the abandoned castle nearby...
 
 ---
 
 <span class="blacktitle"> Feature C - Mountain Lake</span>
 
-This crystal clear lake might be an idylic location, but it has been named by Amnian rangers as one location where the gibberling horde spawns at night.
+This crystal clear lake might be an idyllic location, but it has been named by Amnian rangers as one location where the gibberling horde spawns at night.
 
 ---
 

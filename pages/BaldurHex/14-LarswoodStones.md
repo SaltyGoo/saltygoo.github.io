@@ -31,7 +31,6 @@ A meeting point for druids at the confluence of ancient leylines. Doing a specif
 
 - <a href="/pages/BaldurHex/01-CloakwoodGrove">01 - Cloakwood Grove</a>
 - <a href="/pages/BaldurHex/12-LionsWay">12 - Lion's Way</a>
-- <a href="/pages/BaldurHex/14-LarswoodStones">14 - Larswood</a>
 - <a href="/pages/BaldurHex/22-RedCanyons">22 - Red Canyons</a>
 
 

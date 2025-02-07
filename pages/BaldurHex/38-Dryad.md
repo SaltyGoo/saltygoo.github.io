@@ -1,5 +1,5 @@
 
-<img align="left" width=150px src="/images/Hexes/hex37.png">
+<img align="left" width=150px src="/images/Hexes/hex38.png">
 <h1>Hex 38 - Dryad Falls</h1>
 
 *The alpine forest hides one of the most beautiful vistas of the Cloud Peaks: the crystalline Dryad Falls.*

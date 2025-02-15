@@ -34,7 +34,7 @@ The thundering rapids of River Raeth are 50 ft wide and make the area near-uncro
 
 <span class="blacktitle"> Feature B - Wyvern Vista </span>
 
-A big rocky hill that overlooks the canopy. Offers the best panorama of Cloakwood, but is the nesting ground of many local wyverns.
+A big rocky hill that overlooks the canopy. Offers the best panorama of Cloakwood, but is the nesting ground of many wyverns.
 
 ---
 

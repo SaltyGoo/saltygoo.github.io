@@ -36,7 +36,7 @@ A meeting point for druids at the confluence of ancient leylines. Doing a specif
 
 <span class="blacktitle"> Feature B - Great Oak </span>
 
-The home of the Archdruid of Cloakwood. Recently taken over by the extremist Shadow Druids, led by Archdruid Amarande. They do not view the intrusion of civilized humanoids into the woods kindly.
+The home of the Archdruid of Cloakwood. Recently taken over by the extremist Shadow Druids led by Archdruid Amarande. They do not view the intrusion of civilized people into the woods kindly.
 
 ---
 

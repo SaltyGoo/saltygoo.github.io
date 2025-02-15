@@ -1,7 +1,7 @@
 <img align="left" width=150px src="/images/Hexes/hex03.png">
 <h1>Hex 03 - Cloakwood Mines</h1>
 
-*Hidden in the deepest corners of Cloakwood are rumored to lie the abandoned mines of the dwarven clan Orothiar.*
+*The abandoned mines of the dwarven clan Orothiar are rumored to lie hidden in the deepest corners of Cloakwood.*
 
 **Biome:** <u>Old Growth Forest</u>. Lush, autumnal, massive, tangled, strange noises.
 
@@ -28,13 +28,13 @@ Generate an encounter the first time the party goes to one of this hex's feature
 
 <span class="blacktitle"> Feature A - Raeth Gorges </span>
 
-The mist-cloaked gorge of river Raeth is 50 ft wide and 100 ft deep. Sometimes, mysterious barges sail upstream under the cover of illusory magic.
+The mist-cloaked gorge of river Raeth is 50 ft wide and 100 ft deep. Sometimes, mysterious barges sail upstream under the cover of Davaeorn's illusory magic.
 
 ---
 
 <span class="blacktitle"> Feature B - Iron Throne Camp </span>
 
-This nature-besieged riverside lumber camp is a cover for the Iron Throne's mining activities. The tension is high between the druids, the Iron Throne, and bounty hunters.
+This nature-besieged lumber camp is a cover for the Iron Throne's mining activities. The tension is high between the druids, the Iron Throne, and bounty hunters.
 
 ---
 

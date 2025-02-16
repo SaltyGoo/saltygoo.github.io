@@ -27,7 +27,7 @@ Generate an encounter the first time the party goes to one of this hex's feature
 
 <span class="blacktitle"> Feature A - Tasloi Village </span>
 
-This treetop village is home to hundreds of taslois and many ettercaps. They claim this part of the woods as their territory. Thread lightly.
+This treetop village is home to many of taslois and ettercaps. They claim this part of the woods as their territory. Thread lightly.
 
 ---
 
@@ -40,6 +40,7 @@ This giant spiderweb cocoon is like a blight in the forest. It is the lair of th
 <span class="blacktitle"> Feature C - Eldelorr's Ruins </span>
 
 Eldelorr was a fishing village at the edge of Cloakwood. It has long since been overrun by monsters from the forest.
+
 <h5>Not in Baldur's Gate but lore-accurate!</h5>
 
 ---

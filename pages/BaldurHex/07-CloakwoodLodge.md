@@ -2,7 +2,7 @@
 <img align="left" width=150px src="/images/Hexes/hex07.png">
 <h1>Hex 07 - Cloakwood Lodge</h1>
 
-*This part of Cloakwood is more tamed than the rest, with many paths crossing it. It is a prime hunting ground for local aristocrats.*
+*This part of Cloakwood is more tamed than the rest, with many paths crossing it. It is the favourite hunting ground of Balduran aristocrats.*
 
 **Biome:** <u>Old Growth Forest</u>. Lush, autumnal, massive, tangled, strange noises.
 
@@ -27,7 +27,7 @@ Generate an encounter the first time the party goes to one of this hex's feature
 
 <span class="blacktitle"> Feature A - Cloakwood Lodge </span>
 
-Used by the upper classes of Baldur's Gate for hunting parties and discreet negotiations. Aldeth Sashenstar of the Merchant's League is here until Wyrm's Crossing is opened again. 
+Used by the upper classes of Baldur's Gate for hunting parties and discreet negotiations. It is currently occupied by Aldeth Sashenstar of the Merchant's League until Wyrm's Crossing is opened again. 
 
 ---
 

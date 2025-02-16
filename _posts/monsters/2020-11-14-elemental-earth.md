@@ -86,7 +86,7 @@ You summon a 1D4 HD earth elemental. You may control it if it has [dice] HD or l
       $(document).ready(function() {
         function generateResult(buttonId, resultId, columnRangeStart, columnRangeEnd) {
           $(buttonId).click(function() {
-            var searchValue = "0016"; // Change this to the actual value you need
+            var searchValue = "0015"; // Change this to the actual value you need
 
             $.get("/CSV/Monster - Index.csv", function(data) {
               var rows = data.split("\n").slice(1);

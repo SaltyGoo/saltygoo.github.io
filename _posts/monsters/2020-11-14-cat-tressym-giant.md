@@ -15,7 +15,7 @@ _Imagine a calico puma with magestic wings that match its fur._
 
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
-| **HD** 8 | **Armor:** 0  |
+| **HP** 8 | **Armor:** 0  |
 | **Hit it:** normal | **Dodge it:** normal |
 | **Movement:** fast, climb & fly fast      |  **Size:** medium | 
 

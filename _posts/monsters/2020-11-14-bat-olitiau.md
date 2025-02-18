@@ -25,7 +25,7 @@ It **can** hear very well, allowing it to easily spot their preys in the dark, e
 
 **Attacks (1/round)**
 
-<ins>Deadly Rake</ins>. The olitiau makes a melee attack (1 dmg), on a hit the target must save vs poison or start [dying](/2020/11/10/extra-rules/#conditions).
+<ins>Deadly Rake</ins>. The olitiau makes a melee attack (1 dmg), on a hit the target is infected with its deadly [venom](/2024/01/01/olitiau-venom/).
 
 <br>
 

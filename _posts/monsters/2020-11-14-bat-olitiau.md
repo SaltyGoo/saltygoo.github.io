@@ -31,7 +31,7 @@ It **can** hear very well, allowing it to easily spot their preys in the dark, e
 
 <details markdown="1">
 <summary style="font-weight: bold;">Tame It</summary>
-If you have captured this beast, you can spend the equivalent of 1 bag of gold in food between two adventures to tame it. It is now one of your <span class="tooltip" data-tooltip="You can bring a follower in your adventures if you dedicate a Psyche slot to it."><i>followers</i></span>. Each extra bag of gold spent training the beast teaches it a one-word order. Otherwise, it only acts to eat or in self-defence. 
+If you have captured this beast, you can spend the equivalent of 1 [bag of gold](/2024/06/26/currency/) in food between two adventures to tame it. It is now one of your <span class="tooltip" data-tooltip="You can bring a follower in your adventures if you dedicate a Psyche slot to it."><i>followers</i></span>. Each extra bag of gold spent training the beast teaches it a one-word order. Otherwise, it only acts to eat or in self-defence. 
 </details>
 
 <details markdown="1">

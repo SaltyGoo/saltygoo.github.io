@@ -5,7 +5,7 @@ permalink: /monsters/bat-kongamato
 title: Bat, Kongamato
 ---
 
-##### Mythtical monster originating from Zambian and congolese folklore.
+##### Mythtical monster originating from Zambian and Congolese folklore.
 
 **A large amphibious diseased bat**. Kongamato bats hunt along rivers at night. Its amphibious nature explains its name, which means “boat toppler” in the local tongue. It smells of swamp water.  A nocturnal predatory beast.
 

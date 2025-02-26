@@ -79,10 +79,10 @@ A priestress of the hunt. She bears metal claws and a white scarf on her eyes. S
 </details>
 
 <details markdown="1">
-<summary><b>2. Neira</b>. "<i>Maybe a touch unladylike</i>".</summary>
-A priestress of the hunt. She bears metal claws and a white scarf on her eyes. She **can** see in the dark because of it, but it needs to consume one soul per day.
- 
-<ins>Spellcasting.</ins> Summon Hounds, Longstrider, Pass Without Trace, Illusory Terrain.
+<summary><b>3. Nimbul</b>. "<i>Hush, little baby, don't say a word</i>".</summary>
+Hooded and in studded leather dyed dark green. Camp like an anime villain. His version of mirror mage, which he casts before a fight, creates 3 illusions that can move independently. He wears the Boots of Avoidance, which gives disadvantage on ranged attacks against him.
+
+<ins>Spellcasting.</ins> Sleep, Mirror Image, Misty Step.
 
 </details>
 

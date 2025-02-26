@@ -68,8 +68,6 @@ Two cocky rugged men in dirty chain mails and leather caps. Some missing teeth.
 <ins>Flurry of Darts.</ins> Zal makes three ranged attacks (1D4) with darts, which is made possible because of his magical bracers.
 </details>
 
-<br>
-
 <details markdown="1">
 <summary><b>2. Neira</b>. "<i>Maybe a touch unladylike</i>".</summary>
 A priestress of the hunt. She bears metal claws and a white scarf on her eyes. She **can** see in the dark because of it, but it needs to consume one soul per day.
@@ -83,6 +81,14 @@ A priestress of the hunt. She bears metal claws and a white scarf on her eyes. S
 Hooded and in studded leather dyed dark green. Camp like an anime villain. His version of mirror mage, which he casts before a fight, creates 3 illusions that can move independently. He wears the Boots of Avoidance, which gives disadvantage on ranged attacks against him.
 
 <ins>Spellcasting.</ins> Sleep, Mirror Image, Misty Step.
+
+</details>
+
+<details markdown="1">
+<summary><b>4. Edwin</b>. "<i>You simians may refer to me merely as "sir"</i>".</summary>
+An arrogant and very intelligent red wizard. Out of combat, Edwin can summon imps and teleport.
+ 
+Use the [Wizard](/monsters/wizard) stats with the added spell <i>Cloudkill</i>.
 
 </details>
 

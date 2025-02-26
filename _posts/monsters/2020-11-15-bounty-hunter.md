@@ -7,6 +7,8 @@ title: Bounty Hunter
 
 **Clever Rivals.** Bounty hunters roam the world to settle scores for someone else. They are often seen with _[Goons](/monsters/bandits)_ and other [Humanoids](/list/monsters-humanoid).
 
+---
+
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
 | **Hit Points:** 13 | **Armor:** 2  |
@@ -52,17 +54,28 @@ The [Fighter](/class/fighter) character class might interest you.
 Add flavour to your bounty hunters with this selection of npcs from the [Baldur's Gate Hexcrawl](/2024/12/31/BGHex/).
 
 <details markdown="1">
-<summary><b>1. Vax and Zal</b>. "The fastest dart thrower that has ever walked".</summary>
+<summary><b>1. Vax and Zal</b>. "<i>The fastest dart thrower that has ever walked</iv>".</summary>
 Two cocky rugged men in dirty chain mails and leather caps. Some missing teeth.
 
-**Vax has the following extra attacks:**
+**Vax:**
+
 <ins>Halberd Herding.</ins> Vax makes a melee attack with reach (1D8 damage). Hit or not, the target cannot move past him for a turn.
 
 <ins>Potion of Healing (x2).</ins> Vax drinks a potion a heals 1D8 HP.
 
-**Zal has the following extra attacks:**
+**Zal:**
 
 <ins>Flurry of Darts.</ins> Zal makes three ranged attacks (1D4) with darts, which is made possible because of his magical bracers.
+</details>
+
+<br>
+
+<details markdown="1">
+<summary><b>2. Neira</b>. "<i>Maybe a touch unladylike</iv>".</summary>
+A priestress of the hunt. She bears metal claws and a helmet that covers her eyes. She **can** see in the dark because of it.
+ 
+<ins>Spellcasting.</ins> Summon Hounds, Longstrider, Pass Without Trace, Illusory Terrain.
+
 </details>
 
 <br>

@@ -71,8 +71,16 @@ Two cocky rugged men in dirty chain mails and leather caps. Some missing teeth.
 <br>
 
 <details markdown="1">
-<summary><b>2. Neira</b>. "<i>Maybe a touch unladylike</iv>".</summary>
-A priestress of the hunt. She bears metal claws and a helmet that covers her eyes. She **can** see in the dark because of it.
+<summary><b>2. Neira</b>. "<i>Maybe a touch unladylike</i>".</summary>
+A priestress of the hunt. She bears metal claws and a white scarf on her eyes. She **can** see in the dark because of it, but it needs to consume one soul per day.
+ 
+<ins>Spellcasting.</ins> Summon Hounds, Longstrider, Pass Without Trace, Illusory Terrain.
+
+</details>
+
+<details markdown="1">
+<summary><b>2. Neira</b>. "<i>Maybe a touch unladylike</i>".</summary>
+A priestress of the hunt. She bears metal claws and a white scarf on her eyes. She **can** see in the dark because of it, but it needs to consume one soul per day.
  
 <ins>Spellcasting.</ins> Summon Hounds, Longstrider, Pass Without Trace, Illusory Terrain.
 

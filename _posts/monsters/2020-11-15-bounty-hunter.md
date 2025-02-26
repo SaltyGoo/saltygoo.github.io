@@ -61,7 +61,7 @@ Two cocky rugged men in dirty chain mails and leather caps. Some missing teeth.
 
 <ins>Halberd Herding.</ins> Vax makes a melee attack with reach (1D8 damage). Hit or not, the target cannot move past him for a turn.
 
-<ins>Potion of Healing (x2).</ins> Vax drinks a potion a heals 1D8 HP.
+<ins>Potion of Healing (x2).</ins> Vax drinks a potion and heals 1D8 HP.
 
 **Zal:**
 

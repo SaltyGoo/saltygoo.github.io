@@ -54,7 +54,7 @@ The [Fighter](/class/fighter) character class might interest you.
 Add flavour to your bounty hunters with this selection of npcs from the [Baldur's Gate Hexcrawl](/2024/12/31/BGHex/).
 
 <details markdown="1">
-<summary><b>1. Vax and Zal</b>. "<i>The fastest dart thrower that has ever walked</iv>".</summary>
+<summary><b>1. Vax and Zal</b>. "<i>The fastest dart thrower that has ever walked</i>".</summary>
 Two cocky rugged men in dirty chain mails and leather caps. Some missing teeth.
 
 **Vax:**

@@ -92,6 +92,16 @@ Use the [Wizard](/monsters/wizard) stats with the added spell <i>Cloudkill</i>.
 
 </details>
 
+<details markdown="1">
+<summary><b>5. Minsc and Dynaheir</b>. "<i>A wise choice to appoint the wiser</i>".</summary>
+A haunty wizard in a purple robe and a burly brute with a giant sword and a purple face tattoo.
+ 
+**Dynaheir:**
+
+Use the [War Wizard](/monsters/wizard) stats.
+
+</details>
+
 <br>
 
 ---

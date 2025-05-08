@@ -35,7 +35,7 @@ Voilà!
 ---
 
 <details markdown="1">
-<summary><b>Stats & Skills</b></summary>
+<summary><b>Stats, Skills and Beliefs</b></summary>
 
 Your stats and skills cannot be higher than 10. If a stat becomes 0, you fall prone and are [stunned](/2020/11/10/extra-rules/#Conditions).
 
@@ -61,24 +61,24 @@ A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.). Wh
 *Beau has a skill named "Swamp Dweller". When trying to parley with a troll, the referee asks him to make a hard Willpower roll, but Beau argues that his Swamp Dweller skill would make him more relatable for the monster. The referee agrees and Beau only needs to beat 15 on his roll instead of 20.*
 </details>
 
-<ins>**Beliefs**</ins>. A belief can be anything worth dying for and they exist in your Psyche. At the end of an adventure, if you have taken a deadly risk for one of your beliefs, you can either remove one of your traumas, gain a new skill related to your risky action or obtain a new Follower. Risk taken or not, you can then give yourself an additional belief.
+<ins>**Beliefs**</ins>. A belief can be anything worth dying for and they exist in your Psyche. When _Carousing_, if you have taken a deadly risk for one of your beliefs, you can either remove one of your traumas, gain a new skill related to your risky action or obtain a new Follower. Risk taken or not, you can then give yourself an additional belief.
+
+<details markdown="1">
+<summary><i>Example: Using a Belief</i></summary>
+*Gretchen is fighting a dangerous troll. Her teammate Beau decides to leave his hiding spot to come to her rescue because he believes in selflessness. At the end of the adventure, Beau can remove a trauma from his psyche, or gain a new follower impressed by his beliefs.*
+</details>
 
 </details>
 
 ---
 
 <details markdown="1">
-<summary><b>Inventory, Psyche & Beliefs</b></summary>
+<summary><b>Inventory, Psyche</b></summary>
 
 <ins>**Inventory**</ins>. You have as many slots as twice your Strength. Inventory slots can be filled with objects. Small items like potions, daggers, and ammunition can be stacked in your inventory in packs of 10 of the same type. If you go beyond your capacity, you become [prone](/2020/11/10/extra-rules/#Conditions).
 
-<ins>**Psyche**</ins>. You have as many slots as twice your Willpower. Psyche slots can be filled with Skills, Class Templates, Spells, Followers and Beliefs, but also with trauma you gain along the way. If you go beyond your capacity, you become [dazed](/2020/11/10/extra-rules/#Conditions). You can only remove things from your Psyche between adventures, except trauma, whcih can only be overcome through beliefs.
+<ins>**Psyche**</ins>. You have as many slots as twice your Willpower. Psyche slots can be filled with Skills, Class Templates, Spells, Followers and Beliefs, but also with trauma you gain along the way. If you go beyond your capacity, you become [dazed](/2020/11/10/extra-rules/#Conditions). You can only remove things from your Psyche when _Carousing_, except trauma, whcih can only be overcome through beliefs.
 
-
-<details markdown="1">
-<summary><i>Example: Using a Belief</i></summary>
-*Gretchen is fighting a dangerous troll. Her teammate Beau decides to leave his hiding spot to come to her rescue because he believes in selflessness. At the end of the adventure, Beau can remove a trauma from his psyche, or gain a new follower impressed by his beliefs.*
-</details>
 </details>
 
 ---
@@ -222,7 +222,7 @@ _Some options open up when you have access to specific things:_
 
 <details markdown="1">
 <summary><ins>Study a Spellbook</ins></summary>
-You need a [Spellbook](/class/wizard#study) and a Treasure worth of materials to study magic. When you study, you choose which book you are studying, gain the knowledge contained in it and roll for one of its spells. If you already know the spell, roll again.
+You need a [Spellbook](/class/wizard#study) and a Treasure worth of arcane materials to study magic. When you study, you choose which book you are studying, gain the knowledge contained in it and roll for one of its spells. If you already know the spell, roll again.
 </details>
 
 <details markdown="1">

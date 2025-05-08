@@ -18,16 +18,16 @@ That's it!
 
 <details markdown="1">
 <summary><b>Creating a Character</b></summary>
-You have three main stats: **Fortitude**, **Dexterity**, and **Willpower**. Roll 1D6+2 for each to determine their value.
+You have three main stats: **Strength**, **Dexterity**, and **Willpower**. Roll 1D6 + 2 for each to determine their value.
 
-You also have as many **Hit Points** as your Fortitude score.
+You also have as many **Hit Points** as your Strength score.
 
-You can have as many things in your **Inventory** as twice your Fortitude score. <br>
+You can have as many things in your **Inventory** as twice your Strength score. <br>
 You can have as many things in your **Psyche** as twice your Willpower score.
 
-Choose a [**Character Class**](https://saltygoo.github.io/classes/). Add the class’s starting equipment to your Inventory, its skills and spells to your Psyche and the class' _Template A_ abilities somewhere else on your character sheet.
+Choose a [**Character Class**](https://saltygoo.github.io/classes/). Add the class’s starting equipment to your Inventory, and its skills,  _Template A_ abilities and spells to your Psyche.
 
-If you want, you can add beliefs in your characters Psyche to fleshen it. The referee will reward you for following them.
+Give your character 1 or 2 beliefs, which you add to their Psyche. Beliefs are anything worth dying for.
 
 Voilà!
 </details>
@@ -37,18 +37,22 @@ Voilà!
 <details markdown="1">
 <summary><b>Stats & Skills</b></summary>
 
-Your stats and skills cannot be higher than 10. If a stat becomes 0, you become paralyzed.
+Your stats and skills cannot be higher than 10. If a stat becomes 0, you fall prone and are [stunned](/2020/11/10/extra-rules/#Conditions).
 
-<ins>**Fortitude**</ins> represents your physical prowess. You roll it for strength and endurance-related feats.
+<ins>**Strength**</ins> represents your physical prowess. You roll it for strength and endurance-related feats.
 
 <ins>**Dexterity**</ins> represents your grace and reflexes. You roll it for mobility feats like climbing, jumping and running away, and also to dodge attacks and hit things.
 
-<ins>**Willpower**</ins> represents your mind and personality. You roll it for social interactions, but also to resist spells and overwhelming emotions such as fear.
+<ins>**Willpower**</ins> represents your mind and personality. You roll it for social interactions, but also for spell-related rolls and overcoming emotions such as fear.
 
 <details markdown="1">
 <summary><i>Example: Using a Stat</i></summary>
 *Beau is running away from a troll. He rolls a D20 and adds his Dexterity for a total of 17. This is higher than 15 and means that Beau is out of reach in another location of his choice. However, Gretchen, Beau's ally, rolled 12. That means she hasn't escaped the troll, and both of them will have to keep fighting in the next room in the dungeon.*
 </details>
+
+<ins>**Hit Points**</ins> (or HP) is the amount of damage you can take before Dying.
+
+<ins>**Armor**</ins> is the amount of damage you ignore when an attack hits you. You have 0 armor by default.
 
 A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.). When asked to roll for an action, if it would thematically make sense, for one of your skills, the roll becomes easier (a hard roll becomes a normal roll, a normal roll becomes an easy roll, and an easy roll becomes a success). Your skills are stored in your **Psyche**.
 
@@ -57,9 +61,8 @@ A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.). Wh
 *Beau has a skill named "Swamp Dweller". When trying to parley with a troll, the referee asks him to make a hard Willpower roll, but Beau argues that his Swamp Dweller skill would make him more relatable for the monster. The referee agrees and Beau only needs to beat 15 on his roll instead of 20.*
 </details>
 
-<ins>**Hit Points**</ins> (or HP) is the amount of damage you can take before getting Wounded.
+<ins>**Beliefs**</ins>. A belief can be anything worth dying for and they exist in your Psyche. At the end of an adventure, if you have taken a deadly risk for one of your beliefs, you can either remove one of your traumas, gain a new skill related to your risky action or obtain a new Follower. Risk taken or not, you can then give yourself an additional belief.
 
-<ins>**Armor**</ins> is the amount of damage you ignore when an attack hits you. You have 0 armor by default.
 </details>
 
 ---
@@ -67,19 +70,14 @@ A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.). Wh
 <details markdown="1">
 <summary><b>Inventory, Psyche & Beliefs</b></summary>
 
-<ins>**Inventory**</ins>. You have as many slots as twice your Fortitude. Inventory slots can be filled with objects, but also get filled with the Scars and mutations you gain along the way. You gain Scars when you get Wounded and they can only be removed by magic.
+<ins>**Inventory**</ins>. You have as many slots as twice your Strength. Inventory slots can be filled with objects. Small items like potions, daggers, and ammunition can be stacked in your inventory in packs of 10 of the same type. If you go beyond your capacity, you become [prone](/2020/11/10/extra-rules/#Conditions).
 
-Small items like potions and daggers can be stacked in your inventory in packs of 3 of the same type. It takes your turn to retrieve an item during combat unless it is in your first 3 slots.
+<ins>**Psyche**</ins>. You have as many slots as twice your Willpower. Psyche slots can be filled with Skills, Class Templates, Spells, Followers and Beliefs, but also with trauma you gain along the way. If you go beyond your capacity, you become [dazed](/2020/11/10/extra-rules/#Conditions). You can only remove things from your Psyche between adventures, except trauma, whcih can only be overcome through beliefs.
 
-<ins>**Psyche**</ins>. You have as many slots as twice your Willpower. Psyche slots can be filled with Skills, Spells, Followers and Beliefs, but also with emotional scars you gain along the way. You gain scars when you get Wounded.
-
-You cannot go above your psyche slot limit, but you can always forget a Skill, a Spell, or a Belief, or send a follower back home. You can’t, however, get rid of a scar like that.
-
-You can have as many **Beliefs** as you want, and they can be anything. You can change them and add more each time you level up. At the end of an adventure, if you have taken a deadly risk for one of your beliefs, you can either remove one of your emotional scars, gain a new skill related to your risky action or obtain a new Follower.
 
 <details markdown="1">
 <summary><i>Example: Using a Belief</i></summary>
-*Gretchen is fighting a dangerous troll. Her teammate Beau decides to leave his hiding spot to come to her rescue because he believes in selflessness. At the end of the adventure, a bard starts following him to chronicle his heroic adventures.*
+*Gretchen is fighting a dangerous troll. Her teammate Beau decides to leave his hiding spot to come to her rescue because he believes in selflessness. At the end of the adventure, Beau can remove a trauma from his psyche, or gain a new follower impressed by his beliefs.*
 </details>
 </details>
 
@@ -125,7 +123,7 @@ must take one action to recharge
 
 <details markdown="1">
 <summary><b>Armor</b></summary>
-Each worn piece of armor reduces damage by 1. <br> 
+Each worn piece of armor reduces damage by 1. Shields are pieces of armor.<br> 
 You can't swim, sneak or jump while wearing 3 or more pieces of armor.
 </details>
 
@@ -155,25 +153,26 @@ _On the monsters' turn, they might attack you. In this case, you'll have to dodg
 ---
 
 <details markdown="1">
-<summary><b>Dying, Wounds, Scars & Healing</b></summary>
+<summary><b>Dying, Scars, Trauma & Healing</b></summary>
 
-<ins>**Dying:**</ins> When you reach 0 Hit Points, you start dying. While you are dying, you gain a **Wound** at the end of each of your turns. If you reach 10 Wounds, you die. Each point of damage you take while dying also gives you an extra Wound. 
+<ins>**Dying:**</ins> When you reach 0 Hit Points, you fall prone and you start dying. If you take damage while dying, you die. If you recover any hit point while dying you stop dying. 
 
-While dying, you can spend your whole turn to attempt to stabilize. Make a hard Fortitude roll. On a success, you stop dying and have 1 HP. An ally that can reach you with an appropriate Skill or tool can spend their turn making a hard Willpower roll for the same effect. You also stop dying if you recover HP any other way.
+On each of your next 3 turns, you can attempt to stabilize instead of doing anything else. Make a hard Strength roll. On a success, you stop dying and have 1 HP. An ally can spend their turn making a hard Willpower roll for the same effect if they can reach you with appropriate tools or skill. After 3 turns, if you are still dying, you die.
 
-Stabilizing does not heal your accumulated Wounds. Instead, you gain a **Scar**. You choose whether the scar will take an Inventory slot or a Psyche slot. As long as you have it, all your rolls against the danger that puts you in that situation are easy rolls.
+If you recover from dying, you gain a **Scar**.
+If you die, all your companions gain a **Trauma**.
+
+<ins>**Scars:**</ins> Scars take inventory slots and cannot be removed. Note what caused the scar. As long as you have it, you have advantage against that thing.
+
+<ins>**Trauma:**</ins> Traumas take psyche slots and can only be removed through risking your own life for one of your beliefs. Note what caused the trauma. As long as you have it, you have disadvantage against that thing.
 
 <ins>**Healing:**</ins> A 8 hours rest heals all HP losses and consumes 1 ration for the team.
 
-Medical care heals all Wounds. Medical care happens when you end an adventure in a safe location with healers.
-
 <details markdown="1">
 <summary><i>Example: Dying</i></summary>
-*Gretchen is dying from a troll attack. On her turn, she calls her ally Beau for help and tries to recover. She rolls 19 on her Fortitude roll. Failure! She gains one Wound.*
+*Gretchen is dying from a troll attack. On her turn, she calls her ally Beau for help and tries to recover. She rolls 19 on her Strength roll. Failure! She is two turns away from death.*
 
-*Beau arrives at the scene. He has bandages and could try to stop the bleeding, but the troll is still there and one hit from it could kill Gretchen. He decides to try to push the troll down the nearby pit instead. Success! On her next turn, Gretchen fails her hard Fortitude roll again. She now has 2 wounds. Beau attempts to save her using bandages. He succeeds his hard Willpower roll! Gretchen stops dying, but still has 2 wounds until the end of the adventure.*
-
-*Gretchen has a new Scar. She decides it is going to take an Inventory slot. From now on, she won’t be caught off-guard by a troll. All her rolls against them become easy.*
+*Beau arrives at the scene. He has bandages and could try to stop the bleeding, but the troll is still there and one hit from it could kill Gretchen. He decides to try to push the troll down the nearby pit instead. Success! On her next turn, Gretchen fails her hard Strength roll again. She is now one turn away from death! Beau attempts to save her using bandages. He succeeds his hard Willpower roll! Gretchen stops dying, and gains a scar which takes an invetory slot. From now on, she won’t be caught off-guard by a troll. All her rolls against them have advantage.*
 </details>
 </details>
 
@@ -184,7 +183,7 @@ Medical care heals all Wounds. Medical care happens when you end an adventure in
 
 Time is tracked differently when you travel outdoors or in a dungeon. **Dungeons** are divided in rooms. Inside a dungeon, any worthwhile action like investigating a room or battling takes 10 minutes. You roll to see if your torches deplete every 10 minutes and the referee rolls for random encounters every 30 minutes. You can cross 10 safe rooms you have explored per 10 minutes, or 3 if you want to be discreet.
 
-The **world outside** of a dungeon is divided in hexagons. Any worthwhile action like crossing or exploring a hex lasts 4h of the day (*Dawn, Midday, Afternoon, Dusk, Evening, or Night*). The referee rolls for encounters each time you enter a new location, explore a location or rest.
+The **world outside** of a dungeon is divided in hexagons. Any worthwhile action like crossing or exploring a hex lasts 6h of the day (*Morning, Day, Evening, or Night*). The referee rolls for encounters each time you enter a new location, explore a location or rest.
 </details>
 
 ---

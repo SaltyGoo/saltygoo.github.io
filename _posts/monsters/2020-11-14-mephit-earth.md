@@ -5,13 +5,11 @@ permalink: /monsters/mephit-earth
 title: Mephit, Gravel
 ---
 
-##### Illustration by Salty Goo. Monster from ancient roman mythology.
+##### Monster from ancient roman mythology.
+
+**Sentient pebbles.** Gravel Mephits have no conception of the future, or change. They are full of nostalgia, and want to preserve everything. Sometimes serving an _[earth elemental](/monsters/elemental-earth)_. Is itself a type of small earth elemental.
 
 _Imagine if a tiny, grotesque old people was made of gravel._
-
-Stones animated by a spark of mischief. A small earth elemental.
-
-Gravel Mephits have no conception of the future, or change. They are full of nostalgia, and want to preserve everything. 
 
 <br>
 
@@ -19,53 +17,35 @@ Gravel Mephits have no conception of the future, or change. They are full of nos
 
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
-| 1 **HP** | **Armor:** 6  |
-| **Hit it:** normal | **Dodge it:** normal |
-| **Movement:** normal      | 
+| **Hit Points:** 1 | **Armor:** 6 |
+| **Hit it:** normal   | **Dodge it:** normal  |
+| **Move:** normal  |  **Size:** small | 
 
 ##### <span class="tooltip" data-tooltip="Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat">→ How to read monster stats</span>
 
-This creature is a living pile of gravel and is thus only affected by things that would affect stone. It can only survive 10 minutes without touching solid ground.
+This creature is a living pile of gravel and is thus **only affected** by things that would affect stone. It can only survive 10 minutes without touching solid ground.
 
 **Attacks (1/round)**
 
 <ins>Punch</ins>. The mephit makes a melee attack (1D4 dmg).
 
-<ins>Spit Gravel</ins>. The mephit covers a small area with caltrops. Automatic when it dies.
+<ins>Spit Gravel</ins>. The mephit covers a small area with caltrops (dex to move through). Automatic when it dies.
 
 <ins>Enlarge</ins> (1/day).  The mephit becomes as big as a human for 10 minutes. Its damage increase by 1 dice size and it gains 1D8 temporary HP.
 
 <br>
 
----
-
-**Number** : 1D8 <span style="display: inline-block; width:30px"></span>
-**Lair** : Gravel Pits <span style="display: inline-block; width:30px"></span>
-**Desire** : Bury Things & Prevent Change
-
-<button id="generate-btn">Generate Roaming Monster Event</button>
-<p id="RoamResult" style="font-style: italic;">When you roll this monster on your encounter table. Most of them are hints the monster is nearby.</p>
-
-<button onclick="generateMood()">Generate What The Monster Is Doing</button>
-<p id="MoodResult" style="font-style: italic;">If the party meets this monster, what is it doing?</p>
-<script src="/scripts/generateMood.js"></script>
-
----
-
-## So, You Have Captured A Mephit?
-
-New carousing activities!
-
+<br>
 <details markdown="1">
-<summary style="font-weight: bold;">Bind the Elemental Creature</summary>
-If you have captured this elemental monster, you can spend the equivalent of 3 bags of gold in a magical laboratory between two adventures to bind it to your soul. If you do so, you ...
+<summary style="font-weight: bold;">Harness Its Energy</summary>
+If you have captured this elemental, you can spend the equivalent of 1 [bag of gold](/2024/06/26/currency/) in a magical laboratory between two adventures to bind it to your soul. If you do so, you ...
 
-- You gain 2 [Doom Points](/list/spell-catastrophe) (roll for Catastrophe); 
-- You gain 1 [Spell Die](/spells/);
+- You gain 1 [Doom Point](/list/spell-catastrophe) (roll for Catastrophe); 
+- You gain 1 [Spell Die](/spells/) and learn the spell _Conjure Gravel Mephit_ (below);
 - Roll a D6, you <span class="tooltip" data-tooltip="Permanent mutations take an inventory slot">mutate</span> in the following way :
 
 1. 1D4 inventory slots are filled with gravel. It comes back as soon as you remove it.
-1. Your words are replaced by tiny gravel mephits that mime them before being snuffed.
+1. Your words are replaced by tiny gravel mephits that mime them before collapsing.
 1. Your sweat is replaced by sand. You'll never be comfortable again.
 1. Each time you rest, one thing near you is stolen by a mephit and brought to the plane of earth.
 1. You have a phobia of not touching the ground.
@@ -74,17 +54,31 @@ If you have captured this elemental monster, you can spend the equivalent of 3 b
 If you roll a Catastrophe, the elemental is released and hostile, and you lose the Spell Dice.
 </details>
 
-<details markdown="1">
-<summary style="font-weight: bold;">Conjure the Elemental Creature</summary>
-If you have befriended or bound this monster, you can spend the equivalent of 2 bags of gold in a wizard library between two adventures to learn the following spell:
+<br>
+
+
+---
+
+**Number** : 1D8 <span style="display: inline-block; width:30px"></span>
+**Lair** : Gravel Pits <span style="display: inline-block; width:30px"></span>
+**Desire** : Bury Things & Prevent Change
+
+<button id="room-btn">Generate Lair Room</button>
+<p id="RoomResult">A basic dungeon thematic room.</p>
+
+<button id="generate-btn">Generate Random Omen</button>
+<p id="RoamResult">To fill a dungeon room.</p>
+
+<button onclick="generateMood()">Generate Random Action</button>
+<p id="MoodResult">What it is doing.</p>
+<script src="/scripts/generateMood.js"></script>
+
+---
 
 **Conjure Earth Mephit** <br>
 R: self 
 
 When casting the spell you must prepare a statement with up to [sum] words. [sum] gravel mephits are then summoned and redirected to an object of your choice across any plane. The mephits will try to bury the object and engrave the message on the cairn. The mephits can bury the volume equivalent of [dice] humans.
-
-</details>
-
  
  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script>

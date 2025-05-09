@@ -5,6 +5,9 @@ title: Extra Rules
 
 Rules that are referee-facing or that add layers to the game.
 
+## Conditions
+Conditions have moved to the [Base Rules](/2020/11/09/base-rules/).
+
 ## Rare Metals
 
 <details markdown="1">

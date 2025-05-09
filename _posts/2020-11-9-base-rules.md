@@ -256,6 +256,15 @@ You need to have the core of an [Elemental Spirit](/list/monsters-elemental) and
 ---
 
 <details markdown="1">
+<summary><b>Followers</b></summary>
+
+You gain followers by Carousing. Roll 1D6 for each of their stats. Followers can carry 3 objects and have 2 Hit Points. They can gain a class the same way a character levels up. In which case they gain +2 to all stats, and normal HP and inventory.
+
+</details>
+
+---
+
+<details markdown="1">
 <summary><b>Spellcasting</b></summary>
 Some classes can cast spells. They have Spell Dice (SD).
 

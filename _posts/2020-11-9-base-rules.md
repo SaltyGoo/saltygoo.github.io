@@ -7,8 +7,8 @@ DnD-adjacent rules inspired by Arnold K's [Goblin Laws of Gaming (GLoG)](http://
 
 <details markdown="1">
 <summary><b>How to Play</b></summary>
-The referee describes a situation, and you tell what your character would do in that context. The referee might ask you to **roll** a 20-faced die and add a number from your character sheet to the roll to see if you succeed in your action. If the situation is **easy**, the result must be above 10 to succeed, if it's **normal**, you have to beat 15, and if it's **hard**, 20. Either way, the referee describes the new situation, and so on. 
-
+The **referee** describes a situation and you tell what your character would do in that context. The referee might ask you to roll a d20-faced die and add a number from your character sheet to see if your character succeeds in its action. If the situation is **easy**, the result must beat 10 to succeed, if it’s **normal**, it has to beat 15, and if it’s **hard**, 20. Either way, the referee describes the new situation, and so on.
+  
 Sometimes, the referee might tell you that the situation gives you **advantage** or **disadvantage**. Rolling with advantage means you roll twice and choose the best result. Disadvantage is the opposite.
 
 That's it!
@@ -25,9 +25,10 @@ You also have as many **Hit Points** as your Strength score.
 You can have as many things in your **Inventory** as twice your Strength score. <br>
 You can have as many things in your **Psyche** as twice your Willpower score.
 
-Choose a [**Character Class**](https://saltygoo.github.io/classes/). Add the class’s starting equipment to your Inventory, and its skills,  _Template A_ abilities and spells to your Psyche.
+Choose a [**Character Class**](https://saltygoo.github.io/classes/). Add the class’s starting equipment to your Inventory, and its skills and spells to your Psyche. Each class level takes a Psyche slot. Note its abilities.
 
-Give your character 1 or 2 beliefs, which you add to their Psyche. Beliefs are anything worth dying for.
+
+Give your character 1 or 2 Beliefs, which you add to their Psyche. Beliefs are anything worth dying for.
 
 Voilà!
 </details>
@@ -37,7 +38,7 @@ Voilà!
 <details markdown="1">
 <summary><b>Stats, Skills and Beliefs</b></summary>
 
-Your stats and skills cannot be higher than 10. If a stat becomes 0, you fall prone and are [stunned](/2020/11/10/extra-rules/#Conditions).
+Your stats cannot be higher than 10. If a stat becomes 0, you fall prone and are [stunned](/2020/11/10/extra-rules/#Conditions).
 
 <ins>**Strength**</ins> represents your physical prowess. You roll it for strength and endurance-related feats.
 
@@ -77,7 +78,7 @@ A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.). Wh
 
 <ins>**Inventory**</ins>. You have as many slots as twice your Strength. Inventory slots can be filled with objects. Small items like potions, daggers, and ammunition can be stacked in your inventory in packs of 10 of the same type. If you go beyond your capacity, you become [prone](/2020/11/10/extra-rules/#Conditions).
 
-<ins>**Psyche**</ins>. You have as many slots as twice your Willpower. Psyche slots can be filled with Skills, Class Templates, Spells, Followers and Beliefs, but also with trauma you gain along the way. If you go beyond your capacity, you become [dazed](/2020/11/10/extra-rules/#Conditions). You can only remove things from your Psyche when _Carousing_, except trauma, whcih can only be overcome through beliefs.
+<ins>**Psyche**</ins>.You have as many slots as twice your Willpower. Psyche slots can be filled with Skills, Class Levels, Spells, Followers and Beliefs. If you go beyond your capacity, you become [dazed](/2020/11/10/extra-rules/#Conditions). You can only remove things from your Psyche when _Carousing_.
 
 </details>
 
@@ -102,7 +103,7 @@ A <ins>**Skill**</ins> can be anything (flower arrangement, swordplay, etc.). Wh
 You have advantage when dodging melee attacks from creatures you've hit this turn
 
 <ins>Two-Weapon Fighting</ins>
-When you miss an attack with your main hand, you can make a free attack with your off-hand. 
+When you roll above 20 with your main weapon, you can also make attack with your off-hand.
 </details>
 
 <details markdown="1">
@@ -123,8 +124,9 @@ must take one action to recharge
 
 <details markdown="1">
 <summary><b>Armor</b></summary>
-Each worn piece of armor reduces damage by 1. Shields are pieces of armor.<br> 
-You can't swim, sneak or jump while wearing 3 or more pieces of armor.
+Each Armor Point reduces damage by 1.
+Chest protection gives you 1 point. Chest and head protection give you 2 points. Full protection gives you 3 points. A shield gives you 1 extra point.
+You can’t swim, sneak or jump if you are fully protected.
 </details>
 
 ---
@@ -157,16 +159,16 @@ _On the monsters' turn, they might attack you. In this case, you'll have to dodg
 
 <ins>**Dying:**</ins> When you reach 0 Hit Points, you fall prone and you start dying. If you take damage while dying, you die. If you recover any hit point while dying you stop dying. 
 
-On each of your next 3 turns, you can attempt to stabilize instead of doing anything else. Make a hard Strength roll. On a success, you stop dying and have 1 HP. An ally can spend their turn making a hard Willpower roll for the same effect if they can reach you with appropriate tools or skill. After 3 turns, if you are still dying, you die.
+On each of your next 3 turns, you can attempt to stabilize instead of doing anything else. Make a hard Strength roll. On a success, you stop dying and have 1 HP. An ally can spend their turn making a hard Willpower roll for the same effect if they can reach you with appropriate tools or skills. After 3 turns, if you are still dying, you die.
 
 If you recover from dying, you gain a **Scar**.
 If you die, all your companions gain a **Trauma**.
 
 <ins>**Scars:**</ins> Scars take inventory slots and cannot be removed. Note what caused the scar. As long as you have it, you have advantage against that thing.
 
-<ins>**Trauma:**</ins> Traumas take psyche slots and can only be removed through risking your own life for one of your beliefs. Note what caused the trauma. As long as you have it, you have disadvantage against that thing.
+<ins>**Traumas:**</ins> Traumas take psyche slots and can only be removed through risking your own life for one of your beliefs. Note what caused the trauma. As long as you have it, you have disadvantage against that thing.
 
-<ins>**Healing:**</ins> A 8 hours rest heals all HP losses and consumes 1 ration for the team.
+<ins>**Healing:**</ins> A 8 hours rest heals all HP losses and consumes 1 ration for the team. Resting requires shelter and heat.
 
 <details markdown="1">
 <summary><i>Example: Dying</i></summary>
@@ -198,7 +200,7 @@ Each object you find has a certain value assigned by the referee:
 - valuable (bag of gold coins)
 - treasure (bag of gems)
 
-A bag of coins takes an Inventory slot. When in town, you can trade items from one category for another in the same category (at the referee's discretion, just say what you are looking for). Alternatively, 4 mundane objects are worth 1 valuable, and 4 valuables are worth 1 treasure. [More details for the referee here!](https://saltygoo.github.io/2024/06/26/currency/)
+A bag of coins takes an Inventory slot. When in town, you can trade items from one category for another in the same category (at the referee’s discretion, just say what you are looking for). Alternatively, 4 mundane objects are worth 1 useful object, 4 useful objects are worth 1 valuable, and 4 avualbles are worth 1 treasure. [More details for the referee here!](https://saltygoo.github.io/2024/06/26/currency/)
 </details>
 
 ---

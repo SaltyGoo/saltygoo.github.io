@@ -5,7 +5,7 @@ title: Base Rules
 
 DnD-adjacent rules inspired by Arnold K's [Goblin Laws of Gaming (GLoG)](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) and the general GLOG community on discord, particularly [Locheil](https://nothicseye.blogspot.com/).
 
-_Last updated May 2025. Download the printable pdf [here](/assets/BaseRules.pdf)._
+#### _Last updated May 2025. Download the printable 1-pager pdf [here](/assets/BaseRules.pdf)._
 
 <details markdown="1">
 <summary><b>How to Play</b></summary>

@@ -5,7 +5,7 @@ title: Base Rules
 
 DnD-adjacent rules inspired by Arnold K's [Goblin Laws of Gaming (GLoG)](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) and the general GLOG community on discord, particularly [Locheil](https://nothicseye.blogspot.com/).
 
-_Last updated May 2025. Download the printable pdf [here](ttps://saltygoo.github.io/Base%20Rules%20%E2%80%93%20Salty%20Goo%20%E2%80%93%20Gooed%20GLoG.pdf)._
+_Last updated May 2025. Download the printable pdf [here](/assets/BaseRules.pdf)._
 
 <details markdown="1">
 <summary><b>How to Play</b></summary>
@@ -60,9 +60,9 @@ A <ins>**Belief**</ins> can be anything worth dying for, and is stored in your P
 <details markdown="1">
 <summary><b>Inventory & Psyche</b></summary>
 
-<ins>**Inventory**</ins>. You have as many slots as twice your Strength. Inventory slots can be filled with objects. Small items like potions, daggers, and ammunition can be stacked in your inventory in packs of 10 of the same type. If you go beyond your capacity, you become [prone](/2020/11/10/extra-rules/#Conditions).
+<ins>**Inventory**</ins>. You have as many slots as twice your Strength. Inventory slots can be filled with objects. Small items like potions, daggers, and ammunition can be stacked in your inventory in packs of 10 of the same type. If you go beyond your capacity, you become _Prone_.
 
-<ins>**Psyche**</ins>.You have as many slots as twice your Willpower. Psyche slots can be filled with Skills, Class Levels, Spells, Followers and Beliefs. If you go beyond your capacity, you become [dazed](/2020/11/10/extra-rules/#Conditions). You can only remove things from your Psyche when _Carousing_.
+<ins>**Psyche**</ins>.You have as many slots as twice your Willpower. Psyche slots can be filled with Skills, Class Levels, Spells, Followers and Beliefs. If you go beyond your capacity, you become _Dazed_. You can only remove things from your Psyche when _Carousing_.
 
 </details>
 

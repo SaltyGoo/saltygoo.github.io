@@ -8,38 +8,28 @@ Rules that are referee-facing or that add layers to the game.
 ## Conditions
 
 <details markdown="1">
-<summary>Blindness</summary>
-You can't see or make ranged attacks. Attacking and Dodging are hard rolls.
+<summary>Blinded</summary>
+All Dexterity rolls are hard.
 </details>
 
 <details markdown="1">
 <summary>(Not) Breathing</summary>
-You can hold your breath for as many rounds as your Fortitude. If you take damage while holding your breath, you must make a Fortitude save. On failure, you start dying.
+You can hold your breath for as many rounds as your Strength score. If you take damage while doing so, make a Strength save. On failure, you start dying.
 </details>
 
 <details markdown="1">
 <summary>Charmed</summary>
-You fail all rolls against your charmer. If you attack, hurt, or say anything bad about them, you take 1 mind damage.
+You fail all rolls against your charmer. If you attack, hurt, or say anything bad about them, you take 1D4 psychic damage.
 </details>
 
 <details markdown="1">
 <summary>Confused</summary>
-Roll a D6. You move in a direct line towards: 1) the player on your right; 2) the player on your left; 3) the furthest monster; 4) the closest monster; 5) the floor; 6) the sky.
-</details>
-
-<details markdown="1">
-<summary>Cursed</summary>
-You cannot benefit from magic.
-</details>
-
-<details markdown="1">
-<summary>Dazed</summary>
 You can act OR move on your turn.  
 </details>
 
 <details markdown="1">
-<summary>Deafened</summary>
-You can't hear. Your teammates cannot talk to you or about you.
+<summary>Dazed</summary>
+See Confused.
 </details>
 
 <details markdown="1">
@@ -49,7 +39,7 @@ See [Dying, Wounds & Healing](/2020/11/09/base-rules/) in the base rules.
 
 <details markdown="1">
 <summary>Exhausted</summary>
--1 Inventory and Psyche slots. Cumulative.
+See Confused.
 </details>
 
 <details markdown="1">
@@ -64,12 +54,7 @@ You cannot move. Roll a D6: 1) your head/mouth/throat is stuck, you can't breath
 
 <details markdown="1">
 <summary>Invisible</summary>
-Attacking and Dodging are easy rolls. You cannot be seen.
-</details>
-
-<details markdown="1">
-<summary>Petrified</summary>
-You skip your turn. All rolls are hard. You resist the first 10 damage of each attack.
+Attacking and dodging is easy. You are not seen.
 </details>
 
 <details markdown="1">
@@ -79,7 +64,7 @@ You are disadvantaged in all your actions. Specific poisons can have unique addi
 
 <details markdown="1">
 <summary>Prone</summary>
-Attacking and dodging in melee is hard. Dodging ranged attacks is easy. Standing up takes all your turn's movement.
+Melee combat is hard. Dodging ranged attacks is easy. Standing up takes all your turn’s movement.
 </details>
 
 <details markdown="1">

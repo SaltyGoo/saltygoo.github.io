@@ -7,7 +7,7 @@
   <body>
     <h1>Random Hex Generator</h1>
 
-    These descriptions can sometimes be crazy because the possibilities are huge. The goal is to give key elements like a feature, a danger, and two types of enemies for DMs to build something.
+    These descriptions can sometimes be crazy because the possibilities are huge. The goal is to give key elements like a feature, a danger, and two types of enemies for DMs to build something. <br><br>
     
     <button id="generate-button">Generate Text</button>
     <div id="output"></div>

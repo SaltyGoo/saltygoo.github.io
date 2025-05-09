@@ -5,7 +5,7 @@ title: Base Rules
 
 DnD-adjacent rules inspired by Arnold K's [Goblin Laws of Gaming (GLoG)](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html) and the general GLOG community on discord, particularly [Locheil](https://nothicseye.blogspot.com/).
 
-_Last updated May 2025. Download the printable pdf [here](ttps://saltygoo.github.io/Base%20Rules%20%E2%80%93%20Salty%20Goo%20%E2%80%93%20Gooed%20GLoG.pdf)._
+_Last updated May 2025. Download the printable pdf [here](/assets/BaseRules.pdf)._
 
 <details markdown="1">
 <summary><b>How to Play</b></summary>
@@ -60,9 +60,9 @@ A <ins>**Belief**</ins> can be anything worth dying for, and is stored in your P
 <details markdown="1">
 <summary><b>Inventory & Psyche</b></summary>
 
-<ins>**Inventory**</ins>. You have as many slots as twice your Strength. Inventory slots can be filled with objects. Small items like potions, daggers, and ammunition can be stacked in your inventory in packs of 10 of the same type. If you go beyond your capacity, you become [prone](/2020/11/10/extra-rules/#Conditions).
+<ins>**Inventory**</ins>. You have as many slots as twice your Strength. Inventory slots can be filled with objects. Small items like potions, daggers, and ammunition can be stacked in your inventory in packs of 10 of the same type. If you go beyond your capacity, you become _Prone_.
 
-<ins>**Psyche**</ins>.You have as many slots as twice your Willpower. Psyche slots can be filled with Skills, Class Levels, Spells, Followers and Beliefs. If you go beyond your capacity, you become [dazed](/2020/11/10/extra-rules/#Conditions). You can only remove things from your Psyche when _Carousing_.
+<ins>**Psyche**</ins>.You have as many slots as twice your Willpower. Psyche slots can be filled with Skills, Class Levels, Spells, Followers and Beliefs. If you go beyond your capacity, you become _Dazed_. You can only remove things from your Psyche when _Carousing_.
 
 </details>
 
@@ -250,6 +250,15 @@ You must have an instruction manual. Each [Construct](/list/monsters-construct) 
 <summary><ins>Bind an Elemental to You</ins></summary>
 You need to have the core of an [Elemental Spirit](/list/monsters-elemental) and spend a Treasure in arcane materials. Roll on the binding table in the elemental's description. You also gain a Spell Dice.
 </details>
+
+</details>
+
+---
+
+<details markdown="1">
+<summary><b>Followers</b></summary>
+
+You gain followers by Carousing. Roll 1D6 for each of their stats. Followers can carry 3 objects and have 2 Hit Points. They can gain a class the same way a character levels up. In which case they gain +2 to all stats, and normal HP and inventory.
 
 </details>
 

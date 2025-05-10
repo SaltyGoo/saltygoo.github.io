@@ -20,13 +20,13 @@ For every Mutant template you have, roll on the [1D500 mutation table](https://c
 **D:** Gift of Flesh<br>
 
 ## Font of Flesh
-Your mutations dont take Inventory slots. You can have as many mutations as your FORT score instead. If you would gain a mutation above your capacity, you explode, inflicting 1D4 damage per mutation to yourself and all nearby creatures. If you survive, you lose all your mutations and you roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*.
+You can have as many mutations as your Strength score (they dont take inventory slots). If you would gain a mutation beyond your capacity, you explode, damaging yourself and all nearby creatures for 1d6 damage +1  per mutation you have. You then lose all your mutations and make a new roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*.
 
 ## Reactive Mutation
 When you would be affected by something, you can roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*: You now resist that type of danger as defined by the Referee as long as you have this mutation. 
 
 ## Evolution
-Once per game, when you gain a new mutation, you can choose to replace an existing one instead.
+When you explode, you can decide not to lose up to one mutation per mutant level you have.
 
 ## Regeneration
 You can spend your turn gruesomely regenerating. You heal 1D6 Wounds and HP. If you do, roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*.

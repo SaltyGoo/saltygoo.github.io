@@ -16,23 +16,23 @@ For every Mutant template you have, roll on the [1D500 mutation table](https://c
 
 **A:** Font of Flesh, Reactive Mutation<br>
 **B:** Evolution<br>
-**C:** Regeneration<br>
-**D:** Gift of Flesh<br>
+**C:** Gruesome Melding<br>
+**D:** Regeneration<br>
 
 ## Font of Flesh
-You can have as many mutations as your Strength score (they dont take inventory slots). If you would gain a mutation beyond your capacity, you explode, damaging yourself and all nearby creatures for 1d6 damage +1  per mutation you have. You then lose all your mutations and make a new roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*.
+You can have as many mutations as your Strength score (they dont take inventory slots). If you would gain a mutation beyond your capacity, you explode, damaging yourself and all nearby creatures for 1d8 damage per 2 mutations you have. You then lose all your mutations and make a new roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*.
 
 ## Reactive Mutation
-When you would be affected by something, you can roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*: You now resist that type of danger as defined by the Referee as long as you have this mutation. 
+When you would be affected by something, you can roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*: You now resist (take half damage or have advantage on your rolls) that type of danger as defined by the Referee as long as you have this mutation. 
 
 ## Evolution
-When you explode, you can decide not to lose up to one mutation per mutant level you have.
+When you explode, you can move one of your mutations to your inventory. You dont lose mutations that are in your inventory when you explode.
+
+## Gruesome Melding
+You can absorb up to 2 items into your body. If you do, roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)* for each, they are now part of your mutations and become freed once you explode. While an item is part of your body, you do not need a hand to use it. If the item is a piece of armor, it does not hinder your movement.
 
 ## Regeneration
-You can spend your turn gruesomely regenerating. You heal 1D6 Wounds and HP. If you do, roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)*.
-
-## Gift of Flesh
-You can touch a willing creature and use your regeneration ability on it. Their mutations take an inventory slot.
+When you explode, your body feel anew and you lose all [scars](/2020/11/09/base-rules/). Enjoy unlimited explosions!
 
 <br>
 

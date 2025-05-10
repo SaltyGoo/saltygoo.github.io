@@ -5,6 +5,8 @@ permalink: /class/fighter/mutant
 ---
 ##### Thank you Skerples for the [1D1000 mutations table](https://coinsandscrolls.blogspot.com/2019/11/osr-1d1000-mutations.html)!
 
+_<ins>Design note:</ins> This class is for players who love to be reckless and dont mind dying a lot. As you keep on dying, you will start getting a lot of [scars](/2020/11/09/base-rules/) in your inventory, making you less and less able to use items. This represents how feral you are getting and is part of the design. If your GLoG rules don't use scars, you might want to include that system just for this class._
+
 <img align="right" width=200px src="/images/AbyssaWretch.png">
 
 <ins>Starting Equipment</ins><br>
@@ -19,8 +21,6 @@ For every Mutant template you have, roll on the [1D1000 mutations table](/assets
 **B:** Evolution<br>
 **C:** Gruesome Melding<br>
 **D:** Regeneration<br>
-
-_<ins>Design note:</ins> This class is for players who love to be reckless and dont mind dying a lot. As you keep on dying, you will start getting a lot of [scars](/2020/11/09/base-rules/) in your inventory, making you less and less able to use items. This represents how feral you are getting and is part of the design. If your GLoG rules don't use scars, you might want to include that system just for this class._
 
 ## Font of Flesh
 You can have as many mutations as your Strength score (they dont take inventory slots). If you would gain a mutation beyond your capacity, you explode, damaging yourself and all nearby creatures for 1d8 damage per 2 mutations you have. You then lose all your mutations and make a new roll on the [1D1000 mutations table](/assets/SKERPLES_1d1000 Mutations V2 Draft.pdf)*.

@@ -32,7 +32,7 @@ When you explode, you can move one of your mutations to your inventory. You dont
 You can absorb up to 2 items into your body. If you do, roll on the [1D500 mutation table](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html)* for each, they are now part of your mutations and become freed once you explode. While an item is part of your body, you do not need a hand to use it. If the item is a piece of armor, it does not hinder your movement.
 
 ## Regeneration
-When you explode, your body feel anew and you lose all [scars](/2020/11/09/base-rules/). Enjoy unlimited explosions!
+When you explode, your body is made anew and you lose all [scars](/2020/11/09/base-rules/). Enjoy unlimited explosions!
 
 <br>
 

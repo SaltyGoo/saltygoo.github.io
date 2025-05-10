@@ -25,7 +25,8 @@ _<ins>Design note:</ins> This class is for players who love to be reckless and d
 ## Font of Flesh
 You can have as many mutations as your Strength score (they dont take inventory slots). If you would gain a mutation beyond your capacity, you explode, damaging yourself and all nearby creatures for 1d8 damage per 2 mutations you have. You then lose all your mutations and make a new roll on the [1D1000 mutations table](/assets/SKERPLES_1d1000 Mutations V2 Draft.pdf)*.
 
-<div class="tenor-gif-embed" data-postid="18722767" data-share-method="host" data-aspect-ratio="1.87135" data-width="100%"><a href="https://tenor.com/view/akira-tetsuo-cyberpunk-bodyhorror-gif-18722767">Akira Tetsuo GIF</a>from <a href="https://tenor.com/search/akira-gifs">Akira GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="left" width=400px src="https://tenor.com/bHIcZ.gif">
+
 
 ## Reactive Mutation
 When you would be affected by something, you can roll on the [1D1000 mutations table](/assets/SKERPLES_1d1000 Mutations V2 Draft.pdf)*: You now resist (take half damage or have advantage on your rolls) that type of danger as defined by the Referee as long as you have this mutation. 

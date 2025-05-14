@@ -4,6 +4,8 @@ title: The Salt Dryad
 permalink: /class/magic-user/salt-dryad
 ---
 
+##### As seen in the [Deep Carbon Observatory](https://www.drivethrurpg.com/en/product/312481/deep-carbon-observatory-remastered)
+
 _You are the courtesan of minerals ..._
 
 <ins>Starting Equipment</ins><br>

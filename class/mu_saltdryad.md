@@ -25,9 +25,9 @@ For every Salt Dryad template you have, you gain one **Crystal Ornament**.
 Iron makes you [poisoned](/2020/11/09/base-rules/) for 10 minutes upon contact during which you cannot use your powers.
 
 ## Crystal Ornament
-For each Salt Dryad template you have, you gain an **Ornament**. These ornaments are made of salt and each have a unique shape of your choosing.
+For each Salt Dryad template you have and each time you rest submerged in water, you gain an **Ornament**. These ornaments are made of salt and each have a unique shape of your choosing.
 
-Each ornament is the vessel of one Salt Dryad Spell. When worn, you gain a Spell Dice (SD) and you can [cast its spell](/2020/11/09/base-rules/). When you expend a SD casting a spell, that **Ornament** disappears and you lose its effect. You only recover the **Ornament** if you rest submerged in water.
+Each ornament is the vessel of one Salt Dryad Spell. When worn, you gain a Spell Dice (SD) and you can [cast its spell](/2020/11/09/base-rules/). When you expend a SD casting a spell, that **Ornament** disappears and you lose its effect.
 
 <details markdown="1">
 <summary>Salt Dryad Spells</summary>
@@ -57,4 +57,4 @@ When you give an **Ornament** to someone, you can decide to taint the gift with 
 Choose one element or phenomena and wether that gift is offensive or pleasing to them. As long as the person carries your gift, it will be percieved accordingly by this element or phenomena, as interpreted by the referee. 
 
 ## Salt of the Earth
-You cannot take back a gift. You create one new **Ornament** every time you rest submerged in water. You and creatures creatures wearing one of your **Ornaments** gifts do not need to breathe and can take 10 minutes to meld into stone.
+You cannot take back a gift. You create two new **Ornaments** every time you rest submerged in water. You and creatures creatures wearing one of your **Ornament** gifts do not need to breathe and can take 10 minutes to meld into stone.

@@ -20,7 +20,7 @@ For every Salt Dryad template you have, you gain one **Crystal Ornament**.
 **D:** Salt of the Earth<br>
 
 ## Fey
-You can shape spells and emotions like clay, but iron makes you [poisoned](/2020/11/09/base-rules/) for 10 minutes upon contact during which you cannot use your powers.
+Iron makes you [poisoned](/2020/11/09/base-rules/) for 10 minutes upon contact during which you cannot use your powers.
 
 ## Crystal Ornament
 For each Salt Dryad template you have, you gain an **Ornament**. These ornaments are made of salt and each have a unique shape of your choosing.

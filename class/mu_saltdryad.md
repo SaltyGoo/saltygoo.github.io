@@ -4,7 +4,7 @@ title: The Salt Dryad
 permalink: /class/magic-user/salt-dryad
 ---
 
-_You the courtesan of minerals ..._
+_You are the courtesan of minerals ..._
 
 <ins>Starting Equipment</ins><br>
 A Powdered Makeup Palette, and your choice of a Crystal Fan (use as a dagger), an Asbestos Scarf (fireproof and toxic), or three Vials full of brine (preserve organic matter).
@@ -39,6 +39,7 @@ Each ornament is the vessel of one Salt Dryad Spell. When worn, your amour incre
 1. [Salimorphosis](/2020/11/13/elementamorphosis/)
 1. [Shrivel](/2020/11/13/shrivel/)
 1. [Universal Solvent](/2020/11/13/universal-solvent/)
+</details>
 
 You can lend these ornaments and their power to other people. However, as long as they wear the gift, they are [Charmed](/2020/11/09/base-rules/) by you.
 

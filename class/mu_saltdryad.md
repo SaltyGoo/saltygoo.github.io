@@ -49,7 +49,7 @@ You can lend these ornaments and their power to other people. However, as long a
 You can talk to Earth, Fire, Air and Water. Earth is conservative and in no rush to make a decision; Fire is greedy and impulsive; Air is in a hurry and easily swayed; Water is moody depending on its form, but always hostile to you.
 
 ## Curing Touch
-Your touch inflicts terrible pain to wounded creatures, but it also kills bacterias. When you touch a wounded living or water based creature with less than half its hit points, the creature is [Dazed](/2020/11/09/base-rules/) by pain for 10 minutes and automatically succeeds a save to remove the symptoms of a disease if any.
+Your touch inflicts terrible pain to wounded creatures, but it also kills bacteria. When you touch a wounded living or water based creature with less than half its hit points, the creature is [Dazed](/2020/11/09/base-rules/) by pain for 10 minutes and automatically succeeds a save to remove the symptoms of a disease if any.
 
 ## The Nuanced Art of Elemental Diplomacy
 When you give an **Ornament** to someone, you can decide to taint the gift with a secret connotation only percieved by elemental creatures and natural phenomena. 

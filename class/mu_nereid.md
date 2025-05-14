@@ -20,7 +20,7 @@ For every Nereid template you have, you gain one **Foam Shawl**.
 **D:** Panthalassa <br>
 
 ## Fey
-You can shape spells and emotions like clay, but iron makes you [poisoned](/2020/11/10/extra-rules/#conditions) for 10 minutes upon contact during which you cannot use your powers.
+You can shape spells and emotions like clay, but iron makes you [poisoned](/2020/11/09/base-rules/) for 10 minutes upon contact during which you cannot use your powers.
 
 ## Deep Blue
 You and creatures charmed by you can breathe underwater.
@@ -58,10 +58,10 @@ Every time you roll doubles you get closer to *Catastrophe*.
 Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equal to or below your doom score, you trigger a [catastrophe](/list/spell-catastrophe). Triples give 3 Points, and Quadruples, 6 points.
 </details>
 
-You can lend these vestments and their power to other people. However, as long as they hold the clothes, they are [Charmed](/2020/11/10/extra-rules/#conditions) by you.
+You can lend these vestments and their power to other people. However, as long as they hold the clothes, they are [Charmed](/2020/11/09/base-rules/) by you.
 
 ## Allure of the Sea
-You are an embodiment of the allure of the sea. This emotion is stored in your Psyche. Any creature holding one of your possessions also bears this longing. They are now [Charmed](/2020/11/10/extra-rules/#conditions) by large bodies of water and must save to avoid being [Dazed](/2020/11/10/extra-rules/#conditions) when seeing one (even a depiction or a vivid description of one).
+You are an embodiment of the allure of the sea. This emotion is stored in your Psyche. Any creature holding one of your possessions also bears this longing. They are now [Charmed](/2020/11/09/base-rules/) by large bodies of water and must save to avoid being [Dazed](/2020/11/09/base-rules/) when seeing one (even a depiction or a vivid description of one).
 
 ## Dance of the Shawls
 You can awaken your shawls by dancing. Each is a [Water Elemental](/monsters/elemental-water) with 1D6 HP that obeys your command. If one dies, it'll come back to you after you rest submerged in water.

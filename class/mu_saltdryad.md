@@ -1,0 +1,55 @@
+---
+layout: page
+title: The Salt Dryad
+permalink: /class/magic-user/salt-dryad
+---
+
+_You the courtesan of minerals ..._
+
+<ins>Starting Equipment</ins><br>
+A Powdered Makeup Palette, and your choice of a Crystal Fan (use as a dagger), an Asbestos Scarf (fireproof and toxic), or three Vials full of brine (preserve organic matter).
+
+<ins>Starting Skills</ins><br>
+Geology, and your choice of Earth Court, Fay Court, or Ooze Court
+
+For every Salt Dryad template you have, you gain one **Crystal Ornament**.
+
+**A:** Fey, Crystal Ornament, Elemental Etiquette <br>
+**B:** The Nuanced Art of Elemental Diplomacy <br>
+**C:** Curing Touch <br>
+**D:**  <br>
+
+## Fey
+You can shape spells and emotions like clay, but iron makes you [poisoned](/2020/11/09/base-rules/) for 10 minutes upon contact during which you cannot use your powers.
+
+## Crystal Ornament
+For each Salt Dryad template you have, you gain an Ornament. These ornaments are made of salt and each have a unique shape of your choosing.
+
+Each ornament is the vessel of one Salt Dryad Spell. When worn, your amour increases by 1, you gain a Spell Dice (SD) and you can [cast its spell](/2020/11/09/base-rules/). When you expend a SD casting a spell, that ornament disappears and you lose its effect. You only recover the ornament if you rest submerged in water.
+
+<details markdown="1">
+<summary>Salt Dryad Spells</summary>
+1. [Bewitch](/2020/11/13/bewitch/)
+1. [Calcite Song](/2020/11/13/calcite-gap/)
+1. [Circle of Protection](/2020/11/12/circle-of-protection/)
+1. [Cloak of Salt](/2020/11/13/cloak-of-element/) (you always count as in presence of salt)
+1. [Dessicate](/2020/11/13/desiccate/)
+1. [Glasswarp](/2020/11/13/glasswarp/)
+1. [Make Delicious](/2020/11/13/make-delicious/)
+1. [Salimorphosis](/2020/11/13/elementamorphosis/)
+1. [Shrivel](/2020/11/13/shrivel/)
+1. [Universal Solvent](/2020/11/13/universal-solvent/)
+
+You can lend these ornaments and their power to other people. However, as long as they wear the gift, they are [Charmed](/2020/11/09/base-rules/) by you.
+
+## Elemental Etiquette
+You can talk to Earth, Fire, Air and Water. Earth is conservative and in no rush to make a decision; Fire is greedy and impulsive; Air is in a hurry and easily swayed; Water is moody depending on its form, but always hostile to you.
+
+## The Nuanced Art of Elemental Diplomacy
+When you give an ornament to someone, you can decide to taint the gift with a secret connotation only percieved by elementals and natural phenomena. 
+Choose one element or phenomena and wether that gift is offensive or pleasing to them. As long as the person carries your gift, it will be percieved accordingly by this element of phenomena, as interpreted by the referee. 
+
+## Curing Touch
+
+
+## Messenger

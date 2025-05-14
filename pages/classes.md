@@ -34,6 +34,7 @@ The [Wizard](/class/wizard)
   - The [Goat](/class/magic-user/goat)
   - The [Necromancer](/class/magic-user/necromancer)
   - The [Nereid](/class/magic-user/nereid)
+  - The [Salt Dryad](/class/magic-user/salt-dryad)  
   - The [Tiefling](/class/magic-user/tiefling)  
 </details>
 

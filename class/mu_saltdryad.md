@@ -15,17 +15,17 @@ Geology, and your choice of Earth Court, Fay Court, or Ooze Court
 For every Salt Dryad template you have, you gain one **Crystal Ornament**.
 
 **A:** Fey, Crystal Ornament, Elemental Etiquette <br>
-**B:** The Nuanced Art of Elemental Diplomacy <br>
-**C:** Curing Touch <br>
-**D:**  <br>
+**B:** Curing Touch <br>
+**C:** The Nuanced Art of Elemental Diplomacy <br>
+**D:** Salt of the Earth<br>
 
 ## Fey
 You can shape spells and emotions like clay, but iron makes you [poisoned](/2020/11/09/base-rules/) for 10 minutes upon contact during which you cannot use your powers.
 
 ## Crystal Ornament
-For each Salt Dryad template you have, you gain an Ornament. These ornaments are made of salt and each have a unique shape of your choosing.
+For each Salt Dryad template you have, you gain an **Ornament**. These ornaments are made of salt and each have a unique shape of your choosing.
 
-Each ornament is the vessel of one Salt Dryad Spell. When worn, your amour increases by 1, you gain a Spell Dice (SD) and you can [cast its spell](/2020/11/09/base-rules/). When you expend a SD casting a spell, that ornament disappears and you lose its effect. You only recover the ornament if you rest submerged in water.
+Each ornament is the vessel of one Salt Dryad Spell. When worn, you gain a Spell Dice (SD) and you can [cast its spell](/2020/11/09/base-rules/). When you expend a SD casting a spell, that **Ornament** disappears and you lose its effect. You only recover the **Ornament** if you rest submerged in water.
 
 <details markdown="1">
 <summary>Salt Dryad Spells</summary>
@@ -46,11 +46,13 @@ You can lend these ornaments and their power to other people. However, as long a
 ## Elemental Etiquette
 You can talk to Earth, Fire, Air and Water. Earth is conservative and in no rush to make a decision; Fire is greedy and impulsive; Air is in a hurry and easily swayed; Water is moody depending on its form, but always hostile to you.
 
-## The Nuanced Art of Elemental Diplomacy
-When you give an ornament to someone, you can decide to taint the gift with a secret connotation only percieved by elementals and natural phenomena. 
-Choose one element or phenomena and wether that gift is offensive or pleasing to them. As long as the person carries your gift, it will be percieved accordingly by this element of phenomena, as interpreted by the referee. 
-
 ## Curing Touch
+Your touch inflicts terrible pain to wounded creatures, but it also kills bacterias. When you touch a wounded living or water based creature with less than half its hit points, the creature is [Dazed](/2020/11/09/base-rules/) by pain for 10 minutes and automatically succeeds a save to remove the symptoms of a disease if any.
 
+## The Nuanced Art of Elemental Diplomacy
+When you give an **Ornament** to someone, you can decide to taint the gift with a secret connotation only percieved by elemental creatures and natural phenomena. 
 
-## Messenger
+Choose one element or phenomena and wether that gift is offensive or pleasing to them. As long as the person carries your gift, it will be percieved accordingly by this element or phenomena, as interpreted by the referee. 
+
+## Salt of the Earth
+You cannot take back a gift. You create one new **Ornament** every time you rest submerged in water. You and creatures creatures wearing one of your **Ornaments** gifts do not need to breathe and can take 10 minutes to meld into stone.

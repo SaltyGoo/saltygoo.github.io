@@ -53,13 +53,13 @@ Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equ
 </details>
 
 ## Burden of Perfection
-When you are ugly, dirty, wet, disfigured, humiliated, etc., all your D20 rolls are hard rolls (_you must roll above 20 to succeed_). The rest of the time, all your D20 rolls are one step easier (hard rolls become normal rolls (>15), and normal rolls become easy rolls (>10)). 
+When you are ugly, dirty, wet, disfigured, humiliated, etc., all your D20 rolls are hard rolls (_you must roll above 20 to succeed_). The rest of the time, all your D20 rolls are one step easier than supposed (hard rolls become normal rolls (>15), and normal rolls become easy rolls (>10)). 
 
 ## Noblesse Oblige I
 Your superiority comes with the moral duty to help inferior people. You always know the plight of any society you come across. This knowledge is superficial, more akin to a historical footnote, for it is nothing compared to the tragic grandeur of the elves.
 
 ## True Shot I
-When you hit a target with an arrow, you can cast a spell on the same target at the same time, ignoring the normal range of the spell.
+When you hit a target with an arrow, you can cast a spell on the same target at the same time without using a Spell Die. The [dice] value of the spell is 1 and the [sum] value is the damage inflicted.
 
 ## Noblesse Oblige II
 The era of the elves is over. From now on, you can decide at any point to retire this character, even if you are currently playing another one. If you do, you can change the outcome of one situation your characters is experiencing (at the referee's discretion), like a localised divine intervention.

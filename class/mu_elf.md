@@ -11,10 +11,18 @@ _You are better than everybody ..._
 <ins>Starting Equipment</ins><br>
 A Bow and 12 Arrows, a Piece of Jewelry doubling as a [miniature spell book](https://goblinpunch.blogspot.com/2016/09/the-perfect-languages-of-elves.html), and your choice of a Butterfly Pet, a Vial of Liquid glowing like a candle, or a Musical Instrument.
 
-<ins>Starting Skills (+5)</ins><br>
+<ins>Starting Skills</ins><br>
 Your choice of Political Decorum, Fine Arts, or The-Times-Before-Things-Became-Ugly.
 
 For every Elf template you have, you gain a **Spell Dice** and you learn a **new spell** from the Elf spell list.
+
+**A:** Elven Magic, Burden of Perfection<br>
+**B:** Noblesse Oblige, True Shot I<br>
+**C:** Nobless Oblige II<br>
+**D:** True Shot II<br>
+
+## Elven Magic
+Your spells are stored in your Psyche and you spend Spell Dice (SD) to cast them. You recuperate them after resting while not ugly, dirty, wet, disfigured, humiliated, etc.
 
 <details markdown="1">
 <summary>Elf Spell List (1D10)</summary>
@@ -29,15 +37,6 @@ For every Elf template you have, you gain a **Spell Dice** and you learn a **new
 1. [Old Rune](/2020/11/13/old-rune)
 1. [Speak with Birds](/2020/11/13/speak-with-birds)
 </details>
-
-**A:** Elven Magic, Burden of Perfection<br>
-**B:** Noblesse Oblige, True Shot I<br>
-**C:** Nobless Oblige II<br>
-**D:** True Shot II<br>
-
-## Elven Magic
-Your spells are stored in your Psyche and you spend Spell Dice (SD) to cast them.
-
 <details markdown="1">
 <summary>How spells work</summary>
 <ins>Spell Dice (SD)</ins><br>
@@ -45,7 +44,7 @@ You get 1 per Elf template. They are D6s.
 
 Whenever you cast a spell, you choose how many SD to invest into it. The result of the spell depends on the number of [dice] and their [sum].
 
-If a SD rolls a 1, 2 or 3, you don’t lose it. Otherwise, you lose it until you get a night of sleep. You can’t cast without SD.
+If a SD rolls a 1, 2 or 3, you don’t lose it. Otherwise, you lose it. You can’t cast without SD.
 
 Every time you roll doubles you get closer to *Catastrophe*.
 

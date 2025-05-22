@@ -10,20 +10,20 @@ permalink: /class/specialist/barbarian
 </details>
 
 <ins>Starting Equipment</ins><br>
-A Weapon in a shape unheard of in this land, a piece of armor made from a material not found here, a trinket from home that signifies your faith or rank.
+Two **Objects from Home**
 
 <ins>Starting Skills</ins><br>
 Foreign Lands and your choice of Explorer, Diplomat, Refugee.
 
-For every Barbarian template you have, increase your HP by 1.
+For every Barbarian template you have, you gain one **Object from Home**.
 
-**A:** Foreign Technique, Cultural Context<br>
+**A:** Cultural Context<br>
 **B:** Outsider<br>
-**C:** Lose 1 drawback<br>
-**D:** Lose 2 drawbacks<br>
+**C:** How You Do It, Lose 1 drawback<br>
+**D:** Paragon, Lose 2 drawbacks<br>
 
-## Foreign Technique
-When using a weapon uniquely from your homeland, you inflict an extra 1D4 damage. Pieces of armor made with materials from your homeland provide you with +1 armor.
+## Object from Home
+An object from home can be a weapon, a piece of armour, or a tool with a specific fonction, which can be social. For locals, they look weird and distinctively foreign. In yoour hands, a weapon from home's damage dice is one size bigger than the local equivalent, a piece of armour from home provides +1 armor, and you have advantage when you use a tool from home.
 
 ## Cultural Context
 You find yourself in a society with wildly different expectations than normal. As such, you seem miraculous to others in some ways and foolish in others. Roll five times on each table below and choose four of the results for each. Remember, all of these are relative to the world you find yourself in now. If you are ignorant of laws, it may be because your home has no legal system, because it has outgrown the need for laws, or has laws so different as to provide unhelpful assumptions for this legal system.
@@ -73,4 +73,20 @@ You find yourself in a society with wildly different expectations than normal. A
 1. At the worst possible moment, the DM will tell you that an NPC is your soulmate.
 
 ## Outsider
-It's obvious to everyone who sees you that you are not from around here. You can always find someone to explain what's happening, find people looking for disposable assistance, and find people interested in foreign cultures.
+It's obvious to everyone who sees you that you are not from around here. You can always find someone to explain what's happening, find people looking for disposable assistance, and find people interested in foreign cultures. In other words, in a crowd, you can always find someone for whom you are not a threat (three is a crowd).
+
+## How You Do It
+You can repair a broken object from home during a rest period. Your followers gain the same benefits as you if they use one of your objects from home.
+
+## Paragon
+Choose one:
+
+- If you are a skilled Explorer, you no longer need to eat.
+- If you are a skilled Diplomat, you can no longer be attacked by creatures with a language if you and your allies are not hostile.
+- If you are a skilled Refugee, you gain 1 HP per scar you have.
+- If you are a skilled Alchemist, you create a [random potion](https://goblinpunch.blogspot.com/2016/05/the-glog-alchemy-and-oozes.html) every time you rest.
+- If you are a skilled Mathematician, you succeed any DEX roll as long as you had 10 minutes to prepare.
+- If you are a skilled Economist, ...
+- If you are a skilled Political Scientist, ...
+
+

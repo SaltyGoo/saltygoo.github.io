@@ -14,6 +14,7 @@ permalink: /classes/
 The [Fighter](/class/fighter)
 <details markdown="1">
   <summary>Fighter-Type Classes</summary>
+  - The [Barbarian](/class/fighter/barbarian)
   - The [Centaur](/class/centaur)
   - The [Cyclops](/class/cyclops)
   - The [Githyanki](/class/fighter/githyanki)

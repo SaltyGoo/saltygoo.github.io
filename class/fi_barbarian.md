@@ -30,16 +30,16 @@ You find yourself in a society with wildly different expectations than normal. A
 
 **D20 Advantages**
 1. You can speak to (horses or trees or unconscious people)
-1. You understand alchemy
-1. You are hypernumerate
+1. You are skilled in Alchemy
+1. You are an expert in Mathematics, you cannot fail any check related to that
 1. You can fight perfectly in darkness, read lips, and signs
 1. You can always tell that someone is lying
-1. You can tell someone's HD by seeing them fight
-1. You are a master (economist or political scientist)
+1. You can tell a creature's level by seeing them fight
+1. You are a skilled in Economy or Political Science
 1. You can always predict the weather
-1. You know the layout of Heaven like it's the next city over
+1. You know the powers and weaknesses of angels and devils you meet
 1. You charm and are charmed by (farmers or merchants or nobles)
-1. You can always navigate urban environments
+1. You can always disapear in a crowd.
 1. You walk on water
 1. You can change your gender presentation at will
 1. You leave no tracks and have no scent
@@ -47,7 +47,7 @@ You find yourself in a society with wildly different expectations than normal. A
 1. You are immune to most madnesses
 1. You can sleep comfortably in all circumstances
 1. You can identify social pecking order at a glance
-1. You can tell what someone was thinking when you read their words
+1. You can recognize the author of written texts when you see them in person
 1. At the most convenient moment, the DM will announce that an NPC thinks you are their soulmate.
 
 **D20 Drawbacks**

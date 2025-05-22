@@ -58,7 +58,7 @@ You find yourself in a society with wildly different expectations than normal. A
 1. You don't understand art
 1. You are faceblind
 1. You don't understand war
-1. You cannot fathom theology
+1. You cannot fathom religion
 1. You cannot understand law
 1. You are sworn against (merchants or nobles or vagrants)
 1. You are lost in the forest

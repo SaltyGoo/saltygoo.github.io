@@ -12,7 +12,7 @@ permalink: /class/fighter/barbarian
 <ins>Starting Equipment</ins><br>
 A Weapon in a shape unheard of in this land, a piece of armor made from a material not found here, a trinket from home that signifies your faith or rank.
 
-<ins>Starting Skills (+5)</ins><br>
+<ins>Starting Skills</ins><br>
 Foreign Lands and your choice of Explorer, Diplomat, Refugee.
 
 For every Barbarian template you have, increase your HP by 1.

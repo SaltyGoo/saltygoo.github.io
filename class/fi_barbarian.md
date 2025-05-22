@@ -39,7 +39,7 @@ You find yourself in a society with wildly different expectations than normal. A
 1. You can always predict the weather
 1. You know the powers and weaknesses of angels and devils you meet
 1. You charm and are charmed by (farmers or merchants or nobles)
-1. You can always disapear in a crowd.
+1. You can always disapear in a crowd
 1. You walk on water
 1. You can change your gender presentation at will
 1. You leave no tracks and have no scent

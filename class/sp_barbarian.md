@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Barbarian
-permalink: /class/fighter/barbarian
+permalink: /class/specialist/barbarian
 ---
 
 <details markdown="1">

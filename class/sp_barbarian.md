@@ -20,7 +20,7 @@ For every Barbarian template you have, you gain one **Object from Home**.
 **A:** Cultural Context<br>
 **B:** Outsider<br>
 **C:** How You Do It, Lose 1 drawback<br>
-**D:** Paragon, Lose 2 drawbacks<br>
+**D:** Paragon, Lose 1 drawback<br>
 
 ## Object from Home
 An object from home can be a weapon, a piece of armour, or a tool with a specific fonction, which can be social. For locals, they look weird and distinctively foreign. In yoour hands, a weapon from home's damage dice is one size bigger than the local equivalent, a piece of armour from home provides +1 armor, and you have advantage when you use a tool from home.
@@ -86,7 +86,7 @@ Choose one:
 - If you are a skilled Refugee, you gain 1 HP per scar you have.
 - If you are a skilled Alchemist, you create a [random potion](https://goblinpunch.blogspot.com/2016/05/the-glog-alchemy-and-oozes.html) every time you rest.
 - If you are a skilled Mathematician, you succeed any DEX roll as long as you had 10 minutes to prepare.
-- If you are a skilled Economist, ...
-- If you are a skilled Political Scientist, ...
+- If you are a skilled Economist, you gain a bag of gold every time you carouse. You can only spend this gold on political favours.
+- If you are a skilled Political Scientist, choose an ideology. Attacks made by you or your followers for this ideology inflict 1D6 extra damage.
 
 

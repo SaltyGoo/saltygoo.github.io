@@ -11,15 +11,15 @@ _There is something off with you ..._
 <ins>Starting Equipment</ins><br>
 None. You're a goat.
 
-<ins>Starting Skills (+5)</ins><br>
+<ins>Starting Skills</ins><br>
 Goat life.
 
 For every Goat template you have, you gain a **Spell Dice** and attract a new person into your **Witch Coven**.
 
 **A:** Goat, Witch Coven, Dark Omen<br>
 **B:** Dark Presence<br>
-**C:** Bargain with the Devil<br>
-**D:** Black Mass<br>
+**C:** Black Mass<br>
+**D:** Bargain with the Devil<br>
 
 ## Goat
 You are a goat. You cannot use objects. You cannot talk, except telepathically with witches in your coven.
@@ -64,9 +64,12 @@ You can cause a minor horrible omen to appear. Statues weep blood, ashes spell o
 ## Dark Presence
 If one of your witches is nearby and you are in a dark spot, you can take 10 minutes to cease existing, except for your red eyes glowing in the dark. You can take another 10 minutes to fade back by walking from the shadows, from behind a tree, from tall grass, etc. as long as one of your witches is nearby.
 
-## Bargain with the Devil
-Once per day, you can appear as a naked goat-headed humanoid and speak for 3D6 minute, but only to one person (others still see you as a goat). If you convince this person to willingly give you something, you can use your dark presence to manifest once 3D6 minutes near them when they are alone in the future. If your rolls are 6, 6 and 6, you can take over their body, otherwise you can keep bargaining.
-
 ## Black Mass
-You can have as many witches as you can have followers and use your Bargain form as much as you want. When you rest outside, you can roll a D6 for each of your witches. You gain an extra SD the next day for each 6 rolled, and lose a witch for each 1 rolled.
+When you rest outside, you can roll a D6 for each of your witches. You gain an extra SD the next day for each 6 rolled, and lose a witch for each 1 rolled.
+
+## Bargain with the Devil
+Once per day for 3D6 minutes, you can appear as a naked goat-headed humanoid and speak, but only to one person (others still see you as a goat). If you convince this person to accept an object from you in exchange of a favour, you are bound by a supernatural contract and you can use your dark presence to manifest 3D6 minutes per day near them whenever they are alone in the future. If they fail their part of their bargain in the agreed time, you can possess their body.
+
+Once you have a new body, you can basically create a new character but keep the powers you gained with this class.
+
 

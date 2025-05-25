@@ -14,7 +14,6 @@ permalink: /classes/
 The [Fighter](/class/fighter)
 <details markdown="1">
   <summary>Fighter-Type Classes</summary>
-  - The [Barbarian](/class/fighter/barbarian)
   - The [Centaur](/class/centaur)
   - The [Cyclops](/class/cyclops)
   - The [Githyanki](/class/fighter/githyanki)
@@ -43,6 +42,7 @@ The [Specialist](/class/specialist)
 <details markdown="1">
   <summary>Specialist-Type Classes</summary>
   - The [Athach](/class/specialist/athach) (Three-Armed Giant)
+  - The [Barbarian](/class/specialist/barbarian)
   - The [Bodybuilder](/class/cacus)
   - The [Dwarf](/class/specialist/dwarf)
   - The [Spiderfolk](/class/ettercap)

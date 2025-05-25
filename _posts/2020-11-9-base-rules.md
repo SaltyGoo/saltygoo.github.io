@@ -251,6 +251,8 @@ You must have an instruction manual. Each [Construct](/list/monsters-construct) 
 You need to have the core of an [Elemental Spirit](/list/monsters-elemental) and spend a Treasure in arcane materials. Roll on the binding table in the elemental's description. You also gain a Spell Dice.
 </details>
 
+In any case, if you have taken a deadly risk for one of your beliefs, you can either remove one of your Traumas, gain a new Skill related to your risky action or obtain a new Follower.
+
 </details>
 
 ---

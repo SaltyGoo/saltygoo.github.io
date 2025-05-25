@@ -19,7 +19,7 @@ For every Centaur template you have, you gain 2 extra inventory slots.
 **A:** Horse, Hooves I<br>
 **B:** Ride or Die, Revelry<br>
 **C:** Charge, Mentor of Heroes<br>
-**D:** Hooves II<br>
+**D:** Hooves II, Constellation<br>
 
 ## Horse
 - Running or jumping is easy. Climbing or swimming is hard. Crawling is impossible.
@@ -41,4 +41,7 @@ You and your rider's melee attacks inflict an extra 1D6 damage if you charged at
 Your allies and followers can use your [beliefs](/2020/11/09/base-rules/) to heal trauma or gain a new skill when carousing.
 
 ## Hooves II
-You can make your _Hoof_ attack on top of another attack each round.
+You can make your _Hooves_ attack on top of another attack each round.
+
+## Constellation
+As long as a player character remembers you, your Mentor of Heroes ability is still active. Even if this character dies or is retired.

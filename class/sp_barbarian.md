@@ -10,12 +10,12 @@ permalink: /class/specialist/barbarian
 </details>
 
 <ins>Starting Equipment</ins><br>
-Two **Objects from Home**
+One **Object from Home**
 
 <ins>Starting Skills</ins><br>
 Foreign Lands and your choice of Explorer, Diplomat, Refugee.
 
-For every Barbarian template you have, you gain one **Object from Home**.
+For every Barbarian template you have, you gain one extra **Object from Home** (which means you get a second one at level 1).
 
 **A:** Cultural Context<br>
 **B:** Outsider<br>
@@ -23,7 +23,9 @@ For every Barbarian template you have, you gain one **Object from Home**.
 **D:** Paragon, Lose 1 drawback<br>
 
 ## Object from Home
-An object from home can be a weapon, a piece of armour, or a tool with a specific fonction, which can be social. For locals, they look weird and distinctively foreign. In yoour hands, a weapon from home's damage dice is one size bigger than the local equivalent, a piece of armour from home provides +1 armor, and you have advantage when you use a tool from home.
+An object from home can be a weapon, a piece of armour, or a tool with a specific fonction which can be social. For locals, they look weird and distinctively foreign. 
+
+In your hands, a weapon from home's damage dice is one size bigger than the local equivalent, a piece of armour from home provides +1 armor, and you have advantage when you use a tool from home.
 
 ## Cultural Context
 You find yourself in a society with wildly different expectations than normal. As such, you seem miraculous to others in some ways and foolish in others. Roll five times on each table below and choose four of the results for each. Remember, all of these are relative to the world you find yourself in now. If you are ignorant of laws, it may be because your home has no legal system, because it has outgrown the need for laws, or has laws so different as to provide unhelpful assumptions for this legal system.
@@ -31,7 +33,7 @@ You find yourself in a society with wildly different expectations than normal. A
 **D20 Advantages**
 1. You can speak to (horses or trees or unconscious people)
 1. You are skilled in Alchemy
-1. You are an expert in Mathematics, you cannot fail any check related to that
+1. You are skilled in Mathematics
 1. You can fight perfectly in darkness, read lips, and signs
 1. You can always tell that someone is lying
 1. You can tell a creature's level by seeing them fight
@@ -76,17 +78,18 @@ You find yourself in a society with wildly different expectations than normal. A
 It's obvious to everyone who sees you that you are not from around here. You can always find someone to explain what's happening, find people looking for disposable assistance, and find people interested in foreign cultures. In other words, in a crowd, you can always find someone for whom you are not a threat (three is a crowd).
 
 ## How You Do It
-You can repair a broken object from home during a rest period. Your followers gain the same benefits as you if they use one of your objects from home.
+You can repair a broken **Object from Home** during a rest period. Your followers gain the same benefits as you if they use one of your **Object from Home**.
 
 ## Paragon
-Choose one:
+Choose two:
 
+- If you are a skilled Foreigner, you get an extra **Object from Home** when you [carouse](/2020/11/09/base-rules/) in a city.
 - If you are a skilled Explorer, you no longer need to eat.
 - If you are a skilled Diplomat, you can no longer be attacked by creatures with a language if you and your allies are not hostile.
-- If you are a skilled Refugee, you gain 1 HP per scar you have.
+- If you are a skilled Refugee, you gain 1 HP per [Scar](/2020/11/09/base-rules/) you have.
 - If you are a skilled Alchemist, you create a [random potion](https://goblinpunch.blogspot.com/2016/05/the-glog-alchemy-and-oozes.html) every time you rest.
 - If you are a skilled Mathematician, you succeed any DEX roll as long as you had 10 minutes to prepare.
-- If you are a skilled Economist, you gain a bag of gold every time you carouse. You can only spend this gold on political favours.
+- If you are a skilled Economist, you gain a [bag of gold](/2024/06/26/currency/) every time you carouse. You can only spend this gold on political favours.
 - If you are a skilled Political Scientist, choose an ideology. Attacks made by you or your followers for this ideology inflict 1D6 extra damage.
 
 

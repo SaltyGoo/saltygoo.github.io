@@ -9,36 +9,36 @@ permalink: /class/centaur
 <img align="right" width=230px  src="https://free.clipartof.com/676-Free-Clipart-Of-A-Centaur.jpg">
 
 <ins>Starting Equipment</ins><br>
-A waterskin and two of the following: a Bow (and a quiver of arrows), a Saddle, or a Songbird,
+Two of the following: a Bow (and a quiver of arrows), a Saddle, or four small Kegs of wine.
 
-<ins>Starting Skills (+5)</ins><br>
-Running, and your choice of Mythology, Great Outdoors or Archery.
+<ins>Starting Skills</ins><br>
+Your choice of Mythology, Great Outdoors or Archery.
 
-For every Centaur template you have, you gain 1 extra HP.
+For every Centaur template you have, you gain 2 extra inventory slots.
 
 **A:** Horse, Hooves I<br>
-**B:** Ride or Die, Star Map<br>
+**B:** Ride or Die, Revelry<br>
 **C:** Charge, Mentor of Heroes<br>
 **D:** Hooves II<br>
 
 ## Horse
 - Running or jumping is easy. Climbing or swimming is hard. Crawling is impossible.
-- You can have one human-sized rider or carry as many extra inventory slots as your FOR.
+- You can have one human-sized rider.
 
 ## Hooves I
-You can attack with your hooves, inflicting 1D6 damage and shoving the target if you succeed a FOR roll.
+You can attack with your hooves using your Strength. On a hit, the target takes 1D6 damage and shoved [prone](/2020/11/09/base-rules/) if it is smaller than a horse.
 
 ## Ride or Die
 You and your rider can take a hit for one another.
 
-## Star Map
-You can avoid one encounter per day if you see the sky.
+## Revelry
+You can drink a full bottle of wine in one action. If you do so, you gain 4 temporary HP for 1 hour and make a STR save, if you fail, you are also [poisoned](/2020/11/09/base-rules/) for the duration.
 
 ## Charge
 You and your rider's melee attacks inflict an extra 1D6 damage if you charged at least 30' before doing it.
 
 ## Mentor of Heroes
-When you gain a skill point for your [belief](/2020/11/09/base-rules/), one of your teammates can also add 1 point to the same skill if they want.
+Your allies and followers can use your [beliefs](/2020/11/09/base-rules/) to heal trauma or gain a new skill when carousing.
 
 ## Hooves II
 You can make your _Hoof_ attack on top of another attack each round.

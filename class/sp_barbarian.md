@@ -81,9 +81,9 @@ It's obvious to everyone who sees you that you are not from around here. You can
 You can repair a broken **Object from Home** during a rest period. Your followers gain the same benefits as you if they use one of your **Object from Home**.
 
 ## Paragon
-Choose two:
+Choose two from among those who match the skills gained from this class :
 
-- If you are a skilled Foreigner, you get an extra **Object from Home** when you [carouse](/2020/11/09/base-rules/) in a city.
+- If you are a skilled Foreigner, you get an extra **Object from Home** when you [carouse](/2020/11/09/base-rules/).
 - If you are a skilled Explorer, you no longer need to eat.
 - If you are a skilled Diplomat, you can no longer be attacked by creatures with a language if you and your allies are not hostile.
 - If you are a skilled Refugee, you gain 1 HP per [Scar](/2020/11/09/base-rules/) you have.

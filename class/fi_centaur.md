@@ -9,7 +9,7 @@ permalink: /class/centaur
 <img align="right" width=230px  src="https://free.clipartof.com/676-Free-Clipart-Of-A-Centaur.jpg">
 
 <ins>Starting Equipment</ins><br>
-Two of the following: a Bow (and a quiver of arrows), a Saddle, or four Wine Bottles.
+A Bow (and a quiver of arrows), a Saddle, and four Wine Bottles.
 
 <ins>Starting Skills</ins><br>
 Your choice of Mythology, Great Outdoors or Archery.

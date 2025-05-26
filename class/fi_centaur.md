@@ -9,7 +9,7 @@ permalink: /class/centaur
 <img align="right" width=230px  src="https://free.clipartof.com/676-Free-Clipart-Of-A-Centaur.jpg">
 
 <ins>Starting Equipment</ins><br>
-Two of the following: a Bow (and a quiver of arrows), a Saddle, or four small Kegs of wine.
+Two of the following: a Bow (and a quiver of arrows), a Saddle, or four Wine Bottles.
 
 <ins>Starting Skills</ins><br>
 Your choice of Mythology, Great Outdoors or Archery.
@@ -26,13 +26,13 @@ For every Centaur template you have, you gain 2 extra inventory slots.
 - You can have one human-sized rider.
 
 ## Hooves I
-You can attack with your hooves using your Strength. On a hit, the target takes 1D6 damage and shoved [prone](/2020/11/09/base-rules/) if it is smaller than a horse.
+You can attack with your hooves using your Strength. On a hit, the target takes 1D6 damage and is shoved [prone](/2020/11/09/base-rules/) if it is smaller than a horse.
 
 ## Ride or Die
 You and your rider can take a hit for one another.
 
 ## Revelry
-You can drink a full bottle of wine in one action. If you do so, you gain 4 temporary HP for 1 hour and make a STR save, if you fail, you are also [poisoned](/2020/11/09/base-rules/) for the duration.
+You can drink a full bottle of wine in one action. If you do so, you gain 4 temporary HP for 1 hour and make a STR save, if you fail, you are also [poisoned](/2020/11/09/base-rules/) for the duration. Any equivalent dose of alcohol works.
 
 ## Charge
 You and your rider's melee attacks inflict an extra 1D6 damage if you charged at least 30' before doing it.

@@ -39,8 +39,8 @@ You can reroll your damage rolls and choose the best result. If you do, you are 
 When a creature you can see casts a spell, you can force it to choose between taking 1D6 psychic damage or miscasting the spell. If you do, you are [blinded](/2020/11/09/base-rules/) to all things that are not the caster until your next turn.
 
 ## Forge of the Gods
-As you gain this ability and every time you spend at least a [treasure](/2020/11/09/base-rules/) carousing, you craft one of the following:
+As you gain this ability and every time you spend at least a [treasure](/2020/11/09/base-rules/) carousing, you forge one of the followings:
 
-- A solid **lightning bolt** that inflicts 1D20 damage when thrown, never misses, and reappears in your hand after. Each time it is thrown, its damage die shrinks by one size.
-- A **giant trident** (1D12) that can summon a horse- or hippocampus-drawn chariot which allows 3 people to travel over land and sea at such speed that they cross in one day what would normally take one week. Has 2 one-day charges.
-- A **cap** that allows its wearer to become invisible for 1 hour. Each time it is used, the duration is reduced by 10 minutes.
+- **Solid Lightning Bolt**: inflicts 1D20 damage when thrown, never misses, and reappears in your hand after. Each time it is thrown, its damage die shrinks by one size. Can be consumed as a Spell Dice.
+- **Giant Trident**: inflicts 1D12 damage. Can summon a horse- or hippocampus-drawn chariot which allows 4 people to teleport to an outdoors location you have visited in the past in any plane. Has 2 uses before turning into a puddle of water.
+- **Stygian Cap**: Protects from scrying. Allows its wearer to become invisible for 30 minutes. Each time it is used, the duration is reduced by 10 minutes.

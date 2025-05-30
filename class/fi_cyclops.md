@@ -41,6 +41,6 @@ When a creature you can see casts a spell, you can force it to choose between ta
 ## Forge of the Gods
 As you gain this ability and every time you spend at least a [treasure](/2020/11/09/base-rules/) carousing, you forge one of the followings:
 
-- **Solid Lightning Bolt**: inflicts 1D20 damage when thrown, never misses, and reappears in your hand after. Each time it is thrown, its damage die shrinks by one size. Can be consumed as a Spell Dice.
+- **Solid Lightning Bolt**: inflicts 1D20 damage when thrown, never misses, and reappears in your hand after. Each time it is thrown, its damage die shrinks by one size. Can be thrown in the sky to summon a big thunderstorm within 10 minutes. This consumes the bolt.
 - **Giant Trident**: inflicts 1D12 damage. Can summon a horse- or hippocampus-drawn chariot which allows 4 people to teleport to an outdoors location you have visited in the past in any plane. Has 2 uses before turning into a puddle of water.
 - **Stygian Cap**: Protects from scrying. Allows its wearer to become invisible for 30 minutes. Each time it is used, the duration is reduced by 10 minutes.

@@ -11,7 +11,7 @@ permalink: /class/fighter/githyanki
 <ins>Starting Equipment</ins><br>
 A Silver Weapon, and your choice of a cool Leather Armor, a Grappling Hook with a 60' Rope, or a random [spell scroll](https://saltygoo.github.io/list/spells)
 
-<ins>Starting Skills (+5)</ins><br>
+<ins>Starting Skills</ins><br>
 Your choice of Sky-Pirate, Dragon-Rider, Astronavigator, or Astroknight
 
 For every Githyanki template you have, you learn a new spell from the Githyanki spell list.

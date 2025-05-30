@@ -4,7 +4,7 @@ title: The Two-Headed Giant
 permalink: /class/fighter/ettin
 ---
 
-<img align="right" width=250px src="https://docplayer.fr/docs-images/103/161384179/images/54-4.jpg">
+<img align="right" width=250px src="https://scontent.fymq3-1.fna.fbcdn.net/v/t39.30808-6/486404302_1389478608699125_6346477875329468569_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Qbpc0Hi55jMQ7kNvwHVsyAy&_nc_oc=Adk4tSr0UnBxPBA66HGIdVLE74046poqgYiC-J2yLSZYg9Rf66D1ym3QiSylOvjiF70&_nc_zt=23&_nc_ht=scontent.fymq3-1.fna&_nc_gid=PYTHuF2yyr_9819U2a9KEA&oh=00_AfIx6LXrDRkirydCcj7Eu6SLih6uj9kBX_O0T1OXdP-J2Q&oe=683F7A72">
 
 ###### A monster class for the [Ettin](/monsters/ettin), a two-headed giant. Image by Jim Holloway.
 

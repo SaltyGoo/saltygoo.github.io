@@ -38,8 +38,6 @@ This creature is a living pile of gravel and is thus **only affected** by things
 <ins>Burst of Ooze</ins>. The mephit explodes, killing itself and spitting ooze in all direction. Automatic when the mephit dies.
 
 <br>
-
-<br>
 <details markdown="1">
 <summary style="font-weight: bold;">Harness Its Energy</summary>
 If you have captured this elemental, you can spend the equivalent of 1 [bag of gold](/2024/06/26/currency/) in a magical laboratory between two adventures to bind it to your soul. If you do so, you ...

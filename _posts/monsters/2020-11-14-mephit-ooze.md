@@ -83,7 +83,7 @@ R: self 
 
 When casting the spell you must prepare a message with up to [sum] words. [sum] mud mephits are then summoned and will each deliver one word of your message to whoever it is intended to, across any plane. The message will be delivered in the meekest way possible, and be repeated relentlessly until the target accepts, or the mephits are killed.
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+ <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
       $(document).ready(function() {
         function generateResult(buttonId, resultId, columnRangeStart, columnRangeEnd) {
@@ -109,5 +109,3 @@ When casting the spell you must prepare a message with up to [sum] words. [sum] 
         generateResult("#generate-btn", "#RoamResult", 3, 8);
       });
     </script>
-    });
-  </script>

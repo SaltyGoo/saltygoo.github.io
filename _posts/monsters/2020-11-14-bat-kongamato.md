@@ -28,7 +28,7 @@ It **can** hear very well, allowing it to easily spot their preys in the dark, e
 
 **Attacks (2/round)**
 
-<ins>Dirty Rake</ins>. The kongamato makes a melee attack (1D6 dmg, 1d10 underwater), on a hit, the target will wake up with the [Eye Rot](/2024/01/01/eye-rot/).
+<ins>Dirty Rake</ins>. The kongamato makes a melee attack (1D6 dmg, 1d10 underwater), on a hit, the target will wake up with the [Eye Rot](/2024/01/01/eye-rot/) the next day.
 
 <ins>Topple Dive</ins>. If the kongamato has the space for it, or if it is underwater, it charges the target with its arms forward (1D6 dmg). On a hit, the target is pushed back nearby and falls prone. Alternatively, it can topple any boat no bigger than a pirogue.
 <br>

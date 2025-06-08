@@ -34,8 +34,6 @@ This creature is a living pile of gravel and is thus **only affected** by things
 <ins>Enlarge</ins> (1/day).  The mephit becomes as big as a human for 10 minutes. Its damage increase by 1 dice size and it gains 1D8 temporary HP.
 
 <br>
-
-<br>
 <details markdown="1">
 <summary style="font-weight: bold;">Harness Its Energy</summary>
 If you have captured this elemental, you can spend the equivalent of 1 [bag of gold](/2024/06/26/currency/) in a magical laboratory between two adventures to bind it to your soul. If you do so, you ...

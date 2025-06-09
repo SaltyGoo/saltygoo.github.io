@@ -5,9 +5,9 @@ permalink: /class/ogre
 ---
 
 
-###### A monster class for the [ogre](https://saltygoo.github.io/monsters/ogre), a big folk bully. Illustrator unknown.
+###### A monster class for the [ogre](https://saltygoo.github.io/monsters/ogre), a big folk bully. Illustration by Games Workshop.
 
-<img align="right" width=230px  src="https://static.wikia.nocookie.net/warhammerfb/images/d/de/Warhammere_Ogre_War_in_the_Sky.png/revision/latest?cb=20161228081626">
+<img align="right" width=230px  src="https://3.bp.blogspot.com/-aZzYLosTxuU/VS2wLFfchtI/AAAAAAAAGWc/zEv24vZrM64/s1600/greasus.jpeg">
 
 <ins>Starting Equipment</ins><br>
 A Club, 2 Rations and a Big Pot.

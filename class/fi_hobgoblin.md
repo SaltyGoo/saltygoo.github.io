@@ -11,14 +11,14 @@ permalink: /class/fighter/hobgoblin
 <ins>Starting Equipment</ins><br>
 A Leather Breastplate, a Weapon of your choice, and choose one of a 10' Chain, two crappy Shivs (1D4 damage), or a Stink Bomb
 
-<ins>Starting Skills (+5)</ins><br>
+<ins>Starting Skills</ins><br>
 Your choice of Wolf Rider, Legionnaire, Dumpyard Bully, or Goblin Slaver
 
 For every Hobgoblin template you have, you can gain one extra _Goblin Minion_.
 
 **A:** Goblin Minions, Taller Goblin<br>
-**B:** Bad Leadership<br>
-**C:** Bugbeardom<br>
+**B:** Bad Leadership, Bugbeardom<br>
+**C:** <br>
 **D:** Goblin Legion<br>
 
 ## Goblin Minions
@@ -33,7 +33,15 @@ You are still a goblin. You and your goblins can see in the dark as if you were 
 You can gruesomely kill one of your minions to halve incoming damage, or to [frighten](/2020/11/10/extra-rules/#conditions) a humanoid.
 
 ## Bugbeardom
-When one of your goblins kills an enemy, it becomes bigger and meaner. Name it. Its maximum damage increases by 1 dice size and it gains 3HP.
+When one of your goblins kills an enemy, it becomes bigger and meaner. Name it. Its maximum damage increases by 1 dice size and it gains 3HP. Cumulative.
+
+## Goblin Mastery
+Depending on your starting skill, you gain the following benefits :
+
+- **Wolf Rider :** You gain a [wolf](/monsters/boar) [follower](/2020/11/09/base-rules/). It is big enough to be your mount and knows 4 one-word commands. You can train it as you would any other beast.
+- **Legionnaire :** You inflict bonus damage equal to the number of goblin minions surrounding your target.
+- **Dumpyard Bully :** Your minions can be said to have any generic tool that could plausibly be found in a scrapyard. The tool breaks and the minion dies upon usage.
+- **Goblin Slaver :** You can sell your minions for the equivalent of a [bag of silver coins](/2024/06/26/currency/).
 
 ## Goblin Legion
 You can now find up to 4 replacement goblins each time you rest.

@@ -1,4 +1,4 @@
-ID,Alphabetical,Count: 12/31,39%,4,5,6,7,8,9,10,11,12,13,14,15
+ID,Alphabetical,Count: 13/36,36%,4,5,6,7,8,9,10,11,12,13,14,15
 0000,,,0000,This,two-hex,FOREST is known for its, ,villages.,Beware of,the weather, ,while you travel there. It is inhabited by,,and also,
 0006,OWLBEAR,OWLBEAR,0006,,three-hex,,moonlit,pines.,,bird noises,that could mislead you,,0006,,0006.
 0010,WIZARD,WIZARD,0010,,four-hex,,mysterious,wizard tower.,,magical traps,that a local <a href='/monsters/wizard'>WIZARD</a> summoned,,0010,,0010.
@@ -9,6 +9,7 @@ ID,Alphabetical,Count: 12/31,39%,4,5,6,7,8,9,10,11,12,13,14,15
 0021,KNIGHT,KNIGHT,0021,,,,fortified,castle.,,the rdmNOBLE's men,in the rdmNOBLE's estate,,0021,,0021.
 0024,BAT - Olitiau,OLITIAU BAT,0024,,,,deadly,ponds.,,willow trees,hiding monsters,,0024,,0024.
 0025,CULTIST,CULTIST,0025,,,,mystical,monuments.,,pagan idols,that could curse you,,0025,,0025.
-0028,CULTIST - Pig,PIG CULTIST,0028,,,,dirty,pigsties.,,lurid bacchanalia,breeding sin,,0028,,0028.
+0028,CULTIST - Pig,PIG CULTIST,0028,,,,dirty,pigsties.,,lurid bacchanalia,defacing the land,,0028,,0028.
 0030,CULTIST - Dream,DREAM CULTIST,0030,,,,sopporific,poppies.,,the local spice,making people hallucinate,,0030,,0030.
-0031,HAG - Nigth,NIGHT HAG,0031,,,,crooked,cottages.,,old women,near the a <a href='/monsters/hag-night'>WITCH</a>'s cottage.,,0031,,0031.
+0031,HAG - Night,NIGHT HAG,0031,,,,crooked,cottages.,,old women,near the a <a href='/monsters/hag-night'>WITCH</a>'s cottage,,0031,,0031.
+0035,BOUNTY HUNTER,BOUNTY HUNTER,0035,,,,rowdy,roadside inn.,,crossroads,distracting you from greedy <a href='/monsters/bounty-hunter'>BOUNTY HUNTERS</a>,,0035,,0035.

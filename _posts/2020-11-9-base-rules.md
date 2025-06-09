@@ -260,7 +260,7 @@ In any case, if you have taken a deadly risk for one of your beliefs, you can ei
 <details markdown="1">
 <summary><b>Followers</b></summary>
 
-You gain followers by Carousing. Roll 1D6 for each of their stats. Followers can carry 3 objects and have 2 Hit Points. They can gain a class the same way a character levels up. In which case they gain +2 to all stats, and normal HP and inventory.
+You gain followers by Carousing and they take a Psyche slot. Roll 1D6 for each of their stats. Followers can carry 3 objects and have 2 Hit Points. They can gain a class the same way a character levels up. In which case they gain +2 to all stats, and normal HP and inventory.
 
 </details>
 

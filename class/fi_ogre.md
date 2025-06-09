@@ -5,9 +5,9 @@ permalink: /class/ogre
 ---
 
 
-###### A monster class for the [ogre](https://saltygoo.github.io/monsters/ogre), a big folk bully. Illustrator unknown.
+###### A monster class for the [ogre](https://saltygoo.github.io/monsters/ogre), a big folk bully. Illustration by Games Workshop.
 
-<img align="right" width=230px  src="/images/ogre.png">
+<img align="right" width=230px  src="https://3.bp.blogspot.com/-aZzYLosTxuU/VS2wLFfchtI/AAAAAAAAGWc/zEv24vZrM64/s1600/greasus.jpeg">
 
 <ins>Starting Equipment</ins><br>
 A Club, 2 Rations and a Big Pot.
@@ -44,4 +44,4 @@ Once per encounter, you can give a one-word command to a humanoid that is smalle
 You take half damage from the last thing you ate and, if it was an object, your rolls to destroy things like it are easy. If it was a magical item, you gain its powers.
 
 ## Pantagruel
-You can eat and digest anything softer than a diamond as a ration. You can fill your [Psyche](/2020/11/09/base-rules/) with **Fat**.
+You can eat and digest anything softer than diamond as a ration. You can fill your [Psyche](/2020/11/09/base-rules/) with **Fat**.

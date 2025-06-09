@@ -18,7 +18,7 @@ For every Hobgoblin template you have, you can gain one extra _Goblin Minion_.
 
 **A:** Goblin Minions, Taller Goblin<br>
 **B:** Bad Leadership, Bugbeardom<br>
-**C:** <br>
+**C:** Goblin Career<br>
 **D:** Goblin Legion<br>
 
 ## Goblin Minions
@@ -35,7 +35,7 @@ You can gruesomely kill one of your minions to halve incoming damage, or to [fri
 ## Bugbeardom
 When one of your goblins kills an enemy, it becomes bigger and meaner. Name it. Its maximum damage increases by 1 dice size and it gains 3HP. Cumulative.
 
-## Goblin Mastery
+## Goblin Career
 Depending on your starting skill, you gain the following benefits :
 
 - **Wolf Rider :** You gain a [wolf](/monsters/boar) [follower](/2020/11/09/base-rules/). It is big enough to be your mount and knows 4 one-word commands. You can train it as you would any other beast.

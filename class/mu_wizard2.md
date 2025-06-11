@@ -20,7 +20,7 @@ So how is this wizard different from the aforementioned priest? It sure does loo
 <ins>Starting Equipment</ins><br>
 A strange hat, ink and quill, a spellbook (see below)
 
-<ins>Starting Skills (+5)</ins><br>
+<ins>Starting Skills</ins><br>
 Your choice of "University Graduate", "Alchemist", "Charlatan" or "Heretical Recluse"
 
 For every Wizard template you have, you gain one extra **Spell Die** (SD) and you **Study**. 

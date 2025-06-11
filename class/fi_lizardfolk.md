@@ -11,28 +11,31 @@ permalink: /class/fighter/lizardfolk
 <ins>Starting Equipment</ins><br>
 A Shield, a Trident and a Net.
 
-<ins>Starting Skills (+5)</ins><br>
+<ins>Starting Skills</ins><br>
 Your choice of Swamp Herbs, Mudcrafting, or Fishing.
 
-For every Lizardfolk template you have, you have +1 Armor when not wearing armor.
+For every Lizardfolk template you have, you have +1 Armor Point when not wearing armor.
 
-**A:** Aquatic, Bite<br>
-**B:** Rotten Teeth<br>
-**C:** Tail<br>
+**A:** Aquatic, Sickening Bite<br>
+**B:** Slow Metabolism, Bask<br>
+**C:** Tail Sweep<br>
 **D:** Lizard Brute
 <br>
 
 ## Aquatic
-You can [hold your breath](/2020/11/10/extra-rules/#conditions) 20 minutes. When you take damage while holding your breath, you dont risk drowning.
+You can [hold your breath](/2020/11/09/base-rules/) 20 minutes. When you take damage while holding your breath, you dont risk drowning.
 
-## Bite
-You have a bite attack (1D6). Once you have bitten something, you can track it. This ability can be impeded by strong odors.
+## Sickening Bite
+You have a bite attack (1D6). A creature bitten by you will be [poisoned](/2020/11/10/extra-rules/#conditions) the following day from the infection unless it receives medical treatments.
 
-## Rotten Teeth
-Your bite attack does 1D8 damage. A creature bitten by you will be [poisoned](/2020/11/10/extra-rules/#conditions) the following day unless it receives medicinal treatments.
+## Slow Metabolism
+You only [save for disease symptoms](/list/apothecary) every two days instead of one. Note all the diseases you get. A creature bitten by you will be infected by all of them.
 
-## Tail
-You can roll Fortitude to trip or shove all creatures adjacent to you at the same time and inflict 1D6 damage to them.
+## Bask
+You gain the benefits of resting 8 hours if you rest 1 hour in a hot space. A hot space is warmer than a warm space.
+
+## Tail Sweep
+You make a Strength check to trip or shove all creatures adjacent to you at the same time and inflict 1D6 damage to them.
 
 ## Lizard Brute
-You can use your _Tail_ or _Bite_ ability in addition to another attack on your turn.
+You can use your _Tail_ or _Sickening Bite_ ability in addition to another attack on your turn.

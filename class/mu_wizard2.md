@@ -23,10 +23,11 @@ A strange hat, ink and quill, a spellbook (see below)
 <ins>Starting Skills</ins><br>
 Your choice of "University Graduate", "Alchemist", "Charlatan" or "Heretical Recluse"
 
-For every Wizard template you have, you gain one extra **Spell Die** (SD) and you **Study**. 
+For every Wizard template you have, you gain one extra **Spell Die** (SD) one extra **Sigil Slot** and you **Study**. 
 
 ## Spells
-Wizards get a [random one](/list/spells) for free at level 1. They’re stored in your Psyche and you spend Spell Dice to cast them.
+Wizards get a [random one](/list/spells) for free at level 1. They’re stored in your Psyche and you spend Spell Dice to cast them. Certain spells are permanent but require a sigil slot to maintain.
+
 <details markdown="1">
 <summary>How GLOG spells work</summary>
 <ins>Spell Dice (SD)</ins><br>

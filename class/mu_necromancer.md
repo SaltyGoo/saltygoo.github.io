@@ -43,7 +43,7 @@ Because you focus on such dark arts, you begin each adventure chased by the Chur
 What is death? For each Necromancer template you have, you can _cheat death_ and automatically succeed on a Stabilize roll once when you are [dying](/2020/11/09/base-rules/). You have one free additional SD when you have 1 HP left.
 
 ## Harvest
-Everytime you rest in a cemetary or the location of a massacre, you can recruit a servile [Follower](/2017/06/osr-table-of-camp-followers.html). This follower is a rotting undead and will be hunted down if understood as such by most humanoids. You can resurect your followers as undeads by inflicting a [Scar](/2020/11/09/base-rules/) to yourself.
+Everytime you rest in a cemetary or the location of a massacre, you can recruit a servile [Follower](/2017/06/osr-table-of-camp-followers.html). This follower is a rotting undead and will be hunted down if understood as such by most humanoids. You can resurect your followers as undeads by inflicting a [Scars](/2020/11/09/base-rules/) to yourself.
 
 ## The Three Faces
 Each morning when the sun rises, you choose whether you are Living, Undead, or Dead, with all that implies.

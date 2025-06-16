@@ -20,7 +20,7 @@ For every Necromancer template you have, you gain one extra **Spell Dice** and, 
 **D:** Undeath <br>
 
 ## Necromantic Magic
-Necromancers get a second random spell from the [Necromancy school](/spells/#necromancy) at level 1. You can alternatively choose to learn the [Lichcraft](/2020/11/13/lichcraft/) spell instead.  They’re stored in your Psyche and you spend Spell Dice to cast them. Certain spells are permanent but require a Sigil slot to maintain. Each of your [Scars](/2020/11/09/base-rules/) count as a Sigil slot.
+Necromancers get a second random spell from the [Necromancy school](/spells/#necromancy) at level 1. You can alternatively choose to learn the [Lichcraft](/2020/11/13/lichcraft/) spell instead.  They’re stored in your Psyche and you spend Spell Dice to cast them. Certain spells are permanent but require a Sigil slot to maintain. Each of your [Scars](/2020/11/09/base-rules/) count as a [Sigil](/spells/#lexicon) slot.
 
 <details markdown="1">
 <summary>How GLOG spells work</summary>

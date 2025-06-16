@@ -96,7 +96,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>6. Stories from my Mother</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Painted geese, children and frogs illustrate the cover. Pocket sized.*
-- You become [skilled](/2020/11/09/base-rules/#stats--skills) (+5) in "Cooking".
+- You become [skilled](/2020/11/09/base-rules/#stats--skills) in "Cooking".
 - Each time you study this book, you learn the location of a hidden cabin in an area of your choice. One of Mother's friends lives there. They can provide shelter and trade potions.
 - Roll 1D4, you gain the following spell: 1. [Sky-Blind Curse](/2020/11/13/curse-of-sky-blindness/), 2. [Steeped Stones](/2020/11/13/steeped-stones/), 3. [Tune of the Yondkin](/2020/11/13/tune-of-the-yondkind/), 4. [Witchmark](/2020/11/13/witchmark/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Cunning Craft.*

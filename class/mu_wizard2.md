@@ -106,8 +106,8 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>7. Three Prayers to Baphomet</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dark leather bound in bronze. Penned in blood.*
 - You can speak backward, a language only understood by exorcists and divine creatures.
-- Each time you study this book, increase all of your skills by 1, or become skilled (+5) in a skill you don't know. However, any time you roll a 6 on any dice, you take 2 points of damage.
-- Roll 1D4, you gain the following spell: 1. [Circle of Protection](/2020/11/12/circle-of-protection/), 2. [Conjure](/2020/11/12/conjure/), 3. [Death Contract](/2020/11/12/death-contract/), 4. [Petition](/2020/11/12/petition/)
+- Each time you study this book, you become skilled in a skill you don't know. However, any time you roll a 6 on any dice, you take 2 points of damage.
+- Roll 1D4, you gain the following spell: 1. [Circle of Protection](/2020/11/12/circle-of-protection/), 2. [Conjure Divine Servant](/2020/11/12/conjure/), 3. [Death Contract](/2020/11/12/death-contract/), 4. [Petition](/2020/11/12/petition/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Diabolism.*
 </details>
 

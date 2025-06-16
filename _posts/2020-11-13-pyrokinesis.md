@@ -8,7 +8,7 @@ title: Pyrokinesis
 
 Fire bends to your will. You expand or move a flame to cover [dice] x 5 square feet of flammable surfaces, inflicting [dice] damage every round to anybody caught in it.
 
-Alternatively, you can reduce a fire by the same size, up to a candle light.
+Alternatively, you can reduce a fire by the same size, down to a candle light.
 
 At any moment, you can detonate the flames, inflicting [sum] damage to everybody in a 30' area.
 

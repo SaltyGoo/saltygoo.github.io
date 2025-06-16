@@ -88,7 +88,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>5. The Wonder King's Edicts</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Three slabs of pink marble engraved in tiny faded cuneiform.*
 - You have learned to smell and detect the subtle fragrances of curses.
-- For each time you studied this book, you can trap a curse you have overcome in a clay tablet. Breaking the tablet releases the curse upon the breaker.
+- For each time you studied this book, you can trap a curse you face in a clay tablet. Breaking the tablet releases the curse upon the breaker.
 - Roll 1D4, you gain the following spell: 1. [Amulet of the Open Hand](/2020/11/13/amulet-of-the-open-hand/), 2. [Heka Mirror](/2020/11/13/heka-mirror/), 3. [Seal of Retribution](/2020/11/13/seal-of-retribution/), 4. [Seal of the Wonder King](/2020/11/13/seal-of-the-wonder-king/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Apotropaism.*
 </details>

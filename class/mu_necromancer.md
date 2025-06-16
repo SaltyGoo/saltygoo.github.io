@@ -40,7 +40,7 @@ Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equ
 Because you focus on such dark arts, you begin each adventure chased by the Church.
 
 ## The Threshold of Death
-What is death? You do not die when you reach 0 Hit points. Instead, you simply become unconscious for 10 minutes and gain a [Scar](/2020/11/09/base-rules/). However, you still die if you are burned or you have no more room for new scars in you inventory. You can give yourself 1 [Scar](/2020/11/09/base-rules/) to add 1 SD to a spell you are casting.
+What is death? For each Necromancer template you have, you can _cheat death_ and automatically succeed on a Stabilize roll once when you are [dying](/2020/11/09/base-rules/). You have one free additional SD when you have 1 HP left.
 
 ## Harvest
 Everytime you rest in a cemetary or the location of a massacre, you can recruit a servile [Follower](/2017/06/osr-table-of-camp-followers.html). This follower is a rotting undead and will be hunted down if understood as such by most humanoids. You can resurect your followers as undeads by inflicting a [Scar](/2020/11/09/base-rules/) to yourself.
@@ -53,4 +53,4 @@ Each morning when the sun rises, you choose whether you are Living, Undead, or D
 -  If you are dead, you are unconscious and your undead followers have as much bonus HP as you have [Scar](/2020/11/09/base-rules/).
 
 ## Undeath
-0000000
+Your HP cannot go below 1. Instead, you simply become unconscious for 10 minutes and gain a [Scar](/2020/11/09/base-rules/). However, you still die if you are burned or you have no more room for new scars in you inventory. Replacing a limb removes scars from your inventory.

@@ -26,7 +26,7 @@ Your choice of "University Graduate", "Alchemist", "Charlatan" or "Heretical Rec
 For every Wizard template you have, you gain one extra **Spell Die** (SD) one extra **Sigil Slot** and you **Study**. 
 
 ## Spells
-Wizards get a [random one](/list/spells) for free at level 1. They’re stored in your Psyche and you spend Spell Dice to cast them. Certain spells are permanent but require a sigil slot to maintain.
+Wizards get a [random one](/list/spells) for free at level 1. They’re stored in your Psyche and you spend Spell Dice to cast them. Certain spells are permanent but require a [sigil](/spells/#lexicon) slot to maintain.
 
 <details markdown="1">
 <summary>How GLOG spells work</summary>

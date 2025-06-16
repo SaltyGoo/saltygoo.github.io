@@ -20,7 +20,7 @@ For every Necromancer template you have, you gain one extra **Spell Dice** and, 
 **D:** Undeath <br>
 
 ## Necromantic Magic
-Necromancers get a second random spell from the [Necromancy school](/spells/#necromancy) at level 1. You can alternatively choose to learn the [Lichcraft](/2020/11/13/lichcraft/) spell instead.  They’re stored in your Psyche and you spend Spell Dice to cast them. Certain spells are permanent but require a Sigil slot to maintain. You have as many Sigil slots as you have [Scars](/2020/11/09/base-rules/)
+Necromancers get a second random spell from the [Necromancy school](/spells/#necromancy) at level 1. You can alternatively choose to learn the [Lichcraft](/2020/11/13/lichcraft/) spell instead.  They’re stored in your Psyche and you spend Spell Dice to cast them. Certain spells are permanent but require a Sigil slot to maintain. Each of your [Scars](/2020/11/09/base-rules/) count as a Sigil slot.
 
 <details markdown="1">
 <summary>How GLOG spells work</summary>
@@ -43,14 +43,14 @@ Because you focus on such dark arts, you begin each adventure chased by the Chur
 What is death? For each Necromancer template you have, you can _cheat death_ and automatically succeed on a Stabilize roll once when you are [dying](/2020/11/09/base-rules/). You have one free additional SD when you have 1 HP left.
 
 ## Harvest
-Everytime you rest in a cemetary or the location of a massacre, you can recruit a servile [Follower](/2017/06/osr-table-of-camp-followers.html). This follower is a rotting undead and will be hunted down if understood as such by most humanoids. You can resurect your followers as undeads by inflicting a [Scars](/2020/11/09/base-rules/) to yourself.
+Everytime you rest in a cemetary or the location of a massacre, you can recruit a servile [Follower](/2017/06/osr-table-of-camp-followers.html). This follower is a rotting undead and will be hunted down if understood as such by most humanoids. You can resurect your followers as undeads by inflicting a [Scar](/2020/11/09/base-rules/) to yourself.
 
 ## The Three Faces
 Each morning when the sun rises, you choose whether you are Living, Undead, or Dead, with all that implies.
 
 -  If you are living, you can chose what age you have.
 -  If you are undead, you heal [dice] when you cast a spell.
--  If you are dead, you are unconscious and your undead followers have as much bonus HP as you have [Scar](/2020/11/09/base-rules/).
+-  If you are dead, you are unconscious and your undead followers have as much bonus HP as you have [Scars](/2020/11/09/base-rules/).
 
 ## Undeath
 Your HP cannot go below 1. Instead, you simply become unconscious for 10 minutes and gain a [Scar](/2020/11/09/base-rules/). However, you still die if you are burned or you have no more room for new scars in you inventory. Replacing a limb removes scars from your inventory.

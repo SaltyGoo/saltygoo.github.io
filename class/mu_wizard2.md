@@ -115,7 +115,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>8. Voices of the Four Elements</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Adorned with four gems, its cover is made of gold.*
 - You can politely ask dirt and water to leave clothes and hair, and can play wind instruments from afar.
-- Each time you study this book, you increase your movement stat by 1 (up to 10).
+- Each time you study this book, you increase the earth/fire/water/wind damage you inflict from any source by 1.
 - Roll 1D4, you gain the following spell: 1. [Pyrokinesis](/2020/11/13/pyrokinesis/), 2. [Rockspeech](/2020/11/13/rockspeech/), 3. [Seduce Water](/2020/11/13/seduce-water/), 4. [Stormspeech](/2020/11/13/stormspeech/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Elementalism.*
 </details>
@@ -123,7 +123,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>9. O's Diary</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Elegant in its lack of features. Brown leather. Locked.*
-- You become [skilled](/2020/11/09/base-rules/#stats--skills) (+5) in "Ropes".
+- You become [skilled](/2020/11/09/base-rules) in "Ropes".
 - Each time you study this book, you find new ways to attach objects and gain 1 inventory slot.
 - Roll 1D4, you gain the following spell: 1. [A Rope Is Always Handy](/2020/11/13/a-rope-is-always-handy/), 2. [Length of a String](/2020/11/13/lenght-of-a-string/), 3. [Rope Bind](/2020/11/13/rope-bind/), 4. [The Rope Trick](/2020/11/13/the-rope-trick/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Rope Tricks.*
@@ -132,8 +132,8 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>10. Necronomicon</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Obviously bound in human skin. Held shut by a skeletal hand.*
-- Getting wounded does not make you fall unconscious. Medical care does not heal your Wounds.
-- Each time you study this book, you remove 5 wounds from yourself.
+- Getting below 1 Hit Point does not make you fall prone.
+- Each time you study this book, you heal 1 scar.
 - Roll 1D4, you gain the following spell: 1. [Death's Scythe](/2020/11/13/deaths-scythe/), 2. [Lichcrat](/2020/11/13/lichcraft/), 3. [Soul Transfer](/2020/11/13/souls-transfer/), 4. [Transmigration](/2020/11/13/transmigration/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Necromancy.*
 </details>
@@ -142,7 +142,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>11. Manual of Physiurgy</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Compiled by generations of midwives. Smells sweet.*
 - You receive an official license to practice medicine.
-- For each time you studied this book, you can succeed on one roll to help stabilize a [dying friend](/2020/11/09/base-rules/#dying--healing).
+- Each time you study this book, you heal 1 scar on yourself or a friend.
 - Roll 1D4, you gain the following spell: 1. [Milk and Honey](/2020/11/13/milk-and-honey/), 2. [Poppy's Milk](/2020/11/13/poppys-milk/), 3. [Potpourri](/2020/11/13/potpourri/), 4. [Salvific Apport](/2020/11/13/salvific-apport/)
 ###### *Inspired by [Marvels & Malisons](https://www.drivethrurpg.com/product/211911/Marvels--Malisons)'s Physiurgy.*
 </details>

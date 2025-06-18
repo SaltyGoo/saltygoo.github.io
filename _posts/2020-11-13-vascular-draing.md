@@ -6,7 +6,7 @@ title: Vascular Draining
 
 **R**: A whip		**D**: [dice] rounds
 
-You shoot a lurid red conduit from your open hand. If it hits a living target, it deals 1D6 damage to the target and you recover [dice] hit points. You can attempt to strike each round.
+You shoot a lurid red conduit from your open hand and make a ranged attack. If it hits a living target, it deals 1D6 damage to the target and you recover [dice] hit points. You can attempt to strike each round.
 
 ###### *vein + drain*
 

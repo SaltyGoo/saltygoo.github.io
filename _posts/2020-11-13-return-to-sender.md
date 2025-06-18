@@ -7,7 +7,7 @@ title: Return to Sender
 
 You turn [sum] HD of constructs or summoned creatures against their creator/summoner. Creatures that fail their save are turned against the one who sent them against you with the same level of hostility.
 
-If you invest 4 dice or more in this spell, the effect becomes permanent.
+If you invest 4 dice or more in this spell and inscribe your [Sigil](/spells/#lexicon), the effect becomes permanent.
 
 ###### *Return + Owner*
 

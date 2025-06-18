@@ -321,7 +321,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>31. Van Houtten's Advanced Anatomy</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Gruesome in its illustrations. Covered in stains, otherwise elegant and academic.*
-- You can take 1 hour to transfer as many Wounds from an ally as you like to yourself.
+- You can take 1 hour to transfer as many [Scars](/2020/11/09/base-rules/) as you like from an ally to yourself.
 - Each time you study this book, you can swap bodies with a follower.
 - Roll 1D4, you gain the following spell: 1. [Life Channel](/2020/11/13/life-channel/), 2. [Living Gate](/2020/11/13/living-gate/), 3. [Restore](/2020/11/13/restore/), 4. [Watching Heads](/2020/11/13/watching-heads/)
 </details>
@@ -331,7 +331,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Bearing the mark of the secret order. Lined with gold and twine.*
 - You can sense if your friends are in danger.
 - For each time you studied this book, you can call a giant eagle. It will arrive after 1 hour and transport you to a destination of your choice that is up to 3 days away by foot. You can be back within the day if you want.
-- Roll 1D4, you gain the following spell: 1. [Covenant](/2020/11/12/covenant/), 2. [Deliver from Malison](/2020/11/13/deliver-from-malison/), 3. [Blackstaff](/2020/11/13/blackstaff/), 4. [Watching Heads](/2020/11/13/watching-heads/)
+- Roll 1D4, you gain the following spell: 1. [Covenant](/2020/11/12/covenant/), 2. [Deliver from Malison](/2020/11/13/deliver-from-malison/), 3. [Blackstaff](/2020/11/13/blackstaff/), 4. [Thunderous Wave](/2020/11/13/thunderous-wave/)
 </details>
 
 <details markdown="1">
@@ -373,7 +373,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Twice bigger than expected. Soaked in juices like an old cutting board.*
 - Each SD you have takes 1 inventory slot (as a layer of fat) when not spent. You have +1 HP per unspent SD.
 - You can spend a SD to give you advantage on any strength or melee related roll.
-- Roll 1D4, you gain the following spell: 1. [Aura of Warmth](/2020/11/13/aura-of-warmth/), 2. [Belly Drum](/2020/11/13/belly-drum/), 3. [Caloric Burn](/2020/11/13/caloric-burn/), 4. [Make Delicious](/2020/11/13/make-delicious/)
+- Roll 1D4, you gain the following spell: 1. [Inner Hearth](/2020/11/13/aura-of-warmth/), 2. [Belly Drum](/2020/11/13/belly-drum/), 3. [Caloric Burn](/2020/11/13/caloric-burn/), 4. [Make Delicious](/2020/11/13/make-delicious/)
 ###### *From Throne of Salt's [Adipomancer](http://throneofsalt.blogspot.com/2018/02/class-adipomancer.html)!*
 </details>
 

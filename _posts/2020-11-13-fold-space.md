@@ -3,7 +3,7 @@ layout: post
 tags: spell translocation
 title: Fold Space
 ---
-**R**: 60’ 		D: [dice] turns
+**R**: 60’ 		**D**: [dice] turns
 
 For the duration of this spell, you link two unoccupied spatial volumes (of about human size) such that things entering either location exist simultaneously in both locations. 
 

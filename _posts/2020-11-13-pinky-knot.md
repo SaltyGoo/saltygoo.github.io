@@ -4,9 +4,9 @@ tags: spell tricks
 title: Pinky Knot
 ---
 
-**R**: Touch		**D**: 1 week	
+**R**: Touch		**D**: [Sigil](/spells/#lexicon)
 
-You tie a rope in a knot and say a [sum] or less word sentence. The person having the knot tied on one of their digits will believe the sentence is their own and never forget it.
+You tie a rope in a knot on someone's digit and say a [sum] or less word sentence. The knot will only untie when the sentence becomes false or your sigil is broken.
 
 ###### message + knot
 ###### by SaltyGood

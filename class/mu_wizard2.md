@@ -177,7 +177,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>15. Illustrated Grimoire of Vivimancy</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A frog's skin is stretched across the cover. Crudely bound.*
-- You become [skilled](/2020/11/09/base-rules/#stats--skills) (+5) in "Biology". You gain a pet of your choice no bigger than a cat.
+- You become [skilled](/2020/11/09/base-rules/) in "Biology". You gain a pet of your choice no bigger than a cat.
 - For each time you studied this book, if you have a pet, you can give it a feature from another mundane animal.
 - Roll 1D4, you gain the following spell: 1. [Genoplasm](/2020/11/13/genoplasm/), 2. [Totem](/2020/11/13/totem/), 3. [Transcendence](/2020/11/13/transcendence/), 4. [Vitalize](/2020/11/13/vitalize/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Vivimancy.*
@@ -233,7 +233,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Pale blue. Its pages scatter to the wind while open yet find their way back in when you close it.*
 - You can push objects not heavier than a helmet from afar.
-- For each time you studied this book, you can narrowly avoid one encounter of your choice while piloting a wind-powered or flying vehicle.
+- For each time you studied this book, you can jump an extra 10 feet.
 - Roll 1D4, you gain the following spell: 1. [Chariot of Air](/2020/11/13/chariot-of-air/), 2. [Stormspeech](/2020/11/13/stormspeech/), 3. [Wind Barrier](/2020/11/13/wind-barrier/), 4. [Wind Salvation](/2020/11/13/wind-salvation/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Elementalism.*
 </details>
@@ -278,7 +278,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>26. The Witch-Hunter's Manual</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Heavy, reinforced with cold iron, covered in wards.*
-- You can trade wizard heads in exchange for a [Valuables and Treasure](/2020/11/10/extra-rules/#treasures) in town. Depending on their reputation.
+- You can trade wizard heads in exchange for a bag of gold in town. Depending on their reputation.
 - Each time you study this book, you gain the location of a mad wizard.
 - Roll 1D4, you gain the following spell: 1. [Ethereal Boundary](/2020/11/13/ethereal-boundary/), 2. [Hekaphage](/2020/11/13/hekaphage/), 3. [Plasmic Key](/2020/11/13/plasmic-key/), 4. [Second Sight](/2020/11/12/second-sight/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Spiritualism.*
@@ -296,10 +296,10 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>28. Tome of the Beast</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Furry and toothy. Growls when touched.*
-- Your unarmed strike inflicts 1D4 damage.
+- Your unarmed strike inflicts 1D6 damage.
 - Each time you study this book, choose a creature species. You can smell it.
 - Roll 1D4, you gain the following spell: 1. [Bloodlust](/2020/11/13/bloodlust/), 2. [Indolence](/2020/11/13/indolence/), 3. [Quickening](/2020/11/13/quickening/), 4. [Ravening](/2020/11/13/ravening/)
-###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Translocation.*
+###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)'s Vivimancy*
 </details>
 
 <details markdown="1">

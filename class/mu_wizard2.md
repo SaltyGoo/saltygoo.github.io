@@ -435,7 +435,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>44. Yubaba's Grimoire</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Walks on furry cat legs. Affectionate with you only.*
 - If someone makes a bargain with you and breaks it, you instantly know about it.
-- Each time you study this book, you can transform into your witch form for an extra 10 minutes per day. Decide your form when you first study this book, it has the shape of an animal with your size and head and a) double your running speed, b) a flying speed, c) a swimming speed, d) a digging speed, e) can squeeze in holes the size of your head. You cannot use equipment while in this form, and if you have studied this book four times, it has no duration limit.
+- Each time you study this book, you can transform into your witch form for an extra 10 minutes per day. Decide your form when you first study this book, it has the shape of an animal you choose, your size, your head and a) double your running speed, b) a flying speed, c) a swimming speed, d) a digging speed, e) can squeeze in holes the size of your head. You cannot use equipment while in this form, and if you have studied this book four times, it has no duration limit.
 - Roll 1D4, you gain the following spell: 1. [Bewitch](/2020/11/13/bewitch/), 2. [Dream Eater](/2020/11/13/dream-eater/), 3. [Scry](/2020/11/13/scry/), 4. [Shrivel](/2020/11/13/shrivel/)
 ###### *From Coins and Scrolls's [Animist](https://coinsandscrolls.blogspot.com/2017/06/osr-animist-wizards.html)!*
 </details>
@@ -453,7 +453,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>46. The Librarian's Index</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *As big as a tombstone. Cumbersome. Earmarked and dusty.*
 - You can use books as weapons (1D8).
-- Each time you study this book, choose a spell you or another wizard currently with you know. You find a spell scroll of another random spell in the same [magic school](/list/spells). (ctrl+f is your friend!)
+- Each time you study this book, choose a spell you or another wizard currently with you know. You find a spell scroll of another random spell in the same [magic school](/spells/#spell schools). (ctrl+f is your friend!)
 - Roll 1D4, you gain the following spell: 1. [Animate Book](/2020/11/13/animate-book/), 2. [Edit Spell](/2020/11/13/edit-spell/), 3. [Enforce Trope](/2020/11/13/enforce-trope/), 4. [Silence](/2020/11/13/silence/)
 ###### *From A Blasted Cratered Land's [Book Wizard](https://crateredland.blogspot.com/2019/07/pay-your-late-fees-book-wizard.html)!*
 </details>
@@ -470,7 +470,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>49. Manifesto of Radical Aesthetic</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Iridescent. Fashion of the time that will find academic respect two decades later.*
-- You can convince others of the worthiness and inherent artistic value of virtually anything so long as you don’t stop talking. CHA test every ten minutes to keep your audience engaged.
+- You can convince others of the worthiness and inherent artistic value of virtually anything so long as you don’t stop talking. Willpower test every ten minutes to keep your audience engaged.
 - Each time you study this book, you can alter the flavor of one spell you know to anything you would like. It does not change the spell's mechanical effect, but when cast by you, you can alter the [sum] by 1 point.
 - Roll 1D4, you gain the following spell: 1. [Animate Scribble](/2020/11/13/animate-scribble/), 2. [Chiaroscuro](/2020/11/13/chiaroscuro/), 3. [Surreal Form](/2020/11/13/surreal-form/), 4. [Turn to Art](/2020/11/13/turn-to-art/)
 ###### *From A Blasted Cratered Land's [Chromatomancer](https://crateredland.blogspot.com/2019/09/chromatomancy-colors-of-magic.html)!*

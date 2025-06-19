@@ -12,8 +12,8 @@ Animate a book. It has the intelligence of a trained dog and [sum] HP. When it a
 3. **Spellbook**: Choose the damage type.
 4. **History**: Target acts stereotypically of their social class for [damage] rounds.
 5. **Law**: Target acts in accordance with the code of law for [damage] rounds.
-6. **Medicine**: Target is [poisoned](/2020/11/10/extra-rules/#conditions) for [damage] rounds.
-7. **Novel**: Target is cannot [breathe](/2020/11/10/extra-rules/#conditions) for [damage] rounds.
+6. **Medicine**: Target is [poisoned](/2020/11/09/base-rules/) for [damage] rounds.
+7. **Novel**: Target is cannot [breathe](/2020/11/09/base-rules/) for [damage] rounds.
 8. **Play**: Target is overcome with mirth (comedy)/lust (romance)/sadness (tragedy) to the exclusion of all else for [damage] rounds.
 9. **Religion**: Inflicts an additional 1D6 magical damage to undead creatures and aberrations.
 10. **Technical**: Target has advantage or disadvantage (your choice) on skill rolls from the book for [damage] rounds.

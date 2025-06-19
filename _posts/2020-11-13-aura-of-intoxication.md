@@ -7,5 +7,5 @@ title: Aura of Intoxication
 
 Everyone in the aura becomes drunk ([poisoned](/2020/11/09/base-rules/)). They are allowed a save each round in battle.
  
-###### absolute + reality
+###### aura + drunk
 ###### From Meandering Banter's [Beeromancer](https://meanderingbanter.blogspot.com/2019/06/narcomancer-beeromancer.html)

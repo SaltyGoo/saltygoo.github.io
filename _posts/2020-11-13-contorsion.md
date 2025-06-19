@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: spell animorphosis
-title: Contorsion
+title: Contortion
 ---
 
 *Felimorphosis*

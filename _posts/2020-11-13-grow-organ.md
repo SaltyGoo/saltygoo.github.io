@@ -9,7 +9,7 @@ An organ of your choice blossoms from a pool of blood. It requires a constant su
 
 - The organ is unusually larger or unusually smaller than normal.
 - If supplied with fresh blood, the organ will not shrivel away after 1 day.
-- The organ has an independent reservoir to stored blood, and need only drink it occasionally rather than be constantly supplied.
+- The organ has an independent reservoir of stored blood, and need only drink it occasionally rather than be constantly supplied.
 - The organ is animated, can follow simple commands and move under its own power (classically by means of spindly limbs, but fleshcrafters are a crafty and daring cohort).
 
 ###### grow + organ

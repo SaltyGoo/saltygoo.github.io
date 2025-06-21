@@ -613,7 +613,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Machine printed, perfect bound.*
 - You are the (co)owner of a factory somewhere of your choice. You have debts twice as big as its value.
 - Each time you study this book, mass produce an item in your inventory (gain 1D20 copies). If the item is magical, the effects are barely useful.
-- Roll 1D4, you gain the following spell: 1. [Grease](/2020/11/13/grease/), 2. [Floating](/2020/11/13/floating-disk/), 3. [A Rope is Always Handy](/2020/11/13/a-rope-is-always-handy/), 4. [Miasma](/2020/11/12/miasma/)
+- Roll 1D4, you gain the following spell: 1. [Grease](/2020/11/13/grease/), 2. [Floating Disk](/2020/11/13/floating-disk/), 3. [A Rope is Always Handy](/2020/11/13/a-rope-is-always-handy/), 4. [Miasma](/2020/11/12/miasma/)
 ###### *From Coins and Scrolls's [Magical Industrial Revolution](https://coinsandscrolls.blogspot.com/2019/10/osr-magical-industrial-revolution.html) and Princesses & Pioneers [Industrial Wizard](https://princesses-and-pioneers.tumblr.com/post/612236592227270656/industrial-wizard-updated)!*
 </details>
 
@@ -629,7 +629,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>64. Instructions from the Company</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Discreet, pocket sized, old and without an author.*
-- You become [skilled](/2020/11/09/base-rules/#stats--skills) (+5) in "Daggers". You can use this skill instead of your dexterity when dodging melee attacks.
+- You become [skilled](/2020/11/09/base-rules) in "Hidden Daggers".
 - Each time you study this book, you receive an anonymous instruction to meet a specific person during your next adventure. Roll 1D6: 1-3 You must plant an incriminating object on them and ensure their survival; 4-5, you must talk to them and identify yourself as an agent; 6; you must kill them and make it look like an accident. You cannot reveal your instructions to anybody. If you fail, you will be chased by assassins on each adventure, if you succeed, you will receive a magical gadget of your choice.
 - Roll 1D4, you gain the following spell: 1. [Fascinating Gaze](/2020/11/13/fascinating-gaze/), 2. [Implant Idea](/2020/11/13/implant-idea/), 3. [Kill Idea](/2020/11/13/kill-idea/), 4. [Plasmic Key](/2020/11/13/plasmic-key/)
 ###### *From Numbers Aren't Real's [Metatron](https://espharel.blogspot.com/2019/10/glog-wizard-malachite.html)!*
@@ -638,7 +638,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>65. Manual of Mind and Body</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Seven rolls of scrolls on a golden rod. Must be dramatically unraveled.*
-- Your unarmed strikes inflicts 1D4 damage.
+- Your unarmed strikes inflicts 1D6 damage.
 - Each time you study this book, you can make one extra unarmed strike or combat maneuver when you do an unarmed strike or a combat maneuver as your combat action.
 - Roll 1D4, you gain the following spell: 1. [Empty Palm](/2020/11/13/empty-palm/), 2. [Step of the Wind](/2020/11/13/step-of-the-wind/), 3. [Stunning Palm](/2020/11/13/stunning-palm/), 4. [Deflection](/2020/11/13/deflection/)
 ###### *From Remixes and Revelations's [Monk](http://www.remixesandrevelations.com/2019/01/osr-monk.html)!*
@@ -709,7 +709,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>73. Tales of the Spell Thief</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mentioned in hushed tones by wizards. This is a translation.*
-- You can steal spells by being hit by them. When you suffer some effect from an ability, roll willpower. If you succeed (and don’t die), you copy the ability or spell in your brain.
+- You can steal spells by being hit by them. When you suffer some effect from an ability, roll willpower. If you succeed (and don’t die), you copy the ability or spell in your psyche.
 - For each time you have studied this book, you can eat the heart or essence of a creature and gain one of its passive features. These features count as spells.
 ###### *From Type 1 Ninja's [Spell-Thief](https://github.com/valzi/GLOG-classes/wiki/Caster_Spellthief-Type1Ninja))!*
 </details>
@@ -718,7 +718,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>74. Fechtbuch of Attnam</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *There is no text in this book, only illustrations.*
 - You can burn SDs as you attack to add their [sum] to your attack roll.
-- Each time you study this book, you become [skilled](/2020/11/09/base-rules/#stats--skills) (+5) in a weapon of your choice.
+- Each time you study this book, you become [skilled](/2020/11/09/base-rules/#stats--skills) in a weapon of your choice.
 - Roll 1D4, you gain the following spell: 1. [Caloric Burn](/2020/11/13/caloric-burn/), 2. [Blade of Grass](/2020/11/13/blade-of-grass/), 3. [Cut the Wind](/2020/11/13/cut-the-wind/), 4. [Principle of Cutting](/2020/11/13/principle-of-cutting/)
 ###### *From the Library of Attnam's [Sword Mage](https://attnam.blogspot.com/2018/07/class-sword-mage.html)!*
 </details>
@@ -727,7 +727,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>75. Lisamarie's Note On Transportation</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Cover and pages are pink. Extremely complex calculations.*
 - You can cast spells silently, but it takes an extra round.
-- By focusing 10 minutes, you can teleport 1 foot for each time you've studied this book.
+- By focusing 10 minutes, you can teleport 1 foot per time you've studied this book.
 - Roll 1D4, you gain the following spell: 1. [Blink](/2020/11/13/blink/), 2. [Project Self](/2020/11/13/project-self/), 3. [Revisitation](/2020/11/13/revisitation/), 4. [Teleportation](/2020/11/13/teleportation/)
 ###### *From Princess and Pioneers's [Telemage](https://princesses-and-pioneers.tumblr.com/post/183711068718/telemancer)!*
 </details>
@@ -798,7 +798,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>83. The Cunning Crafts</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A collection of writings by many women. Copiously illustrated.*
-- You can spend five minutes to create a shamble, which allows you to detect if magic has been worked nearby. It will only tell you yes / no and relative strength.
+- You can spend ten minutes to create a shamble, which allows you to detect if magic has been worked nearby. It will only tell you yes / no and relative strength.
 - Each time you study this book, roll a D6. That many women that are neither noble or clergy in the area owe you a favor for you have given them contraceptive, proconceptive, or contramenstrual help.
 - Roll 1D4, you gain the following spell: 1. [Folk Tongue](/2020/11/13/folk-tongue/), 2. [Circle of Protection](/2020/11/12/circle-of-protection/), 3. [Rite of the Seventh Day](/2020/11/13/rite-of-the-seventh-day/), 4. [Occult Consultation](/2020/11/13/occult-consultation/)
 ###### *From Throne of Salt's [Witch](http://throneofsalt.blogspot.com/2018/02/class-witch.html)!*
@@ -844,7 +844,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>88. Regulations of Undercity Necromancy</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Of the Water and Waste guild. Cheaply printed.*
 - With a touch, lock a dead body's or a willing creature's limb or digit in position from a chosen joint, impervious to pain, fatigue, and muscle strain, until they release it with a command word.
-- Each time you study this book, gain a new zombie follower and reanimate all your other zombie followers if you still have their body and they are dead.
+- Each time you study this book, gain a new [zombie](/monsters/zombie) follower and reanimate all your other zombie followers if you still have their body and they are dead.
 - Roll 1D4, you gain the following spell: 1. [Singularity of Purpose](/2020/11/12/singularity-of-purpose/), 2. [Fumigate](/2020/11/13/fumigate/), 3. [Detonate Corpse](/2020/11/13/detonate-corpse/), 4. [Necrophone](/2020/11/13/necrophone/)
 ###### *From the Orc Rehabilitation Commission's [Practical Necromancer](https://orc-rehab.blogspot.com/2021/11/glog-wizard-school-practical-necromancer.html)!*
 </details>
@@ -871,9 +871,9 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>91. Grimoire of the Invisible Light</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Academic treatise. Glows in the dark.*
 - You can force radiation onto crystal, glass, liquid or gas, making it scintillate and emit light as a candle as long as you touch it.
-- Each time you would get a Doom Point, you can [mutate](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html) instead. You explode if you have more mutations than your Constitution.
+- Each time you would get a Doom Point, you can [mutate](https://coinsandscrolls.blogspot.com/2018/01/osr-1d500-biological-mutations.html) instead. Mutations take inventory slots, making you drop objects if your inventory is full. You explode if you have more mutations than inventory slots.
 - Each time you study this book, you can remove or reroll 2 mutations off yourself or another.
-- Roll 1D4, you gain the following spell: 1. [Excitation](/2020/11/13/excitation/), 2. [Exhaust](/2020/11/13/exhaust/), 3. [Isotope Tag](/2020/11/13/isotope-tag/), 4. [Photomultiplication](/2020/11/13/photomultiplication/)
+- Roll 1D4, you gain the following spell: 1. [Excitation](/2020/11/13/excitation/), 2. [Exhaust](/2020/11/13/exhaust/), 3. [Isotope Tag](/2020/11/13/isotope-tag/), 4. [Radiance](/2020/11/13/photomultiplication/)
 ###### *From Unlawful Games's [Radiomancer](http://unlawfulgames.blogspot.com/2018/08/osr-radiomancer.html)!*
 </details>
 
@@ -918,7 +918,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Clouds seem to move under the surface.*
 - You can predict the local weather up to 3 days.
 - Each time you study this book, you gain an extra inventory slot for an object no bigger than your head. This object orbits you.
-- Roll 1D4, you gain the following spell: 1. [Alter Gravity](/2020/11/13/alter-gravity/), 2. [Divide](2020/11/13/divide/), 3. [Orbit](/2020/11/13/orbit/), 4. [Prism](/2020/11/13/prism/)
+- Roll 1D4, you gain the following spell: 1. [Alter Gravity](/2020/11/13/alter-gravity/), 2. [Divide](/2020/11/13/divide/), 3. [Orbit](/2020/11/13/orbit/), 4. [Prism](/2020/11/13/prism/)
 ###### *From A Sense of Immersion's [Constellator](https://asenseofimmersion.wordpress.com/2022/09/06/those-who-pulled-the-trigger-were-not-holding-the-gun-glog-wizard/)!*
 </details>
 
@@ -926,7 +926,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>97.  Battlefied Vivisected</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Gruesomly illustrated. Deranged footnotes.*
 - You can know from which creature blood came from by tasting it.
-- Each time you study this book, you gain a vial full a random disease.
+- Each time you study this book, you gain a vial full a random [disease](/list/apothecary).
 - Roll 1D4, you gain the following spell: 1. [Call of the Leeches](/2020/11/12/call-of-the-animal/), 2. [Desiccate](/2020/11/13/desiccate/), 3. [Grow Organ](/2020/11/13/grow-organ/), 4. [Steal Limb](/2020/11/13/steal-limb/)
 ###### *From A Sense of Immersion's [Experimenter](https://asenseofimmersion.wordpress.com/2022/09/06/those-who-pulled-the-trigger-were-not-holding-the-gun-glog-wizard/)!*
 </details>

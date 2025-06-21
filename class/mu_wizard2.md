@@ -498,7 +498,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>52. Tome of the Curse-Eater</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The old gray book is bound in chains. Perpetually dusty.*
 - You can take 1 SD from an adjacent wizard’s pool and add it to your spell. They know you have done this. On a roll of 1 to 3, the MD returns to their pool (as normal). If the MD does not return, you can choose to either heal the wizard for 1D6 HP or inflict 1D6 magic damage.
-- Each time you study this book, you gain an incurable wound. When you do, choose a person. You take all their sins upon yourself and remove all curses from them.
+- Each time you study this book, you gain a [Scar](/2020/11/09/base-rules/). When you do, choose a person. You take all their sins upon yourself and remove all curses from them.
 - Roll 1D4, you gain the following spell: 1. [Death Ward](/2020/11/13/death-ward/), 2. [Deliver from Malison](/2020/11/13/deliver-from-malison/), 3. [Choke Flames](/2020/11/13/choke-flames/), 4. [Fingerbreaker](/2020/11/13/fingerbreaker/)
 ###### *From Coins and Scrolls's [Curse-Eater Wizard](https://coinsandscrolls.blogspot.com/2019/10/osr-class-curse-eater-wizard.html)!*
 </details>
@@ -543,7 +543,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <summary><b>57. The Cylinder of Yakob</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A tube of copper with tiny engraved text on it.*
 - Your unarmed attacks and attacks made with a metallic weapon inflict an extra 1 point of electrical damage.
-- Each time you study this book, choose a tool or household item. You create an electrical version of it that can only be powered by you.
+- Each time you study this book, choose a tool or household item. You create an electrical version of it that can only be powered by you and gives you advantage.
 - Roll 1D4, you gain the following spell: 1. [Cloak of Electricity](/2020/11/13/cloak-of-element/), 2. [Reanimate](/2020/11/13/reanimate/), 3. [Spark of Life](/2020/11/13/spark-of-life2/), 4. [Yakob's Ladder](/2020/11/13/yakobs-ladder/)
 ###### *From Coins and Scrolls's [Electric Wizard](https://coinsandscrolls.blogspot.com/2020/04/osr-class-electric-wizard.html)!*
 </details>

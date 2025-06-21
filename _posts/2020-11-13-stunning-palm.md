@@ -4,9 +4,9 @@ tags: spell physiury
 title: Stunning Palm
 ---
 
-R: Touch    D: [dice] rounds
+**R**: Touch    **D**: [dice] rounds
 
-Make a melee attack against a creature within melee range with advantage.  On a hit, that creature is stunned for [dice] rounds.
+Make a melee attack against a creature within melee range with advantage.  On a hit, that creature is [stunned](/2020/11/09/base-rules/) for [dice] rounds.
  
 ###### *Stunning + Palm*
 

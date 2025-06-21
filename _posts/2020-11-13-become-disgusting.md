@@ -9,7 +9,7 @@ Up to [dice] target creatures smell and taste like garbage for the spell's durat
 
 This spell does not affect dead creatures, or creatures who either have no sense of smell, or are used to bad smells (e.g. goblins).
 
-If you invest 4 [dice] in this spell, the effects become permanent.
+If you invest 4 dice or more in this spell and scribe your [Sigil](/spells/#lexicon), the effect becomes permanent.
  
 ###### make + disgusting
 ###### From the Seven Deadly Dungeons's [Garbage Wizard](https://sevendeadlydungeons.blogspot.com/2019/03/glog-garbage-wizard.html)

@@ -7,7 +7,7 @@ title: Tentacle Arm
 
 *cephalopomorphosis*
 
-You transform one of your hands into a long tentacle and and grapple something.  Then, you choose one:
+You transform one of your hands into a long tentacle and grapple something.  Then, you choose one:
 
 - **Crush It!**: It takes [sum] damage and cannot move on its next turn.
 - **Throw It!** You shove the target 30' in one direction. It takes [sum] damage and falls prone.

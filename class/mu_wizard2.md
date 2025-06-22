@@ -46,7 +46,7 @@ Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equ
 ## Study
 You need a Spellbook to study. You cannot take a Wizard template if you do not possess a Spellbook. When you study, you choose which book you are studying, gain the knowledge contained in it and roll for one of its spells. If you already know the spell, roll again.
 
-**D100 Spellbooks:**
+**D114 Spellbooks:**
 ###### or choose the first one for a generic option
 
 <details markdown="1">

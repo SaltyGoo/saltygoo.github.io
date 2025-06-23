@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: article item
-title: Beast Apothecary
+title: Apothecary
 ---
 
 ##### Old list [here](/list/apothecary). Work in progress.

@@ -20,7 +20,7 @@ _It is silent and invisible. But if you could see it, imagine a small crouching 
 | -------- | --------|
 | **Hit Points:** 2 | **Armor:** 0 |
 | **Hit it:** hard  | **Dodge it:** hard  |
-| **Move:** normal, clim normal  |  **Size:** small | 
+| **Move:** normal, climb normal  |  **Size:** small | 
 
 ##### <span class="tooltip" data-tooltip="Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat">→ How to read monster stats</span>
 

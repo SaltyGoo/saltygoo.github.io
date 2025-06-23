@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster divine lesser astral order
+tags: monster celestial lesser astral order
 permalink: /monsters/chaos-eater
 title: Chaos Eater
 ---

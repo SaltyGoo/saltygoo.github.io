@@ -4,6 +4,8 @@ tags: article item
 title: Beast Apothecary
 ---
 
+##### Old list [here](/list/apothecary). Work in progress.
+
 <ins>Poisons</ins>
 
 {% capture posts %}

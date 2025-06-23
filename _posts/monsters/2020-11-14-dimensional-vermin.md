@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster horror astral magic chaos
+tags: monster aberration astral magic chaos
 permalink: /monsters/dimensional-vermin
 title: Dimensional Vermin
 ---

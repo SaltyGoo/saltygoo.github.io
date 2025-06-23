@@ -26,7 +26,7 @@ _It is silent and invisible. But if you could see it, imagine a small crouching 
 
 It is **invisible**. When "killed", it briefly becomes visible and the person who made the last blow must save vs fear. On a failure, the vermin simply runs away at 1 HP.
 
-**Attacks (1/round)**
+**Attacks (1/round, twice if it loses its invisibility)**
 
 <ins>Cowardly Claws</ins>. The vermin makes a melee attack (1D4, 1D6 if the target is surprised) and runs away nearby.
 

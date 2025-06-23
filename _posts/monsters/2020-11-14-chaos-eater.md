@@ -1,0 +1,105 @@
+---
+layout: post
+tags: monster divine lesser astral order
+permalink: /monsters/chaos-eater
+title: Chaos Eater
+---
+
+##### From Garamondia's [Optical Dungeon](https://garamondia.blogspot.com/2025/03/the-optical-dungeonthe-process-dungeon.html)
+
+**Cosmic Insect.** Grown by timeless beings in their squirming billions in the future and then seeded back through the timeline to prune it of its complexities. Sometimes handled by [barbazus](/monsters/barbazu) to sniff chaos. A divine servant.
+
+_Imagine a nine-foot long worm made of a series of chitinous spiked wheels. Its horrible mouth looks like a grinder and it roars like a gregorian chorus._
+
+<br>
+
+---
+
+|  <span style="display: inline-block; width:250px"></span>  |  |
+| -------- | --------|
+| **Hit Points:** 18 | **Armor:** 2 |
+| **Hit it:** normal  | **Dodge it:** normal  |
+| **Move:** fast, climb fast  |  **Size:** medium | 
+
+##### <span class="tooltip" data-tooltip="Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat">→ How to read monster stats</span>
+
+It **resists** everything (because it’s a divine servant). It **cannot** see, but **can** perceives vibration, magic and ambition.
+
+**Attacks (2/round)**
+
+<ins>Grinding Coils</ins>. The chaos eater makes a melee attack (1D6) and [grapples](/2020/11/09/base-rules/) the target. While grappled, the target cannot [breathe](/2020/11/09/base-rules/).
+
+<ins>Chaos Grinder</ins>. The chaos eater makes a melee attack (1D6, or 1D8 against a grappled target). The target is then afflicted by the [Chaos Eating Curse](/2024/01/01/chaos-eater-curse/).
+
+<ins>Tail Swipe</ins>. The chaos eater makes a melee attack against a target it hasn't attacked this turn (1D6) and knocks it back nearby.
+
+<details markdown="1">
+<summary>Celestial Pact</summary>
+You cannot communicate with a Chaos Eater, but you can accomplish its desire by making a pact with it. The price of breaking a pact is always your soul.
+
+**Reward:**
+A chaos eater reward always includes freedom from its [curse](/2024/01/01/chaos-eater-curse/).
+
+1. Cleansing of all scars and mutations.
+1. The ability to smell chaos.
+1. Afflict someone you know with the chaos eater curse (it's destiny will be straightforward and unextraordinary).
+1. The ability to scare aberrations with your scream.
+1. The ability to smell magic.
+1. The chaos eater blessing (reversed curse)
+
+**Quest:**
+
+1. Banish a demon from this world.
+1. Sabotage the research of a prominent wizard.
+1. Sabotage the studies of a prominent professor.
+1. Close a portal.
+1. Correct a timeline error.
+1. Ensure the coronation of a specific heir.
+</details>
+
+---
+
+## The Lair
+
+**Number** : 2 <span style="display: inline-block; width:30px"></span>
+**Lair** : A vault from the future <span style="display: inline-block; width:30px"></span>
+**Desire** : Eat chaos.
+
+<button id="room-btn">Generate Lair Room</button>
+<p id="RoomResult">A basic dungeon thematic room.</p>
+
+<button id="generate-btn">Generate Random Omen</button>
+<p id="RoamResult">To fill a dungeon room.</p>
+
+<button onclick="generateMood()">Generate Random Action</button>
+<p id="MoodResult">What it is doing.</p>
+<script src="/scripts/generateMood.js"></script>
+
+<br>
+
+ <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+      $(document).ready(function() {
+        function generateResult(buttonId, resultId, columnRangeStart, columnRangeEnd) {
+          $(buttonId).click(function() {
+            var searchValue = "0037"; // Change this to the actual value you need
+
+            $.get("/CSV/Monster - Index.csv", function(data) {
+              var rows = data.split("\n").slice(1);
+              var matchingRows = rows.filter(function(row) {
+                var columns = row.split(",");
+                return columns[0] === searchValue;
+              });
+
+              var selectedRow = matchingRows[Math.floor(Math.random() * matchingRows.length)];
+              var selectedCell = selectedRow.split(",")[Math.floor(Math.random() * (columnRangeEnd - columnRangeStart + 1)) + columnRangeStart];
+
+              $(resultId).html(selectedCell); // Use .html() to insert HTML content
+            });
+          });
+        }
+
+        generateResult("#room-btn", "#RoomResult", 38, 43);
+        generateResult("#generate-btn", "#RoamResult", 3, 8);
+      });
+    </script>

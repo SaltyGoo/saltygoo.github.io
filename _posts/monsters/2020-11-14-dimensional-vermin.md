@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: monster aberration astral magic chaos
+tags: monster aberration lesser astral magic chaos
 permalink: /monsters/dimensional-vermin
 title: Dimensional Vermin
 ---

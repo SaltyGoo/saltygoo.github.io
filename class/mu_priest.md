@@ -132,7 +132,7 @@ _(with spells)_
 
 <details markdown="1">
 <summary><b>Purify yourself in a ritual bath</b></summary>
-- Each day, you have a D8 advice die you can give to one of your ally. That person can spend it to add the result to any noncombat D20 roll.
+- Each day, you have a D8 advice die you can give to one of your allies. That person can spend it to add the result to any noncombat D20 roll.
 - You gain 1 SD every time you give someone counsel and it turns out to be right. This SD lasts until you rest.
 - Roll 1D4, you gain the following spell: 1. [Animate Book](/2020/11/13/animate-book/), 2. [Comprehension](/2020/11/13/comprehension/), 3. [Vitalize](/2020/11/13/vitalize/), 4. [Stormspeech](/2020/11/13/potpourri/)
 ###### *From J.N. Sinombre's [Rabbi](https://madgods.bearblog.dev/glog-class-rabbi/)!*

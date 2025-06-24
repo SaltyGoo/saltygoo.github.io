@@ -148,9 +148,16 @@ _(with spells)_
 
 <details markdown="1">
 <summary><b>Return the dead to Nature</b></summary>
-- You can rot dead organic matter with your touch. A few seconds spoil food, and 1 hour consumes a dead human.
-- You can consume one organic object in your inventory to gain 1 spell Die (for the next 10 minutes).
+- You can rot dead organic matter with your touch. A few seconds spoils food, and 1 hour consumes a dead human.
+- You can consume one organic object in your inventory to gain 1 Spell Die (for the next 10 minutes).
 - Roll 1D4, you gain the following spell: 1. [Cordiceps Apotheosis](/2020/11/12/cordiceps-apotheosis/), 2. [Fey Ring](/2020/11/13/fey-ring/), 3. [Hallucinogenesis](/2020/11/13/hallucinogenesis/), 4. [Potpourri](/2020/11/13/potpourri/)
+</details>
+
+<details markdown="1">
+<summary><b>Trace the Seven Angelic Sigilic Circles</b></summary>
+- Once, a gardian angel can save someone else of your choice from certain death.
+- As long as you haven't commited murder, you start each adventure with a cumulative Spell Die.
+- Roll 1D4, you gain the following spell: 1. [Sigil of Bezaliel](/2020/11/13/sigil-of-bezaliel/), 2. [Sigil of Phanuel](/2020/11/13/sigil-of-phanuel/), 3. [Sigil of Shamsiel](/2020/11/13/sigil-of-shamsiel/), 4. [Sigil of Zagzagel](/2020/11/13/sigil-of-zagzagel/)
 </details>
 
 

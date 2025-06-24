@@ -131,6 +131,14 @@ _(with spells)_
 </details>
 
 <details markdown="1">
+<summary><b>Purify yourself in a ritual bath</b></summary>
+- Each day, you have a D8 advice die you can give to one of your ally. That person can spend it to add the result to any noncombat D20 roll.
+- You gain 1 SD every time you give someone counsel and it turns out to be right. This SD lasts until you rest.
+- Roll 1D4, you gain the following spell: 1. [Animate Book](/2020/11/13/animate-book/), 2. [Comprehension](/2020/11/13/comprehension/), 3. [Vitalize](/2020/11/13/vitalize/), 4. [Stormspeech](/2020/11/13/potpourri/)
+###### *From J.N. Sinombre's [Rabbi](https://madgods.bearblog.dev/glog-class-rabbi/)!*
+</details>
+
+<details markdown="1">
 <summary><b>Reject the Orthodoxy</b></summary>
 - You are immune to curses.
 - When you undermine the Church or destroy a religious item, you gain 1 Spell Die (until you spend it).
@@ -143,14 +151,6 @@ _(with spells)_
 - You can rot dead organic matter with your touch. A few seconds spoil food, and 1 hour consumes a dead human.
 - You can consume one organic object in your inventory to gain 1 spell Die (for the next 10 minutes).
 - Roll 1D4, you gain the following spell: 1. [Cordiceps Apotheosis](/2020/11/12/cordiceps-apotheosis/), 2. [Fey Ring](/2020/11/13/fey-ring/), 3. [Hallucinogenesis](/2020/11/13/hallucinogenesis/), 4. [Potpourri](/2020/11/13/potpourri/)
-</details>
-
-<details markdown="1">
-<summary><b>Purify yourself in a ritual bath</b></summary>
-- Each day, you have a D8 advice die you can give to one of your ally. That person can spend it to add the result to any noncombat D20 roll.
-- You gain 1 SD every time you give someone counsel and it turns out to be right. This SD lasts until you rest.
-- Roll 1D4, you gain the following spell: 1. [Animate Book](/2020/11/13/animate-book/), 2. [Comprehension](/2020/11/13/comprehension/), 3. [Vitalize](/2020/11/13/vitalize/), 4. [Stormspeech](/2020/11/13/potpourri/)
-###### *From J.N. Sinombre's [Rabbi](https://madgods.bearblog.dev/glog-class-rabbi/)!*
 </details>
 
 

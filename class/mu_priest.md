@@ -165,6 +165,14 @@ _(with spells)_
 _(without spells)_
 
 <details markdown="1">
+<summary><b>Swallow a brick from the First Temple</b></summary>
+- You can read all languages which have no living speakers. 
+- You have a sense for architecture and ruin. You can tell where a structure will break first (or next), and whether that destruction is imminent. You can also tell how long ago a structure collapsed. Once per adventure, you can dictate a time within that month for a target structure to collapse in the manner foretold (which can be as soon as Immediately).
+- Alternatively, you can dictate instead that a structure will not collapse for a month.
+##### From Dead Delver's [Celestial Arts](https://sevendeadlydungeons.blogspot.com/2023/05/celestial-arts-of-outer-bodies-glog.html?m=1)
+</details>
+
+<details markdown="1">
 <summary><b>Parade the icons of the Faith</b></summary>
 - When you go into town, you draw audiences of pious [followers](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html). After your sermons, you can hire a number of believers equal to the Treasures you carry.
 - You can give a class level to your next follower.
@@ -172,7 +180,7 @@ _(without spells)_
 </details>
 
 <details markdown="1">
-<summary><b>Offer a Lamb to the Altar of Worship</b></summary>
+<summary><b>Offer a lamb to the Altar of Worship</b></summary>
 - You can speak the Holy Language of Angels, Demons, Gods and Babies.
 - You can spend 10 minutes at any shrine to learn the health, goal and disposition of the divinity in residence.
 - Once per session you can ask a divinity a question, which they will answer with a hint.

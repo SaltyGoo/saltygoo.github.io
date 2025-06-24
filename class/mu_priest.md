@@ -165,11 +165,21 @@ _(with spells)_
 _(without spells)_
 
 <details markdown="1">
-<summary><b>Swallow a brick from the First Temple</b></summary>
-- You can read all languages which have no living speakers. 
-- You have a sense for architecture and ruin. You can tell where a structure will break first (or next), and whether that destruction is imminent. You can also tell how long ago a structure collapsed. Once per adventure, you can dictate a time within that month for a target structure to collapse in the manner foretold (which can be as soon as Immediately).
-- Alternatively, you can dictate instead that a structure will not collapse for a month.
-##### From Dead Delver's [Celestial Arts](https://sevendeadlydungeons.blogspot.com/2023/05/celestial-arts-of-outer-bodies-glog.html?m=1)
+<summary><b>Listen to the silent advice of the Mummified Saint</b></summary>
+- Once per day you may take time to closely examine a situation or person. When you do, you may ask the referee one of the following questions. They must answer truthfully.
+-- What happened here recently?
+-- What is about to happen?
+-- Who’s really in control here?
+-- What here is not what it appears to be?
+- When violence seems imminent, no one can make an attack or cast a harmful spell until you’ve had your say.
+##### From Vivanter's [Councilor](https://mediumsandmessages.bearblog.dev/glog-the-counselor/)
+</details>
+
+<details markdown="1">
+<summary><b>Offer a lamb to the Altar of Worship</b></summary>
+- You can speak the Holy Language of Angels, Demons, Gods and Babies.
+- You can spend 10 minutes at any shrine to learn the health, goal and disposition of the divinity in residence.
+- Once per session you can ask a divinity a question, which they will answer with a hint.
 </details>
 
 <details markdown="1">
@@ -180,8 +190,10 @@ _(without spells)_
 </details>
 
 <details markdown="1">
-<summary><b>Offer a lamb to the Altar of Worship</b></summary>
-- You can speak the Holy Language of Angels, Demons, Gods and Babies.
-- You can spend 10 minutes at any shrine to learn the health, goal and disposition of the divinity in residence.
-- Once per session you can ask a divinity a question, which they will answer with a hint.
+<summary><b>Swallow a brick from the First Temple</b></summary>
+- You can read all languages which have no living speakers. 
+- You have a sense for architecture and ruin. You can tell where a structure will break first (or next), and whether that destruction is imminent. You can also tell how long ago a structure collapsed. Once per adventure, you can dictate a time within that month for a target structure to collapse in the manner foretold (which can be as soon as Immediately).
+- Alternatively, you can dictate instead that a structure will not collapse for a month.
+##### From Dead Delver's [Celestial Arts](https://sevendeadlydungeons.blogspot.com/2023/05/celestial-arts-of-outer-bodies-glog.html?m=1)
 </details>
+

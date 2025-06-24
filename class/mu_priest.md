@@ -165,17 +165,6 @@ _(with spells)_
 _(without spells)_
 
 <details markdown="1">
-<summary><b>Listen to the silent advice of the Mummified Saint</b></summary>
-- Once per day you may take time to closely examine a situation or person. When you do, you may ask the referee one of the following questions. They must answer truthfully.
--- What happened here recently?
--- What is about to happen?
--- Who’s really in control here?
--- What here is not what it appears to be?
-- When violence seems imminent, no one can make an attack or cast a harmful spell until you’ve had your say.
-##### From Vivanter's [Councilor](https://mediumsandmessages.bearblog.dev/glog-the-counselor/)
-</details>
-
-<details markdown="1">
 <summary><b>Offer a lamb to the Altar of Worship</b></summary>
 - You can speak the Holy Language of Angels, Demons, Gods and Babies.
 - You can spend 10 minutes at any shrine to learn the health, goal and disposition of the divinity in residence.
@@ -187,6 +176,24 @@ _(without spells)_
 - When you go into town, you draw audiences of pious [followers](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html). After your sermons, you can hire a number of believers equal to the Treasures you carry.
 - You can give a class level to your next follower.
 - You can command your followers as a group and they will follow your orders blindly.
+</details>
+
+<details markdown="1">
+<summary><b>Stare at the Unblinking Virgin for a week</b></summary>
+- Once per day you may take time to closely examine a situation or person. When you do, you may ask the referee one of the following questions. They must answer truthfully.
+-- What happened here recently?
+-- What is about to happen?
+-- Who’s really in control here?
+-- What here is not what it appears to be?
+- When violence seems imminent, no one can make an attack or cast a harmful spell until you’ve had your say.
+##### From Vivanter's [Councilor](https://mediumsandmessages.bearblog.dev/glog-the-counselor/)
+</details>
+
+<details markdown="1">
+<summary><b>Translate the Sacred Books</b></summary>
+-You have a resource called Big Questions (BQ) that starts at 0. When you encounter something truly mysterious or confounding, increase your BQ by 1 and write down a question about it. When you spend time in an archive or with eminent scholars, roll a d6. If the result is less than or equal to your BQ, reduce your BQ by 1 and answer one of your questions.
+- You can choose an additional skill from the priest class.
+##### From Vivanter's unpublished [Sage](https://mediumsandmessages.bearblog.dev/blog/)
 </details>
 
 <details markdown="1">

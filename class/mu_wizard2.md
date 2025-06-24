@@ -936,16 +936,16 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *This tome is singed and sooty, with a citrine gem set in the cover*
 - You can summon a candle flame in your hand with the snap of your fingers.
 - For each time you studied this book, you and your friends can have one night of rest safe from any harm when you desire it.
-- Roll 1D4, you gain the following spell: 1. [Ancient Flame](/2020/11/13/ancient-flame/), 2. [Flames of Truth](/2020/11/13/flames-of-truth/), 3. [Heat Alchemy](/2020/11/13/alchemical-elementalism/), 4. [Inner Hearth](/2020/11/13/aura-of-warmth/),
+- Roll 1D4, you gain the following spell: 1. [Ancient Flame](/2020/11/13/ancient-flame/), 2. [Flames of Truth](/2020/11/13/flames-of-truth/), 3. [Heat Alchemy](/2020/11/13/alchemical-elementalism/), 4. [Inner Hearth](/2020/11/13/aura-of-warmth/)
 ###### *From Sylvanas_iii on the GLOG discord!*
 </details>
 
 <details markdown="1">
 <summary><b>99. 99 Lies From the Gods</b></summary>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Extremely blasphemous. Shared in secret circle.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Extremely blasphemous. Shared in secret circles.*
 - You can spend 1h to learn how to overcome any curse you see.
 - For each time you studied this book, you gain a _Doomrod_ in your inventory. If you would trigger a Catastrophe, it triggers at the location of one of your doomrods and destroys it.
-- Roll 1D4, you gain the following spell: 1. [Doom Foretold](/2020/11/13/doom-foretold/), 2. [Beckon Doom](/2020/11/13/beckon-doom/), 3. [Circle of Protection](/2020/11/12/circle-of-protection/), 4. [Enrage Believer](/2020/11/13/enrage-believer/),
+- Roll 1D4, you gain the following spell: 1. [Doom Foretold](/2020/11/13/doom-foretold/), 2. [Beckon Doom](/2020/11/13/beckon-doom/), 3. [Circle of Protection](/2020/11/12/circle-of-protection/), 4. [Enrage Believer](/2020/11/13/enrage-believer/)
 ###### *From J.N. Sinombre's [Abnegator](https://madgods.bearblog.dev/glog-class-abnegator/)!*
 </details>
 
@@ -954,7 +954,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Leather folio. Used and dusty.*
 - Your touch rusts metal. You can destroy the equivalent of a longsword in 1 hour.
 - For each time you study this book, people have X/6 chance to fear you when you reveal your name.
-- Roll 1D4, you gain the following spell: 1. [Graft](/2020/11/13/graft/), 2. [Excambion](/2020/11/13/excambion/), 3. [Medley](/2020/11/13/medley/), 4. [Spatial Coincidence](/2020/11/13/spatial-coincidence/),
+- Roll 1D4, you gain the following spell: 1. [Graft](/2020/11/13/graft/), 2. [Excambion](/2020/11/13/excambion/), 3. [Medley](/2020/11/13/medley/), 4. [Spatial Coincidence](/2020/11/13/spatial-coincidence/)
 ###### *From the Archon's Court's [Atteinder](https://archons-court.blogspot.com/2023/05/musing-on-wreck-glog-class-attainder.html)!*
 </details>
 
@@ -963,7 +963,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Thick cover made of gingerbread. Icing writing that never smudges.*
 - Children are always willing to help you (with reason).
 - For each time you study this book, you create a recipe that triggers an emotion of your choice.
-- Roll 1D4, you gain the following spell: 1. [Candlemass](/2020/11/13/candlemass/), 2. [Candy Regalia](/2020/11/13/candy-regalia/), 3. [Make Delicious](/2020/11/13/make-delicious/), 4. [Gingerbread House](/2020/11/13/gingerbread-house/),
+- Roll 1D4, you gain the following spell: 1. [Candlemass](/2020/11/13/candlemass/), 2. [Candy Regalia](/2020/11/13/candy-regalia/), 3. [Make Delicious](/2020/11/13/make-delicious/), 4. [Gingerbread House](/2020/11/13/gingerbread-house/)
 ###### *From TheisiticGilthoniel's [Confection Wizard](https://pilgrimtemple.blogspot.com/2023/09/lest-thou-be-filled-therewith-glog.html)!*
 </details>
 
@@ -972,7 +972,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Full of letters with impossible adresses.*
 - You are skilled in _Horseback Riding_ and gain a horse companion.
 - For each time you study this book, you gain 1 dog followers and revive all your previously dead dog companions.
-- Roll 1D4, you gain the following spell: 1. [Call of the Dog](/2020/11/12/call-of-the-animal/), 2. [Frighten Beasts](/2020/11/13/frighten-beast/), 3. [Grease](/2020/11/13/grease/), 4. [Quickening](/2020/11/13/quickening/),
+- Roll 1D4, you gain the following spell: 1. [Call of the Dog](/2020/11/12/call-of-the-animal/), 2. [Frighten Beasts](/2020/11/13/frighten-beast/), 3. [Grease](/2020/11/13/grease/), 4. [Quickening](/2020/11/13/quickening/)
 ###### *From Numbers Aren't Real's [Courser Wizard](https://as-they-must.blogspot.com/2023/08/what-sad-old-age-glog-wizard-school.html)!*
 </details>
 
@@ -981,7 +981,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Colourful and always full. Its text appears to its smoker.*
 - You can take 10 minutes to make any wooden structure equal or smaller than a door moldy and easy to destroy.
 - For each time you study this book, you grow a bioluminescent mushroom on your body. Choose a trigger, it glows if its trigger is within 5' of you.
-- Roll 1D4, you gain the following spell: 1. [Cordyceps Apotheosis](/2020/11/12/cordiceps-apotheosis/), 2. [Hallucinogenesis](/2020/11/13/hallucinogenesis/), 3. [Psilocybic Vision](/2020/11/13/psilocybic-vision/), 4. [Puff Ball](/2020/11/13/puff-ball/),
+- Roll 1D4, you gain the following spell: 1. [Cordyceps Apotheosis](/2020/11/12/cordiceps-apotheosis/), 2. [Hallucinogenesis](/2020/11/13/hallucinogenesis/), 3. [Psilocybic Vision](/2020/11/13/psilocybic-vision/), 4. [Puff Ball](/2020/11/13/puff-ball/)
 ###### *From Interrupting Randomly's [Mushroom Wizard](https://craggenloch.blogspot.com/2023/08/nothing-stays-dead-forever-mushroom.html)!*
 </details>
 
@@ -990,7 +990,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Sign in blood to gain benefits. Heavy stack of paper with tiny writing.*
 - You can add 1 Spell Die to a spell you cast which gives you a debt of 1 [Purse of Gold Coins](/2024/06/26/currency/) with hell. You gain 1 doom point per 4 unpaid purses of gold debt when you carouse.
 - For each time you study this book, you can transmute one metal object in your inventory into another type of metal.
-- Roll 1D4, you gain the following spell: 1. [Command Coins](/2020/11/13/command-coins/), 2. [Copper to Poison](/2020/11/13/copper-to-poison/), 3. [Metal to Flame](/2020/11/13/metal-to-flame/), 4. [Loan](/2020/11/13/loan/),
+- Roll 1D4, you gain the following spell: 1. [Command Coins](/2020/11/13/command-coins/), 2. [Copper to Poison](/2020/11/13/copper-to-poison/), 3. [Metal to Flame](/2020/11/13/metal-to-flame/), 4. [Loan](/2020/11/13/loan/)
 ###### *From Loch's [Ploutocrat](https://nothicseye.blogspot.com/2023/02/the-root-of-all-evil-wizard-school.html)!*
 </details>
 
@@ -999,7 +999,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Ivory silk with writing on each band. Big gem cut like an eye on the forehead.*
 - You recover SD on a roll of 1 to 4 if you are in complete silence and undisturbed while you cast your spell.
 - You can lift man-sized objects that are 10' away for each time you study this book.
-- Roll 1D4, you gain the following spell: 1. [Brain Burst](/2020/11/13/brain-burst/), 2. [Link Fate](/2020/11/13/link-fate/), 3. [Swap Senses](/2020/11/13/swap-senses/), 4. [Telepathy](/2020/11/13/telepathy/),
+- Roll 1D4, you gain the following spell: 1. [Brain Burst](/2020/11/13/brain-burst/), 2. [Link Fate](/2020/11/13/link-fate/), 3. [Swap Senses](/2020/11/13/swap-senses/), 4. [Telepathy](/2020/11/13/telepathy/)
 ###### *From Shadowfray's [Psion](https://impulsivenecromancy.blogspot.com/2023/10/the-psion.html)!*
 </details>
 
@@ -1008,7 +1008,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Gold. Featurless unless thrown in a flame, which makes writing appear.*
 - You regain 1 lost Spell Die when you kill a creature with a language.
 - For each time you study this book, you forge a ring that that allows its wearer to casts one of your spells with one Spell Die. You always know where the ring bearer is and it is [charmed](/2020/11/09/base-rules/) by you.
-- Roll 1D4, you gain the following spell: 1. [Disintegrate](/2020/11/13/disintegrate/), 2. [Dominate](/2020/11/13/dominate/), 3. [Implant Idea](/2020/11/13/implant-idea/), 4. [Shroud](/2020/11/13/shroud/),
+- Roll 1D4, you gain the following spell: 1. [Disintegrate](/2020/11/13/disintegrate/), 2. [Dominate](/2020/11/13/dominate/), 3. [Implant Idea](/2020/11/13/implant-idea/), 4. [Shroud](/2020/11/13/shroud/)
 ###### *From Kachow's [Ring Bearer](https://yourmindthen.blogspot.com/2023/06/glog-class-ring-bearer.html)!*
 </details>
 
@@ -1017,7 +1017,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Sepia grimoire with a vitruvius man on the cover.*
 - You gain a 1 HD [golem.](/monsters/golem-stone) It inflicts 1D4 damage with its fists. Each time you study this book, repair it, increase its HD and armor by 1, and its fists' damage die by one size.
 - You can graft one weapon and tool into golems you own each time you rest. The golem becomes skilled with this tool and can have as many at a time as times you studied this book.
-- Roll 1D4, you gain the following spell: 1. [Circle of Protection](/2020/11/12/circle-of-protection/), 2. [Dust to Water](/2020/11/13/dust-to-water/), 3. [The Ten Wards](/2020/11/13/the-ten-wards/), 4. [Wall of Stone](/2020/11/13/wall-of-stone/),
+- Roll 1D4, you gain the following spell: 1. [Circle of Protection](/2020/11/12/circle-of-protection/), 2. [Dust to Water](/2020/11/13/dust-to-water/), 3. [The Ten Wards](/2020/11/13/the-ten-wards/), 4. [Wall of Stone](/2020/11/13/wall-of-stone/)
 ###### *From lprictorez's [Sofer](https://thebestplaceholder.blogspot.com/2023/07/glog-sofer-golem-priest-class.html)!*
 </details>
 
@@ -1026,7 +1026,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Small and thin. Beautifully illustrated with irridescent watercolours.*
 - When someone is in trouble within your hex of you and has no one else to help them, you know exactly where they are, and how to get to them. When you are trying to get to a person in need, your speed of movement and rolls to overcome physical obstacles/dire weather/magical barriers cannot be disadvantaged, and attacks made against you as you move have disadvantage to hit you.
 - For each time you study this book, name a different friend and add it to your Psyche, you have 1 armor per friend in your psyche when not wearing armor.
-- Roll 1D4, you gain the following spell: 1. [Life Crescendo](/2020/11/13/life-crescendo/), 2. [Moonlust](/2020/11/13/moon-lust/), 3. [Star Concerto](/2020/11/13/star-concerto/), 4. [Wish](/2020/11/13/wish/),
+- Roll 1D4, you gain the following spell: 1. [Life Crescendo](/2020/11/13/life-crescendo/), 2. [Moonlust](/2020/11/13/moon-lust/), 3. [Star Concerto](/2020/11/13/star-concerto/), 4. [Wish](/2020/11/13/wish/)
 ###### *From The Bottomless Sarccophagus's [Sorcerer](https://bottomlesssarcophagus.blogspot.com/2023/05/sorcerer-afterword.html)!*
 </details>
 
@@ -1035,7 +1035,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Archetypal grimoire. Two big expressive salamander eyes on the spine.*
 - By spending 3 rations and 1 Spell Dice, you can make a vial of [Disitlled Magic](/2024/01/01/distilled-magic/).
 - For each time you study this book, you can change one word in one of your spells.
-- Roll 1D4, you gain the following spell: 1. [Edit Spell](/2020/11/13/edit-spell/), 2. [Maleficence](/2020/11/13/maleficence/), 3. [Object Reading](/2020/11/13/object-reading/), 4. [Scry](/2020/11/13/scry/),
+- Roll 1D4, you gain the following spell: 1. [Edit Spell](/2020/11/13/edit-spell/), 2. [Maleficence](/2020/11/13/maleficence/), 3. [Object Reading](/2020/11/13/object-reading/), 4. [Scry](/2020/11/13/scry/)
 ###### *From TheisiticGilthoniel's [Sorcerer](https://pilgrimtemple.blogspot.com/2023/08/hypogeum-classes-revised.html)!*
 </details>
 
@@ -1053,7 +1053,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Published by the Order of the Hamsa.*
 - You can take 10 minutes to ward a corpse from spirits and magic.
 - For each time you study this book, you can add a dead body you reclaimed as one of your followers. It is not undead, but you can speak to it and benefit from its knowledge and observations. Dead bodies have the same senses as living bodies.
-- Roll 1D4, you gain the following spell: 1. [Calm Emotions](/2020/11/13/calm-emotions/), 2. [Extract Memory](/2020/11/13/extract-memory/), 3. [Life Channel](/2020/11/13/life-channel/), 4. [Occult Consultation](/2020/11/13/occult-consultation/),
+- Roll 1D4, you gain the following spell: 1. [Calm Emotions](/2020/11/13/calm-emotions/), 2. [Extract Memory](/2020/11/13/extract-memory/), 3. [Life Channel](/2020/11/13/life-channel/), 4. [Occult Consultation](/2020/11/13/occult-consultation/)
 ###### *From The Lawful Neutral's [Reclaimer](https://www.unlawful.games/2023/11/glog-class-the-reclaimer.html)!*
 </details>
 
@@ -1073,7 +1073,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *On grid paper. The sheet float around you when open.*
 - You can conjure a 5*10 floating metal panel with 5hp and 3 armor. You can only have one such panel summoned at a time.
 - You can lift man-sized objects that are 10' away for each time you study this book.
-- Roll 1D4, you gain the following spell: 1. [Levitation](/2020/11/13/levitation/), 2. [Telekinetic Burst](/2020/11/13/telekinetic-burst/), 3. [Sturdy Circle](/2020/11/13/sturdy-circle/), 4. [Orbit](/2020/11/13/orbit/),
+- Roll 1D4, you gain the following spell: 1. [Levitation](/2020/11/13/levitation/), 2. [Telekinetic Burst](/2020/11/13/telekinetic-burst/), 3. [Sturdy Circle](/2020/11/13/sturdy-circle/), 4. [Orbit](/2020/11/13/orbit/)
 ###### *From DualJay's [Wizard of Trine](https://journeymungandr.bearblog.dev/heroes-of-trine-the-wizard/)!*
 </details>
 
@@ -1082,6 +1082,6 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Frowned upon by other wizards. Manifesto of the Contrathaumic Crusade.*
 - You can shape spell effects like clay.
 - For each time you study this book, you reduce magical damage you take by 1.
-- Roll 1D4, you gain the following spell: 1. [Plasmic Manipulation](/2020/11/13/plasmic-manipulation/), 2. [Plasmic Key](/2020/11/13/plasmic-key/), 3. [Unbreak](/2020/11/13/unbreak/), 4. [Unmake](/2020/11/13/unmake/),
+- Roll 1D4, you gain the following spell: 1. [Plasmic Manipulation](/2020/11/13/plasmic-manipulation/), 2. [Plasmic Key](/2020/11/13/plasmic-key/), 3. [Unbreak](/2020/11/13/unbreak/), 4. [Unmake](/2020/11/13/unmake/)
 ###### *From Mavell Duceau's [Wizzin't](https://oneeyetotheanchor.blogspot.com/2023/04/reality-asserts-itself-glog-class-wiznt.html)!*
 </details>

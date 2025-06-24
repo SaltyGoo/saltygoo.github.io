@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: article
-title: Hexcrawling
+title: Hexcrawling (Base rules)
 ---
 
 Rules and design notes for the [**Baldur's Gate I Hexcrawl**](https://saltygoo.github.io/2024/12/31/BGHex/). Some encounters will be trivial, others deadly. Both are boring if limited to a battle. Make such encounters interesting by transforming them into survival or roleplay moments.

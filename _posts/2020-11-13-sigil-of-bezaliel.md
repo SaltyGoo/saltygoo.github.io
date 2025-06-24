@@ -12,7 +12,7 @@ Bezaliel will make you invisible in darkness for [dice] hours.
 
 Bezaliel will make you immune to scrying of all kinds for [dice] hours. 
 
-Bezaliel will give you [dice] doom points if you are famous in any way. 
+Bezaliel will give you [dice] [doom points](/list/spell-catastrophe) if you are famous in any way. 
 
 ###### Symbol + Angel
 ###### From The Nothic's Eye [Angelist](https://nothicseye.blogspot.com/2023/06/who-does-not-understand-class.html)

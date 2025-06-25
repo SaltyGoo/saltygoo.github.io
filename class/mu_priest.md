@@ -191,7 +191,7 @@ _(without spells)_
 
 <details markdown="1">
 <summary><b>Translate the Sacred Books</b></summary>
--You have a resource called Big Questions (BQ) that starts at 0. When you encounter something truly mysterious or confounding, increase your BQ by 1 and write down a question about it. When you spend time in an archive or with eminent scholars, roll a d6. If the result is less than or equal to your BQ, reduce your BQ by 1 and answer one of your questions.
+- You have a resource called Big Questions (BQ) that starts at 0. When you encounter something truly mysterious or confounding, increase your BQ by 1 and write down a question about it. When you spend time in an archive or with eminent scholars, roll a d6. If the result is less than or equal to your BQ, reduce your BQ by 1 and answer one of your questions.
 - You can choose an additional skill from the priest class.
 ##### From Vivanter's unpublished [Sage](https://mediumsandmessages.bearblog.dev/blog/)
 </details>

@@ -81,7 +81,7 @@
 
             if (selectedValue1 || selectedValue2) {
                 // Load the CSV file
-                $.get("/CSV/Monster - Index2.csv", function(data) {
+                $.get("/CSV/Monster - Index.csv", function(data) {
                     // Parse the CSV data
                     Papa.parse(data, {
                         header: true,

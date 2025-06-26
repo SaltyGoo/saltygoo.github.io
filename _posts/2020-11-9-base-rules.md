@@ -104,6 +104,8 @@ If you recover from dying, you gain a **Scar**. If you die, all your companions 
 
 <ins>**Traumas:**</ins> Traumas take psyche slots and can only be removed through risking your own life for one of your beliefs. Note what caused the trauma. As long as you have it, you have disadvantage against that thing.
 
+_If you ever mutate, it takes an inventory slot. If you are ever cursed, it takes a psyche slot. Either can only be removed through magic._
+
 <ins>**Healing:**</ins> A 8 hours rest heals all HP losses and consumes 1 ration for the team. Resting requires shelter and heat.
 
 <details markdown="1">

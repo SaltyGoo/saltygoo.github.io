@@ -33,12 +33,13 @@ It **resists** everything (because it’s a divine servant). It **cannot** see, 
 
 <ins>Tail Swipe</ins>. The chaos eater makes a melee attack against a target it hasn't attacked this turn (1D6) and knocks it back nearby.
 
+<br> 
+
 <details markdown="1">
 <summary>Celestial Pact</summary>
-You cannot communicate with a Chaos Eater, but you can accomplish its desire by making a pact with it. The price of breaking a pact is always your soul.
-
+Evil celestials give the reward and the quest at the same time, then try to make accomplishing the quest impossible within the decided time frame. Good celestials give a quest first and the reward upon completion. The price of breaking a pact is always your soul.
+ 
 **Reward:**
-A chaos eater reward always includes freedom from its [curse](/2024/01/01/chaos-eater-curse/).
 
 1. Cleansing of all scars and mutations.
 1. The ability to smell chaos.
@@ -56,6 +57,8 @@ A chaos eater reward always includes freedom from its [curse](/2024/01/01/chaos-
 1. Correct a timeline error.
 1. Ensure the coronation of a specific heir.
 </details>
+
+<br> 
 
 ---
 

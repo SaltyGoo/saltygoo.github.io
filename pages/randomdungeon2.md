@@ -9,8 +9,8 @@
     <h1>Random Dungeon Generator</h1>
  
      <!-- Dropdown Menu -->
-    <label for="dropdown">Select Biome I:</label>
-    <select id="climate1">
+<label for="climate1">Select Biome I:</label>
+<select id="climate1">
         <option value="Arctic">Cold</option>
         <option value="Desert">Desert</option>
         <option value="Wood">Forest</option>
@@ -33,9 +33,9 @@
         <option value="Fire">Elemental Fire</option>
         <option value="Water">Elemental Water</option>																	
     </select>
-
-        <label for="dropdown">and Biome II:</label>
-    <select id="climate2">
+    
+      <label for="climate2">and Biome II:</label>
+      <select id="climate2">
         <option value="Arctic">Cold</option>
         <option value="Desert">Desert</option>
         <option value="Wood">Forest</option>
@@ -137,7 +137,7 @@
                                     if (row[Object.keys(row)[0]] === randomMonster) {
                                         var featureLabel = results.meta.fields[index];
                                         var featureContent = row[featureLabel] || "Unknown";
-                                        dungeonFeatures += featureContent + "<br>";
+                                        dungeonFeatures += featureContent + " ";
                                     }
                                 });
                             });
@@ -150,7 +150,7 @@
                                         var randomField = results.meta.fields[randomIndex]; // get field name
                                         var randomText = row[randomField] || "Unknown";
                                         var omen = row["OMEN"] || "No omen";
-                                        encounterTable.push(randomText + " / omen: " + omen);                 
+                                        encounterTable.push(randomText + " <br> OMEN: " + omen);                 
                                                                     }
                                 });
                             });
@@ -175,7 +175,7 @@
     const size = sizeOptions[Math.floor(Math.random() * sizeOptions.length)];
     const nextCol1 = results.meta.fields[featureColIndex + 1] || "";
     const nextCol2 = results.meta.fields[featureColIndex + 2] || "";
-    roomContent += size + " " + (primaryRow[nextCol1] || "") + " - " + (primaryRow[nextCol2] || "") + "<br><br>";
+    roomContent += size + " " + (primaryRow[nextCol1] || "") + " " + (primaryRow[nextCol2] || "") + "<br><br>";
 
     // Step 3: Two from BC–BF (53–56), then 3 from BC–BF (2x) and BG–BI (1x) from other rows
     const minorCols1 = [53, 54, 55, 56]; // BC to BF

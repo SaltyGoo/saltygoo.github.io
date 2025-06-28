@@ -281,7 +281,7 @@ if (Math.random() < 0.5) {
 
                             // Display the encounter table and dungeon rooms content
                              var encounterContent = dungeonFeatures 
-                                 + "<br><strong>Monster Encounter Table</strong><br><ol><li>" 
+                                 + "<br><br><strong>Monster Encounter Table</strong><br><ol><li>" 
                                  + encounterTable.join("</li><li>") 
                                  + "</li></ol><br><br><strong>Dungeon Rooms</strong><br><br>" 
                                  + dungeonRoomsContent;

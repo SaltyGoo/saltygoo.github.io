@@ -2,11 +2,12 @@
   <head>
     <meta charset="UTF-8">
     <title>Random Dungeon Generator</title>
-    <script src="/scripts/randomwords.js"></script> 
-
   </head>
   <body>
-    <h1>Random Dungeon Generator</h1>
+
+<script src="/scripts/randomwords.js"></script> 
+
+<h1>Random Dungeon Generator</h1>
  
      <!-- Dropdown Menu -->
 <label for="climate1">Select Biome I:</label>

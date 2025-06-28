@@ -38,6 +38,15 @@ This creature is a living pile of gravel and is thus **only affected** by things
 
 <ins>Burst of Flame</ins>. The mephit explodes, killing itself and setting a small area ablaze (1D4 dmg, save for half).
 
+<br>
+
+---
+
+## Encounter
+
+**Number** : 1D8 <span style="display: inline-block; width:30px"></span>
+**Lair** : Fire Pits <span style="display: inline-block; width:30px"></span>
+**Desire** : Fuel & Thrill
 
 <br>
 <details markdown="1">
@@ -57,24 +66,6 @@ If you have captured this elemental, you can spend the equivalent of 1 [bag of g
 
 If you roll a Catastrophe, the elemental is released and hostile, and you lose the Spell Dice.
 </details>
-
-<br>
-
----
-
-**Number** : 1D8 <span style="display: inline-block; width:30px"></span>
-**Lair** : Fire Pits <span style="display: inline-block; width:30px"></span>
-**Desire** : Fuel & Thrill
-
-<button id="room-btn">Generate Lair Room</button>
-<p id="RoomResult">A basic dungeon thematic room.</p>
-
-<button id="generate-btn">Generate Random Omen</button>
-<p id="RoamResult">To fill a dungeon room.</p>
-
-<button onclick="generateMood()">Generate Random Action</button>
-<p id="MoodResult">What it is doing.</p>
-<script src="/scripts/generateMood.js"></script>
 
 ---
 

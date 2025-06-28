@@ -137,7 +137,7 @@
                             }
                           
                             // Generate Dungeon Features (each from a different random monster)
-                            var dungeonFeatures = "<br><strong>Dungeon Features</strong><br>";
+                            var dungeonFeatures = "<br><strong>General Dungeon Features</strong><br>";
                             var featureIndices = [32, 33, 34, 35]; // AG to AJ
 
                             featureIndices.forEach(function(index) {
@@ -285,7 +285,7 @@
 
                             // Display the encounter table and dungeon rooms content
                             var encounterContent = dungeonFeatures 
-                             + "<br><strong>Monster Encounter Table</strong><br><ol><li>" 
+                             + "<br><br><strong>Monster Encounter Table</strong><br><ol><li>" 
                              + encounterTable.join("</li><li>") 
                              + "</li></ol><br><br><strong>Dungeon Rooms</strong><br><br>" 
                              + dungeonRoomsContent;

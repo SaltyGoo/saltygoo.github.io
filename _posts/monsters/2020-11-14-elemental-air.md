@@ -36,6 +36,16 @@ This creature is living wind and is thus **only affected by** things that would 
 <ins>Create Wind</ins> (X/day). The elemental creates strong winds in a 20' cube which lasts X minutes. In that zone, moving is harder and missiles inflict half damage.
 
 <br>
+
+---
+
+## Encounter
+
+**Number** : 1 <span style="display: inline-block; width:30px"></span>
+**Lair** : Arcane Maestrom <span style="display: inline-block; width:30px"></span>
+**Desire** : Fly & Move things
+
+<br>
 <details markdown="1">
 <summary style="font-weight: bold;">Harness Its Energy</summary>
 If you have captured this elemental, you can spend the equivalent of 3 [bags of gold](/2024/06/26/currency/) in a magical laboratory between two adventures to bind it to your soul. If you do so, you ...
@@ -53,24 +63,6 @@ If you have captured this elemental, you can spend the equivalent of 3 [bags of 
 
 If you roll a Catastrophe, the elemental is released and hostile, and you lose the Spell Dice.
 </details>
-
-<br>
-
----
-
-**Number** : 1 <span style="display: inline-block; width:30px"></span>
-**Lair** : Arcane Maestrom <span style="display: inline-block; width:30px"></span>
-**Desire** : Fly & Move things
-
-<button id="room-btn">Generate Lair Room</button>
-<p id="RoomResult">A basic dungeon thematic room.</p>
-
-<button id="generate-btn">Generate Random Omen</button>
-<p id="RoamResult">To fill a dungeon room.</p>
-
-<button onclick="generateMood()">Generate Random Action</button>
-<p id="MoodResult">What it is doing.</p>
-<script src="/scripts/generateMood.js"></script>
 
 ---
 

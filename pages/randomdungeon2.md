@@ -192,7 +192,7 @@
     const nextCol2 = results.meta.fields[featureColIndex + 2] || "";
     console.log("Room size:", size, "| Next cols:", nextCol1, primaryRow[nextCol1], "|", nextCol2, primaryRow[nextCol2]);
 
-    roomContent += size + " " + (primaryRow[nextCol1] || "") + " - " + (primaryRow[nextCol2] || "") + "<br><br>";
+    roomContent += size + " " + (primaryRow[nextCol1] || "") + " " + (primaryRow[nextCol2] || "") + "<br><br>";
 
     // Step 3: Minor room details
     const minorCols1 = [53, 54, 55, 56]; // BC to BF

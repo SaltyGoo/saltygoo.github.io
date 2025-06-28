@@ -34,6 +34,15 @@ This creature is a living pile of gravel and is thus **only affected** by things
 <ins>Enlarge</ins> (1/day).  The mephit becomes as big as a human for 10 minutes. Its damage increase by 1 dice size and it gains 1D8 temporary HP.
 
 <br>
+
+
+---
+
+**Number** : 1D8 <span style="display: inline-block; width:30px"></span>
+**Lair** : Gravel Pits <span style="display: inline-block; width:30px"></span>
+**Desire** : Bury Things & Prevent Change
+
+<br>
 <details markdown="1">
 <summary style="font-weight: bold;">Harness Its Energy</summary>
 If you have captured this elemental, you can spend the equivalent of 1 [bag of gold](/2024/06/26/currency/) in a magical laboratory between two adventures to bind it to your soul. If you do so, you ...
@@ -52,25 +61,6 @@ If you have captured this elemental, you can spend the equivalent of 1 [bag of g
 If you roll a Catastrophe, the elemental is released and hostile, and you lose the Spell Dice.
 </details>
 
-<br>
-
-
----
-
-**Number** : 1D8 <span style="display: inline-block; width:30px"></span>
-**Lair** : Gravel Pits <span style="display: inline-block; width:30px"></span>
-**Desire** : Bury Things & Prevent Change
-
-<button id="room-btn">Generate Lair Room</button>
-<p id="RoomResult">A basic dungeon thematic room.</p>
-
-<button id="generate-btn">Generate Random Omen</button>
-<p id="RoamResult">To fill a dungeon room.</p>
-
-<button onclick="generateMood()">Generate Random Action</button>
-<p id="MoodResult">What it is doing.</p>
-<script src="/scripts/generateMood.js"></script>
-
 ---
 
 **Conjure Earth Mephit** <br>
@@ -78,29 +68,3 @@ R: self 
 
 When casting the spell you must prepare a statement with up to [sum] words. [sum] gravel mephits are then summoned and redirected to an object of your choice across any plane. The mephits will try to bury the object and engrave the message on the cairn. The mephits can bury the volume equivalent of [dice] humans.
  
- <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script>
-      $(document).ready(function() {
-        function generateResult(buttonId, resultId, columnRangeStart, columnRangeEnd) {
-          $(buttonId).click(function() {
-            var searchValue = "0007"; // Change this to the actual value you need
-
-            $.get("/CSV/Monster - Index.csv", function(data) {
-              var rows = data.split("\n").slice(1);
-              var matchingRows = rows.filter(function(row) {
-                var columns = row.split(",");
-                return columns[0] === searchValue;
-              });
-
-              var selectedRow = matchingRows[Math.floor(Math.random() * matchingRows.length)];
-              var selectedCell = selectedRow.split(",")[Math.floor(Math.random() * (columnRangeEnd - columnRangeStart + 1)) + columnRangeStart];
-
-              $(resultId).html(selectedCell); // Use .html() to insert HTML content
-            });
-          });
-        }
-
-        generateResult("#room-btn", "#RoomResult", 38, 43);
-        generateResult("#generate-btn", "#RoamResult", 3, 8);
-      });
-    </script>

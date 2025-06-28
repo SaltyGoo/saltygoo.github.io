@@ -10,25 +10,4 @@
         'rdmSIZE': ['', 'GIANT'],
         'rdmNOBLE': ['BARON', 'BARONNESS', 'PRINCE', 'PRINCESS', 'KING', 'QUEEN', 'DUKE', 'DUCHESS', 'MARQUIS', 'MARCHIONESS', 'ARCHBISHOP', 'COUNT', 'COUNTESS', 'BARONNESS', 'EMPEROR', 'EMPRESS', 'PRINCE-ELECTOR'],
     };
-
-    function applyReplacements(text) {
-        let replacedText = text;
-        let iterations = 0;
-        const maxIterations = 10;
-        while (iterations < maxIterations) {
-            let changed = false;
-            for (const [key, values] of Object.entries(replacements)) {
-                const regex = new RegExp(key, 'g');
-                if (regex.test(replacedText)) {
-                    replacedText = replacedText.replace(regex, () => {
-                        return values[Math.floor(Math.random() * values.length)];
-                    });
-                    changed = true;
-                }
-            }
-            if (!changed) break;
-            iterations++;
-        }
-        return replacedText;
-    }
 </script>

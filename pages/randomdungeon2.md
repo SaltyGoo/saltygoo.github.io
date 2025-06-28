@@ -5,8 +5,6 @@
   </head>
   <body>
 
-<script src="/scripts/randomwords.js"></script> 
-
 <h1>Random Dungeon Generator</h1>
  
      <!-- Dropdown Menu -->
@@ -73,6 +71,8 @@
 
     <!-- PapaParse library (for parsing CSV) -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+
+<script src="/scripts/randomwords.js"></script> 
 
 <script>
     $(document).ready(function() {

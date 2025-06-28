@@ -244,8 +244,8 @@ if (Math.random() < 0.5) {
     }
 }
 
-    // Step 5: Loot (67% chance)
-    if (Math.random() < 0.67) {
+    // Step 5: Loot (80% chance)
+    if (Math.random() < 0.8) {
         roomContent += "<u>Loot:</u> ";
         const lootIndices = [61, 62, 63]; // BJ, BK, BL
 

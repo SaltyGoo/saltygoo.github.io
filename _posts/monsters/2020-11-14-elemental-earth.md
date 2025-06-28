@@ -33,6 +33,14 @@ This creature is living earth and is thus **only affected** by things that would
 
 <ins>Create Rock</ins> (X/day). The elemental creates a X' boulder which it can throw as a ranged attack (XD4 damage). It inflicts double damage to immobile targets.
 
+<br>
+
+---
+## Encounter
+
+**Number** : 1 <span style="display: inline-block; width:30px"></span>
+**Lair** :  Ever-shifting rocks <span style="display: inline-block; width:30px"></span>
+**Desire** : Sleep & Flatten things
 
 <br>
 <details markdown="1">
@@ -52,23 +60,6 @@ If you have captured this elemental, you can spend the equivalent of 3 [bags of 
 If you roll a Catastrophe, the elemental is released and hostile, and you lose the Spell Dice.
 </details>
 
-<br>
-
----
-
-**Number** : 1 <span style="display: inline-block; width:30px"></span>
-**Lair** :  Ever-shifting rocks <span style="display: inline-block; width:30px"></span>
-**Desire** : Sleep & Flatten things
-
-<button id="room-btn">Generate Lair Room</button>
-<p id="RoomResult">A basic dungeon thematic room.</p>
-
-<button id="generate-btn">Generate Random Omen</button>
-<p id="RoamResult">To fill a dungeon room.</p>
-
-<button onclick="generateMood()">Generate Random Action</button>
-<p id="MoodResult">What it is doing.</p>
-<script src="/scripts/generateMood.js"></script>
 
 ---
 

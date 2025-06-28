@@ -35,6 +35,14 @@ It **resists** everything (because it’s a divine servant). It **cannot** see, 
 
 <br> 
 
+---
+
+## Encounter
+
+**Number** : 2 <span style="display: inline-block; width:30px"></span>
+**Lair** : A vault from the future <span style="display: inline-block; width:30px"></span>
+**Desire** : Eat chaos.
+
 <details markdown="1">
 <summary>Celestial Pact</summary>
 Evil celestials give the reward and the quest at the same time, then try to make accomplishing the quest impossible within the decided time frame. Good celestials give a quest first and the reward upon completion. The price of breaking a pact is always your soul.
@@ -59,50 +67,3 @@ Evil celestials give the reward and the quest at the same time, then try to make
 </details>
 
 <br> 
-
----
-
-## The Lair
-
-**Number** : 2 <span style="display: inline-block; width:30px"></span>
-**Lair** : A vault from the future <span style="display: inline-block; width:30px"></span>
-**Desire** : Eat chaos.
-
-<button id="room-btn">Generate Lair Room</button>
-<p id="RoomResult">A basic dungeon thematic room.</p>
-
-<button id="generate-btn">Generate Random Omen</button>
-<p id="RoamResult">To fill a dungeon room.</p>
-
-<button onclick="generateMood()">Generate Random Action</button>
-<p id="MoodResult">What it is doing.</p>
-<script src="/scripts/generateMood.js"></script>
-
-<br>
-
- <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script>
-      $(document).ready(function() {
-        function generateResult(buttonId, resultId, columnRangeStart, columnRangeEnd) {
-          $(buttonId).click(function() {
-            var searchValue = "0037"; // Change this to the actual value you need
-
-            $.get("/CSV/Monster - Index.csv", function(data) {
-              var rows = data.split("\n").slice(1);
-              var matchingRows = rows.filter(function(row) {
-                var columns = row.split(",");
-                return columns[0] === searchValue;
-              });
-
-              var selectedRow = matchingRows[Math.floor(Math.random() * matchingRows.length)];
-              var selectedCell = selectedRow.split(",")[Math.floor(Math.random() * (columnRangeEnd - columnRangeStart + 1)) + columnRangeStart];
-
-              $(resultId).html(selectedCell); // Use .html() to insert HTML content
-            });
-          });
-        }
-
-        generateResult("#room-btn", "#RoomResult", 38, 43);
-        generateResult("#generate-btn", "#RoamResult", 3, 8);
-      });
-    </script>

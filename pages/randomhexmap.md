@@ -12,8 +12,8 @@
     <button id="generate-button">Generate Text</button>
     <div id="output"></div>
 
-    <script src="/scripts/randomwords.js"></script>
-    
+     <script src="/scripts/randomwords.js"></script>
+
     <script>
        // Wrap the whole code in an async function
       (async function() {

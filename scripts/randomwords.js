@@ -8,6 +8,11 @@
         'rdmWATER': ['the PLANE OF WATER', 'the PLANE OF STEAM', 'the PLANE OF OOZE', 'the PLANE OF COLD'],
         'rdmSIZE': ['', 'GIANT'],
         'rdmNOBLE': ['BARON', 'BARONNESS', 'PRINCE', 'PRINCESS', 'KING', 'QUEEN', 'DUKE', 'DUCHESS', 'MARQUIS', 'MARCHIONESS', 'ARCHBISHOP', 'COUNT', 'COUNTESS', 'BARONNESS', 'EMPEROR', 'EMPRESS', 'PRINCE-ELECTOR'],
+        'rdmWEAPON': ['sword', 'axe', 'hammer', 'spear', 'club', 'axe', 'dagger', 'halberd', 'bow', 'crossbow', 'sling', 'pistol', 'staff', 'scepter', 'gauntlet'],
+        'rdmARMOR': ['breastplate', 'helmet', 'shield'],
+        'rdmJEWEL': ['ring', 'necklace', 'tiara', 'bracelet', 'earings', 'brooch'],
+        'rdmRm': ['outdoor space.', 'natural cave.', 'built room.'],
+ 
     };
 
     function applyReplacements(text) {

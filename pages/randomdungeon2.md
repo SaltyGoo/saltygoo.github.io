@@ -81,7 +81,8 @@
             var selectedValue1 = $("#climate1").val();
             var selectedValue2 = $("#climate2").val();
             console.log("Selected Climate 1:", selectedValue1);
-          
+            console.log("Selected Climate 2:", selectedValue2);
+
             if (selectedValue1 || selectedValue2) {
                 $.get("/CSV/Monster - Index2.csv", function(data) {
                     Papa.parse(data, {
@@ -91,23 +92,21 @@
                             var uniqueRandomValues2 = [];
                             var encounterTable = [];
                             var dungeonRoomsContent = "";
-                          
+
                             function getRandomValues(selectedValue) {
                                 var filteredValues = [];
                                 var columnIndex = results.meta.fields.indexOf(selectedValue);
                                 console.log("Column index for", selectedValue, ":", columnIndex);
 
-
-                               if (columnIndex !== -1) {
+                                if (columnIndex !== -1) {
                                     results.data.forEach(function(row) {
                                         if (row[selectedValue] === "TRUE") {
                                             filteredValues.push(row[Object.keys(row)[0]]);
                                         }
                                     });
                                     console.log("Filtered Values for", selectedValue, ":", filteredValues);
-                                 
-                                    // Randomly select 3 unique values
-                                   var selectedValues = [];
+
+                                    var selectedValues = [];
                                     while (selectedValues.length < 3 && filteredValues.length > 0) {
                                         var randomIndex = Math.floor(Math.random() * filteredValues.length);
                                         selectedValues.push(filteredValues.splice(randomIndex, 1)[0]);
@@ -122,11 +121,10 @@
                             if (selectedValue1) uniqueRandomValues1 = getRandomValues(selectedValue1);
                             if (selectedValue2) uniqueRandomValues2 = getRandomValues(selectedValue2);
 
-                            // Combine the values from both climates
                             var allGeneratedValues = uniqueRandomValues1.concat(uniqueRandomValues2);
                             console.log("All Generated Values:", allGeneratedValues);
 
-                           function getRandomRowFromPool(pool, data) {
+                            function getRandomRowFromPool(pool, data) {
                                 const tries = 10;
                                 for (let i = 0; i < tries; i++) {
                                     const key = pool[Math.floor(Math.random() * pool.length)];
@@ -283,11 +281,15 @@ if (Math.random() < 0.5) {
                             }
 
                             // Display the encounter table and dungeon rooms content
-                            var encounterContent = dungeonFeatures 
-                             + "<br><br><strong>Monster Encounter Table</strong><br><ol><li>" 
-                             + encounterTable.join("</li><li>") 
-                             + "</li></ol><br><br><strong>Dungeon Rooms</strong><br><br>" 
-                             + dungeonRoomsContent;
+                             var encounterContent = dungeonFeatures 
+                                 + "<br><strong>Monster Encounter Table</strong><br><ol><li>" 
+                                 + encounterTable.join("</li><li>") 
+                                 + "</li></ol><br><br><strong>Dungeon Rooms</strong><br><br>" 
+                                 + dungeonRoomsContent;
+
+                            // Apply replacements before rendering
+                            encounterContent = applyReplacements(encounterContent);
+
                             $("#result").html(encounterContent);
                         }
                     });

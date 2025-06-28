@@ -265,7 +265,7 @@ if (Math.random() < 0.5) {
                 if (extraLootRow) {
                     const lootCol = results.meta.fields[lootIndices[Math.floor(Math.random() * lootIndices.length)]];
                     console.log("Extra Loot", i + 2, ":", lootCol, "=", extraLootRow[lootCol]);
-                    roomContent += ", " + (extraLootRow[lootCol] || "");
+                    roomContent += " " + (extraLootRow[lootCol] || "");
                 }
             }
         }

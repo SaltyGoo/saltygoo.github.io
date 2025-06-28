@@ -159,7 +159,7 @@
                                         var randomField = results.meta.fields[randomIndex]; // get field name
                                         var randomText = row[randomField] || "Unknown";
                                         var omen = row["OMEN"] || "No omen";
-                                        encounterTable.push("<b>" + randomText + " </b><br><i>OMEN: " + omen + </i>);                 
+                                        encounterTable.push("<b>" + randomText + " </b><br><i>OMEN: " + omen + "</i>");               
                                                                     }
                                 });
                             });

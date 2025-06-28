@@ -156,7 +156,7 @@
                             allGeneratedValues.forEach(function(value) {
                                 results.data.forEach(function(row) {
                                     if (row[Object.keys(row)[0]] === value) { // Check if the first column matches the generated value
-                                        var randomIndex = Math.floor(Math.random() * (31 - 26 + 1)) + 26; // columns Z (26) to AE (31)
+                                       var randomIndex = Math.floor(Math.random() * (30 - 25 + 1)) + 25; // 25 = Z, 30 = AE
                                         var randomField = results.meta.fields[randomIndex]; // get field name
                                         var randomText = row[randomField] || "Unknown";
                                         var omen = row["OMEN"] || "No omen";

@@ -11,7 +11,7 @@
         'rdmWEAPON': ['sword', 'axe', 'hammer', 'spear', 'club', 'axe', 'dagger', 'halberd', 'bow', 'crossbow', 'sling', 'pistol', 'staff', 'scepter', 'gauntlet'],
         'rdmARMOR': ['breastplate', 'helmet', 'shield'],
         'rdmJEWEL': ['ring', 'necklace', 'tiara', 'bracelet', 'earings', 'brooch'],
-        'rdmRm': ['outdoor space.', 'natural cave.', 'built room.'],
+        'rdmRm': ['outdoor space', 'natural cave', 'built room'],
  
     };
 

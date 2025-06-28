@@ -156,12 +156,12 @@
                             });
 
                             // Generate Dungeon Rooms content
-                         function generateDungeonRoom() {
+                    function generateDungeonRoom() {
     let roomContent = "";
 
     // Step 1: Main Room Feature
-    let primaryRowKey = allGeneratedValues[Math.floor(Math.random() * allGeneratedValues.length)];
-    let primaryRow = results.data.find(r => r[Object.keys(r)[0]] === primaryRowKey);
+    const primaryRow = getRandomRowFromPool(allGeneratedValues, results.data);
+    if (!primaryRow) return "<i>[Room generation failed]</i><br><br>";
 
     const featureCols = [36, 39, 42, 45, 48, 51]; // AK, AN, AQ, AT, AW, AZ
     const featureColIndex = featureCols[Math.floor(Math.random() * featureCols.length)];
@@ -175,63 +175,70 @@
     const size = sizeOptions[Math.floor(Math.random() * sizeOptions.length)];
     const nextCol1 = results.meta.fields[featureColIndex + 1] || "";
     const nextCol2 = results.meta.fields[featureColIndex + 2] || "";
-    roomContent += size + " " + (primaryRow[nextCol1] || "") + " " + (primaryRow[nextCol2] || "") + "<br><br>";
+    roomContent += size + " " + (primaryRow[nextCol1] || "") + " - " + (primaryRow[nextCol2] || "") + "<br><br>";
 
-    // Step 3: Two from BC–BF (53–56), then 3 from BC–BF (2x) and BG–BI (1x) from other rows
+    // Step 3: Two from BC–BF (same row), then 2 from BC–BF and 1 from BG–BI (other rows)
     const minorCols1 = [53, 54, 55, 56]; // BC to BF
-    const minorCols2 = [53, 54, 55, 56]; // another 2 from BC to BF
+    const minorCols2 = [53, 54, 55, 56]; // again BC to BF
     const minorCols3 = [57, 58, 59];     // BG to BI
 
-    // From the same row
     for (let i = 0; i < 2; i++) {
         const col = results.meta.fields[minorCols1[Math.floor(Math.random() * minorCols1.length)]];
         roomContent += (primaryRow[col] || "") + " ";
     }
 
-    // From other rows
     for (let i = 0; i < 2; i++) {
-        let row = results.data.find(r => r[Object.keys(r)[0]] === allGeneratedValues[Math.floor(Math.random() * allGeneratedValues.length)]);
-        const col = results.meta.fields[minorCols2[Math.floor(Math.random() * minorCols2.length)]];
-        roomContent += (row[col] || "") + " ";
-    }
-
-    let otherRow = results.data.find(r => r[Object.keys(r)[0]] === allGeneratedValues[Math.floor(Math.random() * allGeneratedValues.length)]);
-    const col3 = results.meta.fields[minorCols3[Math.floor(Math.random() * minorCols3.length)]];
-    roomContent += (otherRow[col3] || "") + "<br><br>";
-
-    // Step 4: 50% chance Denizens
-   if (denizenRow) {
-    roomContent += "<u>Denizens:</u> " + (denizenRow[denizenCol] || "");
-
-    // 10% chance to add BO
-    if (Math.random() < 0.1) {
-        const boRow = getRandomRowFromPool(allGeneratedValues, results.data);
-        if (boRow) {
-            roomContent += " " + (boRow["BO"] || "");
+        const otherRow = getRandomRowFromPool(allGeneratedValues, results.data);
+        if (otherRow) {
+            const col = results.meta.fields[minorCols2[Math.floor(Math.random() * minorCols2.length)]];
+            roomContent += (otherRow[col] || "") + " ";
         }
     }
 
-    roomContent += "<br><br>";
-} else {
-    roomContent += "<u>Denizens:</u> Unknown<br><br>";
-}
-        roomContent += "<br><br>";
+    const finalRow = getRandomRowFromPool(allGeneratedValues, results.data);
+    if (finalRow) {
+        const col3 = results.meta.fields[minorCols3[Math.floor(Math.random() * minorCols3.length)]];
+        roomContent += (finalRow[col3] || "");
     }
 
-    // Step 5: 33% chance Loot
+    roomContent += "<br><br>";
+
+    // Step 4: 50% chance Denizens
+    if (Math.random() < 0.5) {
+        const denizenRow = getRandomRowFromPool(allGeneratedValues, results.data);
+        if (denizenRow) {
+            const denizenCol = results.meta.fields[60 + Math.floor(Math.random() * 2)]; // BM, BN
+            roomContent += "<u>Denizens:</u> " + (denizenRow[denizenCol] || "");
+
+            if (Math.random() < 0.1) {
+                const boRow = getRandomRowFromPool(allGeneratedValues, results.data);
+                if (boRow) {
+                    roomContent += " " + (boRow["BO"] || "");
+                }
+            }
+
+            roomContent += "<br><br>";
+        }
+    }
+
+    // Step 5: 67% chance Loot
     if (Math.random() < 0.67) {
         roomContent += "<u>Loot:</u> ";
 
         const lootIndices = [63, 64, 65]; // BJ, BK, BL
-        const loot1Row = results.data.find(r => r[Object.keys(r)[0]] === allGeneratedValues[Math.floor(Math.random() * allGeneratedValues.length)]);
-        roomContent += (loot1Row[results.meta.fields[lootIndices[Math.floor(Math.random() * lootIndices.length)]]] || "");
+        const loot1Row = getRandomRowFromPool(allGeneratedValues, results.data);
+        if (loot1Row) {
+            roomContent += (loot1Row[results.meta.fields[lootIndices[Math.floor(Math.random() * lootIndices.length)]]] || "");
+        }
 
         // 15% chance for 2nd and 3rd loot items
         for (let i = 0; i < 2; i++) {
             if (Math.random() < 0.15) {
-                const extraLootRow = results.data.find(r => r[Object.keys(r)[0]] === allGeneratedValues[Math.floor(Math.random() * allGeneratedValues.length)]);
-                const lootCol = results.meta.fields[lootIndices[Math.floor(Math.random() * lootIndices.length)]];
-                roomContent += ", " + (extraLootRow[lootCol] || "");
+                const extraLootRow = getRandomRowFromPool(allGeneratedValues, results.data);
+                if (extraLootRow) {
+                    const lootCol = results.meta.fields[lootIndices[Math.floor(Math.random() * lootIndices.length)]];
+                    roomContent += ", " + (extraLootRow[lootCol] || "");
+                }
             }
         }
 
@@ -240,6 +247,7 @@
 
     return roomContent;
 }
+
 
                             // Repeat Dungeon Room generation 6 times
                             for (var i = 0; i < 6; i++) {

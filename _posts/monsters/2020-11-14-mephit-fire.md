@@ -73,30 +73,3 @@ If you roll a Catastrophe, the elemental is released and hostile, and you lose t
 R: self 
 
 When casting the spell you must prepare a message with up to [sum] words. [sum] fire mephits are then summoned and will each deliver one word of your message to whoever it is intended to, across any plane. The message will be delivered in the most passionate and destructive way possible, damaging [dice] things the target owns.
-
- <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script>
-      $(document).ready(function() {
-        function generateResult(buttonId, resultId, columnRangeStart, columnRangeEnd) {
-          $(buttonId).click(function() {
-            var searchValue = "0001"; // Change this to the actual value you need
-
-            $.get("/CSV/Monster - Index.csv", function(data) {
-              var rows = data.split("\n").slice(1);
-              var matchingRows = rows.filter(function(row) {
-                var columns = row.split(",");
-                return columns[0] === searchValue;
-              });
-
-              var selectedRow = matchingRows[Math.floor(Math.random() * matchingRows.length)];
-              var selectedCell = selectedRow.split(",")[Math.floor(Math.random() * (columnRangeEnd - columnRangeStart + 1)) + columnRangeStart];
-
-              $(resultId).html(selectedCell); // Use .html() to insert HTML content
-            });
-          });
-        }
-
-        generateResult("#room-btn", "#RoomResult", 38, 43);
-        generateResult("#generate-btn", "#RoamResult", 3, 8);
-      });
-    </script>

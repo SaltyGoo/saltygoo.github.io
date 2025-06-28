@@ -200,17 +200,21 @@
     roomContent += (otherRow[col3] || "") + "<br><br>";
 
     // Step 4: 50% chance Denizens
-    if (Math.random() < 0.5) {
-        const denizenRow = results.data.find(r => r[Object.keys(r)[0]] === allGeneratedValues[Math.floor(Math.random() * allGeneratedValues.length)]);
-        const denizenCol = results.meta.fields[60 + Math.floor(Math.random() * 2)]; // BM (60), BN (61)
-        roomContent += "<u>Denizens:</u> " + (denizenRow[denizenCol] || "");
+   if (denizenRow) {
+    roomContent += "<u>Denizens:</u> " + (denizenRow[denizenCol] || "");
 
-        // 10% chance to add BO (62)
-        if (Math.random() < 0.1) {
-            const boRow = results.data.find(r => r[Object.keys(r)[0]] === allGeneratedValues[Math.floor(Math.random() * allGeneratedValues.length)]);
+    // 10% chance to add BO
+    if (Math.random() < 0.1) {
+        const boRow = getRandomRowFromPool(allGeneratedValues, results.data);
+        if (boRow) {
             roomContent += " " + (boRow["BO"] || "");
         }
+    }
 
+    roomContent += "<br><br>";
+} else {
+    roomContent += "<u>Denizens:</u> Unknown<br><br>";
+}
         roomContent += "<br><br>";
     }
 

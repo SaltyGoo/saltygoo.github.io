@@ -38,6 +38,16 @@ This creature is a living pile of gravel and is thus **only affected** by things
 <ins>Burst of Ooze</ins>. The mephit explodes, killing itself and spitting ooze in all direction. Automatic when the mephit dies.
 
 <br>
+
+---
+
+## Encounter
+
+**Number** : 1D8 <span style="display: inline-block; width:30px"></span>
+**Lair** : Mud Bath <span style="display: inline-block; width:30px"></span>
+**Desire** : Pity & Other's Demise
+
+<br>
 <details markdown="1">
 <summary style="font-weight: bold;">Harness Its Energy</summary>
 If you have captured this elemental, you can spend the equivalent of 1 [bag of gold](/2024/06/26/currency/) in a magical laboratory between two adventures to bind it to your soul. If you do so, you ...
@@ -55,24 +65,6 @@ If you have captured this elemental, you can spend the equivalent of 1 [bag of g
 
 If you roll a Catastrophe, the elemental is released and hostile, and you lose the Spell Dice.
 </details>
-
-<br>
-
----
-
-**Number** : 1D8 <span style="display: inline-block; width:30px"></span>
-**Lair** : Mud Bath <span style="display: inline-block; width:30px"></span>
-**Desire** : Pity & Other's Demise
-
-<button id="room-btn">Generate Lair Room</button>
-<p id="RoomResult">A basic dungeon thematic room.</p>
-
-<button id="generate-btn">Generate Random Omen</button>
-<p id="RoamResult">To fill a dungeon room.</p>
-
-<button onclick="generateMood()">Generate Random Action</button>
-<p id="MoodResult">What it is doing.</p>
-<script src="/scripts/generateMood.js"></script>
 
 ---
 

@@ -195,9 +195,9 @@
     roomContent += size + " " + (primaryRow[nextCol1] || "") + " " + (primaryRow[nextCol2] || "") + "<br><br>";
 
     // Step 3: Minor room details
-    const minorCols1 = [53, 54, 55, 56]; // BC to BF
-    const minorCols2 = [53, 54, 55, 56];
-    const minorCols3 = [57, 58, 59];     // BG to BI
+    const minorCols1 = [54, 55, 56, 57]; // BC to BF
+    const minorCols2 = [54, 55, 56, 57];
+    const minorCols3 = [58, 59, 60];     // BG to BI
 
     console.log("Minor Features (same row):");
     for (let i = 0; i < 2; i++) {

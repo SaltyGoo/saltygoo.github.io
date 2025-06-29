@@ -12,7 +12,9 @@
         'rdmARMOR': ['breastplate', 'helmet', 'shield'],
         'rdmJEWEL': ['ring', 'necklace', 'tiara', 'bracelet', 'earings', 'brooch'],
         'rdmRm': ['outdoor space', 'natural cave', 'built room'],
- 
+        'rdmCOIN': ['copper coins', 'silver coins', 'gold coins', 'gems'],
+        'rdmMETAL': ['bronze', 'silver', 'gold', 'crystal', 'platinum', 'mithril'],
+
     };
 
     function applyReplacements(text) {

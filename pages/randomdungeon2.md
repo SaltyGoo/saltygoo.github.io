@@ -196,31 +196,46 @@
     roomContent += "<i>" + size + " " + (primaryRow[nextCol1] || "") + " " + (primaryRow[nextCol2] || "") + "</i><br><br>";
 
     // Step 3: Minor room details
-    const minorCols1 = [54, 55, 56, 57]; // BC to BF
-    const minorCols2 = [54, 55, 56, 57];
-    const minorCols3 = [58, 59, 60];     // BG to BI
+const minorCols1 = [54, 55, 56, 57]; // BC to BF
+const minorCols2 = [54, 55, 56, 57];
+const minorCols3 = [58, 59, 60];     // BG to BI
 
-    console.log("Minor Features (same row):");
-      const colSame = results.meta.fields[minorCols1[Math.floor(Math.random() * minorCols1.length)]];
-      console.log("→", colSame, "=", primaryRow[colSame]);
-      roomContent += (primaryRow[colSame] || "") + " ";
+let usedIndices = new Set();
 
-      console.log("Minor Features (other rows):");
-      const otherRow = getRandomRowFromPool(allGeneratedValues, results.data);
-      const colOther = results.meta.fields[minorCols2[Math.floor(Math.random() * minorCols2.length)]];
-      console.log("→ Other row:", colOther, "=", otherRow?.[colOther]);
-      if (otherRow) {
-          roomContent += (otherRow[colOther] || "") + " ";
-      }
+// Minor Feature 1: Same row
+let colSameIndex = minorCols1[Math.floor(Math.random() * minorCols1.length)];
+usedIndices.add(colSameIndex);
+const colSame = results.meta.fields[colSameIndex];
+console.log("→", colSame, "=", primaryRow[colSame]);
+roomContent += (primaryRow[colSame] || "") + " ";
 
-      const finalRow = getRandomRowFromPool(allGeneratedValues, results.data);
-      const col3 = results.meta.fields[minorCols3[Math.floor(Math.random() * minorCols3.length)]];
-      console.log("→ Final minor feature:", col3, "=", finalRow?.[col3]);
-      if (finalRow) {
+// Minor Feature 2: Other row
+let colOtherIndex;
+do {
+    colOtherIndex = minorCols2[Math.floor(Math.random() * minorCols2.length)];
+} while (usedIndices.has(colOtherIndex));
+usedIndices.add(colOtherIndex);
+const colOther = results.meta.fields[colOtherIndex];
+const otherRow = getRandomRowFromPool(allGeneratedValues, results.data);
+console.log("→ Other row:", colOther, "=", otherRow?.[colOther]);
+if (otherRow) {
+    roomContent += (otherRow[colOther] || "") + " ";
+}
+
+// Minor Feature 3: Final row
+let col3Index;
+do {
+    col3Index = minorCols3[Math.floor(Math.random() * minorCols3.length)];
+} while (usedIndices.has(col3Index));
+usedIndices.add(col3Index);
+const col3 = results.meta.fields[col3Index];
+const finalRow = getRandomRowFromPool(allGeneratedValues, results.data);
+console.log("→ Final minor feature:", col3, "=", finalRow?.[col3]);
+if (finalRow) {
     roomContent += (finalRow[col3] || "");
 }
 
-    roomContent += "<br><br>";
+roomContent += "<br><br>";
 
 // Step 4: Denizens (50% chance)
 if (Math.random() < 0.5) {
@@ -247,30 +262,40 @@ if (Math.random() < 0.5) {
 }
 
     // Step 5: Loot (80% chance)
-    if (Math.random() < 0.8) {
-        roomContent += "<u>Loot:</u> ";
-        const lootIndices = [61, 62, 63]; // BJ, BK, BL
+ if (Math.random() < 0.8) {
+    roomContent += "<u>Loot:</u> ";
+    const lootIndices = [61, 62, 63]; // BJ, BK, BL
 
-        const loot1Row = getRandomRowFromPool(allGeneratedValues, results.data);
-        if (loot1Row) {
-            const lootCol = results.meta.fields[lootIndices[Math.floor(Math.random() * lootIndices.length)]];
-            console.log("Loot 1:", lootCol, "=", loot1Row[lootCol]);
-            roomContent += (loot1Row[lootCol] || "");
+    const seenLoot = new Set();
+
+    // Loot 1
+    const loot1Row = getRandomRowFromPool(allGeneratedValues, results.data);
+    if (loot1Row) {
+        const lootCol = results.meta.fields[lootIndices[Math.floor(Math.random() * lootIndices.length)]];
+        const lootItem = loot1Row[lootCol] || "";
+        if (lootItem && !seenLoot.has(lootItem)) {
+            seenLoot.add(lootItem);
+            roomContent += lootItem;
         }
+    }
 
-        for (let i = 0; i < 2; i++) {
-            if (Math.random() < 0.15) {
-                const extraLootRow = getRandomRowFromPool(allGeneratedValues, results.data);
-                if (extraLootRow) {
-                    const lootCol = results.meta.fields[lootIndices[Math.floor(Math.random() * lootIndices.length)]];
-                    console.log("Extra Loot", i + 2, ":", lootCol, "=", extraLootRow[lootCol]);
-                    roomContent += " " + (extraLootRow[lootCol] || "");
+    // Extra loot (max 2)
+    for (let i = 0; i < 2; i++) {
+        if (Math.random() < 0.15) {
+            const extraLootRow = getRandomRowFromPool(allGeneratedValues, results.data);
+            if (extraLootRow) {
+                const lootCol = results.meta.fields[lootIndices[Math.floor(Math.random() * lootIndices.length)]];
+                const lootItem = extraLootRow[lootCol] || "";
+                if (lootItem && !seenLoot.has(lootItem)) {
+                    seenLoot.add(lootItem);
+                    roomContent += " " + lootItem;
                 }
             }
         }
-
-        roomContent += "<br><br>";
     }
+
+    roomContent += "<br><br>";
+}
 
     return roomContent;
 }

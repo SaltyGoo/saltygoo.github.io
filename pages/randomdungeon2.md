@@ -120,8 +120,9 @@
                             if (selectedValue1) uniqueRandomValues1 = getRandomValues(selectedValue1);
                             if (selectedValue2) uniqueRandomValues2 = getRandomValues(selectedValue2);
 
-                            var allGeneratedValues = uniqueRandomValues1.concat(uniqueRandomValues2);
-                            console.log("All Generated Values:", allGeneratedValues);
+                            // Remove duplicates by converting to a Set and back to an array
+                            var allGeneratedValues = Array.from(new Set(uniqueRandomValues1.concat(uniqueRandomValues2)));
+                            console.log("All Generated Values (unique):", allGeneratedValues);
 
                             function getRandomRowFromPool(pool, data) {
                                 const tries = 10;

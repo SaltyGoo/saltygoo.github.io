@@ -1,4 +1,4 @@
-ID,Monster Name,Count: 14/39,36%,4,5,6,7
+ID,Monster Name,Count: 15/39,38%,4,5,6,7
 0000,,,0000,Rumour has it that there is ,a cave, somewhere in this area that leads to the UNDERDARK. Descent below is complicated by ,the darkness.
 0001,MEPHIT - Flame,FLAME MEPHIT,0001,,an ancient burning altar,,the hot embers that carpet it.
 0002,BAT - Arctic,ARCTIC BAT,0002,,a frozen cave,,the snow blocking the path.
@@ -14,3 +14,4 @@ ID,Monster Name,Count: 14/39,36%,4,5,6,7
 0034,TOMB GUARD,TOMB GUARD,0034,,an ancient tomb,,the <a href='/monsters/tomb-guard'>STATUES</a> protecting the entrance.
 0038,LEMURE,LEMURE,0038,,an abyssal tear,,acidic bile oozing from the walls.
 0039,MANES,MANES,0039,,a source of the Styx,,stygian water erasing all will to live.
+0040,DRAGON - Red,RED DRAGON,0040,,a dragon's den,,the lava pouring out of the walls.

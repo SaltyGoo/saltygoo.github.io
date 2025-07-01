@@ -20,3 +20,7 @@ I classify monsters in 8 thematic categories with some mechanical common thread,
 [Horrors](/list/monsters-aberration) — Mutants and Aliens<br>
 [Humanoids](/list/monsters-humanoid) — People <br>
 [Undeads](/list/monsters-undead) —  Other monsters brought back to life
+
+## By Climate
+
+   <a href="https://saltygoo.github.io/list/urban">City</a> • <a href="https://saltygoo.github.io/list/arctic">Cold Region</a> • <a href="https://saltygoo.github.io/list/desert">Desert</a> • <a href="https://saltygoo.github.io/list/forest">Forest</a> • <a href="https://saltygoo.github.io/list/plains">Grassland</a> •  <a href="https://saltygoo.github.io/list/jungle">Jungle</a> • <a href="https://saltygoo.github.io/list/mountain">Mountain</a> • <a href="https://saltygoo.github.io/list/hills">Rocky Region</a> • <a href="https://saltygoo.github.io/list/sea">Sea</a> • <a href="https://saltygoo.github.io/list/swamp">Swamp</a> • <a href="https://saltygoo.github.io/list/underdark">Underdark</a> • <a href="https://saltygoo.github.io/list/chaos">Chaos</a> • <a href="https://saltygoo.github.io/list/cursed">Cursed</a> • <a href="https://saltygoo.github.io/list/holy">Divine</a> • <a href="https://saltygoo.github.io/list/enchanted">Enchanted</a> • <a href="https://saltygoo.github.io/list/magical">Magic</a> • <a href="https://saltygoo.github.io/list/elemental">Elemental</a> • <a href="https://saltygoo.github.io/list/astral">Astral</a>

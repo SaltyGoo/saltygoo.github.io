@@ -42,7 +42,7 @@
         const cityCSV = await loadCSV('/CSV/Monster - 09_City.csv');
         const seaCSV = await loadCSV('/CSV/Monster - 10_Sea.csv');
         const gateCSV = await loadCSV('/CSV/Monster - 11_Gate.csv');
-        const indexCSV = await loadCSV('/CSV/Monster - Index.csv');
+        const indexCSV = await loadCSV('/CSV/Monster - Index2.csv');
       
       // Create a function to select a random Monster CSV file
       function selectMonsterCSV() {
@@ -91,7 +91,7 @@
     concatenatedText += '<br><br>' + gateText.trim();
   }
 // Replace 4-digit sequences with values from the Index CSV file
-const indexCSVResponse = await fetch('/CSV/Monster - Index.csv');
+const indexCSVResponse = await fetch('/CSV/Monster - Index2.csv');
 const indexCSVText = await indexCSVResponse.text();
 const indexCSVRows = indexCSVText.split('\n');
 
@@ -112,7 +112,7 @@ while (true) {
     let match;
     while ((match = regex.exec(concatenatedText)) !== null) {
       const indexCells = indexRow.split(',');
-      const availableIndexes = Array.from(Array(indexCells.length).keys()).slice(31, 37);
+      const availableIndexes = Array.from(Array(indexCells.length).keys()).slice(27, 32);
       let randomIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
       while (replacedIndexes.has(randomIndex)) {
         randomIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];

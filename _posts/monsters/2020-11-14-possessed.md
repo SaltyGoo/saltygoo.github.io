@@ -21,7 +21,7 @@ _Imagine a normal human. Sweating profusely. In pain. Bruised and sickly body. U
 | **Hit it:** normal  | **Dodge it:** normal  |
 | **Move:** normal, climb normal  |  **Size:** medium | 
 
-The possessed **can** see through all mirrors it has seen since the last moon, and it regenerates 1D6 Hit points per turn. As long as it is possessing a body, the possessing demon **cannot** die. It has the following **weaknesses** that allow it to die :
+The possessed **can** see through all mirrors it has seen since the last moon, and it regenerates 1D6 Hit Points per turn. As long as it is possessing a body, the possessing demon **cannot** die. It has the following **weaknesses** that allow it to die:
 
 - being doused with holy water;
 - being forced to look at its own reflection;

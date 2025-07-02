@@ -1,4 +1,4 @@
-ID,Monster Name,Count: 18/42,43%,4,5,6,7,8,9,10,11,12,13,14,15
+ID,Monster Name,Count: 19/43,44%,4,5,6,7,8,9,10,11,12,13,14,15
 0000,,,0000,This hex holds a CITY known for its,governmental,architecture,and its,,population. Beware of the,CITY GUARD,,when visiting. The city is home to,,and also,
 0005,GRIFFON,GRIFFON,0005,,royal,aviary,,proud,,sky bridges,protecting the palace,,0005,,0005.
 0010,WIZARD,WIZARD,0010,,mysterious,wizard tower,,educated,,magical traps,that a local <a href='/monsters/wizard'>WIZARD</a> summoned,,0010,,0010.
@@ -18,3 +18,4 @@ ID,Monster Name,Count: 18/42,43%,4,5,6,7,8,9,10,11,12,13,14,15
 0035,BOUNTY HUNTER,BOUNTY HUNTER,0035,,lawless,taverns,,rowdy,,snitches,hiding outlaws,,0035,,0035.
 0041,SORCERER,SORCERER,0041,,flying,domes,,magically-gifted,,wild magic zones,dampening magic,,0041,,0041.
 0042,SORCERER - Pyromancer,PYROMANCER,0042,,burned,pyres,,fiery,,torch-bearing crowd,burning buildings,,0042,,0042.
+0043,POSSESSED,POSSESSED,0043,,heretical,traditions,,demon-worshipping,,herbalist guild,serving a possessed rdmNOBLE,,0043,,0043.

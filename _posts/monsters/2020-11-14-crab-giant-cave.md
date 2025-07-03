@@ -15,7 +15,7 @@ title: Crab, Giant Cave
 | -------- | --------|
 | **Hit Points:** 18 | **Armor:** 2  |
 | **Hit it:** normal | **Dodge it:** normal |
-| **Movement:** walk fast, swim & climb normal  |  **Size:** large | 
+| **Movement:** walk fast, swim/climb normal  |  **Size:** large | 
 
 ##### <span class="tooltip" data-tooltip="Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat">→ How to read monster stats</span>
 

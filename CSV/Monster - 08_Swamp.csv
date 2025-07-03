@@ -1,5 +1,5 @@
-ID,Monster Name,Count: 15/36,42%,4,5,6,7,8,9,10,11,12,13,14,15
-0000,,,0000,These,two-hex,SWAMPS are known for their,,,Beware of,rough weather,,there. It is inhabited by,,and also,
+ID,Monster Name,Count: 16/44,36%,4,5,6,7,8,9,10,11,12,13,14,15
+0000,,,0000,These,two-hex,SWAMPS are known for their,,,Beware of,rough weather,,while you travel there. This place is inhabited by,,and also,
 0004,MEPHIT - Mud,MUD MEPHIT,0004,,three-hex,,muddy,baths.,,the mud pits,when you travel by foot,,0004,,0004.
 0009,BAT - Kongamato,KONGAMATO BAT,0009,,four-hex,,isolated,fishing villages.,,the water,at night,,0009,,0009.
 0010,WIZARD,WIZARD,0010,,five-hex,,mysterious,wizard tower.,,magical traps,that a local <a href='/monsters/wizard'>WIZARD</a> summoned,,0010,,0010.
@@ -11,7 +11,8 @@ ID,Monster Name,Count: 15/36,42%,4,5,6,7,8,9,10,11,12,13,14,15
 0025,CULTIST,CULTIST,0025,,,,mystical,monuments.,,pagan idols,that could curse you,,0025,,0025.
 0027,CULTIST - Cannibal,CANNIBAL CULTIST,0027,,,,deceptive,cannibal village.,,the serial killer,near the cemetary,,0027,,0027.
 0028,CULTIST - Pig,PIG CULTIST,0028,,,,dirty,pigsties.,,lurid bacchanalia,defacing the land,,0028,,0028.
-0031,HAG - Night,NIGHT HAG,0031,,,,crooked,cottages.,,old women,near the a <a href='/monsters/hag-night'>WITCH</a>'s cottage,,0031,,0031.
+0031,HAG - Night,NIGHT HAG,0031,,,,crooked,cottages.,,old women,near the <a href='/monsters/hag-night'>WITCH</a>'s cottage,,0031,,0031.
 0032,FISH,GIANT FISH,0032,,,,floating,lake.,,the deep water,in the lakes,,0032,,0032.
 0033,ZOMBIE,ZOMBIE,0033,,,,dismal,cemetary.,,dead bodies,carrying the <a href='/2024/01/01/ZombiePlague'>plague</a>,,0033,,0033.
 0035,BOUNTY HUNTER,BOUNTY HUNTER,0035,,,,rowdy,roadside inn.,,crossroads,distracting you from greedy <a href='/monsters/bounty-hunter'>BOUNTY HUNTERS</a>,,0035,,0035.
+0044,CRAB - GIANT,GIANT CRAB,0044,,,,tidal,underwater caves.,,quicksands,near deep water,,0044,,0044.

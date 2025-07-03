@@ -1,4 +1,4 @@
-ID,Monster Name,Count: 15/39,38%,4,5,6,7,8,9,10,11,12,13,14,15
+ID,Monster Name,Count: 16/44,36%,4,5,6,7,8,9,10,11,12,13,14,15
 0000,,,0000,These ,two,-hex,dark,tunnels,are dangerous because of the,fragile,stalactites,there. They are roamed by,other adventurers,and,other terrifying things.
 0001,MEPHIT - Flame,FLAME MEPHIT,0001,,three,,hot,tunnels to a fire temple,,burning,embers,,0001,,0001.
 0002,BAT - Arctic,ARCTIC BAT,0002,,four,,cold,ice caves,,freezing,snow,,0002,,0002.
@@ -15,3 +15,4 @@ ID,Monster Name,Count: 15/39,38%,4,5,6,7,8,9,10,11,12,13,14,15
 0038,LEMURE,LEMURE,0038,,,,pathetic,bile rivers,,corrosive,bile pools,,0038,,0038.
 0039,MANES,MANES,0039,,,,stygian,ghost river,,memory-draining,water,,0039,,0039.
 0040,DRAGON - Red,RED DRAGON,0040,,,,volcanic,crags,,searing-hot,lava river,,0040,,0040.
+0044,CRAB - GIANT,GIANT CRAB,0044,,,,briny,underground sea,,razor-sharp,barnacles,,0044,,0044.

@@ -1,5 +1,5 @@
-ID,Monster Name,Count: 9/36,25%,4,5,6,7,8,9,10,11,12,13,14,15
-0000,,,0000,This,three-hex,SEA is known for its,bountiful,islands.,Beware of the,rough weather,,when you travel there. It is inhabited by,,and also,
+ID,Monster Name,Count: 10/44,23%,4,5,6,7,8,9,10,11,12,13,14,15
+0000,,,0000,This,three-hex,SEA is known for its,bountiful,islands.,Beware of the,rough weather,,while you travel there. This place is inhabited by,,and also,
 0003,ELEMENTAL - Air,AIR ELEMENTAL,0003,,four-hex,,windy,sky.,,strong winds,tearing sails,,0003,,0003.
 0005,GRIFFON,GRIFFON,0005,,five-hex,,sun-kissed,nests.,,stone spires,splitting the waves,,0005,,0005.
 0010,WIZARD,WIZARD,0010,,six-hex,,mysterious,island with a wizard tower.,,magical traps,that a local <a href='/monsters/wizard'>WIZARD</a> summoned,,0010,,0010.
@@ -9,3 +9,4 @@ ID,Monster Name,Count: 9/36,25%,4,5,6,7,8,9,10,11,12,13,14,15
 0023,HARPY,HARPY,0023,,ten-hex,,barren,skerries.,,songs of birds,driving you mad,,0023,,0023.
 0032,FISH,GIANT FISH,0032,,eleven-hex,,deep,currents.,,fishernen,chasing <a href='/monsters/fish'>GIANT FISHES</a>,,0032,,0032.
 0035,BOUNTY HUNTER,BOUNTY HUNTER,0035,,twelve-hex,,lawless,island-hideouts.,,pirates,hunting you down,,0035,,0035.
+0044,CRAB - GIANT,GIANT CRAB,0044,,,,mussel,tides.,,tides,hiding jagged rocks,,0044,,0044.

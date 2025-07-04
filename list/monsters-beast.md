@@ -5,15 +5,7 @@ title: Beasts
 ---
 
 
-Plants and animals. To view them sorted by climate, see the lists [here](/pages/fantasylandgenerator/).
-
-<ins>Common Traits</ins>: Few immunities and resistances. Swarms resist single target attacks. Crawling insects detect movement. Plants resist mind and detect movement.
-
-<ins>Encounter Table</ins>. Roll every 30 minute in a dungeon or in every hex during hexcrawl.
-
-<ins>Salvaging the Body</ins>. Tells if the beast is edible and what can be crafted from its body.
-
-<ins>Totem Table</ins>. Use to flesh local culture, and flavor magic items and druid magic.
+Plants and animals. 
 
 <ins>Beasts</ins>
 

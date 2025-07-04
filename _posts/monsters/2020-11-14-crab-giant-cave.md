@@ -2,7 +2,7 @@
 layout: post
 tags: monster beast sea underdark 
 permalink: /monsters/crab-giant-cave
-title: Crab, Giant Cave
+title: Crab, Giant Spider
 ---
 
 **Horse-sized spider crabs.** Amphibious ambush predator. A large beast.

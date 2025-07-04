@@ -2,7 +2,7 @@
 layout: post
 tags: monster beast  jungle  swamp  underdark 
 permalink: /monsters/leech-hunter
-title: Leech, Hunter
+title: Leech, Hunting
 ---
 
 ##### From Garamondia’s [Optical Dungeon](https://garamondia.blogspot.com/2025/03/the-optical-dungeonthe-process-dungeon.html)
@@ -31,7 +31,7 @@ It **can** smell very well and feel vibrations, allowing it to easily spot their
 
 ---
 
-# Swarm of hunter leeches
+# Swarm of Hunting Leeches
 
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|

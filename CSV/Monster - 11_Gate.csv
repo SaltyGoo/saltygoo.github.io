@@ -1,4 +1,4 @@
-ID,Monster Name,Count: 17/45,38%,4,5,6,7
+ID,Monster Name,Count: 18/46,39%,4,5,6,7
 0000,,,0000,Rumour has it that there is ,a cave, somewhere in this area that leads to the UNDERDARK. Descent below is complicated by ,the darkness.
 0001,MEPHIT - Flame,FLAME MEPHIT,0001,,an ancient burning altar,,the hot embers that carpet it.
 0002,BAT - Arctic,ARCTIC BAT,0002,,a frozen cave,,the snow blocking the path.
@@ -15,5 +15,6 @@ ID,Monster Name,Count: 17/45,38%,4,5,6,7
 0038,LEMURE,LEMURE,0038,,an abyssal tear,,acidic bile oozing from the walls.
 0039,MANES,MANES,0039,,a source of the Styx,,stygian water erasing all will to live.
 0040,DRAGON - Red,RED DRAGON,0040,,a dragon's den,,the lava pouring out of the walls.
-0044,CRAB - GIANT,GIANT CRAB,0044,,a flooded cave,,razor sharp mussels covering it.
-0045,CRAB - GIANT CAVE,GIANT SPIDER CRAB,0045,,a moist crawlspace,,frigid water flooding it.
+0044,CRAB,GIANT CRAB,0044,,a flooded cave,,razor sharp mussels covering it.
+0045,CRAB - Giant Spider,GIANT SPIDER CRAB,0045,,a moist crawlspace,,frigid water flooding it.
+0046,LEECH - Hunter,HUNTER LEECH,0046,,a clay pit,,mucus on every surfaces.

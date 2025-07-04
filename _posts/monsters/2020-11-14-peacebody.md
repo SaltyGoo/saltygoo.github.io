@@ -5,6 +5,8 @@ permalink: /monsters/peacebody
 title: Peacebody Beast
 ---
 
+##### From Garamondia’s [Optical Dungeon](https://garamondia.blogspot.com/2025/01/some-underworld-creatures.html)
+
 **Humanoid-like cave grazers.** They eat and then bury themselves under piles of stones, or block up the entrance to natural caves, and wait to get hungry again. They are quite strong, but never defend themselves. Preyed on by almost everything in the underdark, and occasionally domesticated and used as beasts of burden. Each peacebody herd has one soldier. A medium herbivore beast. 
 
 _Imagine pale, mindless creatures with roughly human bodies (although they move on all fours and are slightly larger), large cow-ish eyes, and weird internal organs._

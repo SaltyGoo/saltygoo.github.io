@@ -30,7 +30,7 @@ While the armor is broken, the psychonaut is **immune** to physical damage, but 
 
 The psychonaut projects a terrible **aura** that [stuns](/2020/11/09/base-rules/) every living creature within 30' of it. A creature can make a strength save at the beginning of its turn to be [dazed](/2020/11/09/base-rules/) this turn instead.
 
-**Attacks (1/round, twice if it loses its invisibility)**
+**Attacks (1/round)**
 
 <ins>Psychic Crush</ins>. Every creature in the psychonaut's aura takes 1D8 mind damage.
 

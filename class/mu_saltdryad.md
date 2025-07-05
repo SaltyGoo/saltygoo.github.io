@@ -12,7 +12,7 @@ _You are the courtesan of minerals ..._
 A Powdered Makeup Palette, and your choice of a Crystal Fan (use as a dagger), an Asbestos Scarf (fireproof and toxic), or three Vials full of brine (preserve organic matter).
 
 <ins>Starting Skills</ins><br>
-Geology, and your choice of Earth Court, Fay Court, or Ooze Court
+Geology, and your choice of Earth Court, Fey Court, or Ooze Court
 
 For every Salt Dryad template you have, you gain one **Crystal Ornament**.
 
@@ -57,4 +57,4 @@ When you give an **Ornament** to someone, you can decide to taint the gift with 
 Choose one element or phenomena and wether that gift is offensive or pleasing to them. As long as the person carries your gift, it will be percieved accordingly by this element or phenomena, as interpreted by the referee. 
 
 ## Salt of the Earth
-You cannot take back a gift. You create two new **Ornaments** every time you rest submerged in water. You and creatures creatures wearing one of your **Ornament** gifts do not need to breathe and can take 10 minutes to meld into stone.
+You cannot take back a gift. You create two new **Ornaments** every time you rest submerged in water. You and creatures wearing one of your **Ornament gifts** do not need to breathe and can take 10 minutes to meld into stone.

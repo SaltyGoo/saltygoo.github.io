@@ -9,7 +9,7 @@ title: Elemental, Air
 
 ##### Illustration by Salty Goo. Monster from medieval mythology.
 
-**Sentient wind.** Steam Elementals are sassy and falsely relaxed. Air Elementals are fickle and tempestuous. They value freedom of spirit and laissez-faire and communicate in hisses and temperature changes. Sometimes seen summoned by a _[wizard](/monsters/wizard)_. An air elemental.
+**Sentient wind.** Air Elementals are fickle and tempestuous. They value freedom of spirit and laissez-faire and communicate in gusts and howls. Sometimes seen summoned by a _[wizard](/monsters/wizard)_. An air elemental.
 
 _Imagine wind moving and shaping itself as if it had its own will._
 

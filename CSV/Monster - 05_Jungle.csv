@@ -1,4 +1,4 @@
-ID,Alphabetical,Count: 16/46,35%,4,5,6,7,8,9,10,11,12,13,14,15
+ID,Alphabetical,Count: 17/50,34%,4,5,6,7,8,9,10,11,12,13,14,15
 0000,,,0000,This,two-hex,JUNGLE is known for its, ,villages.,Beware of,the weather, ,while you travel there. This place is inhabited by,,and also,
 0008,BIRD - Boltforager,BOLTFORAGER,0008,,three-hex,,orange,BIRDS.,,carcasses,carrying the <a href='/2024/01/01/bone-forager/'>bone forager disease</a>,,0008,,0008.
 0009,BAT - Kongamato,KONGAMATO BAT,0009,,four-hex,,freshwater,river.,,the water,at night,,0009,,0009.
@@ -16,3 +16,4 @@ ID,Alphabetical,Count: 16/46,35%,4,5,6,7,8,9,10,11,12,13,14,15
 0031,HAG - Night,NIGHT HAG,0031,,,,crooked,cottages.,,old women,near the <a href='/monsters/hag-night'>WITCH</a>'s cottage,,0031,,0031.
 0033,ZOMBIE,ZOMBIE,0033,,,,dismal,cemetary.,,dead bodies,carrying the <a href='/2024/01/01/ZombiePlague'>plague</a>,,0033,,0033.
 0046,LEECH - Hunter,HUNTER LEECH,0046,,,,foul,moors.,,puddles,carrying the <a href='/2024/01/01/eye-rot//'>eye rot disease</a>,,0046,,0046.
+0050,APE - Great,GREAT APE,0050,,,,once-sacred,temple.,,the hot springs,hosting the spirits of the thousand gods of a lost civilization,,0050,,0050.

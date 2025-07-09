@@ -1,4 +1,4 @@
-ID,Monster Name,Count: 15/42,36%,4,5,6,7,8,9,10,11,12,13,14,15
+ID,Monster Name,Count: 16/50,32%,4,5,6,7,8,9,10,11,12,13,14,15
 0000,,,0000,This,one-hex,MOUNTAIN RANGE is known for its,majestic,vistas.,Beware of,rough weather, ,while you travel there. This place is inhabited by,,and also,
 0002,BAT - Arctic,ARCTIC BAT,0002,,two-hex,,snowy,glaciers.,,frequent blizzards,blocking paths,,0002,,0002.
 0003,ELEMENTAL - Air,AIR ELEMENTAL,0003,,three-hex,,windy,horizon.,,strong winds,hindering you,,0003,,0003.
@@ -15,3 +15,4 @@ ID,Monster Name,Count: 15/42,36%,4,5,6,7,8,9,10,11,12,13,14,15
 0025,CULTIST,CULTIST,0025,,,,mystical,monuments.,,pagan idols,that could curse you,,0025,,0025.
 0040,DRAGON - Red,RED DRAGON,0040,,,,volcanic,crag.,,lava geysers,that could incinerate you,,0040,,0040.
 0041,SORCERER,SORCERER,0041,,,,magic-sensitive,spires.,,arcane storms,disabling spellcasters,,0041,,0041.
+0050,APE - Great,GREAT APE,0050,,,,once-sacred,temple.,,the hot springs,hosting the spirits of the thousand gods of a lost civilization,,0050,,0050.

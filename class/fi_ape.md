@@ -38,13 +38,16 @@ You are immune to pain and dying while you **Ponder**. You still take damage.
 ## Strong
 If you [grapple](/2020/11/09/base-rules/) something human-sized or smaller, your movement is not hindered by it and you can throw it as easily as you would throw a simple fruit.
 
-You cannot move. Roll a D6: 1) your head/mouth/throat is stuck, you can’t breathe; 2) left leg; 3) right leg; 4) left arm; 5) right arm; 6) an item you wear or hold is stuck.
-
 ## Cautious
 Pondering only takes 1 round. You can do 2 actions the turn after having pondered.
 
 ## Savage
 When you grapple a human-sized or smaller target, it also takes 1D6 damage. If a target is already grappled by you on your turn, you can make a Strength save to break whatever limb you are grappling, making it unusable.
+
+<details markdown="1">
+<summary>Grappled Condition Reminder</summary>
+You cannot move. Roll a D6: 1) your head/mouth/throat is stuck, you can’t breathe; 2) left leg; 3) right leg; 4) left arm; 5) right arm; 6) an item you wear or hold is stuck.
+</details>
 
 ## Enlightened
 When you **Ponder**, you can choose the following option instead:

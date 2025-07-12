@@ -48,7 +48,7 @@ When you grapple a human-sized or smaller target, it also takes 1D6 damage. If a
 
 <details markdown="1">
 <summary>Grappled Condition Reminder</summary>
-You cannot move. Roll a D6: 1) your head/mouth/throat is stuck, you can’t breathe; 2) left leg; 3) right leg; 4) left arm; 5) right arm; 6) an item you wear or hold is stuck.
+_You cannot move. Roll a D6: 1) your head/mouth/throat is stuck, you can’t breathe; 2) left leg; 3) right leg; 4) left arm; 5) right arm; 6) an item you wear or hold is stuck._
 </details>
 
 ## Enlightened

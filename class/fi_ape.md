@@ -53,5 +53,6 @@ When you grapple a human-sized or smaller target, it also takes 1D6 damage. If a
 
 ## Enlightened
 When you **Ponder**, you can choose the following option instead:
-- Transform one of your questions into an affirmation like "This (noun) is (adjective)". i.e. _This pathway is safe. This person is kind. This king is alive_. When you do so, you must refer to a specific thing you can see, and the original question is removed from your Psyche. This is not magic, only belief, and what you change will be undone if you ever stop seeing it.
+- Transform one of your questions into an affirmation like "This (noun) is (adjective)". i.e. _This pathway is safe. This person is kind. This king is alive_. When you do so, you must refer to a specific thing you can see. What you change will be undone if you ever stop seeing it.
 
+If you do so, the original question is removed from your Psyche. Gods may strike you blind if you abuse this power.

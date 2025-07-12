@@ -30,7 +30,9 @@ You can take 10 minutes to **Ponder**. When you do, you can do one of the follow
 You must stand still and not be interrupted to ponder.
 
 ## Free
-You can run on any vertical surface up to 30' and jump as far as you are higher than your destination. Which means that if you jump somewhere 60' below you, you can also land 60' away from you. You only take 1 damage from every 10' of falling and, if you successfully land on an enemy, it takes 1D6 points of damage per 10' you have fallen from.
+You can run on any vertical surface up to 30'.
+
+You can also jump as far as you are higher than your destination. Which means that if you jump somewhere 60' below you, you can also land 60' away from you. You only take 1 damage from every 10' of falling and, if you successfully land on an enemy, it takes 1D6 points of damage per 10' you have fallen from.
 
 ## Unbothered
 You are immune to pain and dying while you **Ponder**. You still take damage.

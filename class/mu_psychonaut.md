@@ -9,7 +9,7 @@ permalink: /class/psychonaut
 _You are a psychic tourist visiting this world ..._
 
 <ins>Starting Equipment</ins><br>
-Six porcelain _Body Parts_ (Two arms, two legs, a chest and a head), as well three other objects among the following (you can choose the same one multiple times): a _Lead Mask_ (to protect one ally from your powers), a spare _Body Part_ (specify which), a _Weapon_ of your choice, or a _Sealed Bottle_.
+Six porcelain _Body Parts_ (Two arms, two legs, a chest and a head), as well three other objects among the followings: a _Lead Mask_ (to protect one ally from your powers), a spare _Body Part_ (specify which), a _Weapon_ of your choice, or a _Sealed Bottle_. (you can choose the same object multiple times)
 
 <ins>Starting Skills</ins><br>
 Your choice of Worlds Beyond Ours, Times Before Ours, or Dreams.
@@ -18,8 +18,8 @@ For every Psychonaut template you have, you gain one extra **[Spell Die](/spells
 
 **A:** Immaterial Being, Vessel, Psychomancy <br>
 **B:** Unbearable Psychic Field <br>
-**C:** The Nuanced Art of Elemental Diplomacy <br>
-**D:** Salt of the Earth<br>
+**C:** Overwhelming Psychic Weight <br>
+**D:** Astranaut<br>
 
 ## Immaterial Being
 You do not have a physical body and are thus immune to any damage that is not psychic. First aid and healing magic can't heal you either and your only two senses are sight and hearing. Instead, you contain your consciousness within a **Vessel**.

@@ -22,7 +22,7 @@ For every Psychonaut template you have, you gain one extra **[Spell Die](/spells
 **D:** Astranaut<br>
 
 ## Immaterial Being
-You do not have a physical body and are thus immune to any damage that is not psychic. First aid and healing magic can't heal you either and your only two senses are sight and hearing. Instead, you contain your consciousness within a **Vessel**.
+You do not have a physical body and are thus immune to any damage that is not psychic. Instead of Scars, you gain [Trauma](/2020/11/09/base-rules/). First aid and healing magic can't heal you either and your only two senses are sight and hearing. Instead, you contain your consciousness within a **Vessel**.
 
 ## Vessel
 Your vessel is not immune to damage though: every time you are hit, roll a D6 to know which body part is damaged. When your vessel is damaged, your consciousness starts leaking into the infinite and you lose 1 Hit Point per round. You will keep losing HP until you or someone patches the leak, replaces the broken body part with a hollow object, or you migrate into another sealed container you touch. Your vessel needs joints to allow you to move by yourself. 

@@ -18,7 +18,7 @@ For every Great Ape template you have, you gain 1 **[Psyche](/2020/11/09/base-ru
 
 **A:** Wise, Free<br>
 **B:** Unbothered, Strong<br>
-**C:** Cautious, Savage<br>
+**C:** Sapient, Savage<br>
 **D:** Enlightened<br>
 
 ## Wise

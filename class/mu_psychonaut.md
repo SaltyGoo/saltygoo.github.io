@@ -41,7 +41,7 @@ If you take area of effect damage, roll twice for the damaged body parts. If the
 You know the [Astral Projection](/2020/11/13/astral-projection/) spell, as well as a random spell from the [Psychomancy](/spells/#psychomancy) school (roll twice and choose one). You learn a new random psychomancy spell each time you take another Psychonaut template.
 
 ## Unbearable Psychic Field
-You emit an unbearable low-frequency buzz that inflicts as much damage to _every other_ sentient creature in the same room (or a 30' cube) as you as you have active Spell Dice. You can repress this ability but not if you are leaking.
+You emit an unbearable low-frequency buzz that inflicts as much nonlethal damage each turn to _every other_ sentient creature in the same room (or a 30' cube) as you as you have active Spell Dice. You can repress this ability but not if you are leaking.
 
 ## Overwhelming Psychic Weight
 You can attempt to [grapple](/2020/11/09/base-rules/) *all* other creatures in your psychic field by making one Willpower save. If there are more creatures than you have active SD, the save is _hard_.

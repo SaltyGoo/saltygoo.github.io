@@ -1,4 +1,4 @@
-ID,Monster Name,Count: 19/47,40%,4,5,6,7
+ID,Monster Name,Count: 20/51,39%,4,5,6,7
 0000,,,0000,Rumour has it that there is ,a cave, somewhere in this area that leads to the UNDERDARK. Descent below is complicated by ,the darkness.
 0001,MEPHIT - Flame,FLAME MEPHIT,0001,,an ancient burning altar,,the hot embers that carpet it.
 0002,BAT - Arctic,ARCTIC BAT,0002,,a frozen cave,,the snow blocking the path.
@@ -19,3 +19,4 @@ ID,Monster Name,Count: 19/47,40%,4,5,6,7
 0045,CRAB - Giant Spider,GIANT SPIDER CRAB,0045,,a moist crawl space,,frigid water flooding it.
 0046,LEECH - Hunter,HUNTER LEECH,0046,,a clay pit,,mucus on every surfaces.
 0047,PEACEBODY BEAST,PEACEBODY BEAST,0047,,a tar pit,,tar oozing from the walls.
+0051,PROMETHEAN,PROMETHEAN,0051,,a sealed gate,,mercury dropplets that could <a href='/2024/01/01/mercury/'>poison</a> you.

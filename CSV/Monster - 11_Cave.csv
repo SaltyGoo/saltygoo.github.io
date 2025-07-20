@@ -1,4 +1,4 @@
-ID,Monster Name,Count: 19/47,40%,4,5,6,7,8,9,10,11,12,13,14,15
+ID,Monster Name,Count: 20/51,39%,4,5,6,7,8,9,10,11,12,13,14,15
 0000,,,0000,These ,two,-hex,dark,tunnels,are dangerous because of the,fragile,stalactites,there. They are roamed by,other adventurers,and,other terrifying things.
 0001,MEPHIT - Flame,FLAME MEPHIT,0001,,three,,hot,tunnels to a fire temple,,burning,embers,,0001,,0001.
 0002,BAT - Arctic,ARCTIC BAT,0002,,four,,cold,ice caves,,freezing,snow,,0002,,0002.
@@ -19,3 +19,4 @@ ID,Monster Name,Count: 19/47,40%,4,5,6,7,8,9,10,11,12,13,14,15
 0045,CRAB - Giant Spider,GIANT SPIDER CRAB,0045,,,,narrow,sinuous caves,,wet,pools,,0045,,0045.
 0046,LEECH - Hunter,HUNTER LEECH,0046,,,,damp,clay tunnels,,trypophobia-inducing,puddles,,0046,,0046.
 0047,PEACEBODY BEAST,PEACEBODY BEAST,0047,,,,burried,tar lakes,,silent,tar pools,,0047,,0047.
+0051,PROMETHEAN,PROMETHEAN,0051,,,,god-forsaken,ancient prison,,mercury-poisoned,murals of the earth core,,0051,,0051.

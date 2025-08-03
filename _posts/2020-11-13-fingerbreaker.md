@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: spell necromancy
+tags: spell physiurgy
 title: Fingerbreaker
 ---
 **R**: Sight

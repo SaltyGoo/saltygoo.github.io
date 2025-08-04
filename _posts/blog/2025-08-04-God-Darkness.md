@@ -10,10 +10,10 @@ Darkness is everywhere. Darkness is a shelter. Darkness hides. Darkness is where
 
 The Orthodoxy promises a kingdom of men freed from the corruption of the things that dwell in darkness. Because of that, lords and burgomasters symbolically mark the borders of their domain with blazing torches that burn day and night. Across the Empire, fearmongering priests preach the following truths about darkness:
 
-- <u>Darkness is barbarism</u>, for before there was no light there was only chaos.
-- <u>Those who hide are sinful</u>, for the righteous have nothing to hide.
-- <u>Darkness is the enemy</u>, for what is in darkness is unknown and friends are known. 
-- <u>Those who have a dark home have abandoned it</u>, for they have opened it to demons.
+- <ins>Darkness is barbarism</ins>, for before there was no light there was only chaos.
+- <ins>Those who hide are sinful</ins>, for the righteous have nothing to hide.
+- <ins>Darkness is the enemy</ins>, for what is in darkness is unknown and friends are known. 
+- <ins>Those who have a dark home have abandoned it</ins>, for they have opened it to demons.
 
 <details markdown="1">
 <summary><b>Sin and Society</b></summary>

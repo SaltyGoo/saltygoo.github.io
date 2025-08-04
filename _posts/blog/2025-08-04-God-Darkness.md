@@ -28,18 +28,18 @@ For the reasons listed above, a pious person should distrust, fear and fight thi
 
 Still, there exist some sanctioned uses of the Devour Light spell:
 
-**Shunning**
+<ins>**Shunning**</ins>
 
 Since the Church considers a dark home abandoned, in some principalities, a person is cast aside from the community by ritually devouring all the lights in its home, plunging it in total darkness. The shunned person is thus stuck in an impossible dilemma: stay and be considered a darkness dweller, or leave their home, either which legitimates the expropriation. Once the spell ends and the light shines back in, the house is claimed by the community.
 
-**Confession**
+<ins>**Confession**</ins>
 
 A sinner who wants to avoid being shunned better atone before others take the matter in their hands. That is why confession is one of the core sacraments of the Orthodoxy. In many cathedrals, confessors ritually plunge certain alcoves in complete darkness for that purpose. They sit there in prayer, unable to see who will join them. Darkness serves a double purpose here: preserving anonymity, and being the first step towards penance, as willingly entering it is an admission of sin by itself.
 
-**Solipsic Meditation**
+<ins>**Solipsic Meditation**</ins>
 
 Orthodox monasticism implies some sort of ritualized tests of faith. Sometimes, these take the form of long daily meditative prayers isolated in complete darkness. During them, monks look inward, pray and reject everything they perceive. Indeed, in the dark, the only certainties are yourself and the Orthodoxy. 
 
-**Rite of Collective Virtue**
+<ins>**Rite of Collective Virtue**</ins>
 
 Once per year, on the day furthest apart from the holiest, certain parishes test their faith by holding ostentatious demonstrations of virtue. These demonstrations are simple in appearance: a crowd — self-important bourgeois men dragging their servants and household, debaucherous nobles demonstrating their restraint for a future court plea, unwed youth looking to impress potential in-laws, hungry commoners hoping to improve their lot — gathers in the church at noon which is then locked from the outside and plunged into magical darkness. When the six o’clock bell rings, if the crowd hasn’t devolved into chaos, the rest of the year will be auspicious. But with darkness providing impunity, and with masters, servants, rivals and lovers trapped together, the occasion is ripe for drama ranging from petty theft to murder.

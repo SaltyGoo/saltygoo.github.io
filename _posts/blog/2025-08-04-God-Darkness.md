@@ -26,7 +26,7 @@ Communities harboring sin know misery for they are forsaken by the Authority. He
 For the reasons listed above, a pious person should distrust, fear and fight things that dwell in the dark. This concept is not clearly defined in the Holy Texts, but, over the centuries, the Church has interpreted it as including such things as people who do business after sunset, nocturnal animals, humanoids with darkvision, aquatic creatures, the undead, people who live underground, winter, and people who have been incarcerated.
 </details>
 
-Still, there exist some sanctioned uses of the [Devour Light](/2020/11/13/devour-light/) spell:
+Still, some sanctioned uses of the [Devour Light](/2020/11/13/devour-light/) spell exist:
 
 <details markdown="1">
 <summary><b>Shunning</b></summary>

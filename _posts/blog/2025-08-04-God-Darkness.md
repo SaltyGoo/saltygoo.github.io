@@ -1,0 +1,45 @@
+---
+layout: post
+tags: article
+title: The Cults of Darkness
+---
+
+Darkness is everywhere. Darkness is a shelter. Darkness hides. Darkness is where people won't go.
+
+## What The Orthodoxy Says About Darkness
+
+The Orthodoxy promises a kingdom of men freed from the corruption of the things that dwell in darkness. Because of that, lords and burgomasters symbolically mark the borders of their domain with blazing torches that burn day and night. Across the Empire, fearmongering priests preach the following truths about darkness:
+
+- **Darkness is barbarism**, for before there was no light there was only chaos.
+- **Those who hide are sinful**, for the righteous have nothing to hide.
+- **Darkness is the enemy**, for what is in darkness is unknown and friends are known. 
+- Those who have a dark home have abandoned it, for they have made it fit for demons.
+
+<details markdown="1">
+<summary><b>Sin and Society</b></summary>
+Communities harboring sin know misery for they are forsaken by the Authority. Hence, one’s sins are the whole parish’s business. Sins are to be appropriately atoned for and unrepentant sinners shunned or executed to preserve the Authority’s favour.
+</details>
+
+
+<details markdown="1">
+<summary><b>Things That Dwell In Darkness</b></summary>
+For the reasons listed above, a pious person should distrust, fear and fight things that dwell in the dark. This concept is not clearly defined in the Holy Texts, but, over the centuries, the Church has interpreted it as including such things as people who do business after sunset, nocturnal animals, humanoids with darkvision, aquatic creatures, the undead, people who live underground, winter, and people who have been incarcerated.
+</details>
+
+Still, there exist some sanctioned uses of the Devour Light spell:
+
+**Shunning**
+
+Since the Church considers a dark home abandoned, in some principalities, a person is cast aside from the community by ritually devouring all the lights in its home, plunging it in total darkness. The shunned person is thus stuck in an impossible dilemma: stay and be considered a darkness dweller, or leave their home, either which legitimates the expropriation. Once the spell ends and the light shines back in, the house is claimed by the community.
+
+**Confession**
+
+A sinner who wants to avoid being shunned better atone before others take the matter in their hands. That is why confession is one of the core sacraments of the Orthodoxy. In many cathedrals, confessors ritually plunge certain alcoves in complete darkness for that purpose. They sit there in prayer, unable to see who will join them. Darkness serves a double purpose here: preserving anonymity, and being the first step towards penance, as willingly entering it is an admission of sin by itself.
+
+**Solipsic Meditation**
+
+Orthodox monasticism implies some sort of ritualized tests of faith. Sometimes, these take the form of long daily meditative prayers isolated in complete darkness. During them, monks look inward, pray and reject everything they perceive. Indeed, in the dark, the only certainties are yourself and the Orthodoxy. 
+
+**Rite of Collective Virtue**
+
+Once per year, on the day furthest apart from the holiest, certain parishes test their faith by holding ostentatious demonstrations of virtue. These demonstrations are simple in appearance: a crowd — self-important bourgeois men dragging their servants and household, debaucherous nobles demonstrating their restraint for a future court plea, unwed youth looking to impress potential in-laws, hungry commoners hoping to improve their lot — gathers in the church at noon which is then locked from the outside and plunged into magical darkness. When the six o’clock bell rings, if the crowd hasn’t devolved into chaos, the rest of the year will be auspicious. But with darkness providing impunity, and with masters, servants, rivals and lovers trapped together, the occasion is ripe for drama ranging from petty theft to murder.

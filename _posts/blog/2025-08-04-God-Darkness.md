@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: article monster celestial
+tags: article monster npcclass
 title: The Cults of Darkness
 ---
 

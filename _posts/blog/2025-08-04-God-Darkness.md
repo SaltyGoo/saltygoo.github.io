@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: article monster npcclass
-title: The Cults of Darkness
+title: Cults of Darkness
 ---
 
 Darkness is everywhere. Darkness is a shelter. Darkness hides. Darkness is where people won't go.

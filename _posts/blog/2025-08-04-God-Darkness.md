@@ -6,6 +6,8 @@ title: Cults of Darkness
 
 Darkness is everywhere. Darkness is a shelter. Darkness hides. Darkness is where people won't go.
 
+---
+
 ## What The Orthodoxy Says About Darkness
 
 The Orthodoxy promises a kingdom of men freed from the corruption of the things that dwell in darkness. Because of that, lords and burgomasters symbolically mark the borders of their domain with blazing torches that burn day and night. Across the Empire, fearmongering priests preach the following truths about darkness:
@@ -69,3 +71,5 @@ Some zealots known as the Dark Solipsists push the orthodoxic vision to the extr
 <summary><i>More</i></summary>
 People pray to Saint-Perside before throwing a coin in a wishing well, or any opaquely dark hole. Was martyred by being tied, weighed and thrown down a well by pagans. She was still alive and praying after two weeks. Heretical folklore believes she survived to this day by her [becoming a ghoul](/class/fighter/ghoul), while some scholars have theorized her being the syncretism of some Gullet Gods (see below) by the Church. These scholars were executed.
 </details>
+
+---

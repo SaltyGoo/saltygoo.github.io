@@ -10,10 +10,10 @@ Darkness is everywhere. Darkness is a shelter. Darkness hides. Darkness is where
 
 The Orthodoxy promises a kingdom of men freed from the corruption of the things that dwell in darkness. Because of that, lords and burgomasters symbolically mark the borders of their domain with blazing torches that burn day and night. Across the Empire, fearmongering priests preach the following truths about darkness:
 
-- <ins>Darkness is barbarism</ins>, for before there was no light there was only chaos.
+- <ins>Darkness is barbarism</ins>, for before there was light there was only chaos.
 - <ins>Those who hide are sinful</ins>, for the righteous have nothing to hide.
 - <ins>Darkness is the enemy</ins>, for what is in darkness is unknown. 
-- <ins>A dark home is forsaken</ins>, for it has been surrendered to demons.
+- <ins>A dark home is forsaken</ins>, for its master does not know what dwells in it.
 
 <details markdown="1">
 <summary><b>Sin and Society</b></summary>
@@ -46,4 +46,20 @@ Orthodox monasticism implies some sort of ritualized tests of faith. Sometimes, 
 <details markdown="1">
 <summary><b>Rite of Collective Virtue</b></summary>
 Once per year, on the day furthest apart from the holiest, certain parishes test their faith by holding ostentatious demonstrations of virtue. These demonstrations are simple in appearance: a crowd — self-important bourgeois men dragging their servants and household, debaucherous nobles demonstrating their restraint for a future court plea, unwed youth looking to impress potential in-laws, hungry commoners hoping to improve their lot — gathers in the church at noon which is then locked from the outside and plunged into magical darkness. When the six o’clock bell rings, if the crowd hasn’t devolved into chaos, the rest of the year will be auspicious. But with darkness providing impunity, and with masters, servants, rivals and lovers trapped together, the occasion is ripe for drama ranging from petty theft to murder.
+</details>
+
+### Petty Orthodox Saints and Heresies related to Darkness
+
+#### Saint-Xvartholomeus
+<details markdown="1">
+<summary>Patron saint of getting away with petty crimes. A folk hero turned fake saint.</summary>
+Xvartholomeus appears in many legends. Most often as some sort of mousy accountant for some immensely powerful being. After years of unappreciated servile labor, he steals some part of his master’s power (gold, divine spark, secrets, etc.) and runs away. He is never caught because many people look like him. 
+
+‘Xvart Coins’ depicting his taunting face as the ‘heads’ are often left where a petty crime was uncaught. The Church tolerates celebrations of Xvartholomeus during carnivals, notably because he is real and undeniable, but would severely punish outright worship. Over time, the Inquisition has narrowed down some traits as suspiciously Xvarthlomeus-like: male pattern baldness, small stature, blueish skin, and a phrygian cap. But these could be false leads.
+</details>
+
+#### Dark Solipsists
+<details markdown="1">
+<summary>Errant orthodox monks with a fringe and extremely violent phylosophy.</summary>
+Some zealots known as the Dark Solipsists push the principles of solipsic meditation to the extreme and will kill anything they encounter in darkness. Since the only certainties in the dark are yourself and the Authority, they feel righteous in their actions. Some will roam streets and roads at night and destroy anything that moves. In the dark, any business is malevolent and any plea is a manipulation. For them, the Devour Light spell is akin to a berserker’s rage. 
 </details>

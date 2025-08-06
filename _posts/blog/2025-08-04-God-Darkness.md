@@ -60,6 +60,6 @@ Xvartholomeus appears in many legends. Most often as some sort of mousy accounta
 
 #### Dark Solipsists
 <details markdown="1">
-<summary><i>Errant orthodox monks with a fringe and extremely violent phylosophy.</i></summary>
+<summary><i>Errant orthodox monks with a fringe and extremely violent philosophy.</i></summary>
 Some zealots known as the Dark Solipsists push the principles of solipsic meditation to the extreme and will kill anything they encounter in darkness. Since the only certainties in the dark are yourself and the Authority, they feel righteous in their actions. Some will roam streets and roads at night and destroy anything that moves. In the dark, any business is malevolent and any plea is a manipulation. For them, the Devour Light spell is akin to a berserker’s rage. 
 </details>

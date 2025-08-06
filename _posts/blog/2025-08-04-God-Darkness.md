@@ -52,7 +52,7 @@ Once per year, on the day furthest apart from the holiest, certain parishes test
 
 #### Saint-Xvartholomeus
 <details markdown="1">
-<summary>Patron saint of getting away with petty crimes. A folk hero turned fake saint.</summary>
+<summary><i>Patron saint of getting away with petty crimes. A folk hero turned fake saint.</i></summary>
 Xvartholomeus appears in many legends. Most often as some sort of mousy accountant for some immensely powerful being. After years of unappreciated servile labor, he steals some part of his master’s power (gold, divine spark, secrets, etc.) and runs away. He is never caught because many people look like him. 
 
 ‘Xvart Coins’ depicting his taunting face as the ‘heads’ are often left where a petty crime was uncaught. The Church tolerates celebrations of Xvartholomeus during carnivals, notably because he is real and undeniable, but would severely punish outright worship. Over time, the Inquisition has narrowed down some traits as suspiciously Xvarthlomeus-like: male pattern baldness, small stature, blueish skin, and a phrygian cap. But these could be false leads.
@@ -60,6 +60,6 @@ Xvartholomeus appears in many legends. Most often as some sort of mousy accounta
 
 #### Dark Solipsists
 <details markdown="1">
-<summary>Errant orthodox monks with a fringe and extremely violent phylosophy.</summary>
+<summary><i>Errant orthodox monks with a fringe and extremely violent phylosophy.</i></summary>
 Some zealots known as the Dark Solipsists push the principles of solipsic meditation to the extreme and will kill anything they encounter in darkness. Since the only certainties in the dark are yourself and the Authority, they feel righteous in their actions. Some will roam streets and roads at night and destroy anything that moves. In the dark, any business is malevolent and any plea is a manipulation. For them, the Devour Light spell is akin to a berserker’s rage. 
 </details>

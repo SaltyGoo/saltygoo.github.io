@@ -6,8 +6,6 @@ title: Cults of Darkness
 
 Darkness is everywhere. Darkness is a shelter. Darkness hides. Darkness is where people won't go.
 
----
-
 ## What The Orthodoxy Says About Darkness
 
 The Orthodoxy promises a kingdom of men freed from the corruption of the things that dwell in darkness. Because of that, lords and burgomasters symbolically mark the borders of their domain with blazing torches that burn day and night. Across the Empire, fearmongering priests preach the following truths about darkness:
@@ -21,7 +19,6 @@ The Orthodoxy promises a kingdom of men freed from the corruption of the things 
 <summary><b>Sin and Society</b></summary>
 Communities harboring sin know misery for they are forsaken by the Authority. Hence, one’s sins are the whole parish’s business. Sins are to be appropriately atoned for and unrepentant sinners shunned or executed to preserve the Authority’s favour.
 </details>
-
 
 <details markdown="1">
 <summary><b>Things That Dwell In Darkness</b></summary>
@@ -60,7 +57,7 @@ Xvartholomeus appears in many legends. Most often as some sort of mousy accounta
 ‘Xvart Coins’ depicting his taunting face as the ‘heads’ are often left where a petty crime was uncaught. The Church tolerates celebrations of Xvartholomeus during carnivals, notably because [he is real and undeniable](/class/xvart), but would severely punish outright worship. Over time, the Inquisition has narrowed down some traits as suspiciously Xvarthlomeus-like: male pattern baldness, small stature, blueish skin, and a phrygian cap. But these could be [false leads](https://static.wikia.nocookie.net/smurfs/images/e/e7/Generic_Smurf.jpg/revision/latest?cb=20220924125954).
 </details>
 
-**Dark Solipsists** <br><i>Errant orthodox monks with a fringe and extremely violent philosophy.</i>
+**Dark Solipsists** <br><i>Errant orthodox monks with an extremely violent philosophy.</i>
 <details markdown="1">
 <summary><i>More</i></summary>
 Some zealots known as the Dark Solipsists push the orthodoxic vision to the extreme and will kill anything they encounter in darkness. Since the only certainties in the dark are yourself and the Authority, they feel righteous in their actions. Some will roam streets and roads at night and destroy anything that moves. In the dark, any business is malevolent and any plea is a manipulation. For them, the Devour Light spell is akin to a berserker’s rage. 
@@ -72,4 +69,8 @@ Some zealots known as the Dark Solipsists push the orthodoxic vision to the extr
 People pray to Saint-Perside before throwing a coin in a wishing well, or any opaquely dark hole. Was martyred by being tied, weighed and thrown down a well by pagans. She was still alive and praying after two weeks. Heretical folklore believes she survived to this day by her [becoming a ghoul](/class/fighter/ghoul), while some scholars have theorized her being the syncretism of some Gullet Gods (see below) by the Church. These scholars were executed.
 </details>
 
----
+**Heavenly Restorers** <br><i>Fringe theological theory on the implications of the Devour Light spell.</i>
+<details markdown="1">
+<summary><i>More</i></summary>
+It is well understood that light is a state of matter, but where does it go when the Devour Light spell is cast? 
+</details>

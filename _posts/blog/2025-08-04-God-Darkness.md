@@ -63,3 +63,9 @@ Once per year, on the day furthest apart from the holiest, certain parishes test
 <summary><i>More</i></summary>
 Some zealots known as the Dark Solipsists push the orthodoxic vision to the extreme and will kill anything they encounter in darkness. Since the only certainties in the dark are yourself and the Authority, they feel righteous in their actions. Some will roam streets and roads at night and destroy anything that moves. In the dark, any business is malevolent and any plea is a manipulation. For them, the Devour Light spell is akin to a berserker’s rage. 
 </details>
+
+**Saint-Perside the Martyr** <br><i>Patron saint of secret wishes and sudden good fortune. The nun in a well.</i>
+<details markdown="1">
+<summary><i>More</i></summary>
+People pray to Saint-Perside before throwing a coin in a wishing well, or any opaquely dark hole. Was martyred by being tied, weighed and thrown down a well by pagans. She was still alive and praying after two weeks. Heretical folklore believes she survived to this day by her becoming a ghoul, while some scholars have theorized her being the syncretism of some Gullet Gods (see below) by the Church. These scholars were executed.
+</details>

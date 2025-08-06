@@ -55,7 +55,7 @@ Once per year, on the day furthest apart from the holiest, certain parishes test
 <summary><i>More</i></summary>
 <i>Xvartholomeus appears in many legends. Most often as some sort of mousy accountant for some immensely powerful being. After years of unappreciated servile labor, he steals some part of his master’s power (gold, divine spark, secrets, etc.) and runs away. He is never caught because many people look like him.</i>
 
-<i>‘Xvart Coins’ depicting his taunting face as the ‘heads’ are often left where a petty crime was uncaught. The Church tolerates celebrations of Xvartholomeus during carnivals, notably because he is real and undeniable, but would severely punish outright worship. Over time, the Inquisition has narrowed down some traits as suspiciously Xvarthlomeus-like: male pattern baldness, small stature, blueish skin, and a phrygian cap. But these could be false leads.</i>
+<i>‘Xvart Coins’ depicting his taunting face as the ‘heads’ are often left where a petty crime was uncaught. The Church tolerates celebrations of Xvartholomeus during carnivals, notably because [he is real and undeniable](/class/xvart), but would severely punish outright worship. Over time, the Inquisition has narrowed down some traits as suspiciously Xvarthlomeus-like: male pattern baldness, small stature, blueish skin, and a phrygian cap. But these could be [false leads]([url](https://static.wikia.nocookie.net/smurfs/images/e/e7/Generic_Smurf.jpg/revision/latest?cb=20220924125954)).</i>
 </details>
 
 **Dark Solipsists** <br><i>Errant orthodox monks with a fringe and extremely violent philosophy.</i>

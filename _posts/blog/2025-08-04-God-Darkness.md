@@ -50,9 +50,7 @@ Once per year, on the day furthest apart from the holiest, certain parishes test
 
 ### Petty Orthodox Saints and Heresies related to Darkness
 
-**Saint-Xvartholomeus**
-
-<i>Patron saint of getting away with petty crimes. A folk hero turned fake saint.</i>
+**Saint-Xvartholomeus** <br><i>Patron saint of getting away with petty crimes. A folk hero turned fake saint.</i>
 <details markdown="1">
 <summary><i>More</i></summary>
 <i>Xvartholomeus appears in many legends. Most often as some sort of mousy accountant for some immensely powerful being. After years of unappreciated servile labor, he steals some part of his master’s power (gold, divine spark, secrets, etc.) and runs away. He is never caught because many people look like him.</i>
@@ -60,9 +58,7 @@ Once per year, on the day furthest apart from the holiest, certain parishes test
 <i>‘Xvart Coins’ depicting his taunting face as the ‘heads’ are often left where a petty crime was uncaught. The Church tolerates celebrations of Xvartholomeus during carnivals, notably because he is real and undeniable, but would severely punish outright worship. Over time, the Inquisition has narrowed down some traits as suspiciously Xvarthlomeus-like: male pattern baldness, small stature, blueish skin, and a phrygian cap. But these could be false leads.</i>
 </details>
 
-**Dark Solipsists**
-
-<i>Errant orthodox monks with a fringe and extremely violent philosophy.</i>
+**Dark Solipsists** <br><i>Errant orthodox monks with a fringe and extremely violent philosophy.</i>
 <details markdown="1">
 <summary><i>More</i></summary>
 Some zealots known as the Dark Solipsists push the principles of solipsic meditation to the extreme and will kill anything they encounter in darkness. Since the only certainties in the dark are yourself and the Authority, they feel righteous in their actions. Some will roam streets and roads at night and destroy anything that moves. In the dark, any business is malevolent and any plea is a manipulation. For them, the Devour Light spell is akin to a berserker’s rage. 

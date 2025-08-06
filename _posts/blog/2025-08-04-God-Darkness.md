@@ -51,6 +51,7 @@ Once per year, on the day furthest apart from the holiest, certain parishes test
 ### Petty Orthodox Saints and Heresies related to Darkness
 
 **Saint-Xvartholomeus**
+
 <i>Patron saint of getting away with petty crimes. A folk hero turned fake saint.</i>
 <details markdown="1">
 <summary><i>More</i></summary>
@@ -60,7 +61,9 @@ Once per year, on the day furthest apart from the holiest, certain parishes test
 </details>
 
 **Dark Solipsists**
+
+<i>Errant orthodox monks with a fringe and extremely violent philosophy.</i>
 <details markdown="1">
-<summary><i>Errant orthodox monks with a fringe and extremely violent philosophy.</i></summary>
+<summary><i>More</i></summary>
 Some zealots known as the Dark Solipsists push the principles of solipsic meditation to the extreme and will kill anything they encounter in darkness. Since the only certainties in the dark are yourself and the Authority, they feel righteous in their actions. Some will roam streets and roads at night and destroy anything that moves. In the dark, any business is malevolent and any plea is a manipulation. For them, the Devour Light spell is akin to a berserker’s rage. 
 </details>

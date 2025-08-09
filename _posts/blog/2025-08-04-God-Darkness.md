@@ -47,9 +47,9 @@ Orthodox monasticism implies some sort of ritualized tests of faith. Sometimes, 
 Once per year, on the day furthest apart from the holiest, certain parishes test their faith by holding ostentatious demonstrations of virtue. These demonstrations are simple in appearance: a crowd — self-important bourgeois men dragging their servants and household, debaucherous nobles demonstrating their restraint for a future court plea, unwed youth looking to impress potential in-laws, hungry commoners hoping to improve their lot — gathers in the church at noon which is then locked from the outside and plunged into magical darkness. When the six o’clock bell rings, if the crowd hasn’t devolved into chaos, the rest of the year will be auspicious. But with darkness providing impunity, and with masters, servants, rivals and lovers trapped together, the occasion is ripe for drama ranging from petty theft to murder.
 </details>
 
-### Petty Orthodox Saints and Heresies related to Darkness
+### Dark Petty Saints and Heresies
 
-**Saint-Xvartholomeus** <br><i>Patron saint of getting away with petty crimes. A folk hero turned fake saint.</i>
+**'Saint' Xvartholomeus** <br><i>Patron saint of justified petty criminals. A folk hero turned fake saint.</i>
 <details markdown="1">
 <summary><i>More</i></summary>
 Xvartholomeus appears in many legends. Most often as some sort of mousy accountant for some immensely powerful being. After years of unappreciated servile labor, he steals some part of his master’s power (gold, divine spark, secrets, etc.) and runs away. He is never caught because many people look like him.
@@ -57,16 +57,16 @@ Xvartholomeus appears in many legends. Most often as some sort of mousy accounta
 ‘Xvart Coins’ depicting his taunting face as the ‘heads’ are often left where a petty crime was uncaught. The Church tolerates celebrations of Xvartholomeus during carnivals, notably because [he is real and undeniable](/class/xvart), but would severely punish outright worship. Over time, the Inquisition has narrowed down some traits as suspiciously Xvarthlomeus-like: male pattern baldness, small stature, blueish skin, and a phrygian cap. But these could be [false leads](https://static.wikia.nocookie.net/smurfs/images/e/e7/Generic_Smurf.jpg/revision/latest?cb=20220924125954).
 </details>
 
-**Dark Solipsists** <br><i>Errant orthodox monks with an extremely violent philosophy.</i>
+**Dark Solipsists** <br><i>Errant orthodoxic monks with an extremely violent philosophy.</i>
 <details markdown="1">
 <summary><i>More</i></summary>
-Some zealots known as the Dark Solipsists push the orthodoxic vision to the extreme and will kill anything they encounter in darkness. Since the only certainties in the dark are yourself and the Authority, they feel righteous in their actions. Some will roam streets and roads at night and destroy anything that moves. In the dark, any business is malevolent and any plea is a manipulation. For them, the Devour Light spell is akin to a berserker’s rage. 
+The Church teaches that things in the dark are deceptive, any shadowy business ill intended, and any plea a potential manipulation. Some zealots known as the Dark Solipsists push this to the extreme and will kill anything they encounter in darkness with righteous ruthlessness, believing that the only truths is the dark are themselves and the holy texts. For them, the Devour Light spell is akin to a berserker’s rage. They roam the streets at night armed with flails and spiked chains chanting holy psalms in a drunken fervor fueled by blind faith and rage. For many, dark solipsists are little more than hooligans and little to no tears are shed when the body of one is inevitably found with its throat slit when the morning comes, which ends up fueling the monks' paranoia.
 </details>
 
-**Saint-Perside the Martyr** <br><i>Patron saint of secret wishes and sudden good fortune. The nun in a well.</i>
+**Saint Coltilde Never Drowned** <br><i>Patron saint of secretly desperate people. The nun in a well.</i>
 <details markdown="1">
 <summary><i>More</i></summary>
-People pray to Saint-Perside before throwing a coin in a wishing well, or any opaquely dark hole. Was martyred by being tied, weighed and thrown down a well by pagans. She was still alive and praying after two weeks. Heretical folklore believes she survived to this day by her [becoming a ghoul](/class/fighter/ghoul), while some scholars have theorized her being the syncretism of some Gullet Gods (see below) by the Church. These scholars were executed.
+People call to Coltilde before throwing a coin in a wishing well or any opaquely dark hole. It is said that doing so might goad her into interceding in your favour to the Authority. She was martyred by being tied, weighed and thrown down a well by pagans. She was still alive and praying after two weeks. Heretical folklore believes she survived to this day by her [becoming a ghoul](/class/fighter/ghoul), while some scholars have theorized her being the syncretism of some Gullet Gods (see below) by the Church. These scholars were executed.
 </details>
 
 **Heavenly Restorers** <br><i>Fringe theological theory on the implications of the Devour Light spell.</i>

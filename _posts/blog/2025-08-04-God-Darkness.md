@@ -72,7 +72,6 @@ For them, the Devour Light spell is akin to a berserker’s rage. They roam the 
 People call to Coltilde before throwing a coin in a wishing well or any opaquely dark hole. It is said that doing so might goad her into interceding in your favour to the Authority. She was martyred by being tied, weighed and thrown down a well by pagans. She was still alive and praying after two weeks. Heretical folklore believes she still survives in some well [as a ghoul](/class/fighter/ghoul), while some scholars have theorized her being the syncretism of some Gullet Gods (see below) by the Church. These scholars were executed.
 </details>
 
-
 <details markdown="1">
 <summary><b>Elysian Restorers</b> <br><i>Fringe doomsday theory on the implications of the Devour Light spell.</i></summary>
 It is well understood by the Orthodoxy that the base state of the world is dark chaos. Only once divine light poured in from Heaven were civilisations able to rise. Some scholars see the proof of that in the [Devour Light](/2020/11/13/devour-light/) spell. It indeed seems like light can be banished like any extraplanar creature and, like any other foreign element, it quickly dies if not fed copious amounts of energy to consume. From this theory rose the Elysian Restorers, a doomsday sect who believes that the quantity of light is finite. 
@@ -84,3 +83,7 @@ For them, it being diluted over many planes is the reason righteousness and mora
 
 In the Empire, any religion other than the Orthodoxy is considered pagan. Often worshipped among non-human communities and within ancient ruins and hard-to-control border towns, pagan faiths are repressed and considered foreign. Here are some examples of pagan beliefs related to Darkness:
 
+<details markdown="1">
+<summary><b>The Subterranean Gullets</b> <br><i>The mouths of earth spirits worshipped by animists.</i></summary>
+Sorcerers, elementalists and shamans know that each tree, stream or rock is inhabited by a spirit. Not least among them are the earth elementals manifested in each dark cave and tunnels. Their personalities vary, but they all demand offerings to be laid in their mouths. Depending on the cave, these spirits can hunger for as little as a few gems and as much as human sacrifices. In exchange, they provide shelter, hideouts, safe passage and precious ore veins. Powerful sorcerers can [bend them to their will](/2020/11/13/subterranean-gullet/).
+</details>

@@ -6,7 +6,7 @@ title: Cults of Darkness
 
 _Darkness is everywhere. Darkness is a shelter. <br> Darkness hides. Darkness is where people won't go._
 
-In my games, the main religion is monotheistic, vast and collapsing under its own massive weight and contradictions. What I'm trying to do here is to organise my thoughts on all its beliefs and rites relating to a certain game-relevant theme, which is Darkness in this case. As usual, you can click on ▶ to expand the text.
+In my games, the main religion is monotheistic, vast and collapsing under its own massive weight and contradictions. What I'm trying to do here is to organise my thoughts on all its beliefs and rites relating to a certain dnd-relevant theme, which today is Darkness. As usual, you can click on the ▶ symbols to expand the text.
 
 ## What The Orthodoxy Says About Darkness
 
@@ -86,4 +86,9 @@ In the Empire, any religion other than the Orthodoxy is considered pagan. Often 
 <details markdown="1">
 <summary><b>The Subterranean Gullets</b> <br><i>The mouths of earth spirits worshipped by animists.</i></summary>
 Sorcerers, elementalists and shamans know that each tree, stream or rock is inhabited by a spirit. Not least among them are the earth elementals manifested in each dark cave and tunnels. Their personalities vary, but they all demand offerings to be laid in their mouths. Depending on the cave, these spirits can hunger for as little as a few gems and as much as human sacrifices. In exchange, they provide shelter, hideouts, safe passage and precious ore veins. Powerful sorcerers can [bend them to their will](/2020/11/13/subterranean-gullet/).
+</details>
+
+<details markdown="1">
+<summary><b>The Lady of Loss</b> <br><i>Dark goddess of secrets, grief, and plots.</i></summary>
+Present in many old and foreign polytheistic pantheons, the Lady of Loss often plays an antagonistic role in pagan mythology. Sometimes known as Shar and identified by a dark circle symbol, she is prayed to as a last resort by people who have lost everything. She is said to know all secrets shared in the dark and to whisper plot ideas to those who cry themselves to sleep.
 </details>

@@ -4,7 +4,9 @@ tags: article monster npcclass
 title: Cults of Darkness
 ---
 
-Darkness is everywhere. Darkness is a shelter. Darkness hides. Darkness is where people won't go.
+_Darkness is everywhere. Darkness is a shelter. Darkness hides. Darkness is where people won't go._
+
+In my games, the main religion is monotheistic, vast and cracking under its own massive weight and contradictions. This means that all aspects of life are 
 
 ## What The Orthodoxy Says About Darkness
 
@@ -52,7 +54,7 @@ Once per year, on the day furthest apart from the holiest, certain parishes test
 **'Saint' Xvartholomeus** <br><i>Patron saint of justified petty criminals. A folk hero turned fake saint.</i>
 <details markdown="1">
 <summary><i>More</i></summary>
-Xvartholomeus appears in many legends. Most often as some sort of mousy accountant for some immensely powerful being. After years of unappreciated servile labor, he steals some part of his master’s power (gold, divine spark, secrets, etc.) and runs away. He is never caught because many people look like him.
+Xvartholomeus appears in many legends. Most often as some sort of mousy accountant for some powerful being. After years of unappreciated servile labor, he steals some part of his master’s power (gold, divine spark, secrets, etc.) and runs away. He is never caught because many people look like him.
 
 ‘Xvart Coins’ depicting his taunting face as the ‘heads’ are often left where a petty crime was uncaught. The Church tolerates celebrations of Xvartholomeus during carnivals, notably because [he is real and undeniable](/class/xvart), but would severely punish outright worship. Over time, the Inquisition has narrowed down some traits as suspiciously Xvarthlomeus-like: male pattern baldness, small stature, blueish skin, and a phrygian cap. But these could be [false leads](https://static.wikia.nocookie.net/smurfs/images/e/e7/Generic_Smurf.jpg/revision/latest?cb=20220924125954).
 </details>
@@ -66,11 +68,12 @@ The Church teaches that things in the dark are deceptive, any shadowy business i
 **Saint Coltilde Never Drowned** <br><i>Patron saint of secretly desperate people. The nun in a well.</i>
 <details markdown="1">
 <summary><i>More</i></summary>
-People call to Coltilde before throwing a coin in a wishing well or any opaquely dark hole. It is said that doing so might goad her into interceding in your favour to the Authority. She was martyred by being tied, weighed and thrown down a well by pagans. She was still alive and praying after two weeks. Heretical folklore believes she survived to this day by her [becoming a ghoul](/class/fighter/ghoul), while some scholars have theorized her being the syncretism of some Gullet Gods (see below) by the Church. These scholars were executed.
+People call to Coltilde before throwing a coin in a wishing well or any opaquely dark hole. It is said that doing so might goad her into interceding in your favour to the Authority. She was martyred by being tied, weighed and thrown down a well by pagans. She was still alive and praying after two weeks. Heretical folklore believes she still survives in some well [as a ghoul](/class/fighter/ghoul), while some scholars have theorized her being the syncretism of some Gullet Gods (see below) by the Church. These scholars were executed.
 </details>
 
-**Heavenly Restorers** <br><i>Fringe theological theory on the implications of the Devour Light spell.</i>
+**Elysian Restorers** <br><i>Fringe theological theory on the implications of the Devour Light spell.</i>
 <details markdown="1">
 <summary><i>More</i></summary>
-It is well understood that light is a state of matter, but where does it go when the Devour Light spell is cast? 
+It is well understood by the Orthodoxy that the base state of the world is dark chaos. Only once divine light poured in from Heaven were civilisations able to rise. Some scholars see the proof of that in the [Devour Light](/2020/11/13/devour-light/) spell. It indeed seems like light can be banished like any extraplanar creature and, like any other foreign element, it quickly dies if not fed copious amount of energy to consume. From this theory rose the Elysian Restorers, a doomsday sect who believes that the quantity of light is finite. For them, it being diluted over many planes is the reason righteousness and morality are fighting a losing battle. Civilisation is an experiment doomed to be imperfect and only by returning light to the Authority can there be a strong perfect, invicible and good empire. For most of them, this belief is translated by using as little light as possible and casting Devour Light over areas where light serves little purpose. The more extreme Restorers would love to cast devour light on the sun, ushering a heavenly golden age above, and the collapse of most civilisations.
+  
 </details>

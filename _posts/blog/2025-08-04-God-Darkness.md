@@ -60,26 +60,24 @@ Xvartholomeus appears in many legends. Most often as some sort of mousy accounta
 </details>
 
 
-<details markdown="1">
+<br><details markdown="1">
 <summary><b>Dark Solipsists</b><br><i>Errant orthodoxic monks with an extremely violent philosophy.</i></summary>
 The Church teaches that things in the dark are deceptive, any shadowy business ill intended, and any plea a potential manipulation. Some zealots known as the Dark Solipsists push this to the extreme and will kill anything they encounter in darkness with righteous ruthlessness, believing that the only truths is the dark are themselves and the holy texts. 
 
 For them, the Devour Light spell is akin to a berserker’s rage. They roam the streets at night armed with flails and spiked chains chanting holy psalms in a drunken fervor fueled by blind faith and rage. For many, dark solipsists are little more than hooligans and little to no tears are shed when the body of one is inevitably found with its throat slit when the morning comes, which ends up fueling the monks' paranoia.
 </details>
 
-
-<details markdown="1">
+<br><details markdown="1">
 <summary><b>Saint Coltilde Never Drowned</b> <br><i>Patron saint of secretly desperate people. The nun in a well.</i></summary>
 People call to Coltilde before throwing a coin in a wishing well or any opaquely dark hole. It is said that doing so might goad her into interceding in your favour to the Authority. She was martyred by being tied, weighed and thrown down a well by pagans. She was still alive and praying after two weeks. Heretical folklore believes she still survives in some well [as a ghoul](/class/fighter/ghoul), while some scholars have theorized her being the syncretism of some Gullet Gods (see below) by the Church. These scholars were executed.
 </details>
 
 
-<details markdown="1">
+<br><details markdown="1">
 <summary><b>Elysian Restorers</b> <br><i>Fringe doomsday theory on the implications of the Devour Light spell.</i></summary>
 It is well understood by the Orthodoxy that the base state of the world is dark chaos. Only once divine light poured in from Heaven were civilisations able to rise. Some scholars see the proof of that in the [Devour Light](/2020/11/13/devour-light/) spell. It indeed seems like light can be banished like any extraplanar creature and, like any other foreign element, it quickly dies if not fed copious amounts of energy to consume. From this theory rose the Elysian Restorers, a doomsday sect who believes that the quantity of light is finite. 
   
 For them, it being diluted over many planes is the reason righteousness and morality are fighting a losing battle. Civilisation is an experiment doomed to be imperfect and only by returning light to the Authority can there be a strong, perfect, invincible and good empire. For most of them, this belief is translated by using as little light as possible and casting Devour Light over areas where light serves little purpose. The more extreme Restorers would love to cast devour light on the sun, ushering a heavenly golden age above, and the collapse of most civilisations.
-  
 </details>
 
 ## Dark Pagan Worships

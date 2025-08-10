@@ -4,9 +4,9 @@ tags: article monster npcclass
 title: Cults of Darkness
 ---
 
-_Darkness is everywhere. Darkness is a shelter. Darkness hides. Darkness is where people won't go._
+_Darkness is everywhere. Darkness is a shelter. <br> Darkness hides. Darkness is where people won't go._
 
-In my games, the main religion is monotheistic, vast and cracking under its own massive weight and contradictions. This means that all aspects of life are 
+In my games, the main religion is monotheistic, vast and collapsing under its own massive weight and contradictions. What I'm trying to do here is to organise my thoughts on all its beliefs and rites relating to a certain game-relevant theme, which is Darkness in this case. As usual, you can click on ▶ to expand the text.
 
 ## What The Orthodoxy Says About Darkness
 

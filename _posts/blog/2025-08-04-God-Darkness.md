@@ -51,9 +51,9 @@ Once per year, on the day furthest apart from the holiest, certain parishes test
 
 ### Dark Petty Saints and Heresies
 
-**'Saint' Xvartholomeus** <br><i>Patron saint of justified petty criminals. A folk hero turned fake saint.</i>
+
 <details markdown="1">
-<summary><i>More</i></summary>
+<summary><i><b>'Saint' Xvartholomeus</b><br><i>Patron saint of justified petty criminals. A folk hero turned fake saint.</i></i></summary>
 Xvartholomeus appears in many legends. Most often as some sort of mousy accountant for some powerful being. After years of unappreciated servile labor, he steals some part of his master’s power (gold, divine spark, secrets, etc.) and runs away. He is never caught because many people look like him.
 
 ‘Xvart Coins’ depicting his taunting face as the ‘heads’ are often left where a petty crime was uncaught. The Church tolerates celebrations of Xvartholomeus during carnivals, notably because [he is real and undeniable](/class/xvart), but would severely punish outright worship. Over time, the Inquisition has narrowed down some traits as suspiciously Xvarthlomeus-like: male pattern baldness, small stature, blueish skin, and a phrygian cap. But these could be [false leads](https://static.wikia.nocookie.net/smurfs/images/e/e7/Generic_Smurf.jpg/revision/latest?cb=20220924125954).

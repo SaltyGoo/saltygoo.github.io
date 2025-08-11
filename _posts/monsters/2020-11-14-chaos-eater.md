@@ -17,7 +17,7 @@ _Imagine a nine-foot long worm made of a series of chitinous spiked wheels. Its 
 
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
-| **Hit Points:** 18 | **Armor:** 2 |
+| **Hit Points:** 18 (4HD) | **Armor:** 2 |
 | **Hit it:** normal  | **Dodge it:** normal  |
 | **Move:** fast, climb fast  |  **Size:** medium | 
 

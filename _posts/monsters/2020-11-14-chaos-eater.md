@@ -45,7 +45,7 @@ It **resists** everything (because it’s a divine servant). It **cannot** see, 
 
 <details markdown="1">
 <summary>Celestial Pact</summary>
-Evil celestials give the reward and the quest at the same time, then try to make accomplishing the quest impossible within the decided time frame. Good celestials give a quest first and the reward upon completion. The price of breaking a pact is always your soul.
+You cannot communicate with a Chaos Eater, but you can accomplish its desire by making a pact with it. The price of breaking a pact is always your soul.
  
 **Reward:**
 

@@ -25,7 +25,7 @@ The possessed **can** see through all mirrors it has seen since the last moon, a
 
 - being doused with holy water;
 - being forced to look at its own reflection;
-- being screamed by at least 3 ajacent people.
+- being screamed by at least 3 adjacent people.
 
 **Attacks (2/round)**
 

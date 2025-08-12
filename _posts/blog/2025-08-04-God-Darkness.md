@@ -6,7 +6,7 @@ title: Cults of Darkness
 
 _Darkness is everywhere. Darkness is a shelter. <br> Darkness hides. Darkness is where people won't go._
 
-In my games, the main religion is monotheistic, vast and collapsing under its own massive weight and contradictions. What I'm trying to do here is to organise my thoughts on worlbuilding and fantasy faith around certain dnd-relevant theme, which in this case is Darkness. The idea was to explore classic dnd religions in a more mystical way, without any characterisation of deities, like talking about the followers of a god insted of about the deity itself. Starting only with core beliefs, I devised rites and heresies for my main religion, and added a few classic pagan cults in the end. Like everything on Salty Goo, the goal is not to be original, but to be classic (shoutout to the truly original gloggers, I admire you). As usual, you can click on the ▶ symbols to expand the text.
+In my games, the main religion is monotheistic, vast and collapsing under its own massive weight and contradictions. What I'm trying to do here is to organise my thoughts on worldbuilding and fantasy faith around certain dnd-relevant themes, which in this case is Darkness. The idea was to explore classic dnd religions in a more mystical way, without any characterisation of deities, like talking about the followers of a god instead of about the deity itself. Starting only with core beliefs, I devised rites and heresies for my main religion, and added a few classic pagan cults in the end. Like everything on Salty Goo, the goal is not to be original, but to be classic (shoutout to the truly original gloggers, I admire you). As usual, you can click on the ▶ symbols to expand the text.
 
 ## What The Orthodoxy Says About Darkness
 

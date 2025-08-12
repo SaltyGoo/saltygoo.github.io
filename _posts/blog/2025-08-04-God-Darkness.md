@@ -69,7 +69,7 @@ For them, the Devour Light spell is akin to a berserker’s rage. They roam the 
 
 <details markdown="1">
 <summary><b>Saint Coltilde Never Drowned</b> <br><i>Patron saint of secretly desperate people. The nun in a well.</i></summary>
-People call to Coltilde before throwing a coin in a wishing well or any opaquely dark hole. It is said that doing so might goad her into interceding in your favour to the Authority. She was martyred by being tied, weighed and thrown down a well by pagans. She was still alive and praying after two weeks. Heretical folklore believes she still survives in some well [as a ghoul](/class/fighter/ghoul), while some scholars have theorized her being the syncretism of some Gullet Gods (see below) by the Church. These scholars were executed.
+People call to Coltilde before throwing a coin in a wishing well or any opaquely dark hole. It is said that doing so might goad her into interceding in your favour to the Authority. She was martyred by being tied, weighed and thrown down a well by pagans. She was still alive and praying after two weeks. Heretical folklore believes she still survives in some well [as a ghoul](/class/fighter/ghoul), while some scholars have theorized her being the syncretism of some Gullet Gods or the Lady of Loss (see below) by the Church. These scholars were executed.
 </details>
 
 <details markdown="1">

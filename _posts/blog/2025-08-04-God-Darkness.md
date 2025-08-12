@@ -92,3 +92,8 @@ Sorcerers, elementalists and shamans know that each tree, stream or rock is inha
 <summary><b>The Lady of Loss</b> <br><i>Dark goddess of secrets, grief, and plots.</i></summary>
 Present in many old and foreign polytheistic pantheons, the Lady of Loss often plays an antagonistic role in pagan mythology. Sometimes known as Shar and identified by a dark circle symbol, she is prayed to as a last resort by people who have lost everything. She is said to know all secrets shared in the dark and to whisper plot ideas to those who cry themselves to sleep.
 </details>
+
+<details markdown="1">
+<summary><b>Lolth</b> <br><i>Spider queen of the Underdark.</i></summary>
+An ancient elven queen so cruel and powerful that she is worshipped as a goddess. Or perhaps a demonic spider whose whispering brood has infiltrated the silken hair of elvenkind like a disease. Her cult is more akin to an extremely complex conspiracy where nobody is ever exactly who they say they are, loyalties are ever shifting, and every moment of weakness is exploited. Each of her worshippers think they are one step ahead of everybody else, yet none seem to know exactly what is the real overarching goal of the Conspiracy. Many historical crises have been theorised to be linked to the Conspiracy, and many more died trying to investigate.
+</details>

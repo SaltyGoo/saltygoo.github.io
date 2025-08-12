@@ -81,7 +81,7 @@ For them, it being diluted over many planes is the reason righteousness and mora
 
 ## Dark Pagan Worships
 
-In the Empire, any religion other than the Orthodoxy is considered pagan. Often worshipped among non-human communities and within ancient ruins and hard-to-control border towns, pagan faiths are repressed and considered foreign. Here are some examples of pagan beliefs related to Darkness:
+In the Empire, any religion other than the Orthodoxy is considered pagan. Often worshipped among non-human communities and within ancient ruins and hard-to-control border towns, pagan faiths are repressed and considered foreign. Here are some classic examples of pagan beliefs related to Darkness:
 
 <details markdown="1">
 <summary><b>The Subterranean Gullets</b> <br><i>The mouths of earth spirits worshipped by animists.</i></summary>
@@ -101,4 +101,11 @@ An ancient elven queen so cruel and powerful that she is worshipped as a goddess
 <details markdown="1">
 <summary><b>Darkness All Consuming</b> <br><i>Ancient, hungry and insatiable.</i></summary>
 On the surface, prophets wake up mad after having had visions of oblivion: Deep underground, below even the murder palaces of the Drows and the Aboleth mazes, is a pulsing hunger that gnaws at the world itself. Those who believe that truth cannot bear the weight of a futile existence, for the end is near and life is meaningless. Delirious, they beckon doom by feeding the hunger through inhuman sacrifices and by devouring all lights, perhaps hoping to ascend. Wherever they rise, they are swiftly and ruthlessly hunted down by the Inquisition and adventurers, some of which, now disappeared, noticed similarities in goals with the Elysian Restorers.
+</details>
+
+<details markdown="1">
+<summary><b>The Blind Oracles</b> <br><i>Where one sense is gone, a new one is developed.</i></summary>
+The price to see the future is being blind to the present. At least, this is what many seers claim across the world. Often said to be blessed by the local saint or pagan god where they reside, they are somewhat contradictorily common and similar across many cultures, faiths and geographies. This led to many conspiracy theories about who or what gives them their powers of prescience, from demon worship to simple arcane divination. 
+
+Their ambiguous auguries are never quite straightforward, with consequences that become obvious a generation after their proclamation. As many cautionary fables are told about the tragic consequence of listening to them as there are heroic tales about those who trusted them. This is not helped by the fact that each of them seem to bear a different, ironic, curse that limits their gift, such as never being believed by the right person, or only seeing the consequences but never the actions.
 </details>

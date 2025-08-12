@@ -109,3 +109,11 @@ The price to see the future is being blind to the present. At least, this is wha
 
 Their ambiguous auguries are never quite straightforward, with consequences that become obvious a generation after their proclamation. As many cautionary fables are told about the tragic consequence of listening to them as there are heroic tales about those who trusted them. This is not helped by the fact that each of them seem to bear a different, ironic, curse that limits their gift, such as never being believed by the right person, or only seeing the consequences but never the actions.
 </details>
+
+## Grimoire, Sacraments and Relics
+Writing this whole thing inspired me to create related content for my [Wizard](/class/wizard), [Priest](/class/priest) and [Specialist](/class/specialist) classes. I'll add them here when done.
+- The more common arcane grimoire to study darkness is the **Book of Vile Darkness** (#68 in the [Wizard Index](/class/wizard#study));
+- (The Confession sacrament for the Priest (no spell))
+- (The Solipsic Meditation sacrament for the Priest (with spells))
+- (a Xvart Coin relic for Specialists to scrounge)
+- (a Coltilde Wish Coin relic  for Specialists to scrounge)

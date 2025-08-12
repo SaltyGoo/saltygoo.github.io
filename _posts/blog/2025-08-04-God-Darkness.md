@@ -6,7 +6,7 @@ title: Cults of Darkness
 
 _Darkness is everywhere. Darkness is a shelter. <br> Darkness hides. Darkness is where people won't go._
 
-In my games, the main religion is monotheistic, vast and collapsing under its own massive weight and contradictions. What I'm trying to do here is to organise my thoughts on all its beliefs and rites relating to a certain dnd-relevant theme, which today is Darkness. As usual, you can click on the ▶ symbols to expand the text.
+In my games, the main religion is monotheistic, vast and collapsing under its own massive weight and contradictions. What I'm trying to do here is to organise my thoughts on worlbuilding and fantasy faith around certain dnd-relevant theme, which in this case is Darkness. The idea was to explore classic dnd religions in a more mystical way, without any characterisation of deities, like talking about the followers of a god insted of about the deity itself. Starting only with core beliefs, I devised rites and heresies for my main religion, and added a few classic pagan cults in the end. Like everything on Salty Goo, the goal is not to be original, but to be classic (shoutout to the truly original gloggers, I admire you). As usual, you can click on the ▶ symbols to expand the text.
 
 ## What The Orthodoxy Says About Darkness
 
@@ -95,5 +95,10 @@ Present in many old and foreign polytheistic pantheons, the Lady of Loss often p
 
 <details markdown="1">
 <summary><b>Lolth</b> <br><i>Spider queen of the Underdark.</i></summary>
-An ancient elven queen so cruel and powerful that she is worshipped as a goddess. Or perhaps a demonic spider whose whispering brood has infiltrated the silken hair of elvenkind like a disease. Her cult is more akin to an extremely complex conspiracy where nobody is ever exactly who they say they are, loyalties are ever shifting, and every moment of weakness is exploited. Each of her worshippers think they are one step ahead of everybody else, yet none seem to know exactly what is the real overarching goal of the Conspiracy. Many historical crises have been theorised to be linked to the Conspiracy, and many more died trying to investigate.
+An ancient elven queen so cruel and powerful that she is worshipped as a goddess. Or perhaps a demonic spider whose whispering brood has infiltrated the silken hair of elvenkind like a disease. Her cult is more akin to an extremely complex conspiracy where nobody is ever exactly who they say they are, loyalties are ever shifting, and every moment of weakness is exploited. Each of her worshippers think they are one step ahead of everybody else, yet none seem to know exactly what is the real overarching goal of the Conspiracy. Many historical crises have been theorised to be linked to the Conspiracy, and many more people died trying to investigate.
+</details>
+
+<details markdown="1">
+<summary><b>Darkness All Consuming</b> <br><i>Ancient, hungry and insatiable.</i></summary>
+On the surface, prophets wake up mad after having had visions of oblivion: Deep underground, below even the murder palaces of the Drows and the Aboleth mazes, is a pulsing hunger that gnaws at the world itself. Those who believe that truth cannot bear the weight of a futile existence, for the end is near and life is meaningless. Delirious, they beckon doom by feeding the hunger through inhuman sacrifices and by devouring all lights, perhaps hoping to ascend. Wherever they rise, they are swiftly and ruthlessly hunted down by the Inquisition and adventurers, some of which, now disappeared, noticed similarities in goals with the Elysian Restorers.
 </details>

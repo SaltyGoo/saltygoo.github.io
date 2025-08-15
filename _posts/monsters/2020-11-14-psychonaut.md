@@ -18,7 +18,7 @@ _Something with disturbingly human proportions that crawled up from the centre o
 
 |  <span style="display: inline-block; width:250px"></span>  |  |
 | -------- | --------|
-| **Hit Points:** 9 | **Armor:** 3 |
+| **Hit Points:** 9 (2 HD) | **Armor:** 3 |
 | **Hit it:** normal  | **Dodge it:** hard  |
 | **Move:** slow  |  **Size:** medium | 
 

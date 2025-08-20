@@ -168,39 +168,37 @@ _(without spells)_
 <summary><b>Offer a lamb to the Altar of Worship</b></summary>
 - You can speak the Holy Language of Angels, Demons, Gods and Babies.
 - You can spend 10 minutes at any shrine to learn the health, goal and disposition of the divinity in residence.
-- Once per session you can ask a divinity a question, which they will answer with a hint.
+- Once per shrine per session you can ask a divinity a question, which they will answer with a hint in accordance with their goal and disposition.
 </details>
 
 <details markdown="1">
 <summary><b>Parade the icons of the Faith</b></summary>
-- When you go into town, you draw audiences of pious [followers](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html). After your sermons, you can hire a number of believers equal to the Treasures you carry.
-- You can give a class level to your next follower.
-- You can command your followers as a group and they will follow your orders blindly.
+- For you, [treasures](/2020/11/09/base-rules/) that are at least valuable count as pieces of armor.
+- When you [carouse](/2020/11/09/base-rules/), you draw audiences of pious [followers](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html). After your sermon, a number of them equal to the amount [Treasures](/2020/11/09/base-rules/) you carry join you.
+- You can command your followers as a group and they will follow your orders blindly. Each turn, one of them can take a hit in your stead at the cost of its life.
 </details>
 
 <details markdown="1">
-<summary><b>Stare at the Unblinking Virgin for a week</b></summary>
-- Once per day you may take time to closely examine a situation or person. When you do, you may ask the referee one of the following questions. They must answer truthfully.
--- What happened here recently?
--- What is about to happen?
--- Who’s really in control here?
--- What here is not what it appears to be?
+<summary><b>Fast for two months</b></summary>
+- You can choose an additional skill from the priest class.
+- When another character solicits your advice, if they act on it, they have advantage on their next relevant test. If they act against it, they have disadvantage. Offering advice takes an action during tense situations, and 10 minutes otherwise.
 - When violence seems imminent, no one can make an attack or cast a harmful spell until you’ve had your say.
 ##### From Vivanter's [Councilor](https://mediumsandmessages.bearblog.dev/glog-the-counselor/)
 </details>
 
 <details markdown="1">
-<summary><b>Translate the Sacred Books</b></summary>
-- You have a resource called Big Questions (BQ) that starts at 0. When you encounter something truly mysterious or confounding, increase your BQ by 1 and write down a question about it. When you spend time in an archive or with eminent scholars, roll a d6. If the result is less than or equal to your BQ, reduce your BQ by 1 and answer one of your questions.
-- You can choose an additional skill from the priest class.
-##### From Vivanter's unpublished [Sage](https://mediumsandmessages.bearblog.dev/blog/)
-</details>
-
-<details markdown="1">
-<summary><b>Swallow a brick from the First Temple</b></summary>
+<summary><b>Build a church with your bare hands</b></summary>
 - You can read all languages which have no living speakers. 
 - You have a sense for architecture and ruin. You can tell where a structure will break first (or next), and whether that destruction is imminent. You can also tell how long ago a structure collapsed. Once per adventure, you can dictate a time within that month for a target structure to collapse in the manner foretold (which can be as soon as Immediately).
 - Alternatively, you can dictate instead that a structure will not collapse for a month.
 ##### From Dead Delver's [Celestial Arts](https://sevendeadlydungeons.blogspot.com/2023/05/celestial-arts-of-outer-bodies-glog.html?m=1)
 </details>
 
+<details markdown="1">
+<summary><b>Confess all your darkest sins to an authority figure</b></summary>
+- When peering into darkness, you know if there are creatures hiding inside.
+- When peering into the eyes of any creature with a language, you know if it is ashamed of something.
+- You can store people's secrets in your psyche. Secrets are things the target wouldn't want others to know. You can reveal a target's secret to automatically succeed a roll against it.
+  
+##### From the [Dark Cults](/2025/08/04/God-Darkness/)
+</details>

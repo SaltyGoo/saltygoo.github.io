@@ -113,7 +113,7 @@ Their ambiguous auguries are never quite straightforward, with consequences that
 ## Grimoire, Sacraments and Relics
 Writing this whole thing inspired me to create related content for my [Wizard](/class/wizard), [Priest](/class/priest) and [Specialist](/class/specialist) classes. I'll add them here when done.
 - The more common arcane grimoire to study darkness is the **Book of Vile Darkness** (#68 in the [Wizard Index](/class/wizard#study));
-- (The Confession sacrament for the Priest (no spell))
+- You can take the spell-less [**confession sacrament**](/class/priest#sacrament) if you are a priest
 - (The Solipsic Meditation sacrament for the Priest (with spells))
 - (a Xvart Coin relic for Specialists to scrounge)
 - (a Coltilde Wish Coin relic  for Specialists to scrounge)

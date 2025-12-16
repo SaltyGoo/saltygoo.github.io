@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: spell mundane
+tags: spell tricks
 title: Golden Paddle
 ---
 **R**: Touch		**D**: [dice] * Hours

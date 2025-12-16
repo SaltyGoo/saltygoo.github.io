@@ -1085,3 +1085,48 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 - Roll 1D4, you gain the following spell: 1. [Plasmic Manipulation](/2020/11/13/plasmic-manipulation/), 2. [Plasmic Key](/2020/11/13/plasmic-key/), 3. [Unbreak](/2020/11/13/unbreak/), 4. [Unmake](/2020/11/13/unmake/)
 ###### *From Mavell Duceau's [Wizzin't](https://oneeyetotheanchor.blogspot.com/2023/04/reality-asserts-itself-glog-class-wiznt.html)!*
 </details>
+
+<details markdown="1">
+<summary><b>115. Every God-Damned</b></summary>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Wrapped in scarlet velvet and written in blood.*
+- You are skilled in medical bleeding. Provided with a sharp tool and 10 minutes, you can safely extract a gourd of blood from any human-sized living creature.
+- Each time you study this book, roll on the [Every Goddammed Vampire generator](https://whosemeasure.blogspot.com/2025/12/every-goddamn-vampire-in-this-goddamn.html). Select one randomly by scrolling 1D12 seconds from the bottom of the page. This vampire is in the nearest town and you know where to find them.
+- Roll 1D4, you gain the following spell: 1. [Blood Scabbard](/2020/11/13/blood-scabbard/), 2. [Chain of the Bloodline](/2020/11/13/chain-of-the-Bloodline/), 3. [Covenant](/2020/11/12/covenant/), 4. [Dream](/2020/11/13/dream/)
+###### *Inspired by [Phlox](https://whosemeasure.blogspot.com/)*
+</details>
+
+<details markdown="1">
+<summary><b>116. The Great Dolmenwood Treasure Map</b></summary>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Scroll tube in the shape of an old branch with 3 engraved Ts. The map has been rendered nearly useless from all the arcane notes in it.*
+- By sweeping tracks on the ground with a pine branch, you can make them lead somewhere else you've been to.
+- Each time you study this book, roll a D12 and let the DM give you a [clue](https://whosemeasure.blogspot.com/2025/11/the-great-dolmenwood-treasure-hunt-part.html#Details).
+- Roll 1D4, you gain the following spell: 1. [Beseech](/2020/11/13/beseech/), 2. [Fey Ring](/2020/11/13/fey-ring/), 3. [Fold Space](/2020/11/13/fold-space/), 4. [Speak With Birds](/2020/11/13/speak-with-birds/)
+###### *Inspired by [Phlox](https://whosemeasure.blogspot.com/)*
+</details>
+
+<details markdown="1">
+<summary><b>117. Twenty Obtenebration Rituals</b></summary>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Two-hundred black pages bound in a shroud. Can only be read in complete darkness.*
+- If you empty a jug of water unnoticed while in the presence of creatures, you will not elicit any emotional reactions from them until sunrise.
+- Each time you study this book, you gain [a ghostly dead follower](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html). It can't interact with or clearly see the physical world, but you can be sacrificed to completely block and undead's attack.
+- Roll 1D4, you gain the following spell: 1. [Geas](/2020/11/13/geas/), 2. [Kladenets](/2020/11/13/kladenets/), 3. [Lucifuge](/2020/11/13/devour-light/), 4. [Sacrament of Life](/2020/11/13/sacrament-of-life/)
+###### *Inspired by [Phlox](https://whosemeasure.blogspot.com/)*
+</details>
+
+<details markdown="1">
+<summary><b>118. The Conquest of Tesdudis</b></summary>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A giant cloth embroidered with military maps and historical notes.*
+- Choose a faction. It recognises you as an official military consultant.
+- Each time you study this book, your faction of choice will succeed off-screen in capturing one hex or person.
+- Roll 1D4, you gain the following spell: 1. [Cold Snap](/2020/11/13/cold-snap/), 2. [Golden Paddle](/2020/11/13/golden-paddle/), 3. [Retching Plague](/2020/11/13/potpourri/), 4. [Walking Tree](/2020/11/13/walking-tree/).
+###### *Inspired by [Phlox](https://whosemeasure.blogspot.com/)*
+</details>
+
+<details markdown="1">
+<summary><b>119. The Better Parts of Earth</b></summary>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *An atlas. When looked through a crystal globe, glowing formulas appear on the otherwise useless maps.*
+- You can target your spells by pointing at a location on a map.
+- Each time you study this book, you can add a feature of your choice in a hex of your choice.
+- Roll 1D4, you gain the following spell: 1. [Bramble Burrow](/2020/11/13/bramble-burrow/), 2. [Astral Mercator Projection](/2020/11/13/astral-projection/) (you travel to a point on a map!), 3. [Star Map](/2020/11/13/star-map/), 4. [Subterranean Gullet](/2020/11/13/subterranean-gullet/)
+###### *Inspired by [Phlox](https://whosemeasure.blogspot.com/)*
+</details>

@@ -6,7 +6,7 @@ title: Sacrament of Life
 
 **R**: Touch 
 
-Target pint of blood becomes nourishing enough for [dice] people OR is multiply it by [SUM] for 1 hour.
+Target pint of blood becomes nourishing enough for [dice] people OR is multiplied by [SUM] for 1 hour.
 
 If you invest 4 or more dice in this spell, the multiplication becomes permanent.
 

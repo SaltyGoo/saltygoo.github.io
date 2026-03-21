@@ -18,20 +18,42 @@ A **Memento** (required to use your abilities), a **Hooded Lantern**, 3 **Oil Fl
 - **Ouija Board** to contact spirits
 - **Cranky Small Dog** that can follow two 1-word commands of your choice
 
-<ins>Starting Skill</ins><br>
-**Death**, and roll a D4 or choose one of 1. **Destitute Aristocrat** (you have a pedigree!), 2. **Ex-Spouse** of a (roll on the [d200 medieval career](https://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) table), 3. **Local Gossip**, or 4. **Religious Rites**.
+<ins>Starting Skills</ins><br>
+**Death**, and roll a D4 or choose: 1. **Destitute Aristocrat** (you have a pedigree!), 2. **Ex-Spouse** of a (roll on the [d200 medieval career](https://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) table), 3. **Local Gossip**, or 4. **Religious Rites**.
 
 ##### _A skill is an experience stored in your psyche. All rolls that can be related to a skill you have become easier._
 
 ---
 
-For every Wailer template you have, you gain a new **Wail** and can target an additional creature with them.
+## Class Progression
 
-**A:** Strength Through Suffering, Theatre of Sadness<br>
-**B:** Procession<br>
+**A:** Death's Companion, Gravitas, Wail<br>
+**B:** My Dead Spouse<br>
 **C:** Death Watch<br>
-**D:** Banshee
+**D:** Epilogue
 <br>
+
+<ins>Every time you take a level in this class</ins><br>
+Your storyline develops. Roll a D4. You can get the same result multiple times.
+<details markdown="1">
+<summary>1. <ins>A new suitor appears!</ins></summary>
+You gain a new follower. There is a 1-in-6 chance they are rich, otherwise roll on the [d200 medieval career](https://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) table for them. They will propose each time you level up, don’t spurn them! If you accept, you can no longer level up as a widow. 
+</details>
+
+<details markdown="1">
+<summary>2. <ins>You are burdened with new responsibilities.</ins></summary>
+As a widow, you must take the responsibilities of your dead spouse. Choose another skill from your starting list. 
+</details>
+
+<details markdown="1">
+<summary>2. <ins>You inherit something!</ins></summary>
+A church-appointed notary has finally tracked you down. Roll a D4 and inherit the following: 1. A Horse, 2. A Boat moored in the nearest harbor, 3. A [random magical item](https://goblinpunch.blogspot.com/2015/01/d100-minor-magical-items.html), 4. An estate in a location of your choice and debts amounting to a [chest of gold](/2024/06/26/currency/). 
+</details>
+
+<details markdown="1">
+<summary>2. <ins>You are haunted!</ins></summary>
+Each night, between midnight and dawn, you are visited by a ghostly apparition. Roll a D6, you can reroll if you have a ouija board : 1. Just a silent image of your dead spouse, passive and staring, 2. The vivid image of your dead spouse, eager to chat, it knows a lot about people who died here, 3. The invisible presence of your dead spouse protecting you, until dawn, you can use each of the ghost’s [ethereal attacks](/monsters/ghost) once, 4. The ethereal [ghost](/monsters/ghost) of your dead spouse, enraged and hostile, 5. A child you left safe with your family (how is that possible!? is it real?). Acts as a temporary immaterial follower, 6. Death Itself comes to wager hit points in a game of blackjack. 
+</details>
 
 ## Strength Through Suffering
 You have +1 HP per [Scar](/2020/11/09/base-rules/) and [Trauma](/2020/11/09/base-rules/) you have (you gain a Scar when you reach 0HP and survive, and you gain a Trauma when one of your companions die. Scars go in your inventory and Traumas go in your psyche).

@@ -10,8 +10,8 @@ _You are known more for your relationship with the dead than with the living. In
 
 ---
 
-**Starting Equipment**<br>
-A <ins>Memento</ins> worth a [purse of gold](/2024/06/26/currency/) (required to use your abilities), a <ins>Hooded Lantern</ins>, <ins>3 Oil Flasks</ins>, as well as your choice of two of the following:
+#### <ins>Starting Equipment</ins><br>
+A <ins>Memento worth a [purse of gold](/2024/06/26/currency/) (required to use your abilities), a <ins>Hooded Lantern</ins>, <ins>3 Oil Flasks</ins>, as well as your choice of two of the following:
 - Waterproof <ins>Mourning Cloak</ins> (as leather)
 - <ins>Black veil</ins> to mask your identity in a socially acceptable way
 - <ins>[Discipline Whip](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance))</ins> to heighten your suffering

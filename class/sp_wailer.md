@@ -8,6 +8,8 @@ A social class that weaponises expressions of grief.
 
 _You are known more for your relationship with the dead than with the living. In the village, you are treated with an awkward mixture of pity and respect. Mentions of your name are invariably followed by a weighted pause. And yet, you are empowered: a single person carrying the legacy of two with no more tears to shed._
 
+<img align="center" width=500px src="images/Class_Widow_SaltyGoo.png">
+
 <br>
 
 <ins>Starting Equipment</ins><br>

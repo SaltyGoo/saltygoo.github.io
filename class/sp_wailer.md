@@ -10,8 +10,6 @@ _You are known more for your relationship with the dead than with the living. In
 
 <img align="center" width=800px src="/images/Class_Widow_SaltyGoo.png">
 
-<br>
-
 <ins>Starting Equipment</ins><br>
 A *Memento* (required to use your abilities), a *Hooded Lantern*, 3 *Oil Flasks*, as well as your choice of two of the following:
 - Waterproof *Mourning Cloak* (as leather)
@@ -23,7 +21,7 @@ A *Memento* (required to use your abilities), a *Hooded Lantern*, 3 *Oil Flasks*
 <ins>Starting Skills</ins><br>
 *Death*, and roll a D4 or choose: **1.** *Destitute Aristocrat* (you have a pedigree!), **2.** *Ex-Spouse* of a (roll on the [d200 medieval career](https://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) table), **3.** *Local Gossip*, or **4.** *Religious Rites*.
 
-##### _A skill is an experience stored in your psyche. All rolls that can be related to a skill you have become easier._
+##### _A skill is an experience stored in your psyche. All rolls that can be related to a skill you have become easier. If your dead spouse is another character, you can select one of their class' starting skills instead._
 
 <br>
 
@@ -56,7 +54,7 @@ A church-appointed notary has finally tracked you down. Roll a D4 and inherit th
 
 <details markdown="1">
 <summary>2. <ins>You are haunted!</ins></summary>
-Each night, between midnight and dawn, you are visited by a ghostly apparition. Roll a D6, you can reroll if you have a ouija board : **1.** Just your imagination, **2.** Your dead spouse, eager to chat. It knows a lot about people who died here, **3.** Your dead spouse, protecting you. You can use each of the ghost’s [ethereal attacks](/monsters/ghost) once, **4.** Your [dead spouse](/monsters/ghost), enraged and hostile, **5.** Your child — *how is that possible!? You left them safe with family is it real?*. Acts as a temporary immaterial follower, **6.** Death Itself. It comes to wager HP in a game of blackjack. Permanently gain or lose them.
+Each night, between midnight and dawn, you are visited by a ghostly apparition. Roll a D6, you can reroll if you have a ouija board : **1.** Just your imagination, **2.** Your dead spouse, eager to chat. It knows a lot about people who died here, **3.** Your dead spouse, protecting you. You can use each of the ghost’s [ethereal attacks](/monsters/ghost) once, **4.** Your [dead spouse](/monsters/ghost), enraged and hostile, **5.** Your child — *how is that possible!? You left them safe with family! Is it real?* Acts as a temporary immaterial follower, **6.** Death Itself. It comes to wager HP in a game of blackjack. Permanently gain or lose them.
 </details>
 
 ## Death's Companion

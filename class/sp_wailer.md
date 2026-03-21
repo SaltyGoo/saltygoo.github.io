@@ -33,7 +33,7 @@ A *Memento* (required to use your abilities), a *Hooded Lantern*, 3 *Oil Flasks*
 **D:** Epilogue
 <br>
 
-<ins>Every time you take a level in this class</ins><br>
+**Every time you take a level in this class**<br>
 Your storyline develops. Roll a D4. You can get the same result multiple times.
 <details markdown="1">
 <summary>1. <ins>A new suitor appears!</ins></summary>

@@ -56,7 +56,7 @@ Each night, between midnight and dawn, you are visited by a ghostly apparition. 
 </details>
 
 ## Death's Companion
-Death has become familiar to you. You have 1 Trauma in your Psyche from your spouse’s death. Once per day, you can take 10 minute in penance to recover 1 HP per [Scar](/2020/11/09/base-rules/) and [Trauma](/2020/11/09/base-rules/) you have (*you gain a Scar when you reach 0HP and survive, and you gain a Trauma when one of your companions dies. Scars go in your inventory and Traumas go in your psyche*). If you have **[Discipline Whip](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance))**, the healed amount is doubled.
+Death has become familiar to you. You have 1 Trauma in your Psyche from your spouse’s death. Once per day, you can take 10 minute in penance to recover 1 HP per [Scar](/2020/11/09/base-rules/) and [Trauma](/2020/11/09/base-rules/) you have (*you gain a Scar when you reach 0HP and survive, and you gain a Trauma when one of your companions dies. Scars go in your inventory and Traumas go in your psyche*). If you have [Discipline Whip](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance)), the healed amount is doubled.
 
 ## Gravitas
 There’s a certain grave aura radiating from you. If you want, humanoids, animals and undead creatures that see you can be prevented from laughing, intentionally making loud noises, and otherwise behaving in an impolite way. Named characters are allowed one saving throw each day to become immune forever.

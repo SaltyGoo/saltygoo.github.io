@@ -10,7 +10,7 @@ _You are known more for your relationship with the dead than with the living. In
 
 ---
 
-#### <ins>Starting Equipment</ins><br>
+<ins>Starting Equipment</ins><br>
 A **Memento** worth a [purse of gold](/2024/06/26/currency/) (required to use your abilities), a **Hooded Lantern**, 3 **Oil Flasks**, as well as your choice of two of the following:
 - Waterproof **Mourning Cloak** (as leather)
 - **Black Veil** to mask your identity in a socially acceptable way

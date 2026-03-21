@@ -1,47 +1,84 @@
 ---
 layout: page
-title: Wailer
-permalink: /class/specialist/wailer
+title: Widow
+permalink: /class/specialist/widow
 ---
 
-Wailers, also called [professional mourners](https://en.wikipedia.org/wiki/Professional_mourning), death watches, rudaalis or moirologists, are hired to ostentatiously display sadness during funerary processions. Their performances amplify the importance of the deceased and help the truly sad process grief.
+A social class that weaponises expressions of grief.
 
-<ins>Starting Equipment</ins><br>
-A black veil, a bell, a [discipline](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance)).
+_You are known more for your relationship with the dead than with the living. In the village, you are treated with an awkward mixture of pity and respect. Mentions of your name are invariably followed by a weighted pause. And yet, you are empowered: a single person carrying the legacy of two with no more tears to shed._
 
-<ins>Starting Skills</ins><br>
-Your choice of Theatre, Gossip, Religious Texts, or Psychology
-
-For every Wailer template you have, you gain a new **Wail** and can target an additional creature with them.
-
-**A:** Strength Through Suffering, Theatre of Sadness<br>
-**B:** Procession<br>
-**C:** Death Watch<br>
-**D:** Banshee
 <br>
 
-## Strength Through Suffering
-You have +1 HP per [Scar](/2020/11/09/base-rules/) and [Trauma](/2020/11/09/base-rules/) you have (you gain a Scar when you reach 0HP and survive, and you gain a Trauma when one of your companions die. Scars go in your inventory and Traumas go in your psyche).
+<ins>Starting Equipment</ins><br>
+A *Memento* (required to use your abilities), a *Hooded Lantern*, 3 *Oil Flasks*, as well as your choice of two of the following:
+- Waterproof *Mourning Cloak* (as leather)
+- *Black Veil* to mask your identity in a socially acceptable way
+- *[Discipline Whip](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance))* to heighten your suffering
+- *Ouija Board* to contact spirits
+- *Cranky Small Dog* that can follow two 1-word commands of your choice
 
-## Theatre of Sadness
-You can cry on cue. On your turn, you can perform a **Wail** and targets who can hear or see you must save or empathically have their mood shift for this turn. You can target as many creatures as you have Wailer templates with this ability. Mindless creatures are immune. Animals and ghosts don't get a save. This is not a spell, it’s theatre.
+<ins>Starting Skills</ins><br>
+*Death*, and roll a D4 or choose: **1.** *Destitute Aristocrat* (you have a pedigree!), **2.** *Ex-Spouse* of a (roll on the [d200 medieval career](https://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) table), **3.** *Local Gossip*, or **4.** *Religious Rites*.
 
-### Wails
-Wails go in your psyche. You gain one per Wailer template. 
+##### _A skill is an experience stored in your psyche. All rolls that can be related to a skill you have become easier._
 
-- **Desperate Sadness** <br> _Throw yourself on the ground in despair._ <br> The targets will attempt a reckless action to achieve their higher goal with total disregard for their own safety.
-- **Melancholic Sadness** <br> _Throw your empty palms upward and scream at the sky_. <br> The targets will lose motivation in their current higher goal, instead attempting a self-preserving action.
-- **Bitter Sadness** <br> _Pantomime the suffering endured by the deceased._ <br> The targets will attempt a cynical action to achieve their ambition with total disregard for hierarchy, alliances or social conventions.
-- **Pityful Sadness** <br> _Grovel and moan while covering your face._ <br> The targets will lose all ego and their next action will be made to please someone else they fear or love.
-- **Solemn Sadness** <br> _Stand in dignified silence and fiercely ring your bell once as a single tear runs down your cheek._ The targets will attempt to act with the utmost pomp and respect for this serious situation, putting social mores above practicality.
-- **Pious Sadness** <br> _Flog your naked back in penitent submission._ <br> The targets will a desperate action to salvage their soul in accordance to their beliefs.
-- **Choleric Sadness** <br> _Loudly cry and tear tufts of your own disheveled hair._ <br> The targets' next action will be motivated by blind rage.
+<br>
 
-## Procession
-As long as you constantly repeat the same **Wail**, creatures who failed their initial save continue to be affected by it without needing to be targeted again each turn. Every 10 minutes you do so, you must save or lose your voice. If you lose your voice, you cannot perform your **Theatre of Sadness** for 1 hour.
+---
+
+## Class Progression
+
+**A:** Death's Companion, Gravitas, Wail<br>
+**B:** My Dead Spouse<br>
+**C:** Death Watch<br>
+**D:** Epilogue
+<br>
+
+**Every time you take a level in this class**<br>
+Your storyline develops. Roll a D4. You can get the same result multiple times.
+<details markdown="1">
+<summary>1. <ins>A new suitor appears!</ins></summary>
+You gain a new follower. There is a 1-in-6 chance they are rich, otherwise roll on the [d200 medieval career](https://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) table for them. They will propose each time you level up, don’t spurn them! If you accept, you can no longer level up as a widow. 
+</details>
+
+<details markdown="1">
+<summary>2. <ins>You are burdened with new responsibilities.</ins></summary>
+As a widow, you must take the responsibilities of your dead spouse. Choose another skill from your starting list. 
+</details>
+
+<details markdown="1">
+<summary>2. <ins>You inherit something!</ins></summary>
+A church-appointed notary has finally tracked you down. Roll a D4 and inherit the following: **1.** A *Horse*, **2.** A *Boat* moored in the nearest harbor, **3.** A [random *Magical Item*](https://goblinpunch.blogspot.com/2015/01/d100-minor-magical-items.html), **4.** An *Estate* in a location of your choice and *Debts* amounting to a [chest of gold](/2024/06/26/currency/). 
+</details>
+
+<details markdown="1">
+<summary>2. <ins>You are haunted!</ins></summary>
+Each night, between midnight and dawn, you are visited by a ghostly apparition. Roll a D6, you can reroll if you have a ouija board : **1.** Just your imagination, **2.** Your dead spouse, eager to chat. It knows a lot about people who died here, **3.** Your dead spouse, protecting you. You can use each of the ghost’s [ethereal attacks](/monsters/ghost) once, **4.** Your [dead spouse](/monsters/ghost), enraged and hostile, **5.** Your child — *how is that possible!? You left them safe with family is it real?*. Acts as a temporary immaterial follower, **6.** Death Itself. It comes to wager HP in a game of blackjack. Permanently gain or lose them.
+</details>
+
+## Death's Companion
+Death has become familiar to you. You have 1 Trauma in your Psyche from your spouse’s death. Once per day, you can take 10 minute in penance to recover 1 HP per [Scar](/2020/11/09/base-rules/) and [Trauma](/2020/11/09/base-rules/) you have (*you gain a Scar when you reach 0HP and survive, and you gain a Trauma when one of your companions dies. Scars go in your inventory and Traumas go in your psyche*). If you have [Discipline Whip](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance)), the healed amount is doubled.
+
+## Gravitas
+There’s a certain grave aura radiating from you. If you want, humanoids, animals and undead creatures that see you can be prevented from laughing, intentionally making loud noises, and otherwise behaving in an impolite way. Named characters are allowed one saving throw each day to become immune forever.
+
+## Wail
+Your voice is the perfect vessel for pain. On your turn, you can perform a wail that will shock as many people, animals and undead creatures of your choice as you have [Scar](/2020/11/09/base-rules/) and [Trauma](/2020/11/09/base-rules/). You then must save or lose your voice for 1 hour. Your repertoire is as follow:
+
+- **Enraged Shriek.** Targets inflict 1D6 extra damage with their melee attacks next turn.
+- **Howl of Despair.** Targets must focus on you for the next turn, and you have advantage on your rolls against them.
+- **Melancholic Moan.** Targets must save or become lost in their thoughts for their next turn. Ends if they are attacked.
+- **Pitiful Cry.** Targets avoid interacting with you for the next turn.
+- **Religious Plea.** Target undead creatures take 1D6 psychic damage.
+
+## My Dead Spouse
+Bad luck seems to cling to people who have hurt you. You can attempt simple combat maneuvers such as tripping or disarming on anything you can see who has spurned you. For any normal witness, it looks like fortuitous luck or clumsiness on the part of the victim, but for people who can see ghosts, the culprit is obvious.
 
 ## Death Watch
-When you see a _named_ character die, you can begin a passionate, loud eulogy. As long as you do so, it is as if the character was still there as a ghost, immortal, immaterial, and acting according to your wishes. You must save every 10 minutes of the eulogy or lose your voice. If you lose your voice, you cannot perform your **Death Watch** for 1 hour.
+When you see a _named_ character die, you can begin a passionate, loud eulogy. As long as you do so, it is as if the character was still there as a ghost, immortal, immaterial, and acting according to your wishes. You must save every 10 minutes of the eulogy or lose your voice. If you lose your voice for 1 hour.
 
-## Banshee
-Creatures do not get a save to resist your **Theatre of Sadness**. When you die, you become a ghost. This character can now become the follower of your next character or one of your companions. As a ghost, you have no inventory slots and cannot inflict or take mundane damage.
+## Epilogue
+Your story as a widow ends. Death, your true companion, comes to finally claim you. You die a peaceful death, and yet…
+
+When you die, you become a ghost. This character can now become the follower of your next character or one of your companions. As a ghost, you have no inventory slots except for your memento and cannot inflict or take mundane damage.

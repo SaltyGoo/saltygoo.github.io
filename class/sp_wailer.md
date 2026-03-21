@@ -21,8 +21,6 @@ A *Memento* (required to use your abilities), a *Hooded Lantern*, 3 *Oil Flasks*
 
 ##### _A skill is an experience stored in your psyche. All rolls that can be related to a skill you have become easier. If your dead spouse is another character, you can select one of their class' starting skills instead._
 
-<br>
-
 ---
 
 ## Class Progression

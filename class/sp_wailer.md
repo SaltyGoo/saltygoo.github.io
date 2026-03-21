@@ -11,12 +11,12 @@ _You are known more for your relationship with the dead than with the living. In
 ---
 
 #### <ins>Starting Equipment</ins><br>
-A <ins>Memento worth a [purse of gold](/2024/06/26/currency/) (required to use your abilities), a <ins>Hooded Lantern</ins>, <ins>3 Oil Flasks</ins>, as well as your choice of two of the following:
-- Waterproof <ins>Mourning Cloak</ins> (as leather)
-- <ins>Black veil</ins> to mask your identity in a socially acceptable way
-- <ins>[Discipline Whip](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance))</ins> to heighten your suffering
-- <ins>Ouija Board</ins> to contact spirits
-- <ins>Cranky Small Dog</ins> that can follow two 1-word commands of your choice
+A **Memento** worth a [purse of gold](/2024/06/26/currency/) (required to use your abilities), a **Hooded Lantern**, 3 **Oil Flasks**, as well as your choice of two of the following:
+- Waterproof **Mourning Cloak** (as leather)
+- **Black Veil** to mask your identity in a socially acceptable way
+- **[Discipline Whip](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance))** to heighten your suffering
+- **Ouija Board** to contact spirits
+- **Cranky Small Dog** that can follow two 1-word commands of your choice
 
 **Starting Skills**<br>
 _A skill is a knowledge stored in your psyche. All rolls that can be related to a skill you have become easier._

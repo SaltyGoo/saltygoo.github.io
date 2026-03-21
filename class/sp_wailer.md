@@ -8,17 +8,18 @@ A social class that weaponises expressions of grief.
 
 _You are more known for your relationship with the dead than with the living. In the village, you are treated with an awkward mixture of pity and respect. Mentions of your name are invariably followed by a weighted pause. And yet, you are empowered: a single person carrying the legacy of two with no more tears to shed._
 
-<ins>Starting Equipment</ins><br>
-A _Memento_ worth a purse of gold (required to use your abilities) as well as your choice of two of the following:
-- Waterproof _mourning cloak_ (as leather)
-- _Black veil_ to mask your identity
-- _[Discipline Whip](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance))_ to heighten your suffering
-- _Ouija Board_ to contact spirits
-- _Cranky small dog_ that can follow two 1-word commands of your choice
+**Starting Equipment**<br>
+A <ins>Memento</ins> worth a [purse of gold](/2024/06/26/currency/) (required to use your abilities) as well as your choice of two of the following:
+- Waterproof <ins>Mourning Cloak</ins> (as leather)
+- <ins>Black veil</ins> to mask your identity
+- <ins>[Discipline Whip](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance))</ins> to heighten your suffering
+- <ins>Ouija Board</ins> to contact spirits
+- <ins>Cranky Small Dog</ins> that can follow two 1-word commands of your choice
 
 
 <ins>Starting Skills</ins><br>
-Your choice of Theatre, Gossip, Religious Texts, or Psychology
+_A skill is a knowledge stored in your psyche. All rolls that can be related to a skill you have become easier._
+Death, and roll a D4 or choose one of 1. Destitute Aristocrat (you have a pedigree), 2. Ex-Spouse of a (roll on the d200 medieval career), 3. Local Gossip, or 4. Religious Rites.
 
 For every Wailer template you have, you gain a new **Wail** and can target an additional creature with them.
 

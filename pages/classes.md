@@ -52,6 +52,6 @@ The [Specialist](/class/specialist)
   - The [Salamander](/class/specialist/salamander)
   - The [Sand-Cursed](/class/sandcursed)
   - The [Spiderfolk](/class/ettercap)
-  - The [Wailer](/class/specialist/wailer)
+  - The [Widow](/class/specialist/widow)
   - The [Xvart](/class/xvart)
 </details>

@@ -6,7 +6,9 @@ permalink: /class/specialist/widow
 
 A social class that weaponises expressions of grief.
 
-_You are more known for your relationship with the dead than with the living. In the village, you are treated with an awkward mixture of pity and respect. Mentions of your name are invariably followed by a weighted pause. And yet, you are empowered: a single person carrying the legacy of two with no more tears to shed._
+_You are known more for your relationship with the dead than with the living. In the village, you are treated with an awkward mixture of pity and respect. Mentions of your name are invariably followed by a weighted pause. And yet, you are empowered: a single person carrying the legacy of two with no more tears to shed._
+
+---
 
 **Starting Equipment**<br>
 A <ins>Memento</ins> worth a [purse of gold](/2024/06/26/currency/) (required to use your abilities), a <ins>Hooded Lantern</ins>, <ins>3 Oil Flasks</ins>, as well as your choice of two of the following:
@@ -15,7 +17,6 @@ A <ins>Memento</ins> worth a [purse of gold](/2024/06/26/currency/) (required to
 - <ins>[Discipline Whip](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance))</ins> to heighten your suffering
 - <ins>Ouija Board</ins> to contact spirits
 - <ins>Cranky Small Dog</ins> that can follow two 1-word commands of your choice
-
 
 **Starting Skills**<br>
 _A skill is a knowledge stored in your psyche. All rolls that can be related to a skill you have become easier._

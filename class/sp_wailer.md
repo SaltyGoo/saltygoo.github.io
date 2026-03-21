@@ -1,13 +1,21 @@
 ---
 layout: page
-title: Wailer
-permalink: /class/specialist/wailer
+title: Widow
+permalink: /class/specialist/widow
 ---
 
-Wailers, also called [professional mourners](https://en.wikipedia.org/wiki/Professional_mourning), death watches, rudaalis or moirologists, are hired to ostentatiously display sadness during funerary processions. Their performances amplify the importance of the deceased and help the truly sad process grief.
+A social class that weaponises expressions of grief.
+
+_You are more known for your relationship with the dead than with the living. In the village, you are treated with an awkward mixture of pity and respect. Mentions of your name are invariably followed by a weighted pause. And yet, you are empowered: a single person carrying the legacy of two with no more tears to shed._
 
 <ins>Starting Equipment</ins><br>
-A black veil, a bell, a [discipline](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance)).
+A _Memento_ worth a purse of gold (required to use your abilities) as well as your choice of two of the following:
+- Waterproof _mourning cloak_ (as leather)
+- _Black veil_ to mask your identity
+- _[Discipline Whip](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance))_ to heighten your suffering
+- _Ouija Board_ to contact spirits
+- _Cranky small dog_ that can follow two 1-word commands of your choice
+
 
 <ins>Starting Skills</ins><br>
 Your choice of Theatre, Gossip, Religious Texts, or Psychology

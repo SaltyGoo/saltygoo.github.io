@@ -52,7 +52,7 @@ A church-appointed notary has finally tracked you down. Roll a D4 and inherit th
 
 <details markdown="1">
 <summary>2. <ins>You are haunted!</ins></summary>
-Each night, between midnight and dawn, you are visited by a ghostly apparition. Roll a D6, you can reroll if you have a ouija board : **1.** Just your imagination, **2.** Your dead spouse, eager to chat. It knows a lot about people who died here, **3.** Your dead spouse, protecting you. You can use each of the ghost’s [ethereal attacks](/monsters/ghost) once, **4.** Your [dead spouse](/monsters/ghost), enraged and hostile, **5.** Your child — *how is that possible!? You left them safe with family! Is it real?* Acts as a temporary immaterial follower, **6.** Death Itself. It comes to wager HP in a game of blackjack. Permanently gain or lose them.
+Each night, between midnight and dawn, you are visited by a ghostly apparition. Roll a D6, you can reroll if you have a Ouija Board or got this storyline development multiple times : **1.** Just your imagination, **2.** Your dead spouse, eager to chat. It knows a lot about people who died here, **3.** Your dead spouse, protecting you. You can use each of the ghost’s [ethereal attacks](/monsters/ghost) once, **4.** Your [dead spouse](/monsters/ghost), enraged and hostile, **5.** Your child — *how is that possible!? You left them safe with family! Is it real?* Acts as a temporary immaterial follower, **6.** Death Itself. It comes to wager HP in a game of blackjack. Permanently gain or lose them.
 </details>
 
 ## Death's Companion

@@ -21,7 +21,9 @@ A **Memento** (required to use your abilities), a **Hooded Lantern**, 3 **Oil Fl
 <ins>Starting Skill</ins><br>
 **Death**, and roll a D4 or choose one of 1. **Destitute Aristocrat** (you have a pedigree!), 2. **Ex-Spouse** of a (roll on the [d200 medieval career](https://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) table), 3. **Local Gossip**, or 4. **Religious Rites**.
 
-##### _A skill is a knowledge stored in your psyche. All rolls that can be related to a skill you have become easier._
+##### _A skill is an experience stored in your psyche. All rolls that can be related to a skill you have become easier._
+
+---
 
 For every Wailer template you have, you gain a new **Wail** and can target an additional creature with them.
 

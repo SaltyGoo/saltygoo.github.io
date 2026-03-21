@@ -18,8 +18,8 @@ A **Memento** worth a [purse of gold](/2024/06/26/currency/) (required to use yo
 - **Ouija Board** to contact spirits
 - **Cranky Small Dog** that can follow two 1-word commands of your choice
 
-**Starting Skills**<br>
-_A skill is a knowledge stored in your psyche. All rolls that can be related to a skill you have become easier._
+<ins>Starting Skill</ins><br>
+##### _A skill is a knowledge stored in your psyche. All rolls that can be related to a skill you have become easier._
 <ins>Death</ins>, and roll a D4 or choose one of 1. <ins>Destitute Aristocrat</ins> (you have a pedigree!), 2. <ins>Ex-Spouse</ins> of a (roll on the [d200 medieval career](https://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) table), 3. <ins>Local Gossip</ins>, or 4. <ins>Religious Rites</ins>.
 
 For every Wailer template you have, you gain a new **Wail** and can target an additional creature with them.

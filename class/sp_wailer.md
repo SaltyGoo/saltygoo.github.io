@@ -23,6 +23,8 @@ A *Memento* (required to use your abilities), a *Hooded Lantern*, 3 *Oil Flasks*
 
 ##### _A skill is an experience stored in your psyche. All rolls that can be related to a skill you have become easier._
 
+<br>
+
 ---
 
 ## Class Progression

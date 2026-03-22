@@ -62,7 +62,7 @@ Death has become familiar to you. You have 1 Trauma in your Psyche from your spo
 There’s a certain grave aura radiating from you. If you want, humanoids, animals and undead creatures that see you can be prevented from laughing, intentionally making loud noises, and otherwise behaving in an impolite way. Named characters are allowed one saving throw each day to become immune forever.
 
 ## Wail
-Your voice is the perfect vessel for pain. On your turn, you can perform a wail that will shock as many people, animals and undead creatures of your choice as you have [Scar](/2020/11/09/base-rules/) and [Trauma](/2020/11/09/base-rules/). You then must save or lose your voice for 1 hour. Your repertoire is as follow:
+Your voice is the perfect vessel for pain. On your turn, you can perform a wail that will shock as many people, animals and undead creatures of your choice as you have [Scars](/2020/11/09/base-rules/) and [Traumas](/2020/11/09/base-rules/). You then must save or lose your voice for 1 hour. Your repertoire is as follow:
 
 - **Enraged Shriek.** Targets inflict 1D6 extra damage with their melee attacks next turn.
 - **Howl of Despair.** Targets must focus on you for the next turn, and you have advantage on your rolls against them.

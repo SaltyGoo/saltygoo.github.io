@@ -4,15 +4,15 @@ title: Widow
 permalink: /class/specialist/widow
 ---
 
-_You are known more for your relationship with the dead than with the living. In the village, you are treated with an awkward mixture of pity and respect. Mentions of your name are invariably followed by a weighted pause. And yet, you are empowered: a single person carrying the legacy of two with no more tears to shed._
+_You will never let the dead go. In the village, you are treated with an awkward mixture of pity and respect. Mentions of your name are invariably followed by a weighted pause. And yet, you are empowered: a single person carrying the legacy of two with no more tears to shed._
 
 <img align="center" width=800px src="/images/Class_Widow_SaltyGoo.png">
 
 <ins>Starting Equipment</ins><br>
 A *Memento* (required to use your abilities), a *Hooded Lantern*, 3 *Oil Flasks*, as well as your choice of two of the following:
-- Waterproof *Mourning Cloak* (as leather)
-- *Black Veil* to mask your identity in a socially acceptable way
-- *[Discipline Whip](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance))* to heighten your suffering
+- Waterproof black *Mourning Cloak* (as leather)
+- Socially acceptable *Black Veil*
+- *[Discipline Whip](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance))* (1D4 nonlethal damage)
 - *Ouija Board* to contact spirits
 - *Cranky Small Dog* that can follow two 1-word commands of your choice
 
@@ -33,26 +33,26 @@ A *Memento* (required to use your abilities), a *Hooded Lantern*, 3 *Oil Flasks*
 **D:** Epilogue
 <br>
 
-**Every time you take a level in this class**<br>
-Your storyline develops. Roll a D4. You can get the same result multiple times.
+**Story Beats**<br>
+Every time you take a level in this class, your story evolves. Roll a D4. You can get the same result multiple times.
 <details markdown="1">
 <summary>1. <ins>A new suitor appears!</ins></summary>
 You gain a new follower. There is a 1-in-6 chance they are rich, otherwise roll on the [d200 medieval career](https://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) table for them. They will propose each time you level up, don’t spurn them! If you accept, you can no longer level up as a widow. 
 </details>
 
 <details markdown="1">
-<summary>2. <ins>You are burdened with new responsibilities.</ins></summary>
-As a widow, you must take the responsibilities of your dead spouse. Choose another skill from your starting list. 
+<summary>2. <ins>You take on new responsibilities.</ins></summary>
+As a widow, you must take the responsibilities of your dead spouse. Choose another Skill from your starting list.
 </details>
 
 <details markdown="1">
-<summary>3. <ins>You inherit something!</ins></summary>
-A church-appointed notary has finally tracked you down. Roll a D4 and inherit the following: **1.** A *Horse*, **2.** A *Boat* moored in the nearest harbor, **3.** A [random *Magical Item*](https://goblinpunch.blogspot.com/2015/01/d100-minor-magical-items.html), **4.** An *Estate* in a location of your choice and *Debts* amounting to a [chest of gold](/2024/06/26/currency/). 
+<summary>3. <ins>New notarial documents are found.</ins></summary>
+Roll a D4 and inherit the following:  **1.** A *Horse*, **2.** A *Boat* moored in the nearest harbor, **3.** A [random *Magical Item*](https://goblinpunch.blogspot.com/2015/01/d100-minor-magical-items.html), **4.** An *Estate* and *Debts* amounting to a [chest of gold](/2024/06/26/currency/). 
 </details>
 
 <details markdown="1">
 <summary>4. <ins>You are haunted!</ins></summary>
-Each night, between midnight and dawn, you are visited by a ghostly apparition. Roll a D6, you can reroll if you have a Ouija Board or got this storyline development multiple times : **1.** Just your imagination, **2.** Your dead spouse, eager to chat. It knows a lot about people who died here, **3.** Your dead spouse, protecting you. You can use each of the ghost’s [ethereal attacks](/monsters/ghost) once, **4.** Your [dead spouse](/monsters/ghost), enraged and hostile, **5.** Your child — *how is that possible!? You left them safe with family! Is it real?* Acts as a temporary immaterial follower, **6.** Death Itself. It comes to wager HP in a game of blackjack. Permanently gain or lose them.
+Once per night, you can be visited by a Ghost for 10 min. Roll a D4. You can reroll if you have a Ouija Board:  **1.** A figment of your imagination, **2.** Your dead spouse, chatty about local deaths, **3.** Your [dead spouse](/monsters/ghost), enraged and hostile, **4.** Death Itself. It comes to wager HP in a game of blackjack. Permanently gain or lose them.
 </details>
 
 ## Death's Companion

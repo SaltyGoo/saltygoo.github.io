@@ -74,7 +74,7 @@ Your voice is the perfect vessel for pain. On your turn, you can perform a wail 
 Bad luck seems to cling to people who have hurt you. You can attempt simple combat maneuvers such as tripping or disarming on anything you can see who has spurned you. For any normal witness, it looks like fortuitous luck or clumsiness on the part of the victim, but for people who can see ghosts, the culprit is obvious.
 
 ## Death Watch
-When you see a _named_ character die, you can begin a passionate, loud eulogy. As long as you do so, it is as if the character was still there speaking through you and acting according to your wishes. You must save every 10 minutes of the eulogy or lose your voice for 1 hour.
+When you see a _named_ character die, you can begin a passionate, loud eulogy. As long as you do so, it is as if the character was still there speaking through you with full authority, except you can now decide what they say. You must save every 10 minutes of the eulogy or lose your voice for 1 hour.
 
 ## Epilogue
 Your story as a widow ends. Death, your true companion, comes to finally claim you. You die a peaceful death, and yet…

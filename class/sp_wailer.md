@@ -29,7 +29,7 @@ A *Memento* (required to use your abilities), a *Hooded Lantern*, 3 *Oil Flasks*
 
 **A:** Death's Companion, Gravitas, Wail<br>
 **B:** My Dead Spouse<br>
-**C:** Death Watch<br>
+**C:** Eulogy<br>
 **D:** Epilogue
 <br>
 
@@ -73,7 +73,7 @@ Your voice is the perfect vessel for pain. On your turn, you can perform a wail 
 ## My Dead Spouse
 Bad luck seems to cling to people who have hurt you. You can attempt simple combat maneuvers such as tripping or disarming on anything you can see who has spurned you. For any normal witness, it looks like fortuitous luck or clumsiness on the part of the victim, but for people who can see ghosts, the culprit is obvious.
 
-## Death Watch
+## Eulogy
 When you see a _named_ character die, you can begin a passionate, loud eulogy. As long as you do so, it is as if the character was still there speaking through you with full authority, except you can now decide what they say. You must save every 10 minutes of the eulogy or lose your voice for 1 hour.
 
 ## Epilogue

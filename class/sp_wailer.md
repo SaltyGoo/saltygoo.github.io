@@ -67,16 +67,16 @@ Your voice is the perfect vessel for pain. On your turn, you can perform a wail 
 - **Enraged Shriek.** Targets inflict 1D6 extra damage with their melee attacks next turn.
 - **Howl of Despair.** Targets must focus on you for the next turn, and you have advantage on your rolls against them.
 - **Melancholic Moan.** Targets must save or become lost in their thoughts for their next turn. Ends if they are attacked.
-- **Pitiful Cry.** Targets avoid interacting with you for the next turn.
+- **Pitiful Cry.** Targets avoid interacting with you during their next turn.
 - **Religious Plea.** Target undead creatures take 1D6 psychic damage.
 
 ## My Dead Spouse
 Bad luck seems to cling to people who have hurt you. You can attempt simple combat maneuvers such as tripping or disarming on anything you can see who has spurned you. For any normal witness, it looks like fortuitous luck or clumsiness on the part of the victim, but for people who can see ghosts, the culprit is obvious.
 
 ## Death Watch
-When you see a _named_ character die, you can begin a passionate, loud eulogy. As long as you do so, it is as if the character was still there as a ghost, immortal, immaterial, and acting according to your wishes. It's as if you were perfectly impersonating them. You must save every 10 minutes of the eulogy or lose your voice for 1 hour. 
+When you see a _named_ character die, you can begin a passionate, loud eulogy. As long as you do so, it is as if the character was still there speaking through you and acting according to your wishes. You must save every 10 minutes of the eulogy or lose your voice for 1 hour.
 
 ## Epilogue
 Your story as a widow ends. Death, your true companion, comes to finally claim you. You die a peaceful death, and yet…
 
-When you die, you become a ghost. This character can now become the follower of your next character or one of your companions. As a ghost, you have no inventory slots except for your memento and cannot inflict or take mundane damage.
+When you die, you become a ghost. This character can now become the follower of your next character or one of your companions. As a ghost, you have no inventory slots except for your _Memento_ and cannot inflict or take mundane damage.

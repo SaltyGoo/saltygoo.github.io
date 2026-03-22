@@ -23,6 +23,8 @@ A *Memento* (required to use your abilities), a *Hooded Lantern*, 3 *Oil Flasks*
 
 ---
 
+<img align="right" width=250px src="/images/Class_Widow_B_SaltyGoo.png">
+
 ## Class Progression
 
 **A:** Death's Companion, Gravitas, Wail<br>

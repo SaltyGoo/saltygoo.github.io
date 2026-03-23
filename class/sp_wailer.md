@@ -6,6 +6,8 @@ permalink: /class/specialist/widow
 
 _You will never let the dead go. In the village, you are treated with an awkward mixture of pity and respect. Mentions of your name are invariably followed by a weighted pause. And yet, you are empowered: a single person carrying the legacy of two with no more tears to shed._
 
+##### _Last updated March 2026. Download the printable 1-pager pdf [here](/assets/SaltyGoo_CLASS_WIDOW.pdf)._
+
 <img align="center" width=800px src="/images/Class_Widow_SaltyGoo.png">
 
 <ins>Starting Equipment</ins><br>

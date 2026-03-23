@@ -37,7 +37,7 @@ A *Memento* (required to use your abilities), a *Hooded Lantern*, 3 *Oil Flasks*
 Every time you take a level in this class, your story evolves. Roll a D4. You can get the same result multiple times.
 <details markdown="1">
 <summary>1. <ins>A new suitor appears!</ins></summary>
-You gain a new follower. There is a 1-in-6 chance they are rich, otherwise roll on the [d200 medieval career](https://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) table for them. They will propose each time you level up, don’t spurn them! If you accept, you can no longer level up as a widow. 
+You gain a new follower. There is a 1-in-6 chance they are rich, otherwise roll on the [d200 medieval career](https://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) table for them.
 </details>
 
 <details markdown="1">
@@ -56,7 +56,7 @@ Once per night, you can be visited by a Ghost for 10 min. Roll a D4. You can rer
 </details>
 
 ## Death's Companion
-Death has become familiar to you. You have 1 Trauma in your Psyche from your spouse’s death. Once per day, you can take 10 minute in penance to recover 1 HP per [Scar](/2020/11/09/base-rules/) and [Trauma](/2020/11/09/base-rules/) you have (*you gain a Scar when you reach 0HP and survive, and you gain a Trauma when one of your companions dies. Scars go in your inventory and Traumas go in your psyche*). If you have [Discipline Whip](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance)), the healed amount is doubled.
+Death has become familiar to you. You have 1 Trauma in your Psyche from your spouse’s death. Once per day, you can take 10 minute in penance to recover 1 HP per [Scar](/2020/11/09/base-rules/) and [Trauma](/2020/11/09/base-rules/) you have (*you gain a Scar when you reach 0HP and survive, and you gain a Trauma when one of your companions dies. Scars go in your inventory and Traumas go in your psyche*). If you have a [Discipline Whip](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance)), the healed amount is doubled.
 
 ## Gravitas
 There’s a certain grave aura radiating from you. If you want, humanoids, animals and undead creatures that see you can be prevented from laughing, intentionally making loud noises, and otherwise behaving in an impolite way. Named characters are allowed one saving throw each day to become immune forever.
@@ -65,7 +65,7 @@ There’s a certain grave aura radiating from you. If you want, humanoids, anima
 Your voice is the perfect vessel for pain. On your turn, you can perform a wail that will shock as many people, animals and undead creatures of your choice as you have [Scars](/2020/11/09/base-rules/) and [Traumas](/2020/11/09/base-rules/). You then must save or lose your voice for 1 hour. Your repertoire is as follow:
 
 - **Enraged Shriek.** Targets inflict 1D6 extra damage with their melee attacks next turn.
-- **Howl of Despair.** Targets must focus on you for the next turn, and you have advantage on your rolls against them.
+- **Howl of Despair.** argets must focus on you during their next turn. You have advantage on your rolls against them.
 - **Melancholic Moan.** Targets must save or become lost in their thoughts for their next turn. Ends if they are attacked.
 - **Pitiful Cry.** Targets avoid interacting with you during their next turn.
 - **Religious Plea.** Target undead creatures take 1D6 psychic damage.

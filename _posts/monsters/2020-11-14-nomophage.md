@@ -32,7 +32,7 @@ The nomophage projects a terrible **aura** that [frightens](/2020/11/09/base-rul
 
 <ins>Chaotic Rake</ins>. The nomophage makes a melee attacks (1D8). On a hit, the target must save or [mutate](/assets/SKERPLES_1d1000 Mutations V2 Draft.pdf).
 
-<ins>Fractal Blade Whirl</ins>. The nomophage makes a melee attacks (1D10). On a miss, the has disadvantage on its melee attacks against the nomophage.
+<ins>Fractal Blade Whirl</ins>. The nomophage makes a melee attacks (1D10). On a miss, the target has disadvantage on its melee attacks against the nomophage.
 
 <ins>Coprophagy</ins>. The nomophage starts devouring a corps and heals 1D6 HP. A human-sized corpse can provide a maximum of 15 HP.
 <br>

@@ -100,13 +100,13 @@ On each of your next 3 turns, you can attempt to **Stabilize** instead of doing 
 
 If you recover from dying, you gain a **Scar**. If you die, all your companions gain a **Trauma**.
 
-<ins>**Scars:**</ins> Scars take inventory slots and cannot be removed. Note what caused the scar. As long as you have it, you have advantage against that thing.
+<ins>**Scars:**</ins> Scars take inventory slots and cannot be removed.
 
 <ins>**Traumas:**</ins> Traumas take psyche slots and can only be removed through risking your own life for one of your beliefs. Note what caused the trauma. As long as you have it, you have disadvantage against that thing.
 
 _If you ever mutate, it takes an inventory slot. If you are ever cursed, it takes a psyche slot. Either can only be removed through magic._
 
-<ins>**Healing:**</ins> A 8 hours rest heals all HP losses and consumes 1 ration for the team. Resting requires shelter and heat.
+<ins>**Healing:**</ins> A 12 hours rest heals all HP losses and consumes 1 ration for the team. Resting requires shelter and heat.
 
 <details markdown="1">
 <summary><i>Example: Dying</i></summary>
@@ -121,9 +121,9 @@ _If you ever mutate, it takes an inventory slot. If you are ever cursed, it take
 <details markdown="1">
 <summary><b>Exploring</b></summary>
 
-Time is tracked differently when you travel outdoors or in a dungeon. **Dungeons** are divided in rooms. Inside a dungeon, any worthwhile action like investigating a room or battling takes 10 minutes. You roll to see if your torches deplete every 10 minutes and the referee rolls for random encounters every 30 minutes. You can cross 10 safe rooms you have explored per 10 minutes, or 3 if you want to be discreet.
+Time is tracked differently when you travel outdoors or in a dungeon. **Dungeons** are divided in rooms. Inside a dungeon, any worthwhile action like investigating a room or battling takes 10 minutes. The referee rolls for random encounters every 30 minutes. You can cross 10 safe rooms you have explored per 10 minutes, or 3 if you want to be discreet.
 
-The **world outside** of a dungeon is divided in hexagons. Any worthwhile action like crossing or exploring a hex lasts 6h of the day (*Morning, Day, Evening, or Night*). The referee rolls for encounters each time you enter a new location, explore a location or rest.
+The **world outside** of a dungeon is divided in hexagons (or Hexes). Any worthwhile action like crossing or exploring a hex lasts 6h of the day (*Morning, Day, Evening, or Night*). This unit of time is called a *Watch*. The referee rolls for encounters each time you enter a new location, explore a location or rest.
 </details>
 
 ---
@@ -163,7 +163,7 @@ When you roll above 20 with your main weapon, you can also make attack with your
 
 <ins>Mechanical (crossbow, musket)</ins>
 1D12 damage, needs two hands, <br>
-must take one action to recharge
+takes a turn to recharge
 </details>
 
 <details markdown="1">
@@ -197,7 +197,7 @@ You level up when you spend the equivalent of a Treasure Carousing. When you lev
 
 - Increase your HP by 2 (up to 20 total).
 - Increase one of your stats by 1 (up to 10).
-- Gain the next level of your class in alphabetical order or take the first level (A) of another class (up to 4 templates total).
+- Gain the next level of your class in alphabetical order or take the first level (A) of another class (up to 4 templates total). Add it to your Psyche.
 
 </details>
 
@@ -210,12 +210,12 @@ When you are back to town, it is time to spend your loot! Choose one of these ac
 
 <details markdown="1">
 <summary><ins>Celebrate and Gain Followers</ins></summary>
-Get drunk and get known! For each Valuable spent in such way, you gain a hangover and a new random [friend](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html) in town. This friend will do favours for you but stay in this town. If you end up spending the equivalent of a Treasure, one of your friends becomes a **Follower** and goes with you in your adventures, acting as a class-less character (until it levels up!). Followers take Psyche slots.
+Get drunk and get known! For each Valuable spent in such way, you gain a hangover and a new random [friend](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html). This friend will do favours for you but stay in this town. If you end up spending the equivalent of a Treasure, one of your friends becomes a **Follower** and goes with you in your adventures, acting as a class-less character (until it levels up!).
 </details>
 
 <details markdown="1">
 <summary><ins>Craft</ins></summary>
-You need raw materials (like the skin of a monster you’ve slain) to craft and spend as much loot as you want on tools. The object you craft can be anything made mainly with the provided materials. If you used mundane tools, the result will be mundane; if you spend valuable tools, the object will be special; and if you spend the equivalent of a treasure for the tools, it will be magical. Discuss what you want with the referee.
+You need raw materials (like the skin of a monster you’ve slain) to craft and spend as much loot as you want on tools. The object you craft can be anything made mainly with the provided materials. If you used mundane tools, the result will be mundane; if you invest additional valuables in it, the object will be special; and if you spend the equivalent of a treasure to make it, it will be magical. Discuss what you want with the referee.
 </details>
 
 <details markdown="1">
@@ -240,7 +240,7 @@ You need to have an eldritch book or a way to contact an [Horror](/list/monsters
 
 <details markdown="1">
 <summary><ins>Make a Pact with a Celestial Being</ins></summary>
-You need to have a holy book or a way to contact a [Divine Creature](/list/monsters-celestial). For each Valuable spent in this ritual, roll on the Celestial Pact table in the divine creature's description, then choose among the quests and rewards your rolled. You become bound to both and lose your soul if you fail the quest.
+You need to have a holy book or a way to contact a [Divine Creature](/list/monsters-celestial). For each Valuable spent in this ritual, roll on the Celestial Pact table in the divine creature's description, then choose among the quests and rewards your rolled. You lose your soul if you fail the quest.
 </details>
 
 <details markdown="1">
@@ -262,7 +262,7 @@ In any case, if you have taken a deadly risk for one of your beliefs, you can ei
 <details markdown="1">
 <summary><b>Followers</b></summary>
 
-You gain followers by Carousing and they take a Psyche slot. Roll 1D6 for each of their stats. Followers can carry 3 objects and have 2 Hit Points. They can gain a class the same way a character levels up. In which case they gain +2 to all stats, and normal HP and inventory.
+You gain followers by Carousing and they take a Psyche slot. Roll 1D6 for each of their stats. Their inventory is equal to their Strength. They can gain a class the same way a character levels up. In which case they gain +2 to all stats, and normal HP and inventory.
 
 </details>
 
@@ -275,7 +275,7 @@ Some classes can cast spells. They have Spell Dice (SD).
 <ins>Casting a Spell</ins><br>
 Whenever you cast a spell, you choose how many SD to invest into it. The result of the spell depends on the number of [dice] and their [sum]. 
 
-If a SD rolls a 1, 2 or 3, you don’t lose it. Otherwise, you lose it until you get a night of sleep. You can’t cast without SD.
+If a SD rolls a 1, 2 or 3, you don’t lose it. Otherwise, you lose it until you get a full rest. You can’t cast without SD.
 
 Every time you roll doubles you get closer to *Catastrophe*.
 
@@ -307,18 +307,8 @@ You fail all rolls against your charmer. If you attack, hurt, or say anything ba
 </details>
 
 <details markdown="1">
-<summary>Confused</summary>
+<summary>Confused / Dazed / Exhausted</summary>
 You can act OR move on your turn.  
-</details>
-
-<details markdown="1">
-<summary>Dazed</summary>
-See Confused.
-</details>
-
-<details markdown="1">
-<summary>Exhausted</summary>
-See Confused.
 </details>
 
 <details markdown="1">

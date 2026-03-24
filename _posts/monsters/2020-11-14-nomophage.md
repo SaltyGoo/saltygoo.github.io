@@ -32,7 +32,7 @@ The nomophage projects a terrible **aura** that [frightens](/2020/11/09/base-rul
 
 <ins>Chaotic Rake</ins>. The nomophage makes a melee attacks (1D8). On a hit, the target must save or [mutate](/assets/SKERPLES_1d1000 Mutations V2 Draft.pdf). Mutations take an inventory slot.
 
-<ins>Fractal Blade Whirl</ins>. The nomophage makes a melee attacks (1D10). On a miss, the target has disadvantage on its melee attacks against the nomophage.
+<ins>Fractal Blade Whirl</ins>. The nomophage makes a melee attacks (1D10). On a miss, the target has disadvantage on its melee attacks against the nomophage for 1 turn.
 
 <ins>Coprophagy</ins>. The nomophage starts absorbing a corpse with its proboscis and heals 1D6 HP. A human-sized corpse can feed a nomophage a maximum of 3 times.
 <br>
@@ -53,13 +53,15 @@ The nomophage projects a terrible **aura** that [frightens](/2020/11/09/base-rul
 
 <details markdown="1">
 <summary style="font-weight: bold;">Study It (1D6 Mutations)</summary>
-If you have disected or conversed with this horror, you can spend the equivalent of 6 bags of gold to feverishly study the thing between two adventures and discover weird knowledge beyond reality. If you do so, your studies of the aberration will change you in horrible, gruesome ways : Roll 1D6 for each bag spent this way.
+If you’ve heard of nomophages, you can spend time and ressources between adventures to research them. You need gold to gain access to the right madman, library or laboratory to do so. For each [Bag of Gold](/2024/06/26/currency/) spent this way, you have 1-in-6 chance to have a breakthrough. If you have access to a specimen,  you have advantage on your roll for a breakthrough.
 
-1. ... you gain a new, insectoid arm.
-1. ... you gain a new fractal finger. You can cast [Genoplasm](/2020/11/13/genoplasm/) at will with 1 SD per fractal finger.
-1. ... one of your eyes split in twelve. You can use an action to frighten as many religions creatures as you have this mutation.
-1. ... you grow a proposcis. You can use an action to drain fluids out of a fresh dead body and heal 1D4 HP. This completely dries the body. Increase the die size each time you get this mutation.
-1. ... you lose a limb of your choice.
-1. roll twice.
+Once you have broken through, each new Bag of Gold spent researching will trigger the following mutation. Roll 1D6:
+
+1. You lose a limb of your choice.
+1. You mutate a new insectoid arm. 
+1. One of your eyes splits in 2D6, and you gain knowledge of a heresy compelling enough to recruit as many cultists.
+1. You gain a new articulation in one of your limbs. You can cast [Genoplasm](/2020/11/13/genoplasm/) with 1 MD as many times per day as you got this mutation.
+1. You grow a 1’ proboscis. You can take a turn to drain fluids out of a fresh dead body and heal 1D4 HP. This dries the body out. Increase the die size each time you get this mutation.
+1. Roll twice.
 
 </details>

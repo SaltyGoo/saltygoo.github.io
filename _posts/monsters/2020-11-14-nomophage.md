@@ -7,9 +7,9 @@ title: Nomophage
 
 ##### From Garamondia's [Optical Dungeon](https://garamondia.blogspot.com/2025/03/the-optical-dungeonthe-process-dungeon.html)
 
-**Order eaters. High servants of chaos itself.**  They infiltrate worlds when its future becomes too certain and societies are in control of their destiny. Disposition: as a disciplined black ops. Hates religions. A large horror.
+**Law eaters. Militant agents of chaos itself.**  They infiltrate worlds to undermine hegemonic societies and, especially, religions. As disciplined as black ops. A large horror.
 
-_Tall humanoids with 6 spined, oddly jointed insectoid limbs and heads like giant mosquitoes. They wear baroque suits of heavy armour made from a strange iridescent metal that rings when struck, and are absolutely covered in strange metallic jewellery and ornamentation._
+_Imagine a tall humanoid with 6 spiny, oddly jointed insectoid limbs and a head like a giant mosquito. They wear baroque, ornate suits of heavy armour made from an iridescent metal that rings when struck. They can speak all languages in a droning, buzzing way._
 
 
 <br>
@@ -24,7 +24,7 @@ _Tall humanoids with 6 spined, oddly jointed insectoid limbs and heads like gian
 
 ##### <span class="tooltip" data-tooltip="Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat">→ How to read monster stats</span>
 
-The nomophage is an aberration. It can only be killed if the person doing the last blow succeeds on a save versus fear. If the killer fails, the nomophage survives with 1 HP, terribly mangled, and can move immediately.
+The nomophage is a horror. It can only be killed if the person doing the last blow succeeds on a save versus fear. If the killer fails, the nomophage survives with 1 HP, terribly mangled, and can run immediately.
 
 The nomophage projects a terrible **aura** that [frightens](/2020/11/09/base-rules/) every living creature seeing it for the first time unless they fail a saving throw.
 
@@ -34,7 +34,7 @@ The nomophage projects a terrible **aura** that [frightens](/2020/11/09/base-rul
 
 <ins>Fractal Blade Whirl</ins>. The nomophage makes a melee attacks (1D10). On a miss, the target has disadvantage on its melee attacks against the nomophage.
 
-<ins>Coprophagy</ins>. The nomophage starts devouring a corps and heals 1D6 HP. A human-sized corpse can provide a maximum of 15 HP.
+<ins>Coprophagy</ins>. The nomophage starts absorbing a corpse with its proboscis and heals 1D6 HP. A human-sized corpse can feed a nomophage a maximum of 3 times.
 <br>
 
 ---

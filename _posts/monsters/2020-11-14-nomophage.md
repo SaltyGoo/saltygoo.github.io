@@ -52,6 +52,19 @@ The nomophage projects a terrible **aura** that [frightens](/2020/11/09/base-rul
 <br>
 
 <details markdown="1">
+<summary style="font-weight: bold;">Loot It</summary>
+Law eaters always carry their oversized (+1 damage die size) radium weapon, as well as ... (roll 6 times)
+
+1. Nothing.
+1. Nothing.
+1. A baroque piece of jewelry worth a [Bag of Silver](/2024/06/26/currency/).
+1. An ornate iridescent piece of armor worth a [Bag of Gold](/2024/06/26/currency/).
+1. A vial of Law Solvent.
+1. A time-space dimensional key that can be used once to jump1D100 days in the future.
+
+</details>
+
+<details markdown="1">
 <summary style="font-weight: bold;">Study It (1D6 Mutations)</summary>
 If you’ve heard of nomophages, you can spend time and ressources between adventures to research them. You need gold to gain access to the right madman, library or laboratory to do so. For each [Bag of Gold](/2024/06/26/currency/) spent this way, you have 1-in-6 chance to have a breakthrough. If you have access to a specimen,  you have advantage on your roll for a breakthrough.
 

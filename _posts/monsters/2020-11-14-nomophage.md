@@ -30,7 +30,7 @@ The nomophage projects a terrible **aura** that [frightens](/2020/11/09/base-rul
 
 **Attacks (3/round)**
 
-<ins>Chaotic Rake</ins>. The nomophage makes a melee attacks (1D8). On a hit, the target must save or [mutate](/assets/SKERPLES_1d1000 Mutations V2 Draft.pdf).
+<ins>Chaotic Rake</ins>. The nomophage makes a melee attacks (1D8). On a hit, the target must save or [mutate](/assets/SKERPLES_1d1000 Mutations V2 Draft.pdf). Mutations take an inventory slot.
 
 <ins>Fractal Blade Whirl</ins>. The nomophage makes a melee attacks (1D10). On a miss, the target has disadvantage on its melee attacks against the nomophage.
 

@@ -206,7 +206,11 @@ You level up when you spend a Treasure while Carousing. When you level up ...
 <details markdown="1">
 <summary><b>Carousing!</b></summary>
 
-When you are back to town, it is time to spend your loot! Choose one of these activities :
+When you are back to town, it’s time to spend your loot! 
+
+If you have taken a deadly risk for one of your Beliefs, you can either remove one of your Traumas, gain a new Skill related to your risky action or obtain a new Follower.
+
+You can spend your gold the following ways. If you spend the equivalent of a Treasure, you level up!
 
 <details markdown="1">
 <summary><ins>Celebrate and Gain Followers</ins></summary>
@@ -215,7 +219,9 @@ Get drunk and get known! For each Valuable spent in such way, you gain a hangove
 
 <details markdown="1">
 <summary><ins>Craft</ins></summary>
-You need raw materials (like the skin of a monster you’ve slain) to craft and spend as much loot as you want on tools. The object you craft can be anything made mainly with the provided materials. If you used mundane tools, the result will be mundane; if you invest additional valuables in it, the object will be special; and if you spend the equivalent of a treasure to make it, it will be magical. Discuss what you want with the referee.
+You need a core material (like the skin of a monster you’ve slain) to craft. The object you craft can be anything made mainly with the provided materials. 
+
+Spend as much loot as you want on tools. If you used basic Useful tools, the result will be useful; if you invest additional Valuables in it, the object will be special; and if you spend the equivalent of a Treasure to make it, it will be magical. Discuss what you want with the referee.
 </details>
 
 <details markdown="1">
@@ -252,8 +258,6 @@ You must have an instruction manual. Each [Construct](/list/monsters-construct) 
 <summary><ins>Bind an Elemental to You</ins></summary>
 You need to have the core of an [Elemental Spirit](/list/monsters-elemental) and spend a Treasure in arcane materials. Roll on the binding table in the elemental's description. You also gain a Spell Dice.
 </details>
-
-In any case, if you have taken a deadly risk for one of your beliefs, you can either remove one of your Traumas, gain a new Skill related to your risky action or obtain a new Follower.
 
 </details>
 

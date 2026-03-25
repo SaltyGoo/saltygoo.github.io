@@ -185,7 +185,7 @@ Each object you find has a certain value assigned by the referee:
 - valuable (bag of gold coins)
 - treasure (bag of gems)
 
-A bag of coins takes an Inventory slot. When in town, you can trade items from one category for another in the same category (at the referee’s discretion, just say what you are looking for). Alternatively, 4 mundane objects are worth 1 useful object, 4 useful objects are worth 1 valuable, and 4 valuables are worth 1 treasure. [More details for the referee here!](https://saltygoo.github.io/2024/06/26/currency/)
+A bag of coins takes an Inventory slot. When in town, you can trade items from one category for another in the same category (at the referee’s discretion, just say what you are looking for). Alternatively, 4 mundane objects are worth 1 useful object, 4 useful objects are worth 1 valuable, and 4 valuables are worth 1 treasure. A chest holds 4 bags. [More details for the referee here!](https://saltygoo.github.io/2024/06/26/currency/)
 </details>
 
 ---
@@ -193,7 +193,7 @@ A bag of coins takes an Inventory slot. When in town, you can trade items from o
 <details markdown="1">
 <summary><b>Leveling Up</b></summary>
 
-You level up when you spend the equivalent of a Treasure Carousing. When you level up:
+You level up when you spend a Treasure while Carousing. When you level up ...
 
 - Increase your HP by 2 (up to 20 total).
 - Increase one of your stats by 1 (up to 10).
@@ -262,7 +262,7 @@ In any case, if you have taken a deadly risk for one of your beliefs, you can ei
 <details markdown="1">
 <summary><b>Followers</b></summary>
 
-You gain followers by Carousing and they take a Psyche slot. Roll 1D6 for each of their stats. Their inventory is equal to their Strength. They can gain a class the same way a character levels up. In which case they gain +2 to all stats, and normal HP and inventory.
+You gain followers by Carousing and they take a psyche slot. Roll 1D6 for each of their stats. Their inventory is equal to their STR. Followers can also level up, in which case they gain +2 to all stats, a normal inventory and a class. 
 
 </details>
 

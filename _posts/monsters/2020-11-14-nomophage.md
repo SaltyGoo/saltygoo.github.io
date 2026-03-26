@@ -5,7 +5,7 @@ permalink: /monsters/nomophage
 title: Nomophage
 ---
 
-<img align="right" width=300px src="/images/sg0052_Nomophage.png">
+<img align="right" width=280px src="/images/sg0052_Nomophage.png">
 
 ##### From Garamondia's [Optical Dungeon](https://garamondia.blogspot.com/2025/03/the-optical-dungeonthe-process-dungeon.html). Art by me :)
 

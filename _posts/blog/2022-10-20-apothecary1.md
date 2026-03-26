@@ -43,7 +43,7 @@ title: Apothecary
 <ins>Minor Magical Items</ins>
 
 {% capture posts %}
-  {% for post in site.tags.item %}
+  {% for post in site.tags.artefact %}
     |{{ post.title }}#{{ post.url }}
   {% endfor %}
 {% endcapture %}
@@ -61,23 +61,6 @@ title: Apothecary
 
 {% capture posts %}
   {% for post in site.tags.disease %}
-    |{{ post.title }}#{{ post.url }}
-  {% endfor %}
-{% endcapture %}
-{% assign sortedposts = posts | split: '|' | sort %}
-<ol>
-{% for post in sortedposts %}
-{% assign postitems = post | split: '#' %}
-{% unless forloop.first %}
-  <li> <a href="{{ postitems[1] }}"> {{ postitems[0] }}</a></li>
-{% endunless %}
-{% endfor %}
-</ol>
-
-<ins>Curses</ins>
-
-{% capture posts %}
-  {% for post in site.tags.material %}
     |{{ post.title }}#{{ post.url }}
   {% endfor %}
 {% endcapture %}

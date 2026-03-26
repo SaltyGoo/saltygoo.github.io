@@ -63,7 +63,7 @@ Law eaters always carry their oversized (+1 damage die size) [radium](/2024/01/0
 1. A baroque piece of jewelry worth a [Bag of Gold](/2024/06/26/currency/).
 1. An iridescent piece of [radium](/2024/01/01/radium/) armor worth a [Bag of Gold](/2024/06/26/currency/).
 1. A vial of [Law Solvent](/2024/01/01/order-solvent/).
-1. A time-space dimensional key that can be used once to jump1D100 days in the future.
+1. A [Time Key](/2024/01/01/time-key/).
 
 </details>
 
@@ -76,8 +76,8 @@ Once you have broken through, each new Bag of Gold spent researching will trigge
 1. You lose a limb of your choice.
 1. You mutate a new insectoid arm. 
 1. One of your eyes splits in 2D6, and you gain knowledge of a heresy compelling enough to recruit as many cultists.
-1. You gain a new articulation in one of your limbs. You can cast [Genoplasm](/2020/11/13/genoplasm/) with 1 MD as many times per day as you got this mutation.
+1. You gain a new articulation in one of your limbs and can secrete two doses of [Law Solvent](/2024/01/01/order-solvent/).
 1. You grow a 1’ proboscis. You can take a turn to drain fluids out of a fresh dead body and heal 1D4 HP. This dries the body out. Increase the die size each time you get this mutation.
-1. Roll twice.
+1. A [Time Key](/2024/01/01/time-key/). No mutation.
 
 </details>

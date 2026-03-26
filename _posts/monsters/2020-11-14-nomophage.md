@@ -52,7 +52,11 @@ The nomophage projects a terrible **aura** that [frightens](/2020/11/09/base-rul
 <p id="MoodResult">What it is doing when you meet it.</p>
 <script src="/scripts/generateMood.js"></script>
 
+<br>
+
 ---
+
+## LOOT AND CRAFT
 
 <details markdown="1">
 <summary style="font-weight: bold;">Loot It</summary>

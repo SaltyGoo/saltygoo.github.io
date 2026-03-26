@@ -5,7 +5,7 @@ permalink: /monsters/nomophage
 title: Nomophage
 ---
 
-##### From Garamondia's [Optical Dungeon](https://garamondia.blogspot.com/2025/03/the-optical-dungeonthe-process-dungeon.html)
+##### From Garamondia's [Optical Dungeon](https://garamondia.blogspot.com/2025/03/the-optical-dungeonthe-process-dungeon.html). Art by me :)
 
 <img align="right" width=200px src="/images/sg0052_Nomophage.png">
 
@@ -17,7 +17,7 @@ A large **horror**.
 
 ---
 
-|  <span style="display: inline-block; width:250px"></span>  |  |
+|  <span style="display: inline-block; width:300px"></span>  |  |
 | -------- | --------|
 | **Hit Points:** 27 (6 HD) | **Armor:** 3 |
 | **Hit it:** normal  | **Dodge it:** hard  |

@@ -7,7 +7,7 @@ title: Nomophage
 
 ##### From Garamondia's [Optical Dungeon](https://garamondia.blogspot.com/2025/03/the-optical-dungeonthe-process-dungeon.html). Art by me :)
 
-<img align="right" width=200px src="/images/sg0052_Nomophage.png">
+<img align="right" width=300px src="/images/sg0052_Nomophage.png">
 
 **Law eaters. Militant agents of chaos itself.** They infiltrate worlds to undermine hegemonic societies and especially religions. As disciplined as black ops.
 

@@ -5,9 +5,9 @@ permalink: /monsters/nomophage
 title: Nomophage
 ---
 
-##### From Garamondia's [Optical Dungeon](https://garamondia.blogspot.com/2025/03/the-optical-dungeonthe-process-dungeon.html). Art by me :)
-
 <img align="right" width=300px src="/images/sg0052_Nomophage.png">
+
+##### From Garamondia's [Optical Dungeon](https://garamondia.blogspot.com/2025/03/the-optical-dungeonthe-process-dungeon.html). Art by me :)
 
 **Law eaters. Militant agents of chaos itself.** They infiltrate worlds to undermine hegemonic societies and especially religions. As disciplined as black ops.
 
@@ -42,12 +42,13 @@ The nomophage projects a terrible **aura** that [frightens](/2020/11/09/base-rul
 
 ## Encounter
 
-**Number** : 1 <span style="display: inline-block; width:30px"></span>
-**Lair** : A metal cage-fort that is different  every time you look at it. <span style="display: inline-block; width:30px"></span>
-**Desire** : Tople religion.
+- **Encounter:** 1, potentially with 1D6 cultists
+- **Biomes:** Astral, Planes of Chaos
+- **Omen:** Sudden inability to organize thoughts
+- **Disposition:** Focused on mission
 
-<button onclick="generateMood()">Generate Random Action</button>
-<p id="MoodResult">What it is doing.</p>
+<button onclick="generateMood()">Generate Random Behavior</button>
+<p id="MoodResult">What it is doing when you meet it.</p>
 <script src="/scripts/generateMood.js"></script>
 
 <br>

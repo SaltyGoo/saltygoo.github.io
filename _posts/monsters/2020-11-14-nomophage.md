@@ -7,6 +7,8 @@ title: Nomophage
 
 ##### From Garamondia's [Optical Dungeon](https://garamondia.blogspot.com/2025/03/the-optical-dungeonthe-process-dungeon.html)
 
+<img align="right" width=200px src="/images/sg0052_Nomophage.png">
+
 **Law eaters. Militant agents of chaos itself.** They infiltrate worlds to undermine hegemonic societies and especially religions. As disciplined as black ops.
 
 _Imagine a tall humanoid with 6 spiny, oddly jointed insectoid limbs and a head like a giant mosquito. They wear baroque, ornate suits of heavy armour made from an iridescent metal that rings when struck. They can speak all languages in a droning, buzzing way._

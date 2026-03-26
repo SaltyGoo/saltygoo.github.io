@@ -21,13 +21,13 @@ A large **horror**.
 | -------- | --------|
 | **Hit Points:** 27 (6 HD) | **Armor:** 3 |
 | **Hit it:** normal  | **Dodge it:** hard  |
-| **Move:** normal  |  **Size:** large | 
+| **Move:** normal  |  **Senses:** darkvision | 
 
 ##### <span class="tooltip" data-tooltip="Armor = damage reduction · · · Easy/Normal/Hard = roll above 10/15/20 to beat">→ How to read monster stats</span>
 
-The nomophage is a horror. It can only be killed if the person doing the last blow succeeds on a save versus fear. If the killer fails, the nomophage survives with 1 HP, terribly mangled, and can run immediately.
+The nomophage is a _horror_. It can only be killed if the creature doing the last blow succeeds on a save versus fear. If the killer fails, the nomophage survives with 1 HP, terribly mangled, and can run immediately.
 
-The nomophage projects a terrible **aura** that [frightens](/2020/11/09/base-rules/) every living creature seeing it for the first time unless they fail a saving throw.
+The nomophage projects a terrible **aura** that [frightens](/2020/11/09/base-rules/) every living creature seeing it for the first time unless they fail a save.
 
 **Attacks (3/round)**
 
@@ -36,6 +36,7 @@ The nomophage projects a terrible **aura** that [frightens](/2020/11/09/base-rul
 <ins>Fractal Blade Whirl</ins>. The nomophage makes a melee attacks (1D10). On a miss, the target has disadvantage on its melee attacks against the nomophage for 1 turn.
 
 <ins>Coprophagy</ins>. The nomophage starts absorbing a corpse with its proboscis and heals 1D6 HP. A human-sized corpse can feed a nomophage a maximum of 3 times.
+
 <br>
 
 ---
@@ -55,13 +56,13 @@ The nomophage projects a terrible **aura** that [frightens](/2020/11/09/base-rul
 
 <details markdown="1">
 <summary style="font-weight: bold;">Loot It</summary>
-Law eaters always carry their oversized (+1 damage die size) radium weapon, as well as ... (roll 6 times)
+Law eaters always carry their oversized (+1 damage die size) [radium](/2024/01/01/radium/) weapon, as well as ... (roll 6 times)
 
 1. Nothing.
 1. Nothing.
-1. A baroque piece of jewelry worth a [Bag of Silver](/2024/06/26/currency/).
-1. An ornate iridescent piece of armor worth a [Bag of Gold](/2024/06/26/currency/).
-1. A vial of Law Solvent.
+1. A baroque piece of jewelry worth a [Bag of Gold](/2024/06/26/currency/).
+1. An iridescent piece of [radium](/2024/01/01/radium/) armor worth a [Bag of Gold](/2024/06/26/currency/).
+1. A vial of [Law Solvent](/2024/01/01/order-solvent/).
 1. A time-space dimensional key that can be used once to jump1D100 days in the future.
 
 </details>

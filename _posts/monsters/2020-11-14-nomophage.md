@@ -44,7 +44,7 @@ The nomophage projects a terrible **aura** that [frightens](/2020/11/09/base-rul
 ## Encounter
 
 - **Encounter:** 1, potentially with 1D6 cultists
-- **Biomes:** Astral, Planes of Chaos
+- **Biomes:** [Astral](/list/astral), Planes of [Chaos](/list/chaos)
 - **Omen:** Sudden inability to organize thoughts
 - **Disposition:** Focused on mission
 

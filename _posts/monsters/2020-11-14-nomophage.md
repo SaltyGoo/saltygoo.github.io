@@ -56,7 +56,7 @@ The nomophage projects a terrible **aura** that [frightens](/2020/11/09/base-rul
 
 ---
 
-## LOOT AND CRAFT
+## Loot & Craft
 
 <details markdown="1">
 <summary style="font-weight: bold;">Loot It</summary>

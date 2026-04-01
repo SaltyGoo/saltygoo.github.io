@@ -5,16 +5,16 @@ title: Occult Consultation
 ---
 **D**: [sum] minutes
 
-After a nighttime ritual where you dig a pit two feet square into which is poured wine, fragrant herbs, and the blood of a sacrifice slain with a bronze knife is performed, you call out to the spirit of a dead person. Roll 1D6 + [dice]:
+After a 10-minute nighttime ritual where you dig a pit into which is poured wine, fragrant herbs, and the blood of a sacrifice slain with a bronze knife, you call out to the spirit of a dead person. Roll 1D6 + [dice]:
 
-1. You take 2D6 damage and, if this brings you to 0 HP, you are dragged to the underworld.
-1. The spirit is now a ghost bound to this place.
+1. You are dragged to the underworld.
+1. The spirit is now a [ghost](/monsters/ghost) bound to this place.
 1. It’s the wrong spirit!
-1. The spirit is mocking and cruel to you.
-1. The spirit is answers truthfully...
-1. ... and also information you didn’t ask.
-1. ... and stays and extra 1D6 minutes.
-1. Or higher. You can command the spirit.
+1. The spirit is going to sometimes lie.
+1. The spirit is angry at you and will demand a trade.
+1. The spirit is answers truthfully…
+1. … and stays an extra 1D6 minutes.
+1. Or higher. The [ghost](/monsters/ghost) is permanently raised, and can be given one command.
 
 Your roll is modified by these factors:
 - Died within a week: +1

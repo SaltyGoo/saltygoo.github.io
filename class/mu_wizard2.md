@@ -251,8 +251,8 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 <details markdown="1">
 <summary><b>23. Ghost-Chained Black Grimoire</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Dedicated to Shadrakul's post-mortem apprentice.*
-- You can interrogate the spirit of a creature who died after the last dawn. It will answer 4 different questions, none of which will make sense.
-- Each time you study this book, the number of answers that will make sense when you interrogate a spirit increases by 1.
+- You can rouse the spirits of a room by placing a knife on any surface. When you do so, the lights will flicker and the knife will point towards a direction of the spirits’ choosing. This also wakes all dormant undeads in the space.
+- Each time you level up as a Wizard through studying this book, you can add the ‘ghostly’ qualifier to one item in your inventory. Discuss with the referee how it changes the item’s properties.
 - Roll 1D4, you gain the following spell: 1. [Death Mask](/2020/11/13/death-mask/), 2. [Finger of Death](/2020/11/13/finger-of-death/), 3. [Ghost Orchestra](/2020/11/13/ghost-orchestra/), 4. [Occult Consultation](/2020/11/13/occult-consultation/)
 ###### *Inspired by [Wonders & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness) and the [Lair of the Lamb](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html).*
 </details>

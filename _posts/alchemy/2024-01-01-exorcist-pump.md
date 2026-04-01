@@ -8,4 +8,4 @@ A weird contraption looking like a glass jar linked to a leather tube and a cran
 
 On each of their turns, the person cranking must make a STR save and the possessed target must make a WILL save. The ghost becomes captured when they succeed a combined total of 6 times.
 
-It’s an extremely dangerous process, considering the ghost can still attack. A captured ghost can provide 6 doses of ectoplasma.
+It’s an extremely dangerous process, considering the ghost can still attack. A captured ghost can provide 6 doses of [ectoplasma](/2024/01/01/ectoplasma/).

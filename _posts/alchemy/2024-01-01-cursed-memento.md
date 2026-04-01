@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: artefact
+tags: artefact ingredient
 title: Cursed Memento
 ---
 

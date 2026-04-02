@@ -5,7 +5,9 @@ title: Finger of Death
 ---
 **R**: Touch
 
-Kill a creature with [dice] HD or less if it fails a save. Even it suceeds, it still takes [sum] damage. Creatures that recognize you have advantage on this save. Creatures killed by this spell will haunt you.
+Your finger becomes bone-white as you touch a living creature, killing it on a failed save if it has [dice] HD or less. Even if it suceeds, it still takes [sum] damage.
+
+Creatures that know you have advantage on this save and there is 1-in-6 chance they haunt you each night, preventing you from resting.
 
 ###### death + touch
 ###### adapted from [Wonder & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)

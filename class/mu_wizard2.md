@@ -15,7 +15,7 @@ This class is more fun if the players can find spellbooks either in dungeons, li
 
 _You have studied a lot to get the powers you have. Yet these powers have alienated you from most of the population and the Church. Now, you have to prove your usefulness to avoid the stake._
 
-##### _Last updated April 2026. Download the printable 1-pager pdf [here](/assets/GOO_00_Spellcasting_Wizard)._
+##### _Last updated April 2026. Download the printable 1-pager pdf [here](/assets/GOO_00_Spellcasting_Wizard.pdf)._
 
 <img align="right" width=250px src="/images/Class_Wizard_SaltyGoo.png">
 
@@ -35,38 +35,36 @@ _Arcana_ and choose one of the following:
 - _General Knowledge_
 You also know the spell [Maleficence](/2020/11/13/maleficence/).
 
-For every Wizard template you have, you gain one extra **Spell Die** (SD) one extra **Sigil Slot** and you **Study**. 
+You can only level up as a wizard by using a **Spellbook** and you start the game having already studied your _Spellbook_ once. For each wizard level you have, you gain one **Magic Dice**.
 
-## Spells
-Wizards get a [random one](/list/spells) for free at level 1. They’re stored in your Psyche and you spend Spell Dice to cast them. Certain spells are permanent but require a [sigil](/spells/#lexicon) slot to maintain.
+## Unsing A Spellbook
+
+When you have a _Spellbook_, you can spend time and resources between adventures to study it. You need gold to gain access to the right library or laboratory to do so. For each Bag of Gold spent this way, roll a D4, you gain a scroll of the corresponding spell in the book. You can use a scroll to cast a spell with a free Magic Die (MD), upon which the scroll turns to dust.
+
+If you spend the equivalent of a [Treasure](/2024/06/26/currency/) studying it, you can **level up** as a Wizard. When you do so, you gain the cantrips contained in the spellbook and you permanently learn one of its spells. Roll a D4 to determine which and add it to your Psyche. If you already know the spell, roll again.
 
 <details markdown="1">
 <summary>How GLOG spells work</summary>
-<ins>Spell Dice (SD)</ins><br>
-You get 1 per Wizard template. They are D6s.
+You need Magic Dice (MD) to cast a spell. Whenever you cast a spell, you choose how many MD to invest into it. The result of the spell depends on the number of [dice] and their [sum].
+  
+If a MD’s roll is a 1, 2 or 3, you don’t lose it. Otherwise, you lose the die until you rest.
 
-Whenever you cast a spell, you choose how many SD to invest into it. The result of the spell depends on the number of [dice] and their [sum].
-
-If a SD rolls a 1, 2 or 3, you don’t lose it. Otherwise, you lose it until you get a night of sleep. You can’t cast without SD.
-
-Every time you roll doubles you get closer to *Catastrophe*.
-
-<ins>Catastrophe</ins><br>
-Every time you roll doubles you gain 1 *Doom Point*. Roll a D20. If you roll equal to or below your doom score, you trigger a [catastrophe](/list/spell-catastrophe). Triples give 3 Points, and Quadruples, 6 points.
+Be careful though, because every time you roll doubles you get closer to catastrophe: when you do so, gain 1 Doom Point for each pair. Roll a D20. If you roll equal to or below your doom score, you trigger a [catastrophe](/list/spell-catastrophe). Triples give 3 Points, and quadruples, 6.
 </details>
 
-## Study
-You need a Spellbook to study. You cannot take a Wizard template if you do not possess a Spellbook. When you study, you choose which book you are studying, gain the knowledge contained in it and roll for one of its spells. If you already know the spell, roll again.
 
 **D114 Spellbooks:**
 ###### or choose the first one for a generic option
 
 <details markdown="1">
-<summary><b>1. Tome of Magic Practice</b></summary>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *A mass-produced folio with chipped edges passed-down by students.*
-- You receive an official license to practice magic in public.
-- You can create candlelight from your fingertips.
-- Roll 1D4, you gain the following spell: 1. [Maleficence](/2020/11/13/maleficence/), 2. [Second Sight](/2020/11/12/second-sight/), 3. [Shroud](/2020/11/13/shroud/), 4. [Thaumaturgy](/2020/11/13/thaumaturgy/)
+<summary><b>1. Practical Codex</b></summary>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mass-produced folio passed-down by students.*
+  
+Magic has traditionnaly been thaught through disparate master-apprentice relationships. In an effort to consolidate arcane knowledge in the capital, the high-wizard has established imperial colleges where multiple students can be thaught a standardized curiculum, such as the one compiled in this codex for adventuring students.
+
+- You can manifest your Official License to practice magic. This should calm most overzealous priests and bureaucrats.
+- Each time you level up as a Wizard through studying this book, choose one item in your inventory, from now on, this item can glow like a candle when you will it.
+- Roll 1D4, you gain the following spell: 1. [Blade Ward](/2020/11/13/shield/), 2. [Illusory Veil](/2020/11/13/disguise/), 3. [Prestidigitation](/2020/11/13/colour-spray/), 4. [Second Sight](/2020/11/12/second-sight/)
 </details>
 
 <details markdown="1">

@@ -23,7 +23,7 @@ _You have studied a lot to get the powers you have. Yet these powers have aliena
 A _Spellbook_ of your choice (see below), _Ink & a Quill_, as well as your choice of two of the following:
 - _Telescope_
 - _Wizard Staff_ (Break to regain all MD) 
-- Roll on Goblin Punch’s [d100 Alchemy & Oozes]([url](https://goblinpunch.blogspot.com/2016/05/the-glog-alchemy-and-oozes.html)) table
+- Roll on Goblin Punch’s [d100 Alchemy & Oozes](https://goblinpunch.blogspot.com/2016/05/the-glog-alchemy-and-oozes.html) table
 - Encyclopedia on the subject of your choice
 
 <ins>Starting Skills</ins><br>
@@ -58,9 +58,7 @@ Be careful though, because every time you roll doubles you get closer to catastr
 
 <details markdown="1">
 <summary><b>1. Practical Codex</b></summary>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mass-produced folio passed-down by students.*
-  
-_Magic has traditionnaly been thaught through disparate master-apprentice relationships. In an effort to consolidate arcane knowledge in the capital, the high-wizard has established imperial colleges where multiple students can be thaught a standardized curiculum, such as the one compiled in this codex for adventuring students._
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mass-produced folio passed-down by students. Magic has traditionnaly been thaught through disparate master-apprentice relationships. In an effort to consolidate arcane knowledge in the capital, the high-wizard has established imperial colleges where multiple students can be thaught a standardized curiculum, such as the one compiled in this codex for adventuring students.*
 
 - You can manifest your _Official License_ to practice magic. This should calm most overzealous priests and bureaucrats.
 - Each time you level up as a Wizard through studying this book, choose one item in your inventory, from now on, this item can glow like a candle when you will it.

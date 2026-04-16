@@ -62,9 +62,9 @@ Be careful though, because every time you roll doubles you get closer to catastr
 
 ##### Magic has traditionnaly been thaught through disparate master-apprentice relationships. In an effort to consolidate arcane knowledge in the capital, the high-wizard has established imperial colleges where multiple students can be thaught a standardized curiculum, such as the one compiled in this codex for adventuring students.
 
-- You can manifest your _Official License_ to practice magic. This should calm most overzealous priests and bureaucrats. <br>
-- Each time you level up as a Wizard through studying this book, choose one item in your inventory, from now on, this item can glow like a candle when you will it. <br>
-- Roll 1D4, you gain the following spell: 1. [Blade Ward](/2020/11/13/shield/), 2. [Illusory Veil](/2020/11/13/disguise/), 3. [Prestidigitation](/2020/11/13/colour-spray/), 4. [Second Sight](/2020/11/12/second-sight/)
+- You can manifest your **Official License** to practice magic. This should calm most overzealous priests and bureaucrats.
+- Each time you level up as a Wizard through studying this book, choose one item in your inventory, from now on, this item can **glow** like a candle when you will it. 
+- Roll 1D4, you gain the following **spell**: 1. [Blade Ward](/2020/11/13/shield/), 2. [Illusory Veil](/2020/11/13/disguise/), 3. [Prestidigitation](/2020/11/13/colour-spray/), 4. [Second Sight](/2020/11/12/second-sight/)
 </details>
 
 <details markdown="1">

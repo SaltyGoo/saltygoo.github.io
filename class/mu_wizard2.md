@@ -4,24 +4,36 @@ title: The Wizard
 permalink: /class/wizard
 ---
 
-###### Inspired by ALL the wizards of the GLOG community. Image by Larry Elmore.
-
-<img align="right" width=230px src="https://images.squarespace-cdn.com/content/v1/5bd88db093a6320f071b1a50/1623279068059-0ATKUP72UNE2HHN5NUUD/Intro_Dragon114_Witch.jpg">
+###### Inspired by ALL the wizards of the GLOG community. Art by me :).
 
 <details markdown="1">
 <summary>Design Notes</summary>
 Inspired by my templateless [Priest](/class/priest) class, I wanted to deconstruct the GLOG wizard into more edible bites for my players. This version does that by focusing on one concept only: spellbooks. It's also designed to easily blend with the exploration aspect of the game by allowing me to add spellbooks to dungeon loots and make them instantly desirable even if the party's wizard already has one. Most of all, it's my homage to what drew me to the GLOG to begin with: the literal hundreds of wizard classes! Most of the spellbooks described below are direct conversions of my favorites among them.
 
 This class is more fun if the players can find spellbooks either in dungeons, libraries or by hunting wizards.
-
-So how is this wizard different from the aforementioned priest? It sure does look identical! Well no. First, the wizard gains SD every level and can do whatever it wants with them, while the priest gains SD each time it matches a certain condition and can only cast each of its spells once per day. Second, the priest chooses a new sacrament at every level, while the wizard is stuck with its starting spellbook unless it finds new ones in its adventures. The wizard can also spend Treasures to study more spells even when they are not leveling up. In the end, the priest will have fewer spells, but a potentially unlimited amount of Spell Dice, while the wizard will have 4 Spell Dice and a potentially unlimited amount of spells. Multiclassing as a Priest and a Wizard is heretical.
 </details>
 
+_You have studied a lot to get the powers you have. Yet these powers have alienated you from most of the population and the Church. Now, you have to prove your usefulness to avoid the stake._
+
+##### _Last updated April 2026. Download the printable 1-pager pdf [here](/assets/GOO_00_Spellcasting_Wizard)._
+
+<img align="right" width=250px src="/images/Class_Wizard_SaltyGoo.png">
+
 <ins>Starting Equipment</ins><br>
-A strange hat, ink and quill, a spellbook (see below)
+A _Spellbook_ of your choice (see below), _Ink & a Quill_, as well as your choice of two of the following:
+- _Telescope_
+- _Wizard Staff_ (Break to regain all MD) 
+- Roll on Goblin Punch’s [d100 Alchemy & Oozes]([url](https://goblinpunch.blogspot.com/2016/05/the-glog-alchemy-and-oozes.html)) table
+- Encyclopedia on the subject of your choice
 
 <ins>Starting Skills</ins><br>
-Your choice of "University Graduate", "Alchemist", "Charlatan" or "Heretical Recluse"
+_Arcana_ and choose one of the following: 
+- _Alchemy_
+- _Botany_
+- _Charlatanism_
+- _Court Intrigue_
+- _General Knowledge_
+You also know the spell [Maleficence](/2020/11/13/maleficence/).
 
 For every Wizard template you have, you gain one extra **Spell Die** (SD) one extra **Sigil Slot** and you **Study**. 
 

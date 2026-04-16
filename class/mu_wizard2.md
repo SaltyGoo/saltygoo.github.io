@@ -35,13 +35,13 @@ _Arcana_ and choose one of the following:
 - _General Knowledge_
 You also know the spell [Maleficence](/2020/11/13/maleficence/).
 
-You can only level up as a wizard by using a **Spellbook** and you start the game having already studied your _Spellbook_ once. For each wizard level you have, you gain one **Magic Dice**.
+You can only level up as a wizard by using a **Spellbook**. For each wizard level you have, you gain one **Magic Dice**.
 
-## Unsing A Spellbook
+## Using A Spellbook
 
 When you have a _Spellbook_, you can spend time and resources between adventures to study it. You need gold to gain access to the right library or laboratory to do so. For each Bag of Gold spent this way, roll a D4, you gain a scroll of the corresponding spell in the book. You can use a scroll to cast a spell with a free Magic Die (MD), upon which the scroll turns to dust.
 
-If you spend the equivalent of a [Treasure](/2024/06/26/currency/) studying it, you can **level up** as a Wizard. When you do so, you gain the cantrips contained in the spellbook and you permanently learn one of its spells. Roll a D4 to determine which and add it to your Psyche. If you already know the spell, roll again.
+If you spend the equivalent of a [Treasure](/2024/06/26/currency/) studying it, you can **level up** as a Wizard. When you do so, you gain the cantrips contained in the spellbook and you permanently learn one of its spells. Roll a D4 to determine which and add it to your Psyche. If you already know the spell, roll again. If you start the game as a wizard, you already have the benefits of having studied your spellbook in such way once.
 
 <details markdown="1">
 <summary>How GLOG spells work</summary>

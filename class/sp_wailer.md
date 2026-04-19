@@ -6,7 +6,7 @@ permalink: /class/specialist/widow
 
 _You will never let the dead go. In the village, you are treated with an awkward mixture of pity and respect. Mentions of your name are invariably followed by a weighted pause. And yet, you are empowered: a single person carrying the legacy of two with no more tears to shed._
 
-##### _Last updated March 2026.
+##### Last updated March 2026.
 
 <ins>Starting Equipment</ins><br>
 A *Memento* (required to use your abilities), a *Hooded Lantern*, 3 *Oil Flasks*, as well as your choice of two of the following:
@@ -26,7 +26,7 @@ A *Memento* (required to use your abilities), a *Hooded Lantern*, 3 *Oil Flasks*
 
 ## Class Progression
 
-<img align="right" width=250px  style="border:5px solid black" src="/images/Class_Widow_B_SaltyGoo.png">
+<img align="right" width=250px  style="border:3px solid black" src="/images/Class_Widow_B_SaltyGoo.png">
 
 **A:** Death's Companion, Gravitas, Wail<br>
 **B:** My Dead Spouse<br>

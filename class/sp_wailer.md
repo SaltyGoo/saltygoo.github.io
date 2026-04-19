@@ -8,8 +8,6 @@ _You will never let the dead go. In the village, you are treated with an awkward
 
 ##### _Last updated March 2026.
 
-<img align="center" width=800px src="/images/Class_Widow_SaltyGoo.png">
-
 <ins>Starting Equipment</ins><br>
 A *Memento* (required to use your abilities), a *Hooded Lantern*, 3 *Oil Flasks*, as well as your choice of two of the following:
 - Waterproof black *Mourning Cloak* (as leather)
@@ -25,9 +23,10 @@ A *Memento* (required to use your abilities), a *Hooded Lantern*, 3 *Oil Flasks*
 
 ---
 
-<img align="right" width=250px src="/images/Class_Widow_B_SaltyGoo.png">
 
 ## Class Progression
+
+<img align="right" width=250px  style="border:5px solid black" src="/images/Class_Widow_B_SaltyGoo.png">
 
 **A:** Death's Companion, Gravitas, Wail<br>
 **B:** My Dead Spouse<br>

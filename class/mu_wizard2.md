@@ -60,7 +60,7 @@ Be careful though, because every time you roll doubles you get closer to catastr
 <summary><b>1. Practical Codex</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mass-produced folio passed-down by students.*
 
-##### Magic has traditionnaly been thaught through disparate master-apprentice relationships. In an effort to consolidate arcane knowledge in the capital, the high-wizard has established imperial colleges where multiple students can be thaught a standardized curiculum, such as the one compiled in this codex for adventuring students.
+##### Magic has traditionally been taught through disparate master-apprentice relationships. In an effort to consolidate arcane knowledge in the capital, the high-wizard has established imperial colleges where multiple students can be taught a standardized curriculum, such as the one compiled in this codex for adventuring students.
 
 - You can manifest your **Official License** to practice magic. This should calm most overzealous priests and bureaucrats.
 - Each time you level up as a Wizard through studying this book, choose one item in your inventory, from now on, this item can **glow** like a candle when you will it. 

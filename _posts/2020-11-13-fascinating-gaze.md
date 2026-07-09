@@ -3,11 +3,16 @@ layout: post
 tags: spell psychomancy
 title: Fascinating Gaze
 ---
-**R**: 30’ 		**D**: [sum] minutes
+**R**: 30’ 		**D**: [dice] x 30 seconds
 
-For the duration of this spell, anyone that meets your gaze must make a saving throw. Those that fail become fascinated and are unable to act as long as you maintain eye contact and do not do anything other than speaking. 
 
-The subject will answer [dice] basic yes or no questions truthfully, though questions requiring more complicated answers will not be understood, and memories of the episode remain foggy and indistinct.
+Anyone that meets your gaze risks becoming fascinated and unable to act.
+
+As you cast this silent spell, make a spell save against a target facing you.
+
+On a success, you can start a real-time conversation with the subject. They will speak truthfully, though questions requiring complicated answers will not be understood, and memories of the episode remain foggy and indistinct.
+
+The spell ends if eye contact is broken or you stop speaking for more than 5 seconds.
 
 ###### fascinate + gaze
 ###### From [Wonder & Wickedness](https://www.drivethrurpg.com/product/145647/Wonder--Wickedness)

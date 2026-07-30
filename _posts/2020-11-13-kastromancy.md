@@ -4,7 +4,7 @@ tags: spell spiritualism
 title: Kastromancy
 ---
 
-**R**: Touch  **D**: [Sigil](/spells/#lexicon)
+**R**: Touch 
 
 You transform a building in a powerful vessel for your spells: You engrave your sigil on the floor somewhere in a building and choose another spell you know. You then spend 1 day per room in that building carving a complex set of formulas and runes.
 

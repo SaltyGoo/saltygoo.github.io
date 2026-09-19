@@ -44,6 +44,12 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+/* Custom Italic Font */
+em, i {
+  font-family: Garamond, serif;
+  font-style: normal; /* Removes the artificial browser slant if your new font is already stylized */
+}
+
 h1 {
   font-size: 30px;
   a {

@@ -329,41 +329,49 @@ footer {
 
 .tooltip {
   position: relative;
-  border-bottom: 2px dotted black; /* Add dots under the hoverable text */
   display: inline-block;
-  cursor: pointer;
+  border-bottom: 2px dotted black;
+  cursor: help;
 }
 
 .tooltiptext {
-  visibility: hidden;
-  width: 120px;
-  background-color: black;
-  color: #ffffff;
-  text-align: center;
-  border-radius: 6px;
-  padding: 5px 0;
   position: absolute;
-  z-index: 1;
+  z-index: 1000;
+
   bottom: 150%;
   left: 50%;
-  margin-left: -60px;
+  transform: translateX(-50%);
+
+  width: max-content;
+  max-width: 300px;
+  padding: 5px 10px;
+
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.2s ease;
 }
 
-/* Tooltip Arrow */
 .tooltiptext::after {
   content: "";
   position: absolute;
   top: 100%;
   left: 50%;
-  margin-left: -5px;
+  transform: translateX(-50%);
+
   border-width: 5px;
   border-style: solid;
   border-color: black transparent transparent transparent;
 }
 
-/* Show the tooltip text on hover */
-.tooltip:hover .tooltiptext {
+.tooltip:hover .tooltiptext,
+.tooltip:focus .tooltiptext {
   visibility: visible;
+  opacity: 1;
 }
 
 button {

@@ -327,19 +327,18 @@ footer {
 
 .tooltip {
   position: relative;
-  border-bottom: 1px dotted black; /* Add dots under the hoverable text */
-   display: inline-block;
-	cursor: pointer;
+  border-bottom: 2px dotted black; /* Add dots under the hoverable text */
+  display: inline-block;
+  cursor: pointer;
 }
 
 .tooltip::after {
   content: attr(data-tooltip);
-  position: absolute;
   top: -5px;
   left: 0;
   padding: 5px;
-  background-color: #e6e6e6;
-  color: #000;
+  background-color: black;
+  color: #ffffff;
   border-radius: 3px;
   font-size: 12px;
   font-family: Futura, sans-serif;

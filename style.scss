@@ -347,11 +347,6 @@ footer {
   z-index: 1; /* Ensure tooltip is displayed above content */
 }
 
-/* Show the tooltip text on hover */
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-}
-
 /* Tooltip Arrow */
 .tooltiptext::after {
   content: " ";
@@ -362,6 +357,11 @@ footer {
   border-width: 5px;
   border-style: solid;
   border-color: black transparent transparent transparent;
+}
+
+/* Show the tooltip text on hover */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
 }
 
 button {

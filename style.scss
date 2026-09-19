@@ -327,6 +327,9 @@ footer {
 
 .tooltip {
   position: relative;
+  border-bottom: 1px dotted black; /* Add dots under the hoverable text */
+   display: inline-block;
+	cursor: pointer;
 }
 
 .tooltip::after {

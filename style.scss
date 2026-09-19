@@ -110,9 +110,8 @@ ul ul, ol ul {
 }
 
 em, i {
-  font-style: italic;
   font-family: $cambria;
-  font-style: normal; /* Removes the artificial browser slant if your new font is already stylized */
+  font-style: italic;
 }
 
 strong, b {

@@ -334,7 +334,9 @@ footer {
   cursor: help;
 }
 
-.tooltiptext {
+.tooltip::after {
+  content: attr(data-tooltip);
+
   position: absolute;
   z-index: 1000;
 
@@ -347,7 +349,7 @@ footer {
   padding: 5px 10px;
 
   background-color: black;
-  color: #fff;
+  color: white;
   text-align: center;
   border-radius: 6px;
 
@@ -356,20 +358,26 @@ footer {
   transition: opacity 0.2s ease;
 }
 
-.tooltiptext::after {
+.tooltip::before {
   content: "";
+
   position: absolute;
-  top: 100%;
+  z-index: 1000;
+
+  bottom: 150%;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translate(-50%, 100%);
 
   border-width: 5px;
   border-style: solid;
   border-color: black transparent transparent transparent;
+
+  visibility: hidden;
+  opacity: 0;
 }
 
-.tooltip:hover .tooltiptext,
-.tooltip:focus .tooltiptext {
+.tooltip:hover::after,
+.tooltip:hover::before {
   visibility: visible;
   opacity: 1;
 }

@@ -334,24 +334,26 @@ footer {
   cursor: pointer;
 }
 
-/* Tooltip text */
 .tooltiptext {
-  visibility: hidden; /* Hidden by default */
-  width: 130px;
+  visibility: hidden;
+  width: 120px;
   background-color: black;
   color: #ffffff;
   text-align: center;
-  padding: 5px 0;
   border-radius: 6px;
+  padding: 5px 0;
   position: absolute;
-  z-index: 1; /* Ensure tooltip is displayed above content */
+  z-index: 1;
+  bottom: 150%;
+  left: 50%;
+  margin-left: -60px;
 }
 
 /* Tooltip Arrow */
 .tooltiptext::after {
-  content: " ";
+  content: "";
   position: absolute;
-  top: 100%; /* At the bottom of the tooltip */
+  top: 100%;
   left: 50%;
   margin-left: -5px;
   border-width: 5px;

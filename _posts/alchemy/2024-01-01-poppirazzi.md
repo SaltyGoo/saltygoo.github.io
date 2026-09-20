@@ -10,9 +10,9 @@ _Like other poppies, poppirazzies can be prepared into a strong narcotic, but th
 **Harvest –** From the [poppirazzi](url) plants in the [disco dryads](url)' sound gardens
 
 **Effect** <br>
-You feel good. Very good. For the next {% include tooltip.html term="tip_watches" %}, you are overcome with exhilarating narcissistic confidence. Your inner monologue becomes deafening. You can still hear but you no longer listen. Take a D6. Roll it whenever you roll a D20 and add the result. Each extra dose increases the die size by 1. Each further use increases the duration of the trip by 1 watch.
+You feel good. Very good. For the next {% include tooltip.html term="tip_watches" %}, you are overcome with exhilarating narcissistic confidence. Your inner monologue becomes deafening. You can still hear but you no longer listen. Until the effects fade, add a D6 to any D20 roll you do. Each extra dose increases the die size by one step. Each further use increases the duration of the trip by 1 watch.
 
 **Drawback** <br>
-If you still fail, for the rest of the trip, roll it and subtract the result as you are now crippled by overwhelming self-doubt.
+If you fail a roll while tripping, you are now crippled by overwhelming self-doubt. The die now reduces your D20 rolls.
 
 ##### Inspired by [Grek](https://gracklecourt.blogspot.com/). Harvested from a Poppirazzi 

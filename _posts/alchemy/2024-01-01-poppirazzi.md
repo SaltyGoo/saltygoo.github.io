@@ -6,7 +6,7 @@ title: Popium
 
 _Like other poppies, poppirazzies can be prepared into a strong narcotic, but they have a narcissistic rather than soporific effect._
 
-Popium is smoked, usually through a long cigarette or extravagant hookah. It can be harvested from the [poppirazzi](url) plants in the [disco dryads](url)' sound gardens
+Popium is smoked, usually through a long cigarette or extravagant hookah. It can be harvested from **poppirazzi** plants usually growing in **sound gardens**.
 
 #### Effect
 You feel good. Very good. For the next {% include tooltip.html term="tip_watches" %}, you are overcome with exhilarating narcissistic confidence. Your inner monologue becomes deafening. You can still hear but you no longer listen. Until the effects fade, add a D6 to any D20 roll you do. Each extra dose increases the {% include tooltip.html term="tip_diesize" %} by one step. Each further use increases the duration of the trip by 1 watch.

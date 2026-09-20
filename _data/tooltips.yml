@@ -8,7 +8,7 @@ tip_diesize:
   text: "D4 > D6 > D8 > D10 > D12 > D20"
 
 tip_resting:
-  title: "Resting"
+  title: "Rest"
   text: "Resting takes 6 hours and requires shelter, heat and 1 ration for the team."
 
 tip_status_exhausted:

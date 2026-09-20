@@ -14,4 +14,4 @@ You feel good. Very good. For the next {% include tooltip.html term="tip_watches
 #### Drawback
 If you fail on a D20 roll while tripping, you are now crippled with overwhelming self-doubt. The die now reduces your D20 rolls until you succeed again.
 
-##### Inspired by [Grek](https://gracklecourt.blogspot.com/). Harvested from a Poppirazzi 
+##### Inspired by [Grek](https://gracklecourt.blogspot.com/). Cultivated by disco dryads.

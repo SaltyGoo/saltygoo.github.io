@@ -6,7 +6,7 @@ title: Pappium
 
 _Like other poppies, poppirazzies can be prepared into a strong narcotic, but they have a narcissistic rather than soporific effect._
 
-**Consumption –** Smoked
+**Consumption –** Smoked <br>
 **Harvest –** From the Poppirazzi plant, which normally grows in sound gardens.
 
 **Effect** <br>

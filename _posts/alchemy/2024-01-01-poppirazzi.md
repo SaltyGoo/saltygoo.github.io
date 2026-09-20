@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: poison
-title: Poppirazzi
+title: Pappium
 ---
 
 _Like other poppies, poppirazzies can be prepared into a strong narcotic, but they have a narcissistic rather than soporific effect._

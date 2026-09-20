@@ -6,3 +6,15 @@ tip_watches:
 tip_diesize:
   title: "Die Size"
   text: "D4 > D6 > D8 > D10 > D12 > D20"
+
+tip_resting:
+  title: "Resting"
+  text: "Resting takes 6 hours and requires shelter, heat and 1 ration for the team."
+
+tip_status_exhausted:
+  title: "Exhausted"
+  text: "You can act OR move on your turn."
+
+tip_status_intoxicated:
+  title: "Intoxicated"
+  text: "You have disadvantage on all your actions. Specific poisons have unique effects."

@@ -13,4 +13,4 @@ You feel good. Very good. For the next {% include tooltip.html term="tip_watches
 
 Each extra dose increases the die size by 1. Each further use increases the duration of the trip by 1 {% include tooltip.html term="tip_watches" %}.
 
-##### Inspired by [Grek]([url](https://gracklecourt.blogspot.com/)). Harvested from a Poppirazzi 
+##### Inspired by [Grek](https://gracklecourt.blogspot.com/). Harvested from a Poppirazzi 

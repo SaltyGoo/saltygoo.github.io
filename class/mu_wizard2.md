@@ -23,8 +23,8 @@ _You have studied a lot to get the powers you have. Yet these powers have aliena
 A _Spellbook_ of your choice (see below), _Ink & a Quill_, as well as your choice of two of the following:
 - _Telescope_
 - _Wizard Staff_ (Break to regain all MD) 
-- Roll on Goblin Punch’s [d100 Alchemy & Oozes](https://goblinpunch.blogspot.com/2016/05/the-glog-alchemy-and-oozes.html) table
-- Encyclopedia on the subject of your choice
+- Roll on Goblin Punch’s _[d100 Alchemy & Oozes](https://goblinpunch.blogspot.com/2016/05/the-glog-alchemy-and-oozes.html) table_
+- _Encyclopedia_ on the subject of your choice
 
 <ins>Starting Skills</ins><br>
 _Arcana_ and choose one of the following: 

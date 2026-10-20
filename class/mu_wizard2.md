@@ -33,6 +33,7 @@ _Arcana_ and choose one of the following:
 - _Charlatanism_
 - _Court Intrigue_
 - _General Knowledge_
+
 You also know the spell [Maleficence](/2020/11/13/maleficence/).
 
 You can only level up as a wizard by using a **Spellbook**. For each wizard level you have, you gain one **Magic Dice**.
@@ -1118,7 +1119,7 @@ Be careful though, because every time you roll doubles you get closer to catastr
 <summary><b>117. Twenty Obtenebration Rituals</b></summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Two-hundred black pages bound in a shroud. Can only be read in complete darkness.*
 - If you empty a jug of water unnoticed while in the presence of creatures, you will not elicit any emotional reactions from them until sunrise.
-- Each time you study this book, you gain [a ghostly dead follower](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html). It can't interact with or clearly see the physical world, but you can be sacrificed to completely block and undead's attack.
+- Each time you study this book, you gain [a ghostly dead follower](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html). It can't interact with or clearly see the physical world, but can be sacrificed to completely block an undead's attack.
 - Roll 1D4, you gain the following spell: 1. [Geas](/2020/11/13/geas/), 2. [Kladenets](/2020/11/13/kladenets/), 3. [Lucifuge](/2020/11/13/devour-light/), 4. [Sacrament of Life](/2020/11/13/sacrament-of-life/)
 ###### *Inspired by [Phlox](https://whosemeasure.blogspot.com/)*
 </details>

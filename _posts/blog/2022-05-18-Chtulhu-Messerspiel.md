@@ -1,5 +1,6 @@
 ---
 layout: post
+tags:
 title: Chtulhu X Messerspiel
 ---
 

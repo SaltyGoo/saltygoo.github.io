@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Widow
-permalink: /class/spellcaster/priest
+permalink: /class/magic-user/priest
 ---
 
 _You have been ordained a priest of the Church. The Church is universal across the Empire, united in its worship of the Authority. While bishops and cardinals bicker over political and theological issues, local parishes celebrate thousands of different saints, martyrs and traditions._

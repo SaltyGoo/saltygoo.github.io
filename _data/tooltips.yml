@@ -1,15 +1,10 @@
-
 tip_watches:
-  title: "Watch"
-  text: "A day is divided in 4 six-hours watches: Morning, Day, Evening, and Night."
+  title: "Carousing"
+  text: "When you are in town and spend loot. See Base Rules."
 
 tip_diesize:
   title: "Die Size"
   text: "D4 > D6 > D8 > D10 > D12 > D20"
-
-tip_resting:
-  title: "Rest"
-  text: "Resting takes 6 hours and requires shelter, heat and 1 ration for the team."
 
 tip_status_exhausted:
   title: "Exhausted"
@@ -18,3 +13,11 @@ tip_status_exhausted:
 tip_status_intoxicated:
   title: "Intoxicated"
   text: "You have disadvantage on all your actions. Specific poisons have unique effects."
+
+tip_resting:
+  title: "Rest"
+  text: "Resting takes 6 hours and requires shelter, heat and 1 ration for the team."
+
+tip_watches:
+  title: "Watch"
+  text: "A day is divided in 4 six-hours watches: Morning, Day, Evening, and Night."

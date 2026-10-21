@@ -1,1 +1,1 @@
-{%- assign tooltip = site.data.tooltips[include.term] -%}<span class="tooltip" data-tooltip="{{ tooltip.text | escape }}">{{ include.label | default: tooltip.title }}</span>
+{%- assign tooltip = site.data.tooltips[include.term] -%}<span class="tooltip" markdown="span" data-tooltip="{{ tooltip.text | escape }}">{{- include.label | default: tooltip.title -}}</span>

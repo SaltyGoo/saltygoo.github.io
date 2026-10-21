@@ -1,6 +1,5 @@
 ---
 layout: post
-tags: -
 title: Fighting Styles
 ---
 

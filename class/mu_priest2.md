@@ -17,5 +17,5 @@ A *Holy Book* (use as mace), *Monk Habits* (required to use your abilities), as 
 - *[Discipline Whip](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance))* (1D4 nonlethal damage)
 - _[Follower](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html)_
 
-<ins>Starting {% include tooltip.html term="tip_skill" %}</ins><br>
-The *Holy Book*, and one of the following:  *Court Intrigue*, *Dead Languages*, *Inquisition*, *Luxury*, or *Preaching*.
+<ins>Starting Skills</ins><br>
+The *Holy Book*, and one of the following {% include tooltip.html term="tip_skill" %}:  *Court Intrigue*, *Dead Languages*, *Inquisition*, *Luxury*, or *Preaching*.

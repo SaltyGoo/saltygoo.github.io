@@ -1,3 +1,4 @@
+
 tip_carousing:
   title: "Carousing"
   text: "When you are in town and spend loot. See Base Rules."
@@ -24,7 +25,7 @@ tip_silverweapon:
  
  tip_skill:
   title: "Skills"
-  text: "A skill is an experience stored in your psyche. All rolls that can be related to a skill you have become easier. ."
+  text: "A skill is an experience stored in your psyche. All rolls that can be related to a skill you have become easier."
   
 tip_watches:
   title: "Watch"

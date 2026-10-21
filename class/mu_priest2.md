@@ -27,10 +27,10 @@ The *Holy Book*, and one of the following:  *Court Intrigue*, *Dead Languages*, 
 
 <img align="right" width=250px  style="border:3px solid black" src="/images/Class_Widow_B_SaltyGoo.png">
 
-**A:** Death's Companion, Gravitas, Wail<br>
-**B:** My Dead Spouse<br>
-**C:** Eulogy<br>
-**D:** Epilogue
+**A:** +1 Sacrament<br>
+**B:** +1 Sacrament<br>
+**C:** +1 Sacrament<br>
+**D:** +1 Sacrament
 <br>
 
 **Story Beats**<br>

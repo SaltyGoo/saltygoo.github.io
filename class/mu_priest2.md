@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Widow
+title: Priest
 permalink: /class/magic-user/priest
 ---
 

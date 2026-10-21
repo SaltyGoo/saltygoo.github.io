@@ -1,7 +1,7 @@
 
 tip_carousing:
   title: "Carousing"
-  text: "When you are in town and spend loot. See Base Rules."
+  text: "When you are in a town and spend loot between adventures. See Base Rules."
 
 tip_diesize:
   title: "Die Size"
@@ -20,12 +20,12 @@ tip_resting:
   text: "Resting takes 6 hours and requires shelter, heat and 1 ration for the team."
 
 tip_silverweapon:
-  title: "Silvered Weapon"
+  title: "Silvered"
   text: "Silvered weapons ignore the resistances of undead creatures and of creatures that are not in their true form."
  
 tip_skill:
   title: "Skills"
-  text: "A skill is an experience stored in your psyche. All rolls that can be related to a skill you have become easier."
+  text: "A skill is an experience stored in your Psyche. All rolls that can be related to a skill you have become easier."
   
 tip_watches:
   title: "Watch"

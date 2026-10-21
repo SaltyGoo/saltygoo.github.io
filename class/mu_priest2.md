@@ -18,7 +18,7 @@ A *Holy Book* (use as mace), *Monk Habits* (required to use your abilities), as 
 - _[Thurible](https://en.wikipedia.org/wiki/Thurible)_ (burn to {% include tooltip.html term="tip_resting" %} undisturbed, refilled when Carousing)
 
 <ins>Starting Skills</ins><br>
-The *Holy Book*, and one of the following {% include tooltip.html term="tip_skill" %}\: *Court Intrigue*, *Dead Languages*, *Inquisition*, *Luxury*, or *Preaching*.
+The *Holy Book*, and one of the following additional {% include tooltip.html term="tip_skill" %}\: *Court Intrigue*, *Dead Languages*, *Inquisition*, *Luxury*, or *Preaching*.
 
 ---
 

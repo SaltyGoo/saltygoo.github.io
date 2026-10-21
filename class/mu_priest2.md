@@ -26,7 +26,7 @@ The *Holy Book*, and one of the following additional {% include tooltip.html ter
 
 <img align="right" width=250px  style="border:3px solid black" src="/images/Class_Widow_B_SaltyGoo.png">
 
-**A:** The Church, +1 Sacrament<br>
+**A:** The Church, Prayer, +1 Sacrament<br>
 **B:** +1 Sacrament, +1 Story Beat<br>
 **C:** +1 Sacrament, +1 Story Beat<br>
 **D:** +1 Sacrament, +1 Story Beat

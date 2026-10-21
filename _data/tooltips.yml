@@ -21,6 +21,10 @@ tip_resting:
 tip_silverweapon:
   title: "Silvered Weapon"
   text: "Silvered weapons ignore the resistances of undead creatures and of creatures that are not in their true form."
+ 
+ tip_skill:
+  title: "Skills"
+  text: "A skill is an experience stored in your psyche. All rolls that can be related to a skill you have become easier. ."
   
 tip_watches:
   title: "Watch"

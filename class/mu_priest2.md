@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Priest
+title: The Priest of the Orthodoxy
 permalink: /class/magic-user/priest
 ---
 

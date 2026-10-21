@@ -22,6 +22,7 @@ The *Holy Book*, and one of the following {% include tooltip.html term="tip_skil
 
 <ins>Starting Skills</ins>
 
-Test: {% include tooltip.html term="tip_skill" %}
+The Holy Book, and one of the following {% include tooltip.html term="tip_skill" %}: Court Intrigue, Dead Languages, Inquisition, Luxury, or Preaching.
 
-End of test.
+<ins>Starting Skills</ins><br>
+The Holy Book, and one of the following {% include tooltip.html term="tip_skill" %}: Court Intrigue, Dead Languages, Inquisition, Luxury, or Preaching.

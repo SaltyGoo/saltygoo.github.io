@@ -269,6 +269,8 @@ You gain followers by Carousing and they take a psyche slot. Roll 1D6 for each o
 <summary><b>Spellcasting</b></summary>
 See [Wizard](/class/wizard#using-a-spellbook).
 
+</details>
+
 ---
 
 <details markdown="1">

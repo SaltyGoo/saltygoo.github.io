@@ -18,6 +18,10 @@ tip_resting:
   title: "Rest"
   text: "Resting takes 6 hours and requires shelter, heat and 1 ration for the team."
 
+tip_silverweapon:
+  title: "Silvered Weapon"
+  text: "Silvered weapons ignore the resistances of undead creatures and of creatures that are not in their true form."
+  
 tip_watches:
   title: "Watch"
   text: "A day is divided in 4 six-hours watches: Morning, Day, Evening, and Night."

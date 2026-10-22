@@ -33,7 +33,7 @@ The *Holy Book*, and one of the following additional {% include tooltip.html ter
 
 
 ## The Church
-The Church is a powerful sprawling institution with rigid canon laws. Depending on how orthodox the sacraments you choose are, your standing within the institution will rise or fall. Each time you take a level in this class, roll a D6 on the **Story Beats** table, adding your _Standing Score_ to the result. At the referee's discretion, certain game events can also affect your standing.
+The Church is a powerful sprawling institution with rigid canon laws. Depending on how orthodox the sacraments you choose are, your standing within the institution will rise or fall. Each time you take a level in this class, roll a D4 on the **Story Beats** table, adding your _Standing Score_ to the result. At the referee's discretion, certain game events can also affect your standing.
 
 **Story Beats**<br>
 <details markdown="1">
@@ -57,8 +57,8 @@ The Archbishop is testing your loyalty by demanding you deal with local heretics
 </details>
 
 <details markdown="1">
-<summary>1. <ins>A small gift for your mission.</ins></summary>
-The Church is providing you with 4 vials of Holy Water, use them well.
+<summary>1. <ins>A touched soul.</ins></summary>
+One of the town's citizens has become smitten by your words, you gain a new _[Follower](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html)_.
 </details>
 
 <details markdown="1">
@@ -66,3 +66,12 @@ The Church is providing you with 4 vials of Holy Water, use them well.
 The Church is providing you with 4 vials of Holy Water, use them well.
 </details>
 
+<details markdown="1">
+<summary>3. <ins>An inspired artist.</ins></summary>
+A local artist has painted a Saint’s Icon for you to carry. Roll on the [Failed Medieval Career](https://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) table. You can add 1D6 to your rolls related to this career, and +1 to your prayers targeting people of this craft.
+</details>
+
+<details markdown="1">
+<summary>4. <ins>A recommended letter.</ins></summary>
+The Archbishop has sent you an official letter of recommendation. It can be traded anywhere in the Empire for a favour, at the referee's discretion.
+</details>

@@ -38,7 +38,10 @@ The Church is a powerful sprawling institution with rigid canon laws. Depending 
 **Story Beats**<br>
 <details markdown="1">
 <summary>-3. <ins>Banished!</ins></summary>
-Fearing retribution from the Church, the populace has banished your from town!</details>
+Fearing retribution from the Church, the populace has banished your from town!
+</details>
+
 <details markdown="1">
 <summary>-2. <ins>Accused of heresy!</ins></summary>
-The Archbishop has sent the inquisition after you. The referee will add a rival party to the encounter tables of your next adventure.</details>
+The Archbishop has sent the inquisition after you. The referee will add a rival party to the encounter tables of your next adventure.
+</details>

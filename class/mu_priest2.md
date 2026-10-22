@@ -29,5 +29,15 @@ The *Holy Book*, and one of the following additional {% include tooltip.html ter
 **A:** The Church, Prayer, +1 Sacrament<br>
 **B:** +1 Sacrament, +1 Story Beat<br>
 **C:** +1 Sacrament, +1 Story Beat<br>
-**D:** +1 Sacrament, +1 Story Beat
-<br>
+**D:** +1 Sacrament, +1 Story Beat<br>
+
+
+## The Church
+The Church is a powerful sprawling institution with rigid canon laws. Depending on how orthodox the sacraments you choose are, your standing within the institution will rise or fall. Each time you take a level in this class, roll a D6 on the Story Beats table, adding your _Standing Score_ to the result. At the referee's discretion, certain game events can also affect your standing.
+
+**Story Beats**<br>
+<details markdown="1">
+<summary>-3. <ins>Banished!</ins></summary>
+Fearing retribution from the Church, the populace has banished your from town!</details>
+<summary>-2. <ins>Accused of heresy!</ins></summary>
+The Archbishop has sent the inquisition after you. The referee will add a rival party to the encounter tables of your next adventure.</details>

@@ -33,15 +33,36 @@ The *Holy Book*, and one of the following additional {% include tooltip.html ter
 
 
 ## The Church
-The Church is a powerful sprawling institution with rigid canon laws. Depending on how orthodox the sacraments you choose are, your standing within the institution will rise or fall. Each time you take a level in this class, roll a D6 on the _Story Beats_ table, adding your _Standing Score_ to the result. At the referee's discretion, certain game events can also affect your standing.
+The Church is a powerful sprawling institution with rigid canon laws. Depending on how orthodox the sacraments you choose are, your standing within the institution will rise or fall. Each time you take a level in this class, roll a D6 on the **Story Beats** table, adding your _Standing Score_ to the result. At the referee's discretion, certain game events can also affect your standing.
 
 **Story Beats**<br>
 <details markdown="1">
-<summary>-3. <ins>Banished!</ins></summary>
-Fearing retribution from the Church, the populace has banished your from town!
+<summary>-3. <ins>A split diocese!</ins></summary>
+Your unorthodox ideas have disciples in the parish. The town is now split in two religious factions: Your followers, and the orthodoxy. Roll when you encounter a NPC to know which side they stand with.
 </details>
 
 <details markdown="1">
 <summary>-2. <ins>Accused of heresy!</ins></summary>
 The Archbishop has sent the inquisition after you. The referee will add a rival party to the encounter tables of your next adventure.
 </details>
+
+<details markdown="1">
+<summary>-1. <ins>Banished!</ins></summary>
+Fearing retribution from the Church, the populace has banished your from town!
+</details>
+
+<details markdown="1">
+<summary>0. <ins>A test of loyalty.</ins></summary>
+The Archbishop is testing your loyalty by demanding you deal with local heretics. The referee will give you a target in your next adventure. Increase or decrease your _Status_ depending on how you deal with it.
+</details>
+
+<details markdown="1">
+<summary>1. <ins>A small gift for your mission.</ins></summary>
+The Church is providing you with 4 vials of Holy Water, use them well.
+</details>
+
+<details markdown="1">
+<summary>2. <ins>A small gift for your mission.</ins></summary>
+The Church is providing you with 4 vials of Holy Water, use them well.
+</details>
+

@@ -33,7 +33,7 @@ The *Holy Book*, and one of the following additional {% include tooltip.html ter
 
 
 ## The Church
-The Church is a powerful sprawling institution with rigid canon laws. Depending on how orthodox the sacraments you choose are, your standing within the institution will rise or fall. Each time you take a level in this class, roll a D6 on the Story Beats table, adding your _Standing Score_ to the result. At the referee's discretion, certain game events can also affect your standing.
+The Church is a powerful sprawling institution with rigid canon laws. Depending on how orthodox the sacraments you choose are, your standing within the institution will rise or fall. Each time you take a level in this class, roll a D6 on the _Story Beats_ table, adding your _Standing Score_ to the result. At the referee's discretion, certain game events can also affect your standing.
 
 **Story Beats**<br>
 <details markdown="1">

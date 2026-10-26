@@ -24,7 +24,7 @@ The *Holy Book*, and one of the following additional {% include tooltip.html ter
 
 ## Class Progression
 
-<img align="right" width=250px  style="border:3px solid black" src="/images/Class_Widow_B_SaltyGoo.png">
+<img align="right" width=250px  style="border:3px solid black" src="/images/Class_Priest_SaltyGoo.png">
 
 **A:** The Church, Prayer, +1 Sacrament<br>
 **B:** +1 Sacrament, +1 Story Beat<br>

@@ -99,15 +99,9 @@ The scheming priests have decided to elect you in its stead, wether you want it 
 ## Prayer
 On your turn, you can evoke the name of a saint to bless one specific beneficiary until your next turn. When you do, roll a D6:
 
-1. **Do not evoke the saint in vain!** You are Frightened by the divine, and cannot pray again until you rest;
-1. **Unworthy cause!** You are Frightened by your beneficiary;
-1. The saint stays silent;
-1. **A blessed word.** You can roll a D6 whenever your beneficiary rolls a D20 and add or subtract the result;
-1. **Beatitude.** Your beneficiary cannot attack or be attacked;
-1. **Ecstasy.** Your beneficiary can immediately take a bonus turn OR it is Frightened by you;
-1. **Smite.** Your beneficiary is teleported to a safe location of your choice OR takes 4D6 points of damage.
-1. **Stigmata.** Your beneficiary cannot die OR is temporary reduced to 1 HP and is Frightened by you;
-1. **Miracle.** Your beneficiary can immediately take two bonus turns OR is teleported far away;
-1. **Ascension.** Your beneficiary is resurrected, purified OR turned to dust. This character retires and becomes a saint.
+<details markdown="1">
+<summary>1. <ins>Do not evoke the saint in vain!</ins></summary>
+You are Frightened by the divine, and cannot pray again until you rest
+</details>
 
 If you have a Discipline Whip, you may whip yourself to reroll a result.

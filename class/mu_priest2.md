@@ -45,7 +45,7 @@ The Archbishop has sent the inquisition after you. The referee will add a rival 
 </details>
 
 <details markdown="1">
-<summary>-1. <ins>Banished!</ins></summary>
+<summary>-1. <ins>Shunned!</ins></summary>
 Fearing retribution from the Church, the populace has banished you from town!
 </details>
 

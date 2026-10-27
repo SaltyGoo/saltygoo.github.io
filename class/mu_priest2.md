@@ -62,16 +62,35 @@ One of the town's citizens has become smitten by your words, you gain a new _[Fo
 </details>
 
 <details markdown="1">
-<summary>2. <ins>A small gift for your mission.</ins></summary>
+<summary>2. <ins>Supernatural threats have been reported!</ins></summary>
 The Church is providing you with 4 vials of Holy Water, use them well.
 </details>
 
 <details markdown="1">
-<summary>3. <ins>An inspired artist.</ins></summary>
-A local artist has painted a Saint’s Icon for you to carry. Roll on the [Failed Medieval Career](https://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) table. You can add 1D6 to your rolls related to this career, and +1 to your prayers targeting people of this craft.
+<summary>3. <ins>Saint day festival.</ins></summary>
+You officiate at a local festival honoring one of the thousand saints of the Orthodoxy and are provided a painted icon to carry in its honor. Roll on the [Failed Medieval Career](https://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html) table. This particular saint protects these people. As long as you display the icon, you can add 1D6 to your rolls related to this career, and +1 to your prayers targeting people of this craft.
 </details>
 
 <details markdown="1">
-<summary>4. <ins>A recommended letter.</ins></summary>
+<summary>4. <ins>The Archbishop notices you.</ins></summary>
 The Archbishop has sent you an official letter of recommendation. It can be traded anywhere in the Empire for a favour, at the referee's discretion.
 </details>
+
+<details markdown="1">
+<summary>5. <ins>You exalted deeds are rewarded.</ins></summary>
+Choose two of the above.
+</details>
+
+<details markdown="1">
+<summary>6. <ins>Growing responsibilities.</ins></summary>
+You have been granted a church in town, and a vote at the city council. It's 100 square feet and you decide the layout.
+</details>
+
+<details markdown="1">
+<summary>7. <ins>A most auspicious discovery!</ins></summary>
+Members of your flock have discovered the preserved body part of a saint! As long as you carry this holy relic, your _Prayer_ can have two extra targets.
+</details>
+
+<details markdown="1">
+<summary>8. <ins>The Bishop is dead!</ins></summary>
+The scheming priests have decided to elect you in its stead, weather you want it or not. Your Followers. can roll on this table whenever they take a level in any class. You may retire this character and give a level to all your Followers.</details>

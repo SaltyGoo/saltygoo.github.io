@@ -20,6 +20,8 @@ A *Holy Book* (use as mace), *Monk Habits* (required to use your abilities), as 
 <ins>Starting Skills</ins><br>
 The *Holy Book*, and one of the following additional {% include tooltip.html term="tip_skill" %}\: *Court Intrigue*, *Dead Languages*, *Inquisition*, *Luxury*, or *Preaching*.
 
+<br>
+
 ---
 
 ## Class Progression
@@ -146,3 +148,9 @@ Your beneficiary can immediately take two bonus turns OR is teleported far away.
 <summary>10. <ins>Ascension!</ins></summary>
 You are granted a wish! This character is retired and becomes a saint.
 </details>
+
+## Sacraments
+When you choose a Sacrament, you become imparted by the divine grace of the divine. Each sacrament is different and represents one facet of your faith.
+
+### Orthodox Sacraments (+1 Standing)
+

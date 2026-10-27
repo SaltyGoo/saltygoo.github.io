@@ -1,28 +1,24 @@
 
-tip_carousing:
-  title: "Carousing"
-  text: "When you are in a town and spend loot between adventures. See Base Rules."
+// Jargon
 
 tip_diesize:
   title: "Die Size"
   text: "D4 > D6 > D8 > D10 > D12 > D20"
 
-tip_status_exhausted:
-  title: "Exhausted"
-  text: "You can act OR move on your turn."
+// Base Rules
 
-tip_status_intoxicated:
-  title: "Intoxicated"
-  text: "You have disadvantage on all your actions. Specific poisons have unique effects."
+tip_carousing:
+  title: "Carousing"
+  text: "When you are in a town and spend loot between adventures. See Base Rules."
+
+tip_follower:
+  title: "Follower"
+  text: "A side character you control with 1D6 in each stat. Each take a Psyche Slot. See Base Rules."
 
 tip_resting:
   title: "Rest"
   text: "Resting takes 6 hours and requires shelter, heat and 1 ration for the team."
 
-tip_silverweapon:
-  title: "Silvered"
-  text: "Silvered weapons ignore the resistances of undead creatures and of creatures that are not in their true form."
- 
 tip_skill:
   title: "Skills"
   text: "A skill is an experience stored in your Psyche. All rolls that can be related to a skill you have become easier."
@@ -30,3 +26,25 @@ tip_skill:
 tip_watches:
   title: "Watch"
   text: "A day is divided in 4 six-hours watches: Morning, Day, Evening, and Night."
+
+// Statuses
+
+tip_status_exhausted:
+  title: "Exhausted"
+  text: "You can act OR move on your turn."
+
+tip_status_frightened:
+  title: "Frigthened"
+  text: "You cannot interact with the source of your fear until you have spent a full turn without seeing it. Roll a D6: 1) drop what you're holding; 2) scream; 3) fall; 4) grapple the closest thing; 5) skip your turn; 6) run away."
+  
+tip_status_intoxicated:
+  title: "Intoxicated"
+  text: "You have disadvantage on all your actions. Specific poisons have unique effects."
+
+// Other
+
+tip_silverweapon:
+  title: "Silvered"
+  text: "Silvered weapons ignore the resistances of undead creatures and of creatures that are not in their true form."
+ 
+

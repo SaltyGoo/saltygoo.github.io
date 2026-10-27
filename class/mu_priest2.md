@@ -95,7 +95,7 @@ The scheming priests have decided to elect you in its stead, whether you want it
 </details>
 
 ## Prayer
-On your turn, you can evoke the name of a saint to bless one specific beneficiary until your next turn. When you do, roll a D6. If you have a Discipline Whip, you may whip yourself once per turn to reroll the result.
+On your turn, you can evoke the name of a saint to bless one specific beneficiary until your next turn. When you do, roll a D6. If you have a _Discipline Whip_, you may whip yourself once per turn to reroll the result.
 
 <details markdown="1">
 <summary>1. <ins>Do not evoke the saint in vain!</ins></summary>

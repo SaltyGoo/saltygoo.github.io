@@ -32,9 +32,8 @@ The *Holy Book*, and one of the following additional {% include tooltip.html ter
 ## The Church
 The Church is a powerful sprawling institution with rigid canon laws, and your reputation within it is represented by a _Standing Score_. Depending on how orthodox your _Sacraments_ are, your standing within the institution will rise or fall. Each time you take a level in this class, roll a D4 on the **Story Beats** table, adding your score to the result. At the referee's discretion, certain game events can also affect your standing.
 
-<img align="right" width=250px  style="border:3px solid black" src="/images/Class_Priest_SaltyGoo.png">
-
 **Story Beats**<br>
+<img align="right" width=250px  style="border:3px solid black" src="/images/Class_Priest_SaltyGoo.png">
 <details markdown="1">
 <summary>-3. <ins>A split diocese!</ins></summary>
 Your unorthodox ideas have disciples in the parish. The town is now split in two religious factions: Your followers, and the orthodoxy. Roll when you encounter a NPC to know which side they stand with.
@@ -57,7 +56,7 @@ The Archbishop is testing your loyalty by demanding you deal with local heretics
 
 <details markdown="1">
 <summary>1. <ins>A touched soul.</ins></summary>
-One of the town's citizens has become smitten by your words, you gain a new {% include tooltip.html term="tip_follower" %}.
+One of the town's citizens has become smitten by your words, [roll](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html) for a new {% include tooltip.html term="tip_follower" %}.
 </details>
 
 <details markdown="1">

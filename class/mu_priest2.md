@@ -148,7 +148,7 @@ You are granted a wish! This character is retired and becomes a saint.
 </details>
 
 ## Sacraments
-When you choose a Sacrament, you become imparted by the divine grace of the divine. Each sacrament is different and represents one facet of your faith.
+When you choose a Sacrament, you become imparted by divine grace. Each sacrament is different and represents one facet of your faith.
 
 ### Orthodox Sacraments (+1 Standing)
 

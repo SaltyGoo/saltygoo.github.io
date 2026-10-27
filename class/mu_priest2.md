@@ -33,7 +33,7 @@ The *Holy Book*, and one of the following additional {% include tooltip.html ter
 
 
 ## The Church
-The Church is a powerful sprawling institution with rigid canon laws. Depending on how orthodox the sacraments you choose are, your standing within the institution will rise or fall. Each time you take a level in this class, roll a D4 on the **Story Beats** table, adding your _Standing Score_ to the result. At the referee's discretion, certain game events can also affect your standing.
+The Church is a powerful sprawling institution with rigid canon laws, and your reputation within it is represented by a _Standing Score_. Depending on how orthodox your _Sacraments_ are, your standing within the institution will rise or fall. Each time you take a level in this class, roll a D4 on the **Story Beats** table, adding your score to the result. At the referee's discretion, certain game events can also affect your standing.
 
 **Story Beats**<br>
 <details markdown="1">
@@ -62,7 +62,7 @@ One of the town's citizens has become smitten by your words, you gain a new _[Fo
 </details>
 
 <details markdown="1">
-<summary>2. <ins>Supernatural threats have been reported!</ins></summary>
+<summary>2. <ins>Reports of unholy creatures.</ins></summary>
 The Church is providing you with 4 vials of Holy Water, use them well.
 </details>
 
@@ -77,7 +77,7 @@ The Archbishop has sent you an official letter of recommendation. It can be trad
 </details>
 
 <details markdown="1">
-<summary>5. <ins>You exalted deeds are rewarded.</ins></summary>
+<summary>5. <ins>Your exalted deeds are rewarded.</ins></summary>
 Choose two of the above.
 </details>
 

@@ -61,7 +61,7 @@ One of the town's citizens has become smitten by your words, [roll](https://coin
 
 <details markdown="1">
 <summary>2. <ins>Reports of unholy creatures.</ins></summary>
-The Church is providing you with 4 vials of Holy Water, use them well.
+The Church is providing you with 4 vials of [Holy Water](https://saltygoo.github.io/2024/01/01/holy-water/), use them well.
 </details>
 
 <details markdown="1">

@@ -99,7 +99,52 @@ On your turn, you can evoke the name of a saint to bless one specific beneficiar
 
 <details markdown="1">
 <summary>1. <ins>Do not evoke the saint in vain!</ins></summary>
-You are {% include tooltip.html term="tip_frightened" %} by the divine, and cannot pray again until you rest
+You are {% include tooltip.html term="tip_frightened" %} by the divine, and cannot pray again until you rest.
+</details>
+
+<details markdown="1">
+<summary>2. <ins>Unworthy cause!</ins></summary>
+You are {% include tooltip.html term="tip_frightened" %} by your beneficiary.
+</details>
+
+<details markdown="1">
+<summary>3. <ins>The saint stays silent</ins></summary>
+...
+</details>
+
+<details markdown="1">
+<summary>4. <ins>A blessed word</ins></summary>
+You can roll a D6 whenever your beneficiary rolls a D20 and add or subtract the result.
+</details>
+
+<details markdown="1">
+<summary>5. <ins>Beatitude</ins></summary>
+Your beneficiary cannot attack or be attacked.
+</details>
+
+<details markdown="1">
+<summary>6. <ins>Beatitude</ins></summary>
+Your beneficiary can immediately take a bonus turn OR it is {% include tooltip.html term="tip_frightened" %} by you.
+</details>
+
+<details markdown="1">
+<summary>7. <ins>Smite</ins></summary>
+Your beneficiary is teleported to a safe location of your choice OR takes 4D6 points of damage.
+</details>
+
+<details markdown="1">
+<summary>8. <ins>Stigmata</ins></summary>
+Your beneficiary cannot die OR is temporary reduced to 1 HP and is {% include tooltip.html term="tip_frightened" %} by you.
+</details>
+
+<details markdown="1">
+<summary>9. <ins>Miracle</ins></summary>
+Your beneficiary can immediately take two bonus turns OR is teleported far away.
+</details>
+
+<details markdown="1">
+<summary>10. <ins>Ascension</ins></summary>
+Your beneficiary is resurrected, purified of all trauma an scars OR turned to dust. This character retires and becomes a saint.
 </details>
 
 If you have a Discipline Whip, you may whip yourself to reroll a result.

@@ -1,11 +1,10 @@
-
-// Jargon
+# Jargon
 
 tip_diesize:
   title: "Die Size"
   text: "D4 > D6 > D8 > D10 > D12 > D20"
 
-// Base Rules
+# Base Rules
 
 tip_carousing:
   title: "Carousing"
@@ -27,7 +26,7 @@ tip_watches:
   title: "Watch"
   text: "A day is divided in 4 six-hours watches: Morning, Day, Evening, and Night."
 
-// Statuses
+# Statuses
 
 tip_status_exhausted:
   title: "Exhausted"
@@ -41,7 +40,7 @@ tip_status_intoxicated:
   title: "Intoxicated"
   text: "You have disadvantage on all your actions. Specific poisons have unique effects."
 
-// Other
+# Other
 
 tip_silverweapon:
   title: "Silvered"

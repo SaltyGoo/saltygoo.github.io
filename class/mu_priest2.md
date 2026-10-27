@@ -91,7 +91,7 @@ Members of your flock have discovered the preserved body part of a saint! As lon
 
 <details markdown="1">
 <summary>8. <ins>The Bishop is dead!</ins></summary>
-The scheming priests have decided to elect you in its stead, wether you want it or not. Your Followers. can roll on this table whenever they take a level in any class. You may retire this character and give a level to all your Followers.
+The scheming priests have decided to elect you in its stead, whether you want it or not. Your Followers. can roll on this table whenever they take a level in any class. You may retire this character and give a level to all your Followers.
 </details>
 
 ## Prayer
@@ -99,7 +99,7 @@ On your turn, you can evoke the name of a saint to bless one specific beneficiar
 
 <details markdown="1">
 <summary>1. <ins>Do not evoke the saint in vain!</ins></summary>
-You are Frightened by the divine, and cannot pray again until you rest
+You are {% include tooltip.html term="tip_frightened" %} by the divine, and cannot pray again until you rest
 </details>
 
 If you have a Discipline Whip, you may whip yourself to reroll a result.

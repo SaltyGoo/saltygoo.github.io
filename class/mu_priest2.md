@@ -91,7 +91,7 @@ Members of your flock have discovered the preserved body part of a saint! As lon
 
 <details markdown="1">
 <summary>8. <ins>The Bishop is dead!</ins></summary>
-The scheming priests have decided to elect you in its stead, whether you want it or not. Your Followers. can roll on this table whenever they take a level in any class. You may retire this character and give a level to all your Followers.
+The scheming priests have decided to elect you in its stead, whether you want it or not. Your Followers. can roll on this table whenever they take a level in any class. You may retire this character and give a level to all your followers.
 </details>
 
 ## Prayer

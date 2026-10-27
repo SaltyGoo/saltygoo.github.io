@@ -6,7 +6,7 @@ permalink: /classes/
 
 <details markdown="1">
 <summary>Design Notes</summary>
-*I really agree with Dungeon Antology's [vision of class design](https://dungeonantology.com/2020/08/09/glog-class-design/). I aim to have few yet impactful abilities for them, and for the classes to fulfil at least one of the 3 classic roles of DnD. — SaltyGoo*
+*I really agree with Dungeon Antology's [vision of class design](https://dungeonantology.com/2020/08/09/glog-class-design/). I aim to have few yet impactful abilities for them, and for the classes to fulfill at least one of the 3 classic roles of DnD. — SaltyGoo*
 </details>
 
 The [Fighter](/class/fighter)
@@ -26,6 +26,7 @@ The [Wizard](/class/wizard)
 <details markdown="1">
   <summary>More spellcasting classes</summary>
   - The [Priest](/class/priest)
+  - The [Priest of the Orthodoxy](/class/magic-user/priest)
   - The [Animorph](/class/magic-user/animorph)
   - The [Diabolist](/class/magic-user/diabolist)
   - The [Elf](/class/magic-user/elf)

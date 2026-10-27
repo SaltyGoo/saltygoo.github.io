@@ -6,7 +6,7 @@ permalink: /class/magic-user/priest
 
 _You have been ordained a priest of the Church. The Church is universal across the Empire, united in its worship of the Authority. While bishops and cardinals bicker over political and theological issues, local parishes celebrate thousands of different saints, martyrs and traditions._
 
-##### Last updated October 2026.
+##### Last updated October 2026. Art by me.
 
 <ins>Starting Equipment</ins><br>
 A *Holy Book* (use as mace), *Monk Habits* (required to use your abilities), as well as your choice of two of the following:
@@ -24,16 +24,15 @@ The *Holy Book*, and one of the following additional {% include tooltip.html ter
 
 ## Class Progression
 
-<img align="right" width=250px  style="border:3px solid black" src="/images/Class_Priest_SaltyGoo.png">
-
 **A:** The Church, Prayer, +1 Sacrament<br>
 **B:** +1 Sacrament, +1 Story Beat<br>
 **C:** +1 Sacrament, +1 Story Beat<br>
 **D:** +1 Sacrament, +1 Story Beat<br>
 
-
 ## The Church
 The Church is a powerful sprawling institution with rigid canon laws, and your reputation within it is represented by a _Standing Score_. Depending on how orthodox your _Sacraments_ are, your standing within the institution will rise or fall. Each time you take a level in this class, roll a D4 on the **Story Beats** table, adding your score to the result. At the referee's discretion, certain game events can also affect your standing.
+
+<img align="right" width=250px  style="border:3px solid black" src="/images/Class_Priest_SaltyGoo.png">
 
 **Story Beats**<br>
 <details markdown="1">
@@ -58,7 +57,7 @@ The Archbishop is testing your loyalty by demanding you deal with local heretics
 
 <details markdown="1">
 <summary>1. <ins>A touched soul.</ins></summary>
-One of the town's citizens has become smitten by your words, you gain a new _[Follower](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html)_.
+One of the town's citizens has become smitten by your words, you gain a new {% include tooltip.html term="tip_follower" %}.
 </details>
 
 <details markdown="1">

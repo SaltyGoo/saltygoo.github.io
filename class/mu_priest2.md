@@ -53,7 +53,7 @@ Fearing retribution from the Church, the populace has banished you from town!
 
 <details markdown="1">
 <summary>0. <ins>A test of loyalty.</ins></summary>
-The Archbishop is testing your loyalty by demanding you deal with local heretics. The referee will give you a target in your next adventure. Increase or decrease your _Status_ depending on how you deal with it.
+The Archbishop is testing your loyalty by demanding you deal with local heretics. The referee will give you a target in your next adventure. Increase or decrease your _Standing_ depending on how you deal with it.
 </details>
 
 <details markdown="1">

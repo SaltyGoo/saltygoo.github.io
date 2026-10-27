@@ -99,12 +99,12 @@ On your turn, you can evoke the name of a saint to bless one specific beneficiar
 
 <details markdown="1">
 <summary>1. <ins>Do not evoke the saint in vain!</ins></summary>
-You are {% include tooltip.html term="tip_frightened" %} by the divine, and cannot pray again until you rest.
+You are {% include tooltip.html term="tip_status_frightened" %} by the divine, and cannot pray again until you rest.
 </details>
 
 <details markdown="1">
 <summary>2. <ins>Unworthy cause!</ins></summary>
-You are {% include tooltip.html term="tip_frightened" %} by your beneficiary.
+You are {% include tooltip.html term="tip_status_frightened" %} by your beneficiary.
 </details>
 
 <details markdown="1">
@@ -124,7 +124,7 @@ Your beneficiary cannot attack or be attacked.
 
 <details markdown="1">
 <summary>6. <ins>Beatitude</ins></summary>
-Your beneficiary can immediately take a bonus turn OR it is {% include tooltip.html term="tip_frightened" %} by you.
+Your beneficiary can immediately take a bonus turn OR it is {% include tooltip.html term="tip_status_frightened" %} by you.
 </details>
 
 <details markdown="1">
@@ -134,7 +134,7 @@ Your beneficiary is teleported to a safe location of your choice OR takes 4D6 po
 
 <details markdown="1">
 <summary>8. <ins>Stigmata</ins></summary>
-Your beneficiary cannot die OR is temporary reduced to 1 HP and is {% include tooltip.html term="tip_frightened" %} by you.
+Your beneficiary cannot die OR is temporary reduced to 1 HP and is {% include tooltip.html term="tip_status_frightened" %} by you.
 </details>
 
 <details markdown="1">
@@ -143,7 +143,7 @@ Your beneficiary can immediately take two bonus turns OR is teleported far away.
 </details>
 
 <details markdown="1">
-<summary>10. <ins>Ascension</ins></summary>
+<summary>10. <ins>Ascension!</ins></summary>
 Your beneficiary is resurrected, purified of all trauma an scars OR turned to dust. This character retires and becomes a saint.
 </details>
 

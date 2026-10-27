@@ -144,5 +144,5 @@ Your beneficiary can immediately take two bonus turns OR is teleported far away.
 
 <details markdown="1">
 <summary>10. <ins>Ascension!</ins></summary>
-Your beneficiary is resurrected, and purified of all scars OR Your beneficiary is turned to dust. This character retires and becomes a saint.
+You are granted a wish! This character is retired and becomes a saint.
 </details>

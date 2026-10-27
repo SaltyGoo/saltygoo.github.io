@@ -123,7 +123,7 @@ Your beneficiary cannot attack or be attacked.
 </details>
 
 <details markdown="1">
-<summary>6. <ins>Beatitude</ins></summary>
+<summary>6. <ins>Ecstasy</ins></summary>
 Your beneficiary can immediately take a bonus turn OR it is {% include tooltip.html term="tip_status_frightened" %} by you.
 </details>
 

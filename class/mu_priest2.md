@@ -14,7 +14,7 @@ A *Holy Book* (use as mace), *Monk Habits* (required to use your abilities), as 
 - _Bestiary_ on evil spirits and how to banish them
 - _Crossbow_ and six {% include tooltip.html term="tip_silverweapon" %} _Bolts_ (refilled when Carousing)
 - *[Discipline Whip](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance))* (1D4 nonlethal damage)
-- _[Random](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html)_ {% include tooltip.html term="tip_follower" %}
+- _[Random](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html)_ {% include tooltip.html term="tip_follower" %};
 - _[Thurible](https://en.wikipedia.org/wiki/Thurible)_ (burn to {% include tooltip.html term="tip_resting" %} undisturbed, refilled when Carousing)
 
 <ins>Starting Skills</ins><br>

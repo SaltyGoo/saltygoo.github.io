@@ -12,7 +12,7 @@ tip_carousing:
 
 tip_follower:
   title: "Follower"
-  text: "A side character you control with 1D6 in each stat. Each take a Psyche Slot. See Base Rules."
+  text: "A side character. 1D6 in each stat. Takes a Psyche Slot to bring with you. See Base Rules."
 
 tip_psyche:
   title: "Psyche"

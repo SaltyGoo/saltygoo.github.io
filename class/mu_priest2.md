@@ -14,7 +14,7 @@ A *Holy Book* (use as mace), *Monk Habits* (required to use your abilities), as 
 - _Bestiary_ on evil spirits and how to banish them
 - _Crossbow_ and six {% include tooltip.html term="tip_silverweapon" %} _Bolts_ (refilled when Carousing)
 - *[Discipline Whip](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance))* (1D4 nonlethal damage)
-- _[Random](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html) {% include tooltip.html term="tip_follower" %}_
+- _[Random](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html)_ {% include tooltip.html term="tip_follower" %}
 - _[Thurible](https://en.wikipedia.org/wiki/Thurible)_ (burn to {% include tooltip.html term="tip_resting" %} undisturbed, refilled when Carousing)
 
 <ins>Starting Skills</ins><br>
@@ -152,3 +152,12 @@ When you choose a Sacrament, you become imparted by divine grace. Each sacrament
 
 ### Orthodox Sacraments (+1 Standing)
 
+<details markdown="1">
+<summary><b>Penance Through Confession</b></summary>
+
+##### A sinner who wants to avoid being shunned better atone before others take the matter in their hands. That is why confession is one of the core sacraments of the Orthodoxy.
+
+- You always know if someone tells you a lie.
+- When you pray for a person whose secret shame you know, you have +1 on your roll. Each time you Carouse, you learn a shameful secret about a person of your choice in town. 
+- During a rest, you can transfer one of your allies’ Traumas to your Psyche.
+</details>

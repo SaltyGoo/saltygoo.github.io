@@ -155,9 +155,9 @@ When you choose a Sacrament, you become imparted by divine grace. Each sacrament
 <details markdown="1">
 <summary><b>Penance Through Confession</b></summary>
 
-##### A sinner who wants to avoid being shunned better atone before others take the matter in their hands. That is why confession is one of the core sacraments of the Orthodoxy.
+_A sinner who wants to avoid being shunned better atone before others take the matter in their hands. That is why confession is one of the core sacraments of the Orthodoxy._
 
 - You always know if someone tells you a lie.
-- When you pray for a person whose secret shame you know, you have +1 on your roll. Each time you Carouse, you learn a shameful secret about a person of your choice in town. 
-- During a rest, you can transfer one of your allies’ Traumas to your Psyche.
+- When you pray for a person whose secret shame you know, you have +1 on your roll. Each time you {% include tooltip.html term="tip_carousing" %}, you learn a shameful secret about a person of your choice in town. 
+- During a rest, you can transfer one of your allies’ {% include tooltip.html term="tip_trauma" %} to your {% include tooltip.html term="tip_psyche" %}.
 </details>

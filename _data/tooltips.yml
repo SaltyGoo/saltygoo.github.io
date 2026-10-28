@@ -42,7 +42,7 @@ tip_status_exhausted:
 
 tip_status_frightened:
   title: "Frigthened"
-  text: "You cannot interact with the source of your fear until you have spent a full turn without seeing it. Roll a D6: 1) drop what you're holding; 2) scream; 3) fall; 4) grapple the closest thing; 5) skip your turn; 6) run away."
+  text: "You cannot interact with what frigthened you until you have spent a full turn without seeing it. Roll a D6: 1) drop what you're holding; 2) scream; 3) fall; 4) grapple the closest thing; 5) skip your turn; 6) run away."
   
 tip_status_intoxicated:
   title: "Intoxicated"
@@ -52,6 +52,6 @@ tip_status_intoxicated:
 
 tip_silverweapon:
   title: "Silvered"
-  text: "Silvered weapons ignore the resistances of undead creatures and of creatures that are not in their true form."
+  text: "Ignore the resistances of undead creatures and shapeshifters."
  
 

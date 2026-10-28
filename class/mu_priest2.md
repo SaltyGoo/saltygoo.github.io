@@ -10,12 +10,12 @@ _You have been ordained a priest of the Church. The Church is universal across t
 
 <ins>Starting Equipment</ins><br>
 A *Holy Book* (use as mace), *Monk Habits* (required to use your abilities), as well as your choice of two of the following:
-- _Barrel of Wine_ that you can strangely carry (cumbersome, refilled when {% include tooltip.html term="tip_carousing" %});
-- _Bestiary_ on evil spirits and how to banish them;
-- _Crossbow_ and six {% include tooltip.html term="tip_silverweapon" %} _Bolts_ (refilled when Carousing);
-- *[Discipline Whip](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance))* (1D4 nonlethal damage);
-- _[Random](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html)_ {% include tooltip.html term="tip_follower" %};
-- _[Thurible](https://en.wikipedia.org/wiki/Thurible)_ (burn to {% include tooltip.html term="tip_resting" %} undisturbed, refilled when Carousing).
+- _Barrel of Wine_ that you can strangely carry (cumbersome, refilled when {% include tooltip.html term="tip_carousing" %})
+- _Bestiary_ on evil spirits and how to banish them
+- _Crossbow_ and six {% include tooltip.html term="tip_silverweapon" %} _Bolts_ (refilled when Carousing)
+- *[Discipline Whip](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance))* (1D4 nonlethal damage)
+- _[Random](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html)_ {% include tooltip.html term="tip_follower" %}, devout
+- _[Thurible](https://en.wikipedia.org/wiki/Thurible)_ (burn to {% include tooltip.html term="tip_resting" %} undisturbed, refilled when Carousing)
 
 <ins>Starting Skills</ins><br>
 The *Holy Book*, and one of the following additional {% include tooltip.html term="tip_skill" %}\: *Court Intrigue*, *Dead Languages*, *Inquisition*, *Luxury*, or *Preaching*.<br>
@@ -158,6 +158,6 @@ When you choose a Sacrament, you become imparted by divine grace. Each sacrament
 _A sinner who wants to avoid being shunned better atone before others take the matter in their hands. That is why confession is one of the core sacraments of the Orthodoxy._
 
 - You always know if someone tells you a lie.
-- When you pray for a person whose secret shame you know, you have +1 on your roll. When {% include tooltip.html term="tip_carousing" %}, you learn a shameful secret about a person of your choice in town. 
+- When you pray for a person whose secret shame you know, you have +1 on your roll. When {% include tooltip.html term="tip_carousing" %}, you learn a shameful secret about a local person of your choice. 
 - During a rest, you can transfer one of your allies’ {% include tooltip.html term="tip_trauma" %} to your {% include tooltip.html term="tip_psyche" %}.
 </details>

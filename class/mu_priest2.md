@@ -14,7 +14,7 @@ A *Holy Book* (use as mace), *Monk Habits* (required to use your abilities), as 
 - _Bestiary_ on evil spirits and how to banish them
 - _Crossbow_ and six {% include tooltip.html term="tip_silverweapon" %} _Bolts_ (refilled when Carousing)
 - *[Discipline Whip](https://en.wikipedia.org/wiki/Discipline_(instrument_of_penance))* (1D4 nonlethal damage)
-- [Random](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html) _{% include tooltip.html term="tip_follower" %}_
+- [Random](https://coinsandscrolls.blogspot.com/2017/06/osr-table-of-camp-followers.html) *{% include tooltip.html term="tip_follower" %}*
 - _[Thurible](https://en.wikipedia.org/wiki/Thurible)_ (burn to {% include tooltip.html term="tip_resting" %} undisturbed, refilled when Carousing)
 
 <ins>Starting Skills</ins><br>
@@ -91,7 +91,7 @@ Members of your flock have discovered the preserved body part of a saint! As lon
 
 <details markdown="1">
 <summary>8. <ins>A cardinal is dead!</ins></summary>
-The scheming Archbishop have decided to nominate you in its stead, whether you want it or not. Your Followers. can roll on this table whenever they take a level in any class. You may retire this character and give a level to all your followers.
+The scheming Archbishop has decided to nominate you in its stead, whether you want it or not. Your Followers. can roll on this table whenever they take a level in any class. You may retire this character and give a level to all your followers.
 </details>
 
 ## Prayer

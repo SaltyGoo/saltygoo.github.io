@@ -16,7 +16,7 @@ tip_follower:
 
 tip_psyche:
   title: "Psyche"
-  text: "Like a mental inventory. You have as many slots as twice your Willpower and fill them with skills, class levels, spells, followers, and beliefs. If you reach capacity you are permanently dazed."
+  text: "A mental inventory with as many slots as twice your Willpower. If you reach capacity you are permanently dazed."
 
 tip_resting:
   title: "Rest"
@@ -28,7 +28,7 @@ tip_skill:
   
 tip_trauma:
   title: "Trauma"
-  text: "Traumas take psyche slots. Note what caused it. As long as your character has it, it has disadvantage against that thing."
+  text: "Traumas take psyche slots. You have disadvantage against what caused it."
   
 tip_watches:
   title: "Watch"
